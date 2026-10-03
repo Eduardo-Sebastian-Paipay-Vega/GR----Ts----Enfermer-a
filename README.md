@@ -96,6 +96,7 @@ graphify update .
 
 ## 📚 Enlaces Directos a los Documentos Clave
 * 📄 **Documento Maestro Completo (Markdown):** [`PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md`](file:///c:/GRESLY/DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md)
+* 🛠️ **Guía de Instalación y Ejecución:** [`GUIA_INSTALACION.md`](file:///c:/GRESLY/GUIA_INSTALACION.md)
 * 🏛️ **Reglamento del Workspace:** [`AGENTS.md`](file:///c:/GRESLY/AGENTS.md)
 * 🧠 **Protocolo Cognitivo de la IA:** [`RUTA_COGNITIVA_IA.md`](file:///c:/GRESLY/RUTA_COGNITIVA_IA.md)
 * 📖 **Canon del Dr. Manglio Aguirre:** [`02_CANON_APOYO_DOCENTE_DR_MANGLIO/`](file:///c:/GRESLY/DOCUMENTOS/MDs/02_CANON_APOYO_DOCENTE_DR_MANGLIO/README.md)
