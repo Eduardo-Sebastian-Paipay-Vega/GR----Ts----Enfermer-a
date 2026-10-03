@@ -2215,8 +2215,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\README.md": {
-    "mtime": 1791041194.7491212,
-    "ast_hash": "795fd69347ae25075f7db58325427dea",
+    "mtime": 1791041947.6022294,
+    "ast_hash": "d5f3aab1cecff5890235453383179b5f",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\RUTA_COGNITIVA_IA.md": {
@@ -2342,6 +2342,46 @@
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\04_GUIAS_Y_METRICAS\\README.md": {
     "mtime": 1791041087.303777,
     "ast_hash": "16f12ef6678f751e7d3e9d1e5a50d6ab",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\GUIA_INSTALACION.md": {
+    "mtime": 1791041923.053607,
+    "ast_hash": "12f0c9935f13ade446a5da8d136abeb9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\requirements.txt": {
+    "mtime": 1791041898.534141,
+    "ast_hash": "71fb39705499320dd954cfbd05b2a9e4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agent\\skills\\human-paraphraser\\SKILL.md": {
+    "mtime": 1791042272.936451,
+    "ast_hash": "516c6ad11d307fca257c4148334e122e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agent\\skills\\logical-extractor\\SKILL.md": {
+    "mtime": 1791042255.9337795,
+    "ast_hash": "d33fc5387868a13db6ed26810d665249",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agent\\workflows\\paraphrase.md": {
+    "mtime": 1791042322.7949855,
+    "ast_hash": "dddfcb7cf267b02696bb4c32a92c65b5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\human-paraphraser\\SKILL.md": {
+    "mtime": 1791042272.936451,
+    "ast_hash": "516c6ad11d307fca257c4148334e122e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\logical-extractor\\SKILL.md": {
+    "mtime": 1791042255.9337795,
+    "ast_hash": "d33fc5387868a13db6ed26810d665249",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\workflows\\paraphrase.md": {
+    "mtime": 1791042322.7949855,
+    "ast_hash": "dddfcb7cf267b02696bb4c32a92c65b5",
     "semantic_hash": ""
   }
 }
