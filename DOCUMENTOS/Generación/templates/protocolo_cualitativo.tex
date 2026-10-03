@@ -50,11 +50,19 @@
 \pagenumbering{roman}
 \setcounter{page}{2}
 
+% Índice General (Hasta Capítulo II)
 \tableofcontents
+\newpage
+
+% Índice de Tablas (Tablas de Capítulo II)
+\renewcommand{\listtablename}{ÍNDICE DE TABLAS}
+\addcontentsline{toc}{section}{ÍNDICE DE TABLAS}
+\listoftables
 \newpage
 
 % ==============================================================================
 % CUERPO DEL PROYECTO (Numeración Arábiga - Estructura Modular)
+% Restringido por requerimiento del usuario estrictamente hasta el Capítulo II
 % ==============================================================================
 \pagenumbering{arabic}
 \setcounter{page}{1}
@@ -68,19 +76,26 @@
 % Capítulo II: Marco Contextual
 \input{subcapitulos/sec_02_marco_contextual.tex}
 
-% Capítulo III: Abordaje Teórico
-\input{subcapitulos/sec_03_abordaje_teorico.tex}
+% ==============================================================================
+% RESOLUCIÓN DE CITAS EN SEGUNDO PLANO (Cero Citas Fantasma / Cero Páginas Extra)
+% Carga las referencias para resolver \cite{} numéricamente sin imprimirlas visualmente
+% ==============================================================================
+\begingroup
+\let\oldaddcontentsline\addcontentsline
+\renewcommand{\addcontentsline}[3]{}
+\setbox0=\vbox{
+  \input{subcapitulos/sec_06_referencias.tex}
+}
+\endgroup
 
-% Capítulo IV: Metodología Cualitativa
-\input{subcapitulos/sec_04_metodologia.tex}
-
-% Capítulo V: Aspectos Administrativos
-\input{subcapitulos/sec_05_aspectos_administrativos.tex}
-
-% Referencias Bibliográficas
-\input{subcapitulos/sec_06_referencias.tex}
-
-% Anexos Oficiales
-\input{subcapitulos/sec_07_anexos.tex}
+% ==============================================================================
+% MÓDULOS EN ESPERA: Se activarán cuando el usuario indique:
+% "DEJA QUE LOS DEMÁS DESPUES DEL CAP 2 SEAN VISIBLES"
+% ==============================================================================
+% \input{subcapitulos/sec_03_abordaje_teorico.tex}
+% \input{subcapitulos/sec_04_metodologia.tex}
+% \input{subcapitulos/sec_05_aspectos_administrativos.tex}
+% \input{subcapitulos/sec_06_referencias.tex}
+% \input{subcapitulos/sec_07_anexos.tex}
 
 \end{document}
