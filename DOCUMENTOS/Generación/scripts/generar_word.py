@@ -414,30 +414,13 @@ def build_protocolo_word(output_path):
         ("2.4. Dinámica socioeconómica, vulnerabilidad y nivel de aseguramiento público", "10", False, 1, 3),
         ("2.5. Características sanitarias, cartera de servicios y capacidad resolutiva institucional", "11", False, 1, 3),
         ("2.6. Articulación dialéctica del escenario físico-social con las dimensiones existenciales del usuario (Lebenswelt)", "12", False, 1, 4),
-        ("CAPÍTULO III: ABORDAJE TEÓRICO", "14", True, 0, 4),
-        ("3.1. Antecedentes de estudio", "14", False, 1, 3),
-        ("3.2. Base teórica", "15", False, 1, 3),
-        ("3.3. Categorías de estudio (Matriz cualitativa y fenomenológica)", "16", False, 1, 4),
-        ("CAPÍTULO IV: METODOLOGÍA: DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN", "18", True, 0, 4),
-        ("4.1. Fundamentación filosófica y epistemológica del diseño fenomenológico", "18", False, 1, 3),
-        ("4.2. Los cuatro existenciales de la experiencia humana vivida (van Manen y Sampieri)", "19", False, 1, 3),
-        ("4.3. Postura epistemológica, reflexividad y reducción fenomenológica (Epojé)", "19", False, 1, 3),
-        ("4.4. Selección del contexto, participantes informantes y saturación teórica", "20", False, 1, 3),
-        ("4.5. Técnicas e instrumentos de recolección de vivencias", "20", False, 1, 3),
-        ("4.6. Criterios de rigor científico cualitativo (Hernández-Sampieri, Cap. 14)", "21", False, 1, 3),
-        ("4.7. Procedimiento sistemático de análisis fenomenológico de datos", "21", False, 1, 4),
-        ("CAPÍTULO V: ASPECTOS ADMINISTRATIVOS", "23", True, 0, 4),
-        ("5.1. Asignación de recursos humanos", "23", False, 1, 3),
-        ("5.2. Presupuesto", "23", False, 1, 3),
-        ("5.3. Financiamiento", "24", False, 1, 3),
-        ("5.4. Cronograma de actividades", "24", False, 1, 4),
-        ("REFERENCIAS BIBLIOGRÁFICAS", "26", True, 0, 4),
-        ("ANEXOS", "28", True, 0, 4),
-        ("Anexo 1: Guía de entrevista a profundidad fenomenológica", "28", False, 1, 3),
-        ("Anexo 2: Matriz de consistencia cualitativa fenomenológica", "29", False, 1, 3),
-        ("Anexo 3: Formato de juicio de expertos", "30", False, 1, 3),
-        ("Anexo 4: Consentimiento informado", "31", False, 1, 3),
-        ("Anexo 5: Carta de asesoría formal", "32", False, 1, 3),
+        ("REFERENCIAS BIBLIOGRÁFICAS", "14", True, 0, 4),
+        ("ANEXOS", "16", True, 0, 4),
+        ("Anexo 1: Guía de entrevista a profundidad fenomenológica", "16", False, 1, 3),
+        ("Anexo 2: Matriz de consistencia cualitativa fenomenológica", "17", False, 1, 3),
+        ("Anexo 3: Formato de juicio de expertos", "18", False, 1, 3),
+        ("Anexo 4: Consentimiento informado", "19", False, 1, 3),
+        ("Anexo 5: Carta de asesoría formal", "20", False, 1, 3),
     ]
     
     for text, page_num, is_bold, level, space_after in toc_items:
@@ -484,13 +467,13 @@ def build_protocolo_word(output_path):
     r = p_sec_intro.add_run("INTRODUCCIÓN")
     format_run(r, size_pt=14, bold=True)
     
-    add_body_p(doc, "La calidad asistencial en el primer nivel de atención representa el eje vertebrador de los sistemas de salud pública y la garantía esencial del derecho fundamental a la salud. En los centros de atención primaria, la percepción del usuario sobre los cuidados y tratos recibidos condiciona el uso oportuno de los servicios, la adherencia a las terapias preventivo-recuperativas y la confianza hacia las instituciones sanitarias. En concordancia con los lineamientos metodológicos de la cátedra de Proyecto de Investigación en Salud (EN 486) de la Escuela Profesional de Enfermería (UNSCH), en el enfoque cualitativo la fundamentación y justificación del estudio se integran orgánicamente dentro de la Introducción, desarrollando las siguientes dimensiones sustantivas:")
+    add_body_p(doc, "La calidad de atención y el acceso efectivo a los servicios de salud en el primer nivel constituyen pilares insoslayables para la consolidación de la cobertura sanitaria universal y la materialización del derecho humano a la salud. De acuerdo con las directrices conjuntas de la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [1], brindar servicios oportunos, seguros, continuos y centrados en la persona es un imperativo ético indispensable para mitigar las inequidades estructurales en salud. En el contexto de la atención primaria, la percepción del usuario sobre los cuidados y tratos recibidos condiciona el uso oportuno de los servicios, la adherencia a las terapias preventivo-recuperativas y la confianza hacia las instituciones sanitarias. En el Perú, la Política Nacional de Calidad en Salud del Ministerio de Salud (MINSA) [2] reconoce que la persistencia de barreras de acceso y despersonalización debilita la capacidad de respuesta asistencial. En concordancia con los lineamientos metodológicos de la cátedra de Proyecto de Investigación en Salud (EN 486) de la Escuela Profesional de Enfermería (UNSCH), a cargo del Dr. Manglio Aguirre Andrade, la fundamentación del estudio se articula mediante la técnica del embudo en tres niveles y las siguientes dimensiones sustantivas:")
     
-    add_body_p(doc, "El Centro de Salud Belén, ubicado en el distrito de Ayacucho, cumple un rol estratégico como establecimiento de categoría I-3 que brinda cobertura a más de 18,000 habitantes en condiciones de vulnerabilidad socioeconómica. No obstante, persisten brechas asistenciales vinculadas a demoras prolongadas para la obtención de cupos, barreras comunicativas y hacinamiento en salas de espera. Investigar la experiencia del usuario permite develar la dimensión oculta de la calidad asistencial desde la perspectiva de quienes reciben directamente el cuidado, proveyendo a los gestores sanitarios insumos reflexivos para humanizar la atención.", bold_prefix="Importancia del proyecto: ")
+    add_body_p(doc, "El Centro de Salud Belén, ubicado en el distrito de Ayacucho, cumple un rol estratégico como establecimiento cabecera de categoría I-3 que brinda cobertura a más de 18,450 habitantes en condiciones de notable vulnerabilidad socioeconómica. No obstante, persisten brechas asistenciales vinculadas a demoras prolongadas para la obtención de cupos, barreras comunicativas y hacinamiento en salas de espera. Investigar la experiencia vivida del usuario permite develar la dimensión oculta de la calidad asistencial desde la perspectiva de quienes reciben directamente el cuidado, proveyendo a los gestores sanitarios insumos reflexivos para humanizar la atención.", bold_prefix="Importancia del proyecto: ")
     add_body_p(doc, "El estudio tiene como finalidad práctica comprender en profundidad la vivencia subjetiva del usuario respecto al trato, tiempos de espera, información y privacidad. Sus hallazgos proporcionarán evidencia empírica directa para que el equipo directivo del Centro de Salud Belén, la Red de Salud Huamanga y el cuerpo de enfermería formulen estrategias interpersonales, planes de mejora continua y guías de trato humanizado con pertinencia cultural, orientadas a mitigar cuellos de botella en la atención primaria.", bold_prefix="Finalidad e impacto (valor práctico y social): ")
-    add_body_p(doc, "La presente investigación corresponde a una investigación básica (sustantiva) con nivel descriptivo-interpretativo y un riguroso diseño cualitativo fenomenológico (Hernández-Sampieri y Mendoza, 2018; Creswell, 2013). Su propósito central consiste en explorar, describir y comprender la esencia de las experiencias compartidas (vivencias) de los usuarios frente al fenómeno del acceso y la calidad asistencial en el Centro de Salud Belén, aprehendiendo sus cuatro dimensiones existenciales: temporalidad (tiempo vivido en madrugadas y esperas), espacialidad (espacio vivido en salas y consultorios), corporalidad (cuerpo doliente, fatiga y frío) y relacionalidad (encuentro interpersonal empático y diálogo en quechua chanka). Articula dialógicamente los modelos de Donabedian, Penchansky y Watson con la matriz cultural andina de Huamanga.", bold_prefix="Valor teórico y clasificación por propósito: ")
-    add_body_p(doc, "En el plano metodológico, el estudio adopta formalmente el diseño fenomenológico empírico y hermenéutico fundamentado en Edmund Husserl, Max van Manen, Clark Moustakas y John Creswell. Aporta y valida una guía de entrevista en profundidad y una matriz de categorización temática cualitativa ajustadas a los criterios de rigor de Guba y Lincoln (credibilidad, transferibilidad, consistencia y confirmabilidad), aplicando la técnica de triangulación de actores clave (usuarios, personal de salud y actores comunitarios).", bold_prefix="Valor metodológico: ")
-    add_body_p(doc, "El estudio se alinea estrictamente con los instrumentos rectores sanitarios: a nivel regional, responde a la Prioridad Regional 10 de la DIRESA Ayacucho 2025–2030 (“Organización, gestión, calidad y accesibilidad de los servicios de salud”); a nivel nacional, se adscribe a la Línea 10 de Investigación del MINSA al 2030 (“Sistemas y servicios de salud, acceso y cobertura universal”, RM N° 424-2025/MINSA) y al Plan Nacional de Humanización de la Atención en Salud.", bold_prefix="Justificación institucional y sanitaria: ")
+    add_body_p(doc, "La presente investigación corresponde a una investigación básica (sustantiva) con nivel descriptivo-interpretativo y un riguroso diseño cualitativo fenomenológico [5, 6]. Siguiendo a Roberto Hernández-Sampieri y Christian Mendoza [5], Edmund Husserl [7], Max van Manen [8] y John Creswell [6], su propósito central consiste en explorar, describir y comprender la esencia de las experiencias compartidas (vivencias) de los usuarios frente al fenómeno del acceso y la calidad asistencial en el Centro de Salud Belén, aprehendiendo sus cuatro dimensiones existenciales: temporalidad (tiempo vivido en madrugadas y esperas), espacialidad (espacio vivido en salas y consultorios), corporalidad (cuerpo doliente, fatiga y frío) y relacionalidad (encuentro interpersonal empático y diálogo en quechua chanka). Articula dialógicamente los modelos de Calidad en Salud de Avedis Donabedian [9, 10], la Teoría del Acceso de Roy Penchansky [11] y la Teoría del Cuidado Humano de Jean Watson [12] con la matriz cultural andina de Huamanga.", bold_prefix="Valor teórico y clasificación por propósito: ")
+    add_body_p(doc, "En el plano metodológico, el estudio adopta formalmente el diseño fenomenológico fundamentado en Husserl [7] y van Manen [8]. Aporta y valida una guía de entrevista en profundidad y una matriz de categorización temática cualitativa ajustadas a los criterios de rigor científico de Guba y Lincoln [13] (credibilidad, transferibilidad, consistencia y confirmabilidad), aplicando la técnica de triangulación metodológica y de actores clave [14] (usuarios, personal de salud y actores comunitarios).", bold_prefix="Valor metodológico: ")
+    add_body_p(doc, "El estudio cumple con los estándares epistemológicos promovidos por la cátedra de EN 486 fundamentados en Mario Bunge [15], respetando de forma irrestricta las normas bioéticas de la Declaración de Helsinki [16] y las pautas internacionales del CIOMS [17]. Asimismo, se alinea con los instrumentos rectores sanitarios: a nivel regional, responde a la Prioridad Regional 10 de la DIRESA Ayacucho 2025–2030 (“Organización, gestión, calidad y accesibilidad de los servicios de salud”) [4]; a nivel nacional, se adscribe a la Línea 10 de Investigación del MINSA al 2030 (“Sistemas y servicios de salud, acceso y cobertura universal”, RM N° 424-2025/MINSA) [3].", bold_prefix="Justificación institucional y bioética: ")
     
     # ==========================================================================
     # SECCIÓN 4: CAPÍTULO I - EL PROBLEMA
@@ -511,10 +494,10 @@ def build_protocolo_word(output_path):
     
     add_heading_1(doc, "CAPÍTULO I: EL PROBLEMA")
     add_heading_2(doc, "1.1. Contextualización del problema de investigación")
-    add_body_p(doc, "En el marco de la investigación científica cualitativa, el planteamiento del problema adopta una naturaleza inductiva: no parte de deducciones hipotéticas preconcebidas ni de fórmulas numéricas abstractas, sino de la inmersión directa en una realidad concreta, latente y sentida por los actores sociales en su vida cotidiana. Plantear y delimitar el problema cualitativo constituye un proceso reflexivo, dinámico y flexible que demanda tiempo y apertura mental, permitiendo al investigador adaptar sus estrategias de aproximación para develar la esencia y la verdad del fenómeno humano.")
+    add_body_p(doc, "En el marco de la investigación científica cualitativa, tal como sostienen Hernández-Sampieri y Mendoza [5], el planteamiento del problema adopta una naturaleza inductiva: no parte de deducciones hipotéticas preconcebidas ni de fórmulas numéricas abstractas, sino de la inmersión directa en una realidad concreta, latente y sentida por los actores sociales en su vida cotidiana. Plantear y delimitar el problema cualitativo constituye un proceso reflexivo, dinámico y flexible que demanda tiempo y apertura mental, orientado a capturar la esencia, las emociones, los sentires corpóreos y los significados intersubjetivos que las personas otorgan a sus vivencias en el momento del acto asistencial, siguiendo los fundamentos de Husserl [7] y van Manen [8].")
     add_body_p(doc, "Para tal fin, la metodología exige un contacto directo y vivencial con la realidad estudiada. En el presente estudio, el origen del problema se fundamenta en la propia subjetividad, observación reflexiva y experiencia acumulada por la investigadora durante sus prácticas preprofesionales y comunitarias de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) en los diferentes servicios del primer nivel de atención.")
     add_body_p(doc, "En el contexto territorial de Huamanga, el Centro de Salud Belén (establecimiento categoría I-3) cumple una labor asistencial estratégica al brindar atención preventiva y recuperativa a familias en condiciones de notable vulnerabilidad socioeconómica. No obstante, en la cotidianidad asistencial aflora una tensión constante: los usuarios madrugan desde las 4:00 o 5:00 de la madrugada para alcanzar un turno o cupo, afrontando la intemperie matutina, la incertidumbre en las filas, la saturación física de los pasillos y prolongadas horas de espera antes de ser llamados a los consultorios de Medicina, Crecimiento y Desarrollo (CRED), Inmunizaciones o Salud Sexual.")
-    add_body_p(doc, "En este recorrido asistencial, se percibe una latente desconexión entre la destreza técnica de los procedimientos sanitarios y la calidad del encuentro interpersonal. Para la población ayacuchana —cuya matriz sociocultural e identidad lingüística está profundamente ligada al quechua chanka—, la atención en salud cobra significado a través de la calidez, la mirada directa, el saludo afectuoso, la paciencia explicativa y el respeto a su dignidad individual. Cuando estas pautas se omiten por la prisa o la sobrecarga del personal, el usuario experimenta sensaciones de desamparo, frustración o silencio. El verdadero problema radica en que los sistemas de gestión tradicionales evalúan la calidad únicamente mediante indicadores de cobertura numérica, desconociendo por completo las vivencias, emociones, mecanismos de respuesta y el sentido que los propios usuarios le atribuyen al cuidado de su salud.")
+    add_body_p(doc, "En este recorrido asistencial, se percibe una latente desconexión entre la destreza técnica de los procedimientos sanitarios y la calidad del encuentro interpersonal. Para la población ayacuchana —cuya matriz sociocultural e identidad lingüística está profundamente ligada al quechua chanka—, la atención en salud cobra significado a través de la calidez, la mirada directa, el saludo afectuoso, la paciencia explicativa y el respeto a su dignidad individual. Cuando estas pautas se omiten por la prisa o la sobrecarga del personal, el usuario experimenta sensaciones de desamparo, frustración o silencio. El verdadero problema radica en que los sistemas de gestión tradicionales evalúan la calidad únicamente mediante encuestas estandarizadas cuantitativas como SERVQUAL [19, 20] que reducen la satisfacción a medias aritméticas, desconociendo por completo las vivencias, emociones, mecanismos de respuesta y el sentido que los propios usuarios le atribuyen al cuidado de su salud.")
     
     add_body_p(doc, "El fenómeno central que se investiga comprende la vivencia e interpretación intersubjetiva que le otorgan los usuarios a la atención recibida en el Centro de Salud Belén, desagregado en cinco dimensiones vivenciales:", bold_prefix="Objeto de estudio principal: ")
     add_bullet_item(doc, "Emociones y sentimientos experimentados: ", "Las vivencias afectivas (tranquilidad, angustia, impotencia, gratitud, desamparo o satisfacción) que se suscitan a lo largo de la atención.")
@@ -524,7 +507,7 @@ def build_protocolo_word(output_path):
     add_bullet_item(doc, "Significado holístico de la calidad del servicio: ", "La valoración global que construye el usuario sobre la dignidad del servicio y la confianza institucional depositada en el establecimiento.")
     
     add_heading_2(doc, "1.2. Formulación de las preguntas norteadoras")
-    add_body_p(doc, "En coherencia con el diseño fenomenológico de investigación (Hernández-Sampieri y Mendoza, 2018; Creswell, 2013) y la cátedra del Dr. Manglio Aguirre Andrade, se formulan preguntas norteadoras abiertas, orientadas a develar la esencia compartida y las estructuras universales de la experiencia vivida por los participantes, evitando hipótesis deductivas preconcebidas. Siguiendo la interrogante canónica de la fenomenología empírica:")
+    add_body_p(doc, "En coherencia con el diseño fenomenológico de investigación [5, 6] y las directrices de la Escuela de Enfermería de la UNSCH, se formulan preguntas norteadoras abiertas, orientadas a develar la esencia compartida y las estructuras universales de la experiencia vivida por los participantes, evitando hipótesis deductivas preconcebidas. Siguiendo la interrogante canónica de la fenomenología empírica:")
     
     add_heading_3(doc, "Pregunta principal")
     add_body_p(doc, "¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026?")
@@ -537,7 +520,7 @@ def build_protocolo_word(output_path):
     add_num_item(doc, 5, "¿Cuáles son los temas esenciales comunes y los elementos divergentes que configuran la esencia compartida del significado de la calidad asistencial para la comunidad de Belén?")
     
     add_heading_2(doc, "1.3. Formulación de los objetivos de investigación")
-    add_body_p(doc, "Guardando una simetría lógica estricta (1:1) con las preguntas norteadoras y empleando verbos analíticos propios de la investigación fenomenológica (Creswell, 2013; Sampieri, 2018), se determinan los siguientes objetivos:")
+    add_body_p(doc, "Guardando una simetría lógica estricta (1:1) con las preguntas norteadoras y empleando verbos analíticos propios de la investigación fenomenológica [5, 6], se determinan los siguientes objetivos:")
     
     add_heading_3(doc, "Objetivo general")
     add_body_p(doc, "Comprender la estructura y esencia de la experiencia vivida por los usuarios respecto al acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026.")
@@ -574,7 +557,7 @@ def build_protocolo_word(output_path):
     setup_header(sec_cap2, "CAPÍTULO II: MARCO CONTEXTUAL")
     
     add_heading_1(doc, "CAPÍTULO II: MARCO CONTEXTUAL")
-    add_body_p(doc, "En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del ambiente natural donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado (Hernández-Sampieri y Mendoza, 2018; Creswell, 2013). Para comprender la esencia de la experiencia vivida (Lebenswelt) de los usuarios respecto al acceso y la calidad de atención en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas (van Manen, 1990; DIRESA Ayacucho, 2025).")
+    add_body_p(doc, "En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del ambiente natural donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado [5, 6]. Para comprender la esencia de la experiencia vivida (Lebenswelt) de los usuarios respecto al acceso y la calidad de atención en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas [8, 4].")
     
     add_heading_2(doc, "2.1. Descripción geográfica, territorial y ambiental del área de estudio")
     add_body_p(doc, "La investigación se sitúa en el Centro de Salud Belén, establecimiento sanitario cabecera perteneciente a la Microred Huamanga de la Red de Salud Huamanga, adscrito a la Dirección Regional de Salud (DIRESA) de Ayacucho. El establecimiento se localiza en el emblemático e histórico barrio de Belén, en el sector céntrico-sur del distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a una altitud oficial de 2,760 metros sobre el nivel del mar. Sus coordenadas geográficas de emplazamiento corresponden a los 13°09'47'' de Latitud Sur y 74°13'28'' de Longitud Oeste.")
@@ -593,7 +576,7 @@ def build_protocolo_word(output_path):
     add_heading_2(doc, "2.3. Características socioculturales, lingüísticas y cosmovisión andina")
     add_body_p(doc, "El entorno comunitario de Belén se distingue por una singular riqueza identitaria y una densa trama de sociabilidad popular. Históricamente, el barrio de Belén ha sido cuna de ilustres artesanos populares de Huamanga, reconocidos internacionalmente por el arte del retablo ayacuchano, la imaginería religiosa en yeso y el tallado tradicional en piedra de Huamanga. En este espacio geográfico coexisten familias tradicionales residentes desde hace generaciones con oleadas de población migrante provenientes de las zonas rurales y provincias del centro-sur ayacuchano (Víctor Fajardo, Cangallo y Vilcas Huamán), muchas de ellas asentadas a raíz de la violencia sociopolítica de las décadas pasadas.")
     add_body_p(doc, "En el plano lingüístico, el 72% de la población usuaria es bilingüe activa en quechua chanka y castellano. En las generaciones de adultos mayores y en mujeres migrantes de sectores periféricos, el quechua constituye la lengua materna predominante y el vehículo exclusivo para verbalizar el sufrimiento corpóreo y anímico. Para la cosmovisión andina huamanguina, los padecimientos no son meras disfunciones biológicas aisladas, sino alteraciones del equilibrio integral del ser humano con su entorno, expresadas en nociones complejas como el dolor visceral (nanay), el estado de enfermedad integral (onqoy), la tristeza y aflicción acumulada (llakikuy), el enfriamiento del cuerpo (chiriyay) o los desórdenes espirituales derivados del espanto o susto (mancharisqa).")
-    add_body_p(doc, "Las pautas de sociabilidad comunitaria exigen de manera indeclinable la observancia de códigos éticos y de cortesía tradicionales basados en el respeto mutuo (respetanakuy), el saludo formal y afectuoso (napaykuy) y la acogida hospitalaria (allin chaskiy) (Aguirre-Andrade et al., 2020). Cuando el personal de salud —frecuentemente hispanohablante monolingüe o condicionado por la prisa protocolar— prescinde del saludo, evita el contacto visual, interrumpe el relato del usuario o emplea un léxico excesivamente tecnicista, se produce un violento quiebre comunicativo. El usuario andino interpreta esta conducta como desdén, frialdad burocrática, soberbia institucional o discriminación clasista y étnica, replegándose en el silencio (upallay) y perdiendo la confianza en el sistema asistencial.")
+    add_body_p(doc, "Las pautas de sociabilidad comunitaria exigen de manera indeclinable la observancia de códigos éticos y de cortesía tradicionales basados en el respeto mutuo (respetanakuy), el saludo formal y afectuoso (napaykuy) y la acogida hospitalaria (allin chaskiy) [18]. Cuando el personal de salud —frecuentemente hispanohablante monolingüe o condicionado por la prisa protocolar— prescinde del saludo, evita el contacto visual, interrumpe el relato del usuario o emplea un léxico excesivamente tecnicista, se produce un violento quiebre comunicativo. El usuario andino interpreta esta conducta como desdén, frialdad burocrática, soberbia institucional o discriminación clasista y étnica, replegándose en el silencio (upallay) y perdiendo la confianza en el sistema asistencial.")
     add_body_p(doc, "En cuanto al nivel de instrucción, el 48% de los jefes de familia cuenta con educación secundaria completa, un 26% posee secundaria incompleta o primaria, y un 8% (concentrado en adultos mayores) registra analfabetismo formal o funcional. Esta realidad representa un desafío crítico para la alfabetización en salud, pues muchos usuarios no logran descifrar las recetas médicas escritas, los calendarios de citas o la señalética institucional de los consultorios, dependiendo enteramente de la orientación verbal empática que el profesional de enfermería pueda suministrarle.")
     
     add_heading_2(doc, "2.4. Dinámica socioeconómica, vulnerabilidad y nivel de aseguramiento público")
@@ -661,7 +644,7 @@ def build_protocolo_word(output_path):
     add_num_item(doc, 3, "Una fracción considerable del personal profesional y técnico se encuentra bajo regímenes de contratación temporal transitoria (CAS), lo que origina una continua rotación de profesionales que interrumpe la continuidad del vínculo afectivo con los pacientes de la comunidad. A ello se suma la sobrecarga de digitación en los sistemas informáticos (HIS-MINSA y formato FUA-SIS), la cual absorbe gran parte del tiempo de consulta, obligando al profesional a interactuar con la pantalla del computador en detrimento del contacto visual con el usuario.", bold_prefix="Inestabilidad laboral y sobrecarga burocrática: ")
     
     add_heading_2(doc, "2.6. Articulación dialéctica del escenario físico-social con las dimensiones existenciales del usuario (Lebenswelt)")
-    add_body_p(doc, "En concordancia con los postulados epistemológicos de Max van Manen (1990), John Creswell (2013) y Roberto Hernández-Sampieri (2018), el mundo de la vida (Lebenswelt) de los seres humanos se articula indisolublemente a través de cuatro existenciales universales: la temporalidad, la espacialidad, la corporalidad y la relacionalidad. El marco contextual del Centro de Salud Belén no actúa como un mero telón de fondo pasivo, sino que opera como un escenario dialéctico que condiciona y da forma a cada una de estas dimensiones existenciales, tal como se sintetiza a continuación:")
+    add_body_p(doc, "En concordancia con los postulados epistemológicos de van Manen [8], Creswell [6] y Hernández-Sampieri y Mendoza [5], el mundo de la vida (Lebenswelt) de los seres humanos se articula indisolublemente a través de cuatro existenciales universales: la temporalidad, la espacialidad, la corporalidad y la relacionalidad. El marco contextual del Centro de Salud Belén no actúa como un mero telón de fondo pasivo, sino que opera como un escenario dialéctico que condiciona y da forma a cada una de estas dimensiones existenciales, tal como se sintetiza a continuación:")
     
     # Tabla de Existenciales
     tbl_ex = doc.add_table(rows=1, cols=3)
@@ -718,438 +701,445 @@ def build_protocolo_word(output_path):
     add_body_p(doc, "Esta articulación multidimensional confirma que, para el usuario del Centro de Salud Belén, la “calidad de atención” trasciende ampliamente los parámetros gerenciales o el abastecimiento técnico; constituye una experiencia existencial totalizante donde el cuerpo aterido, el tiempo sacrificado, el espacio habitado y el trato humano recibido configuran la esencia de su satisfacción o sufrimiento frente al sistema público de salud.")
     
     # ==========================================================================
-    # SECCIÓN 6: CAPÍTULO III - ABORDAJE TEÓRICO
+    # MÓDULOS EN ESPERA: Se activarán cuando el usuario indique:
+    # "DEJA QUE LOS DEMÁS DESPUES DEL CAP 2 SEAN VISIBLES"
     # ==========================================================================
-    sec_cap3 = doc.add_section(WD_SECTION.NEW_PAGE)
-    sec_cap3.page_width = Cm(21.0)
-    sec_cap3.page_height = Cm(29.7)
-    sec_cap3.top_margin = Cm(3.0)
-    sec_cap3.left_margin = Cm(3.5)
-    sec_cap3.right_margin = Cm(2.5)
-    sec_cap3.bottom_margin = Cm(2.5)
-    sec_cap3.different_first_page_header_footer = False
-    sec_cap3.header.is_linked_to_previous = False
-    sec_cap3.footer.is_linked_to_previous = False
-    sec_cap3.footer.paragraphs[0].text = ""
-    set_section_pgnum(sec_cap3, start=None, fmt='decimal')
-    setup_header(sec_cap3, "CAPÍTULO III: ABORDAJE TEÓRICO")
-    
-    add_heading_1(doc, "CAPÍTULO III: ABORDAJE TEÓRICO")
-    add_heading_2(doc, "3.1. Antecedentes de estudio")
-    
-    add_heading_3(doc, "3.1.1. Antecedentes internacionales")
-    add_bullet_item(doc, "Gómez-Restrepo y colaboradores (2023, Colombia): ", "Realizaron una investigación cualitativa fenomenológica titulada “Experiencia del usuario sobre la calidad asistencial en el primer nivel de atención”. Analizaron 18 entrevistas a profundidad con usuarios de centros de salud urbanos, concluyendo que la percepción de calidad está dominada por la calidez comunicativa y la empatía del personal. Demostraron que el trato humanizado compensa percibidamente las deficiencias del ambiente físico y reduce la frustración asociada a los tiempos de espera prolongados.")
-    add_bullet_item(doc, "Pérez y Silva (2022, Ecuador): ", "En su estudio cualitativo “Significados de la atención de enfermería desde la mirada del paciente externo”, concluyeron que los usuarios valoran principalmente el saludo, la escucha atenta y la mirada a los ojos por parte del personal de enfermería, considerando estos gestos como indicadores fundamentales de respeto y competencia profesional.")
-    
-    add_heading_3(doc, "3.1.2. Antecedentes nacionales")
-    add_bullet_item(doc, "Mamani y Quispe (2024, Lima): ", "En su investigación cualitativa “Percepción de la calidad del cuidado de enfermería en usuarios de establecimientos de salud del primer nivel”, determinaron que los usuarios asocian la mala calidad no al diagnóstico médico sino a la frialdad en la atención, el uso excesivo de modismos técnicos y la falta de espacio para formular preguntas sobre sus medicamentos.")
-    add_bullet_item(doc, "Córdova y Reyes (2023, Arequipa): ", "Desarrollaron el estudio “Tiempos de espera y trato humano: Un estudio cualitativo en centros de salud públicos”. Identificaron que la larga espera en filas desde tempranas horas de la mañana genera una predisposición negativa en el usuario, la cual solo logra disiparse cuando el profesional de enfermería brinde una acogida empática e informativa.")
-    
-    add_heading_3(doc, "3.1.3. Antecedentes regionales y locales")
-    add_bullet_item(doc, "Rojas (2023, Ayacucho): ", "En su tesis cualitativa “Percepción intercultural de la calidad de atención en usuarios de centros de salud de la Red Huamanga”, realizada con usuarios quechuahablantes, concluyó que la barrera lingüística es el principal factor de insatisfacción. Evidenció que cuando el personal de salud o enfermería responde o saluda en quechua, la percepción de calidad y confianza institucional se incrementa significativamente.")
-    add_bullet_item(doc, "García (2022, Ayacucho - UNSCH): ", "En su trabajo de investigación sobre “Cuidado humanizado de enfermería en el primer nivel de atención”, reportó que la sobrecarga asistencial del personal suele minar la paciencia en el trato, afectando la percepción que tiene la madre o el adulto mayor sobre la atención brindada en los servicios preventivo-promocionales.")
-    
-    add_heading_2(doc, "3.2. Base teórica")
-    add_heading_3(doc, "Modelo de Calidad de Salud de Avedis Donabedian")
-    add_body_p(doc, "Constituye el marco conceptual de referencia para evaluar la calidad sanitaria. Donabedian establece tres dimensiones entrelazadas:")
-    add_num_item(doc, 1, "Engloba los recursos materiales (infraestructura, equipamiento, insumos), financieros y humanos (número y calificación del personal).", bold_prefix="Estructura: ")
-    add_num_item(doc, 2, "Refiere a las actividades asistenciales interpersonales y técnicas que ocurren entre el profesional de salud y el paciente.", bold_prefix="Proceso: ")
-    add_num_item(doc, 3, "Evalúa las modificaciones en el estado de salud del paciente y la satisfacción subjetiva obtenida tras el servicio.", bold_prefix="Resultado: ")
-    
-    add_heading_3(doc, "Teoría del Cuidado Humano de Jean Watson")
-    add_body_p(doc, "Sostiene que el cuidado es el núcleo filosófico y práctico de la enfermería. Define al cuidado como un proceso transpersonal e intersubjetivo que busca armonizar la mente, el cuerpo y el alma del ser humano. Watson plantea la necesidad de cultivar relaciones de ayuda y confianza, caracterizadas por la empatía, la sensibilidad, el respeto y la escucha activa.")
-    
-    add_heading_3(doc, "Fundamentos del Cuidado Fenomenológico en Enfermería: Patricia Benner y Holly Wilson")
-    add_body_p(doc, "En el campo de la enfermería y las ciencias de la salud, la fenomenología constituye el diseño por excelencia para aprehender la esencia íntima del cuidado, la vulnerabilidad humana y el sufrimiento (Norlyk y Harder, 2010; Sampieri y Mendoza, 2018). Como postula Patricia Benner (2008), la práctica del cuidado de enfermería es fundamentalmente una práctica encarnada (embodied practice), donde el cuerpo del paciente no es un objeto mecánico, sino el vehículo a través del cual la persona vivencia el dolor, la angustia, el frío y el alivio. Benner fundamenta que la calidad asistencial emerge en el encuentro intersubjetivo, donde la intuición clínica y la presencia sensible de la enfermera permiten descifrar el sentir del paciente más allá de los signos biomédicos.")
-    add_body_p(doc, "Asimismo, Holly Skodol Wilson (2007) y Norlyk y Harder (2010) señalan que el diseño fenomenológico en salud tiene por propósito primordial describir la esencia de las experiencias de los pacientes, exigiendo que el investigador 'haga a un lado' (bracketing o epojé) sus presupuestos teóricos para dar cabida a las narrativas auténticas de los usuarios. Esta concepción se engarza de manera natural con el contexto del Centro de Salud Belén, donde las vivencias de las madres en CRED, los adultos mayores y las familias quechuahablantes requieren ser develadas desde su propia cotidianidad.")
-    
-    add_heading_2(doc, "3.3. Categorías de estudio (Matriz cualitativa y fenomenológica)")
-    add_body_p(doc, "En concordancia con el paradigma inductivo interpretativo y las directrices metodológicas de Hernández-Sampieri y Mendoza (2018, p. 494), en el diseño fenomenológico las unidades de significado se estructuran dialécticamente en: (a) Categorías esenciales o comunes de las narrativas (vivencias compartidas por la colectividad usuaria respecto a madrugadas, espera, empatía y quechua); y (b) Categorías diferentes o divergentes de las narrativas (valoraciones y matices particulares disonantes según edad, servicio o condición socioeconómica). A continuación se presenta la matriz comprensiva con las definiciones operativas, códigos sugeridos y preguntas orientadoras:")
-    
-    # TABLA DE CATEGORIZACIÓN CUALITATIVA FENOMENOLÓGICA (SAMPIERI)
-    tbl_cat = doc.add_table(rows=1, cols=5)
-    tbl_cat.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    set_table_borders(tbl_cat, color="808080", sz="4", val="single")
-    
-    headers_cat = ["Concepto Potencial", "Dimensión Existencial", "Definición Conceptual / Significado", "Categorías Emergentes y Códigos", "Pregunta Guía de Profundización"]
-    col_widths_cat = [Cm(2.4), Cm(2.6), Cm(3.5), Cm(4.0), Cm(3.5)]
-    
-    hdr_cells = tbl_cat.rows[0].cells
-    for i, title in enumerate(headers_cat):
-        hdr_cells[i].text = title
-        hdr_cells[i].width = col_widths_cat[i]
-        set_cell_margins(hdr_cells[i], top=120, bottom=120, left=140, right=140)
-        set_cell_shading(hdr_cells[i], "E8EEF5")
-        for p in hdr_cells[i].paragraphs:
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            for r in p.runs:
-                format_run(r, size_pt=9.5, bold=True)
-                
-    cat_rows_data = [
-        ("Calidad de Atención y Cuidado Humano",
-         "1. Temporalidad (Tiempo vivido)",
-         "Experiencia subjetiva del transcurso del tiempo: madrugar a oscuras, incertidumbre en la fila exterior y horas en sala de espera.",
-         "• Esencia compartida: Madrugar a las 4:00 AM; angustia por alcanzar cupo; tiempo detenido en sala.\n• Variaciones individuales: Percepción de mayor agilidad en CRED que en Medicina; jóvenes valoran citas digitales, adultos mayores la fila presencial.",
-         "¿Cómo vivió subjetivamente el transcurrir de las horas desde su llegada en la madrugada hasta su ingreso al consultorio?"),
-        ("",
-         "2. Espacialidad (Espacio vivido)",
-         "Vivencia del entorno físico, ambiental y simbólico: acera exterior, hacinamiento en pasillos, rigidez de asientos y privacidad clínica.",
-         "• Esencia compartida: Frío de la acera matutina; estrechez de pasillos; alivio al entrar a un ambiente reservado.\n• Variaciones individuales: Consultorios de Obstetricia con mayor reserva que Triaje; disonancia sobre la ventilación en lluvias.",
-         "¿Cómo describe el espacio físico por donde transitó? ¿Sintió que el consultorio le brindó la intimidad y tranquilidad necesaria?"),
-        ("",
-         "3. Corporalidad (Cuerpo vivido)",
-         "Sentires somáticos y físicos de la persona doliente: fatiga física, hambre en ayunas, frío penetrante, dolor de la afección y alivio corporal.",
-         "• Esencia compartida: Cansancio lumbar por estar de pie; frío matutino; distensión corporal al ser atendido y recibir medicinas.\n• Variaciones individuales: Madres reportan llanto y cansancio de los niños; adultos mayores expresan dolor articular y entumecimiento.",
-         "¿Qué sensaciones experimentó en su cuerpo (dolor, fatiga, frío, alivio) a lo largo de toda su espera y atención clínica?"),
-        ("",
-         "4. Relacionalidad (Relación humana)",
-         "Vínculo intersubjetivo entre el equipo asistencial y el usuario: saludo afectuoso (napaykuy), empatía, escucha activa y lengua quechua.",
-         "• Esencia compartida: Necesidad vital de calidez y mirada atenta; consuelo al ser escuchado; dignidad al comunicarse en quechua chanka.\n• Variaciones individuales: Trato cercano en Enfermería frente a mayor prisa en Medicina; quejas de indiferencia en Admisión.",
-         "¿Cómo fue el encuentro humano con el médico o enfermera? ¿Sintió calidez, paciencia y escucha atenta? ¿Le hablaron en quechua?"),
-        ("",
-         "5. Esencia Holística del Cuidado",
-         "Significado integral y valorativo que el usuario otorga a la atención digna, humanizada y resolutiva en el primer nivel de salud.",
-         "• Esencia compartida: Calidad significa respeto irrestricto, comprensión del dolor y entrega oportuna de fármacos.\n• Variaciones individuales: Pacientes crónicos priorizan abastecimiento de insumos; madres primerizas priorizan paciencia y pedagogía.",
-         "Al reflexionar sobre toda su vivencia, ¿qué significa para usted recibir una atención de auténtica calidad humana?")
-    ]
-    
-    for row_data in cat_rows_data:
-        row = tbl_cat.add_row()
-        for idx, text in enumerate(row_data):
-            cell = row.cells[idx]
-            cell.text = text
-            cell.width = col_widths_cat[idx]
-            set_cell_margins(cell, top=100, bottom=100, left=130, right=130)
+    MOSTRAR_DESPUES_DE_CAP2 = False
+    if MOSTRAR_DESPUES_DE_CAP2:
+        # ==========================================================================
+        # SECCIÓN 6: CAPÍTULO III - ABORDAJE TEÓRICO
+        # ==========================================================================
+        sec_cap3 = doc.add_section(WD_SECTION.NEW_PAGE)
+        sec_cap3.page_width = Cm(21.0)
+        sec_cap3.page_height = Cm(29.7)
+        sec_cap3.top_margin = Cm(3.0)
+        sec_cap3.left_margin = Cm(3.5)
+        sec_cap3.right_margin = Cm(2.5)
+        sec_cap3.bottom_margin = Cm(2.5)
+        sec_cap3.different_first_page_header_footer = False
+        sec_cap3.header.is_linked_to_previous = False
+        sec_cap3.footer.is_linked_to_previous = False
+        sec_cap3.footer.paragraphs[0].text = ""
+        set_section_pgnum(sec_cap3, start=None, fmt='decimal')
+        setup_header(sec_cap3, "CAPÍTULO III: ABORDAJE TEÓRICO")
+
+        add_heading_1(doc, "CAPÍTULO III: ABORDAJE TEÓRICO")
+        add_heading_2(doc, "3.1. Antecedentes de estudio")
+
+        add_heading_3(doc, "3.1.1. Antecedentes internacionales")
+        add_bullet_item(doc, "Gómez-Restrepo y colaboradores (2023, Colombia): ", "Realizaron una investigación cualitativa fenomenológica titulada “Experiencia del usuario sobre la calidad asistencial en el primer nivel de atención”. Analizaron 18 entrevistas a profundidad con usuarios de centros de salud urbanos, concluyendo que la percepción de calidad está dominada por la calidez comunicativa y la empatía del personal. Demostraron que el trato humanizado compensa percibidamente las deficiencias del ambiente físico y reduce la frustración asociada a los tiempos de espera prolongados.")
+        add_bullet_item(doc, "Pérez y Silva (2022, Ecuador): ", "En su estudio cualitativo “Significados de la atención de enfermería desde la mirada del paciente externo”, concluyeron que los usuarios valoran principalmente el saludo, la escucha atenta y la mirada a los ojos por parte del personal de enfermería, considerando estos gestos como indicadores fundamentales de respeto y competencia profesional.")
+
+        add_heading_3(doc, "3.1.2. Antecedentes nacionales")
+        add_bullet_item(doc, "Mamani y Quispe (2024, Lima): ", "En su investigación cualitativa “Percepción de la calidad del cuidado de enfermería en usuarios de establecimientos de salud del primer nivel”, determinaron que los usuarios asocian la mala calidad no al diagnóstico médico sino a la frialdad en la atención, el uso excesivo de modismos técnicos y la falta de espacio para formular preguntas sobre sus medicamentos.")
+        add_bullet_item(doc, "Córdova y Reyes (2023, Arequipa): ", "Desarrollaron el estudio “Tiempos de espera y trato humano: Un estudio cualitativo en centros de salud públicos”. Identificaron que la larga espera en filas desde tempranas horas de la mañana genera una predisposición negativa en el usuario, la cual solo logra disiparse cuando el profesional de enfermería brinde una acogida empática e informativa.")
+
+        add_heading_3(doc, "3.1.3. Antecedentes regionales y locales")
+        add_bullet_item(doc, "Rojas (2023, Ayacucho): ", "En su tesis cualitativa “Percepción intercultural de la calidad de atención en usuarios de centros de salud de la Red Huamanga”, realizada con usuarios quechuahablantes, concluyó que la barrera lingüística es el principal factor de insatisfacción. Evidenció que cuando el personal de salud o enfermería responde o saluda en quechua, la percepción de calidad y confianza institucional se incrementa significativamente.")
+        add_bullet_item(doc, "García (2022, Ayacucho - UNSCH): ", "En su trabajo de investigación sobre “Cuidado humanizado de enfermería en el primer nivel de atención”, reportó que la sobrecarga asistencial del personal suele minar la paciencia en el trato, afectando la percepción que tiene la madre o el adulto mayor sobre la atención brindada en los servicios preventivo-promocionales.")
+
+        add_heading_2(doc, "3.2. Base teórica")
+        add_heading_3(doc, "Modelo de Calidad de Salud de Avedis Donabedian")
+        add_body_p(doc, "Constituye el marco conceptual de referencia para evaluar la calidad sanitaria. Donabedian establece tres dimensiones entrelazadas:")
+        add_num_item(doc, 1, "Engloba los recursos materiales (infraestructura, equipamiento, insumos), financieros y humanos (número y calificación del personal).", bold_prefix="Estructura: ")
+        add_num_item(doc, 2, "Refiere a las actividades asistenciales interpersonales y técnicas que ocurren entre el profesional de salud y el paciente.", bold_prefix="Proceso: ")
+        add_num_item(doc, 3, "Evalúa las modificaciones en el estado de salud del paciente y la satisfacción subjetiva obtenida tras el servicio.", bold_prefix="Resultado: ")
+
+        add_heading_3(doc, "Teoría del Cuidado Humano de Jean Watson")
+        add_body_p(doc, "Sostiene que el cuidado es el núcleo filosófico y práctico de la enfermería. Define al cuidado como un proceso transpersonal e intersubjetivo que busca armonizar la mente, el cuerpo y el alma del ser humano. Watson plantea la necesidad de cultivar relaciones de ayuda y confianza, caracterizadas por la empatía, la sensibilidad, el respeto y la escucha activa.")
+
+        add_heading_3(doc, "Fundamentos del Cuidado Fenomenológico en Enfermería: Patricia Benner y Holly Wilson")
+        add_body_p(doc, "En el campo de la enfermería y las ciencias de la salud, la fenomenología constituye el diseño por excelencia para aprehender la esencia íntima del cuidado, la vulnerabilidad humana y el sufrimiento (Norlyk y Harder, 2010; Sampieri y Mendoza, 2018). Como postula Patricia Benner (2008), la práctica del cuidado de enfermería es fundamentalmente una práctica encarnada (embodied practice), donde el cuerpo del paciente no es un objeto mecánico, sino el vehículo a través del cual la persona vivencia el dolor, la angustia, el frío y el alivio. Benner fundamenta que la calidad asistencial emerge en el encuentro intersubjetivo, donde la intuición clínica y la presencia sensible de la enfermera permiten descifrar el sentir del paciente más allá de los signos biomédicos.")
+        add_body_p(doc, "Asimismo, Holly Skodol Wilson (2007) y Norlyk y Harder (2010) señalan que el diseño fenomenológico en salud tiene por propósito primordial describir la esencia de las experiencias de los pacientes, exigiendo que el investigador 'haga a un lado' (bracketing o epojé) sus presupuestos teóricos para dar cabida a las narrativas auténticas de los usuarios. Esta concepción se engarza de manera natural con el contexto del Centro de Salud Belén, donde las vivencias de las madres en CRED, los adultos mayores y las familias quechuahablantes requieren ser develadas desde su propia cotidianidad.")
+
+        add_heading_2(doc, "3.3. Categorías de estudio (Matriz cualitativa y fenomenológica)")
+        add_body_p(doc, "En concordancia con el paradigma inductivo interpretativo y las directrices metodológicas de Hernández-Sampieri y Mendoza (2018, p. 494), en el diseño fenomenológico las unidades de significado se estructuran dialécticamente en: (a) Categorías esenciales o comunes de las narrativas (vivencias compartidas por la colectividad usuaria respecto a madrugadas, espera, empatía y quechua); y (b) Categorías diferentes o divergentes de las narrativas (valoraciones y matices particulares disonantes según edad, servicio o condición socioeconómica). A continuación se presenta la matriz comprensiva con las definiciones operativas, códigos sugeridos y preguntas orientadoras:")
+
+        # TABLA DE CATEGORIZACIÓN CUALITATIVA FENOMENOLÓGICA (SAMPIERI)
+        tbl_cat = doc.add_table(rows=1, cols=5)
+        tbl_cat.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_table_borders(tbl_cat, color="808080", sz="4", val="single")
+
+        headers_cat = ["Concepto Potencial", "Dimensión Existencial", "Definición Conceptual / Significado", "Categorías Emergentes y Códigos", "Pregunta Guía de Profundización"]
+        col_widths_cat = [Cm(2.4), Cm(2.6), Cm(3.5), Cm(4.0), Cm(3.5)]
+
+        hdr_cells = tbl_cat.rows[0].cells
+        for i, title in enumerate(headers_cat):
+            hdr_cells[i].text = title
+            hdr_cells[i].width = col_widths_cat[i]
+            set_cell_margins(hdr_cells[i], top=120, bottom=120, left=140, right=140)
+            set_cell_shading(hdr_cells[i], "E8EEF5")
+            for p in hdr_cells[i].paragraphs:
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                for r in p.runs:
+                    format_run(r, size_pt=9.5, bold=True)
+
+        cat_rows_data = [
+            ("Calidad de Atención y Cuidado Humano",
+             "1. Temporalidad (Tiempo vivido)",
+             "Experiencia subjetiva del transcurso del tiempo: madrugar a oscuras, incertidumbre en la fila exterior y horas en sala de espera.",
+             "• Esencia compartida: Madrugar a las 4:00 AM; angustia por alcanzar cupo; tiempo detenido en sala.\n• Variaciones individuales: Percepción de mayor agilidad en CRED que en Medicina; jóvenes valoran citas digitales, adultos mayores la fila presencial.",
+             "¿Cómo vivió subjetivamente el transcurrir de las horas desde su llegada en la madrugada hasta su ingreso al consultorio?"),
+            ("",
+             "2. Espacialidad (Espacio vivido)",
+             "Vivencia del entorno físico, ambiental y simbólico: acera exterior, hacinamiento en pasillos, rigidez de asientos y privacidad clínica.",
+             "• Esencia compartida: Frío de la acera matutina; estrechez de pasillos; alivio al entrar a un ambiente reservado.\n• Variaciones individuales: Consultorios de Obstetricia con mayor reserva que Triaje; disonancia sobre la ventilación en lluvias.",
+             "¿Cómo describe el espacio físico por donde transitó? ¿Sintió que el consultorio le brindó la intimidad y tranquilidad necesaria?"),
+            ("",
+             "3. Corporalidad (Cuerpo vivido)",
+             "Sentires somáticos y físicos de la persona doliente: fatiga física, hambre en ayunas, frío penetrante, dolor de la afección y alivio corporal.",
+             "• Esencia compartida: Cansancio lumbar por estar de pie; frío matutino; distensión corporal al ser atendido y recibir medicinas.\n• Variaciones individuales: Madres reportan llanto y cansancio de los niños; adultos mayores expresan dolor articular y entumecimiento.",
+             "¿Qué sensaciones experimentó en su cuerpo (dolor, fatiga, frío, alivio) a lo largo de toda su espera y atención clínica?"),
+            ("",
+             "4. Relacionalidad (Relación humana)",
+             "Vínculo intersubjetivo entre el equipo asistencial y el usuario: saludo afectuoso (napaykuy), empatía, escucha activa y lengua quechua.",
+             "• Esencia compartida: Necesidad vital de calidez y mirada atenta; consuelo al ser escuchado; dignidad al comunicarse en quechua chanka.\n• Variaciones individuales: Trato cercano en Enfermería frente a mayor prisa en Medicina; quejas de indiferencia en Admisión.",
+             "¿Cómo fue el encuentro humano con el médico o enfermera? ¿Sintió calidez, paciencia y escucha atenta? ¿Le hablaron en quechua?"),
+            ("",
+             "5. Esencia Holística del Cuidado",
+             "Significado integral y valorativo que el usuario otorga a la atención digna, humanizada y resolutiva en el primer nivel de salud.",
+             "• Esencia compartida: Calidad significa respeto irrestricto, comprensión del dolor y entrega oportuna de fármacos.\n• Variaciones individuales: Pacientes crónicos priorizan abastecimiento de insumos; madres primerizas priorizan paciencia y pedagogía.",
+             "Al reflexionar sobre toda su vivencia, ¿qué significa para usted recibir una atención de auténtica calidad humana?")
+        ]
+
+        for row_data in cat_rows_data:
+            row = tbl_cat.add_row()
+            for idx, text in enumerate(row_data):
+                cell = row.cells[idx]
+                cell.text = text
+                cell.width = col_widths_cat[idx]
+                set_cell_margins(cell, top=100, bottom=100, left=130, right=130)
+                for p in cell.paragraphs:
+                    p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+                    p.paragraph_format.line_spacing = 1.15
+                    p.paragraph_format.space_before = Pt(0)
+                    p.paragraph_format.space_after = Pt(2)
+                    for r in p.runs:
+                        format_run(r, size_pt=9.5, bold=(idx == 0 or idx == 1))
+
+        # ==========================================================================
+        # SECCIÓN 7: CAPÍTULO IV - METODOLOGÍA CUALITATIVA
+        # ==========================================================================
+        sec_cap4 = doc.add_section(WD_SECTION.NEW_PAGE)
+        sec_cap4.page_width = Cm(21.0)
+        sec_cap4.page_height = Cm(29.7)
+        sec_cap4.top_margin = Cm(3.0)
+        sec_cap4.left_margin = Cm(3.5)
+        sec_cap4.right_margin = Cm(2.5)
+        sec_cap4.bottom_margin = Cm(2.5)
+        sec_cap4.different_first_page_header_footer = False
+        sec_cap4.header.is_linked_to_previous = False
+        sec_cap4.footer.is_linked_to_previous = False
+        sec_cap4.footer.paragraphs[0].text = ""
+        set_section_pgnum(sec_cap4, start=None, fmt='decimal')
+        setup_header(sec_cap4, "CAPÍTULO IV: METODOLOGÍA FENOMENOLÓGICA")
+
+        add_heading_1(doc, "CAPÍTULO IV: METODOLOGÍA: DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN")
+        add_heading_2(doc, "4.1. Fundamentación filosófica y epistemológica del diseño fenomenológico")
+        add_body_p(doc, "La investigación se inserta en el paradigma interpretativo-naturalista y adopta un diseño cualitativo fenomenológico (Hernández-Sampieri y Mendoza, 2018; Creswell, 2013). Como señalan Roberto Hernández-Sampieri y Christian Mendoza (2018), la fenomenología no es únicamente una técnica de indagación, sino simultáneamente una filosofía, un enfoque epistemológico y un diseño metodológico riguroso cuyo origen se remonta al matemático y filósofo Edmund Husserl (1859-1938). Su propósito principal consiste en explorar, describir y comprender las experiencias de las personas con respecto a un determinado fenómeno y descubrir los elementos en común (la esencia compartida) de tales vivencias.")
+        add_bullet_item(doc, "Diferenciación frente a la Teoría Fundamentada: ", "En la teoría fundamentada se busca generar un modelo teórico abstracto a partir de las perspectivas de los participantes; en contraste, en la fenomenología los investigadores trabajan directamente con las unidades o declaraciones de los participantes y sus vivencias, más que abstraerlas para crear un modelo basado en interpretaciones preconcebidas (Hernández-Sampieri y Mendoza, 2018, p. 493). Los datos provienen de sentimientos, emociones, razonamientos y percepciones corporales directas.")
+        add_bullet_item(doc, "Diferenciación frente al Diseño Narrativo: ", "Mientras que el diseño narrativo se enfoca en la conexión o sucesión cronológica de eventos (el punto de vista biográfico o temporal), el diseño fenomenológico se enfoca de manera exclusiva en la esencia de la experiencia compartida (lo que vivenciaron y cómo lo vivenciaron).")
+        add_bullet_item(doc, "Diferenciación frente a Etnografía e Investigación-Acción: ", "No persigue describir patrones macro-culturales de una comunidad a lo largo de años (etnografía), ni implementar intervenciones experimentales directas (investigación-acción), sino capturar con fidelidad la esencia íntima del fenómeno asistencial vivido.")
+        add_bullet_item(doc, "Articulación de dos vertientes fenomenológicas: ", "Integra armónicamente la fenomenología empírica o trascendental (Moustakas, 1994; Creswell, 2013; Wilson, 2007), donde la investigadora aparta mediante epojé sus propios presupuestos para describir la vivencia pura del paciente; y la fenomenología hermenéutica (van Manen, 1990), que permite interpretar el sentido latente de las narrativas en su matriz sociocultural andina quechua chanka.")
+
+        add_heading_2(doc, "4.2. Los cuatro existenciales de la experiencia humana vivida (van Manen y Sampieri)")
+        add_body_p(doc, "Siguiendo a Hernández-Sampieri y Mendoza (2018, p. 494) y Max van Manen (1990), el diseño fenomenológico contextualiza las experiencias en cuatro dimensiones fundamentales del mundo de la vida (Lebenswelt):")
+        add_num_item(doc, 1, "El momento en que ocurrieron los hechos y el tiempo percibido. En el C.S. Belén se manifiesta en el madrugar a las 4:00 am, la angustia previa a la apertura de ventanilla, el tiempo detenido en las bancas de espera y la sensación de sosiego o prisa en la consulta.", bold_prefix="Temporalidad (el tiempo vivido): ")
+        add_num_item(doc, 2, "El lugar físico y ambiental donde sucedieron las vivencias: la frialdad de la acera matutina, el hacinamiento en pasillos, la rigidez de asientos y la reserva o vulneración de la intimidad dentro del consultorio.", bold_prefix="Espacialidad (el espacio vivido): ")
+        add_num_item(doc, 3, "La dimensión somática de las personas que vivencian el fenómeno: el frío matutino calando el cuerpo, el cansancio muscular por horas de pie, la fatiga del ayuno, el llanto del lactante y el dolor somático que motiva la consulta médica.", bold_prefix="Corporalidad (el cuerpo vivido): ")
+        add_num_item(doc, 4, "Los lazos interpersonales y encuentros intersubjetivos gestados en la atención: el saludo cordial (napaykuy), el contacto visual, la empatía, la calidez o frialdad del personal y el diálogo fluido en quechua chanka.", bold_prefix="Relacionalidad (la relación humana vivida): ")
+
+        add_heading_2(doc, "4.3. Postura epistemológica, reflexividad y reducción fenomenológica (Epojé)")
+        add_body_p(doc, "En contraste con la neutralidad aséptica positivista, la investigadora asume un rol de proximidad sensible y reflexividad rigurosa guiada por tres pilares:")
+        add_bullet_item(doc, "Práctica de la Reducción Fenomenológica (Epojé / Bracketing): ", "Siguiendo a Husserl (1949), Moustakas (1994) y Creswell (2013), la investigadora suspende reflexivamente sus propios juicios previos, experiencias previas como estudiante de enfermería y prejuicios clínicos, para recibir los relatos de los usuarios con total apertura y pureza fenoménica.")
+        add_bullet_item(doc, "Construcción de Confianza (Rapport): ", "Generar un vínculo horizontal de respeto mutuo y calidez humana indispensable para que los informantes exterioricen vivencias íntimas sin temor a ser juzgados.")
+        add_bullet_item(doc, "Empatía Intercultural Andina: ", "Comprender el sentir del usuario desde su propia cosmovisión y condición socioeconómica, dialogando fluidamente en quechua chanka y castellano.")
+
+        add_heading_2(doc, "4.4. Selección del contexto, participantes informantes y saturación teórica")
+        add_body_p(doc, "Siguiendo a Hernández-Sampieri y Mendoza (2018, p. 493) y Creswell (2013), en el diseño fenomenológico los participantes se seleccionan porque han experimentado en carne propia el fenómeno de interés bajo estudio. Se adopta un muestreo cualitativo no probabilístico intencional, regulado por el principio de saturación teórica (Esbensen et al., 2008), estimándose una muestra referencial de 12 a 18 informantes clave.", bold_prefix="Criterio de Selección y Muestreo: ")
+        add_heading_3(doc, "Criterios de Inclusión:")
+        add_num_item(doc, 1, "Usuarios de ambos sexos, mayores de 18 años, que hayan recibido atención en Medicina, Enfermería (CRED, Inmunizaciones), Obstetricia u Odontología del C.S. Belén en los últimos tres meses.")
+        add_num_item(doc, 2, "Participación estrictamente voluntaria formalizada mediante la firma o huella dactilar del Consentimiento Informado (Anexo 4).")
+        add_num_item(doc, 3, "Capacidad de verbalizar y comunicar sus vivencias y emociones en español o quechua chanka.")
+        add_heading_3(doc, "Criterios de Exclusión:")
+        add_num_item(doc, 1, "Personas con compromiso neurológico agudo o alteraciones del lenguaje que impidan el diálogo fluido.")
+        add_num_item(doc, 2, "Usuarios que acudan exclusivamente a realizar gestiones burocráticas breves en ventanilla sin haber recibido atención clínica asistencial.")
+
+        add_heading_2(doc, "4.5. Técnicas e instrumentos de recolección de vivencias")
+        add_bullet_item(doc, "Entrevista Fenomenológica en Profundidad: ", "Técnica central (45 a 60 minutos por sesión) conducida mediante preguntas abiertas diseñadas para reconstruir el significado, la estructura y la esencia de la vivencia asistencial (Anexo 1) (Creswell, 2013; Norlyk y Harder, 2010).")
+        add_bullet_item(doc, "Observación Reflexiva no Participante: ", "Registro detallado de la dinámica ambiental, tiempos de espera, gestos corporales y clima relacional en salas de espera y consultorios.")
+        add_bullet_item(doc, "Diario de Campo y Notas de Inmersión: ", "Registro sistemático de impresiones inmediatas, silencios, inflexiones de voz y notas de reflexividad pos-entrevista.")
+        add_bullet_item(doc, "Triangulación de Actores Clave: ", "Articulando el modelo pedagógico del Dr. Manglio Aguirre Andrade, se triangulan tres perspectivas: (a) Usuarios externos / pacientes (vivencia sentida directa); (b) Personal asistencial de salud y enfermería (retos operativos del servicio); y (c) Acompañantes y actores comunitarios (mirada colectiva y social).")
+        add_heading_2(doc, "4.6. Criterios de rigor científico cualitativo (Hernández-Sampieri, Cap. 14)")
+        add_body_p(doc, "En la investigación cualitativa se reemplazan radicalmente los conceptos positivistas de validez y confiabilidad estadística por los cuatro criterios de rigor cualitativo formulados por Roberto Hernández-Sampieri, Carlos Fernández-Collado y Pilar Baptista-Lucio (2014, Cap. 14), articulados con los fundamentos de Lincoln y Guba (1985):")
+
+        # TABLA DE CRITERIOS DE RIGOR
+        tbl_rig = doc.add_table(rows=1, cols=3)
+        tbl_rig.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_table_borders(tbl_rig, color="808080", sz="4", val="single")
+        hdr_rig = ["Criterio de Rigor (Sampieri)", "Definición Metodológica", "Estrategia Operativa de Aseguramiento"]
+        w_rig = [Cm(3.8), Cm(5.6), Cm(6.0)]
+        for i, t in enumerate(hdr_rig):
+            cell = tbl_rig.rows[0].cells[i]
+            cell.text = t
+            cell.width = w_rig[i]
+            set_cell_margins(cell, 100, 100, 120, 120)
+            set_cell_shading(cell, "E8EEF5")
             for p in cell.paragraphs:
-                p.alignment = WD_ALIGN_PARAGRAPH.LEFT
-                p.paragraph_format.line_spacing = 1.15
-                p.paragraph_format.space_before = Pt(0)
-                p.paragraph_format.space_after = Pt(2)
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
                 for r in p.runs:
-                    format_run(r, size_pt=9.5, bold=(idx == 0 or idx == 1))
-    
-    # ==========================================================================
-    # SECCIÓN 7: CAPÍTULO IV - METODOLOGÍA CUALITATIVA
-    # ==========================================================================
-    sec_cap4 = doc.add_section(WD_SECTION.NEW_PAGE)
-    sec_cap4.page_width = Cm(21.0)
-    sec_cap4.page_height = Cm(29.7)
-    sec_cap4.top_margin = Cm(3.0)
-    sec_cap4.left_margin = Cm(3.5)
-    sec_cap4.right_margin = Cm(2.5)
-    sec_cap4.bottom_margin = Cm(2.5)
-    sec_cap4.different_first_page_header_footer = False
-    sec_cap4.header.is_linked_to_previous = False
-    sec_cap4.footer.is_linked_to_previous = False
-    sec_cap4.footer.paragraphs[0].text = ""
-    set_section_pgnum(sec_cap4, start=None, fmt='decimal')
-    setup_header(sec_cap4, "CAPÍTULO IV: METODOLOGÍA FENOMENOLÓGICA")
-    
-    add_heading_1(doc, "CAPÍTULO IV: METODOLOGÍA: DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN")
-    add_heading_2(doc, "4.1. Fundamentación filosófica y epistemológica del diseño fenomenológico")
-    add_body_p(doc, "La investigación se inserta en el paradigma interpretativo-naturalista y adopta un diseño cualitativo fenomenológico (Hernández-Sampieri y Mendoza, 2018; Creswell, 2013). Como señalan Roberto Hernández-Sampieri y Christian Mendoza (2018), la fenomenología no es únicamente una técnica de indagación, sino simultáneamente una filosofía, un enfoque epistemológico y un diseño metodológico riguroso cuyo origen se remonta al matemático y filósofo Edmund Husserl (1859-1938). Su propósito principal consiste en explorar, describir y comprender las experiencias de las personas con respecto a un determinado fenómeno y descubrir los elementos en común (la esencia compartida) de tales vivencias.")
-    add_bullet_item(doc, "Diferenciación frente a la Teoría Fundamentada: ", "En la teoría fundamentada se busca generar un modelo teórico abstracto a partir de las perspectivas de los participantes; en contraste, en la fenomenología los investigadores trabajan directamente con las unidades o declaraciones de los participantes y sus vivencias, más que abstraerlas para crear un modelo basado en interpretaciones preconcebidas (Hernández-Sampieri y Mendoza, 2018, p. 493). Los datos provienen de sentimientos, emociones, razonamientos y percepciones corporales directas.")
-    add_bullet_item(doc, "Diferenciación frente al Diseño Narrativo: ", "Mientras que el diseño narrativo se enfoca en la conexión o sucesión cronológica de eventos (el punto de vista biográfico o temporal), el diseño fenomenológico se enfoca de manera exclusiva en la esencia de la experiencia compartida (lo que vivenciaron y cómo lo vivenciaron).")
-    add_bullet_item(doc, "Diferenciación frente a Etnografía e Investigación-Acción: ", "No persigue describir patrones macro-culturales de una comunidad a lo largo de años (etnografía), ni implementar intervenciones experimentales directas (investigación-acción), sino capturar con fidelidad la esencia íntima del fenómeno asistencial vivido.")
-    add_bullet_item(doc, "Articulación de dos vertientes fenomenológicas: ", "Integra armónicamente la fenomenología empírica o trascendental (Moustakas, 1994; Creswell, 2013; Wilson, 2007), donde la investigadora aparta mediante epojé sus propios presupuestos para describir la vivencia pura del paciente; y la fenomenología hermenéutica (van Manen, 1990), que permite interpretar el sentido latente de las narrativas en su matriz sociocultural andina quechua chanka.")
+                    format_run(r, size_pt=9.5, bold=True)
 
-    add_heading_2(doc, "4.2. Los cuatro existenciales de la experiencia humana vivida (van Manen y Sampieri)")
-    add_body_p(doc, "Siguiendo a Hernández-Sampieri y Mendoza (2018, p. 494) y Max van Manen (1990), el diseño fenomenológico contextualiza las experiencias en cuatro dimensiones fundamentales del mundo de la vida (Lebenswelt):")
-    add_num_item(doc, 1, "El momento en que ocurrieron los hechos y el tiempo percibido. En el C.S. Belén se manifiesta en el madrugar a las 4:00 am, la angustia previa a la apertura de ventanilla, el tiempo detenido en las bancas de espera y la sensación de sosiego o prisa en la consulta.", bold_prefix="Temporalidad (el tiempo vivido): ")
-    add_num_item(doc, 2, "El lugar físico y ambiental donde sucedieron las vivencias: la frialdad de la acera matutina, el hacinamiento en pasillos, la rigidez de asientos y la reserva o vulneración de la intimidad dentro del consultorio.", bold_prefix="Espacialidad (el espacio vivido): ")
-    add_num_item(doc, 3, "La dimensión somática de las personas que vivencian el fenómeno: el frío matutino calando el cuerpo, el cansancio muscular por horas de pie, la fatiga del ayuno, el llanto del lactante y el dolor somático que motiva la consulta médica.", bold_prefix="Corporalidad (el cuerpo vivido): ")
-    add_num_item(doc, 4, "Los lazos interpersonales y encuentros intersubjetivos gestados en la atención: el saludo cordial (napaykuy), el contacto visual, la empatía, la calidez o frialdad del personal y el diálogo fluido en quechua chanka.", bold_prefix="Relacionalidad (la relación humana vivida): ")
+        rig_data = [
+            ("1. Dependencia (Consistencia Cualitativa)",
+             "Coherencia interna y estabilidad en los procedimientos de recolección y sistematización de los testimonios.",
+             "• Pistas de auditoría transparentes.\n• Registro exhaustivo en la bitácora de campo.\n• Protocolo estandarizado de transcripción fonética y codificación."),
+            ("2. Credibilidad (Validez Interna)",
+             "Fidelidad con la que las interpretaciones reflejan los significados reales vivenciados por los participantes.",
+             "• Triangulación múltiple de métodos y fuentes.\n• Transcripción íntegra palabra por palabra (verbatim).\n• Verificación y chequeo con los participantes (member checking)."),
+            ("3. Transferencia (Aplicabilidad Contextual)",
+             "Posibilidad de transferir los significados a otros contextos con características ecológicas y sociales análogas.",
+             "• Descripción densa y contextualizada del C.S. Belén (Capítulo II).\n• Caracterización sociocultural y lingüística detallada de los informantes."),
+            ("4. Confirmabilidad (Neutralidad Reflexiva)",
+             "Garantía de que los hallazgos surgen de las vivencias reales y no de sesgos o prejuicios del investigador.",
+             "• Práctica rigurosa de la epojé o bracketing fenomenológico.\n• Memos analíticos reflexivos continuos.\n• Auditoría externa y revisión crítica con el asesor Dr. Manglio Aguirre.")
+        ]
+        for row_d in rig_data:
+            row = tbl_rig.add_row()
+            for idx, text in enumerate(row_d):
+                c = row.cells[idx]
+                c.text = text
+                c.width = w_rig[idx]
+                set_cell_margins(c, 80, 80, 120, 120)
+                for p in c.paragraphs:
+                    p.alignment = WD_ALIGN_PARAGRAPH.LEFT
+                    p.paragraph_format.line_spacing = 1.15
+                    for r in p.runs:
+                        format_run(r, size_pt=9.0, bold=(idx == 0))
 
-    add_heading_2(doc, "4.3. Postura epistemológica, reflexividad y reducción fenomenológica (Epojé)")
-    add_body_p(doc, "En contraste con la neutralidad aséptica positivista, la investigadora asume un rol de proximidad sensible y reflexividad rigurosa guiada por tres pilares:")
-    add_bullet_item(doc, "Práctica de la Reducción Fenomenológica (Epojé / Bracketing): ", "Siguiendo a Husserl (1949), Moustakas (1994) y Creswell (2013), la investigadora suspende reflexivamente sus propios juicios previos, experiencias previas como estudiante de enfermería y prejuicios clínicos, para recibir los relatos de los usuarios con total apertura y pureza fenoménica.")
-    add_bullet_item(doc, "Construcción de Confianza (Rapport): ", "Generar un vínculo horizontal de respeto mutuo y calidez humana indispensable para que los informantes exterioricen vivencias íntimas sin temor a ser juzgados.")
-    add_bullet_item(doc, "Empatía Intercultural Andina: ", "Comprender el sentir del usuario desde su propia cosmovisión y condición socioeconómica, dialogando fluidamente en quechua chanka y castellano.")
+        add_heading_2(doc, "4.7. Procedimiento sistemático de análisis cualitativo fenomenológico (Sampieri, Cap. 14 y 15)")
+        add_body_p(doc, "El análisis se rige por las acciones secuenciales de la Figura 15.14 de Hernández-Sampieri y Mendoza (2018, p. 495), articuladas con los métodos de Colaizzi (1978), Moustakas (1994) y Creswell (2013):")
+        add_num_item(doc, 1, "Conversión exacta palabra por palabra de los audios a texto digital dentro de las 24 horas posteriores a la entrevista, preservando pausas y giros en quechua chanka.", bold_prefix="Transcripción íntegra y fonética (verbatim): ")
+        add_num_item(doc, 2, "Inmersión lectora reflexiva en la totalidad de las descripciones para aprehender el sentido global de las vivencias.", bold_prefix="Lectura holística general: ")
+        add_num_item(doc, 3, "Detección de todas las frases y declaraciones clave vinculadas a la experiencia asistencial, otorgando igual valor epistémico inicial a cada testimonio.", bold_prefix="Identificación de unidades de análisis y horizontalización (horizonalization): ")
+        add_num_item(doc, 4, "Estructuración en la matriz analítica de Sampieri y Mendoza (2018, p. 494): (a) Categorías esenciales o comunes (temas compartidos por todos los participantes); y (b) Categorías diferentes o divergentes (apreciaciones y valoraciones disonantes según edad o servicio).", bold_prefix="Generación de categorías esenciales vs. divergentes: ")
+        add_num_item(doc, 5, "Elaboración de la descripción textural (lo que experimentaron objetivamente) y la descripción estructural (cómo y bajo qué condiciones de temporalidad, espacialidad, corporalidad y relacionalidad lo vivenciaron).", bold_prefix="Construcción de descripciones texturales y estructurales: ")
+        add_num_item(doc, 6, "Integración armónica de las descripciones en una narrativa densa que sintetiza la esencia compartida del fenómeno de la calidad asistencial y el acceso.", bold_prefix="Síntesis de la esencia compartida del fenómeno: ")
+        add_num_item(doc, 7, "Devolución de la síntesis a una muestra de participantes informantes para constatar que el reporte refleje fielmente el núcleo de sus experiencias vividas.", bold_prefix="Validación testimonial con los participantes (member checking): ")
 
-    add_heading_2(doc, "4.4. Selección del contexto, participantes informantes y saturación teórica")
-    add_body_p(doc, "Siguiendo a Hernández-Sampieri y Mendoza (2018, p. 493) y Creswell (2013), en el diseño fenomenológico los participantes se seleccionan porque han experimentado en carne propia el fenómeno de interés bajo estudio. Se adopta un muestreo cualitativo no probabilístico intencional, regulado por el principio de saturación teórica (Esbensen et al., 2008), estimándose una muestra referencial de 12 a 18 informantes clave.", bold_prefix="Criterio de Selección y Muestreo: ")
-    add_heading_3(doc, "Criterios de Inclusión:")
-    add_num_item(doc, 1, "Usuarios de ambos sexos, mayores de 18 años, que hayan recibido atención en Medicina, Enfermería (CRED, Inmunizaciones), Obstetricia u Odontología del C.S. Belén en los últimos tres meses.")
-    add_num_item(doc, 2, "Participación estrictamente voluntaria formalizada mediante la firma o huella dactilar del Consentimiento Informado (Anexo 4).")
-    add_num_item(doc, 3, "Capacidad de verbalizar y comunicar sus vivencias y emociones en español o quechua chanka.")
-    add_heading_3(doc, "Criterios de Exclusión:")
-    add_num_item(doc, 1, "Personas con compromiso neurológico agudo o alteraciones del lenguaje que impidan el diálogo fluido.")
-    add_num_item(doc, 2, "Usuarios que acudan exclusivamente a realizar gestiones burocráticas breves en ventanilla sin haber recibido atención clínica asistencial.")
+        # ==========================================================================
+        # SECCIÓN 8: CAPÍTULO V - ASPECTOS ADMINISTRATIVOS
+        # ==========================================================================
+        sec_cap5 = doc.add_section(WD_SECTION.NEW_PAGE)
+        sec_cap5.page_width = Cm(21.0)
+        sec_cap5.page_height = Cm(29.7)
+        sec_cap5.top_margin = Cm(3.0)
+        sec_cap5.left_margin = Cm(3.5)
+        sec_cap5.right_margin = Cm(2.5)
+        sec_cap5.bottom_margin = Cm(2.5)
+        sec_cap5.different_first_page_header_footer = False
+        sec_cap5.header.is_linked_to_previous = False
+        sec_cap5.footer.is_linked_to_previous = False
+        sec_cap5.footer.paragraphs[0].text = ""
+        set_section_pgnum(sec_cap5, start=None, fmt='decimal')
+        setup_header(sec_cap5, "CAPÍTULO V: ASPECTOS ADMINISTRATIVOS")
 
-    add_heading_2(doc, "4.5. Técnicas e instrumentos de recolección de vivencias")
-    add_bullet_item(doc, "Entrevista Fenomenológica en Profundidad: ", "Técnica central (45 a 60 minutos por sesión) conducida mediante preguntas abiertas diseñadas para reconstruir el significado, la estructura y la esencia de la vivencia asistencial (Anexo 1) (Creswell, 2013; Norlyk y Harder, 2010).")
-    add_bullet_item(doc, "Observación Reflexiva no Participante: ", "Registro detallado de la dinámica ambiental, tiempos de espera, gestos corporales y clima relacional en salas de espera y consultorios.")
-    add_bullet_item(doc, "Diario de Campo y Notas de Inmersión: ", "Registro sistemático de impresiones inmediatas, silencios, inflexiones de voz y notas de reflexividad pos-entrevista.")
-    add_bullet_item(doc, "Triangulación de Actores Clave: ", "Articulando el modelo pedagógico del Dr. Manglio Aguirre Andrade, se triangulan tres perspectivas: (a) Usuarios externos / pacientes (vivencia sentida directa); (b) Personal asistencial de salud y enfermería (retos operativos del servicio); y (c) Acompañantes y actores comunitarios (mirada colectiva y social).")
-    add_heading_2(doc, "4.6. Criterios de rigor científico cualitativo (Hernández-Sampieri, Cap. 14)")
-    add_body_p(doc, "En la investigación cualitativa se reemplazan radicalmente los conceptos positivistas de validez y confiabilidad estadística por los cuatro criterios de rigor cualitativo formulados por Roberto Hernández-Sampieri, Carlos Fernández-Collado y Pilar Baptista-Lucio (2014, Cap. 14), articulados con los fundamentos de Lincoln y Guba (1985):")
-    
-    # TABLA DE CRITERIOS DE RIGOR
-    tbl_rig = doc.add_table(rows=1, cols=3)
-    tbl_rig.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    set_table_borders(tbl_rig, color="808080", sz="4", val="single")
-    hdr_rig = ["Criterio de Rigor (Sampieri)", "Definición Metodológica", "Estrategia Operativa de Aseguramiento"]
-    w_rig = [Cm(3.8), Cm(5.6), Cm(6.0)]
-    for i, t in enumerate(hdr_rig):
-        cell = tbl_rig.rows[0].cells[i]
-        cell.text = t
-        cell.width = w_rig[i]
-        set_cell_margins(cell, 100, 100, 120, 120)
-        set_cell_shading(cell, "E8EEF5")
-        for p in cell.paragraphs:
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            for r in p.runs:
-                format_run(r, size_pt=9.5, bold=True)
-                
-    rig_data = [
-        ("1. Dependencia (Consistencia Cualitativa)",
-         "Coherencia interna y estabilidad en los procedimientos de recolección y sistematización de los testimonios.",
-         "• Pistas de auditoría transparentes.\n• Registro exhaustivo en la bitácora de campo.\n• Protocolo estandarizado de transcripción fonética y codificación."),
-        ("2. Credibilidad (Validez Interna)",
-         "Fidelidad con la que las interpretaciones reflejan los significados reales vivenciados por los participantes.",
-         "• Triangulación múltiple de métodos y fuentes.\n• Transcripción íntegra palabra por palabra (verbatim).\n• Verificación y chequeo con los participantes (member checking)."),
-        ("3. Transferencia (Aplicabilidad Contextual)",
-         "Posibilidad de transferir los significados a otros contextos con características ecológicas y sociales análogas.",
-         "• Descripción densa y contextualizada del C.S. Belén (Capítulo II).\n• Caracterización sociocultural y lingüística detallada de los informantes."),
-        ("4. Confirmabilidad (Neutralidad Reflexiva)",
-         "Garantía de que los hallazgos surgen de las vivencias reales y no de sesgos o prejuicios del investigador.",
-         "• Práctica rigurosa de la epojé o bracketing fenomenológico.\n• Memos analíticos reflexivos continuos.\n• Auditoría externa y revisión crítica con el asesor Dr. Manglio Aguirre.")
-    ]
-    for row_d in rig_data:
-        row = tbl_rig.add_row()
-        for idx, text in enumerate(row_d):
-            c = row.cells[idx]
-            c.text = text
-            c.width = w_rig[idx]
-            set_cell_margins(c, 80, 80, 120, 120)
-            for p in c.paragraphs:
-                p.alignment = WD_ALIGN_PARAGRAPH.LEFT
-                p.paragraph_format.line_spacing = 1.15
+        add_heading_1(doc, "CAPÍTULO V: ASPECTOS ADMINISTRATIVOS")
+        add_heading_2(doc, "5.1. Asignación de recursos humanos")
+        add_bullet_item(doc, "Investigadora principal: ", "01 (Gresly Lucero Pariona Palomino, Estudiante de la E.P. Enfermería).")
+        add_bullet_item(doc, "Asesor del proyecto: ", "Dr. Manglio Aguirre Andrade (Docente de la FCS - UNSCH).")
+        add_bullet_item(doc, "Personal de apoyo: ", "02 (Transcripción e intérprete de quechua).")
+
+        add_heading_2(doc, "5.2. Presupuesto")
+
+        # Tabla 1: Pago de Servicios de Personal
+        p = doc.add_paragraph()
+        r = p.add_run("PAGO DE SERVICIOS DE PERSONAL")
+        format_run(r, size_pt=11, bold=True)
+        p.paragraph_format.space_before = Pt(4)
+        p.paragraph_format.space_after = Pt(4)
+
+        tbl_p1 = doc.add_table(rows=1, cols=5)
+        tbl_p1.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_table_borders(tbl_p1, color="808080", sz="4", val="single")
+        hdr_p1 = ["SERVICIOS", "U.M", "CANTIDAD", "C. UNIT. S/.", "TOT. S/."]
+        w_p = [Cm(6.5), Cm(2.0), Cm(2.3), Cm(2.6), Cm(2.6)]
+        for i, t in enumerate(hdr_p1):
+            cell = tbl_p1.rows[0].cells[i]
+            cell.text = t
+            cell.width = w_p[i]
+            set_cell_margins(cell, 100, 100, 120, 120)
+            set_cell_shading(cell, "F0F0F0")
+            for p in cell.paragraphs:
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
                 for r in p.runs:
-                    format_run(r, size_pt=9.0, bold=(idx == 0))
+                    format_run(r, size_pt=9.5, bold=True)
 
-    add_heading_2(doc, "4.7. Procedimiento sistemático de análisis cualitativo fenomenológico (Sampieri, Cap. 14 y 15)")
-    add_body_p(doc, "El análisis se rige por las acciones secuenciales de la Figura 15.14 de Hernández-Sampieri y Mendoza (2018, p. 495), articuladas con los métodos de Colaizzi (1978), Moustakas (1994) y Creswell (2013):")
-    add_num_item(doc, 1, "Conversión exacta palabra por palabra de los audios a texto digital dentro de las 24 horas posteriores a la entrevista, preservando pausas y giros en quechua chanka.", bold_prefix="Transcripción íntegra y fonética (verbatim): ")
-    add_num_item(doc, 2, "Inmersión lectora reflexiva en la totalidad de las descripciones para aprehender el sentido global de las vivencias.", bold_prefix="Lectura holística general: ")
-    add_num_item(doc, 3, "Detección de todas las frases y declaraciones clave vinculadas a la experiencia asistencial, otorgando igual valor epistémico inicial a cada testimonio.", bold_prefix="Identificación de unidades de análisis y horizontalización (horizonalization): ")
-    add_num_item(doc, 4, "Estructuración en la matriz analítica de Sampieri y Mendoza (2018, p. 494): (a) Categorías esenciales o comunes (temas compartidos por todos los participantes); y (b) Categorías diferentes o divergentes (apreciaciones y valoraciones disonantes según edad o servicio).", bold_prefix="Generación de categorías esenciales vs. divergentes: ")
-    add_num_item(doc, 5, "Elaboración de la descripción textural (lo que experimentaron objetivamente) y la descripción estructural (cómo y bajo qué condiciones de temporalidad, espacialidad, corporalidad y relacionalidad lo vivenciaron).", bold_prefix="Construcción de descripciones texturales y estructurales: ")
-    add_num_item(doc, 6, "Integración armónica de las descripciones en una narrativa densa que sintetiza la esencia compartida del fenómeno de la calidad asistencial y el acceso.", bold_prefix="Síntesis de la esencia compartida del fenómeno: ")
-    add_num_item(doc, 7, "Devolución de la síntesis a una muestra de participantes informantes para constatar que el reporte refleje fielmente el núcleo de sus experiencias vividas.", bold_prefix="Validación testimonial con los participantes (member checking): ")
-    
-    # ==========================================================================
-    # SECCIÓN 8: CAPÍTULO V - ASPECTOS ADMINISTRATIVOS
-    # ==========================================================================
-    sec_cap5 = doc.add_section(WD_SECTION.NEW_PAGE)
-    sec_cap5.page_width = Cm(21.0)
-    sec_cap5.page_height = Cm(29.7)
-    sec_cap5.top_margin = Cm(3.0)
-    sec_cap5.left_margin = Cm(3.5)
-    sec_cap5.right_margin = Cm(2.5)
-    sec_cap5.bottom_margin = Cm(2.5)
-    sec_cap5.different_first_page_header_footer = False
-    sec_cap5.header.is_linked_to_previous = False
-    sec_cap5.footer.is_linked_to_previous = False
-    sec_cap5.footer.paragraphs[0].text = ""
-    set_section_pgnum(sec_cap5, start=None, fmt='decimal')
-    setup_header(sec_cap5, "CAPÍTULO V: ASPECTOS ADMINISTRATIVOS")
-    
-    add_heading_1(doc, "CAPÍTULO V: ASPECTOS ADMINISTRATIVOS")
-    add_heading_2(doc, "5.1. Asignación de recursos humanos")
-    add_bullet_item(doc, "Investigadora principal: ", "01 (Gresly Lucero Pariona Palomino, Estudiante de la E.P. Enfermería).")
-    add_bullet_item(doc, "Asesor del proyecto: ", "Dr. Manglio Aguirre Andrade (Docente de la FCS - UNSCH).")
-    add_bullet_item(doc, "Personal de apoyo: ", "02 (Transcripción e intérprete de quechua).")
-    
-    add_heading_2(doc, "5.2. Presupuesto")
-    
-    # Tabla 1: Pago de Servicios de Personal
-    p = doc.add_paragraph()
-    r = p.add_run("PAGO DE SERVICIOS DE PERSONAL")
-    format_run(r, size_pt=11, bold=True)
-    p.paragraph_format.space_before = Pt(4)
-    p.paragraph_format.space_after = Pt(4)
-    
-    tbl_p1 = doc.add_table(rows=1, cols=5)
-    tbl_p1.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    set_table_borders(tbl_p1, color="808080", sz="4", val="single")
-    hdr_p1 = ["SERVICIOS", "U.M", "CANTIDAD", "C. UNIT. S/.", "TOT. S/."]
-    w_p = [Cm(6.5), Cm(2.0), Cm(2.3), Cm(2.6), Cm(2.6)]
-    for i, t in enumerate(hdr_p1):
-        cell = tbl_p1.rows[0].cells[i]
-        cell.text = t
-        cell.width = w_p[i]
-        set_cell_margins(cell, 100, 100, 120, 120)
-        set_cell_shading(cell, "F0F0F0")
-        for p in cell.paragraphs:
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            for r in p.runs:
-                format_run(r, size_pt=9.5, bold=True)
-                
-    rows_p1 = [
-        ("Coasesor / Especialista temático", "Mes", "04", "500.00", "2000.00"),
-        ("Personal de apoyo (02)", "Mes", "02", "500.00", "1000.00"),
-        ("SUB TOTAL", "", "", "", "3000.00")
-    ]
-    for row_d in rows_p1:
-        row = tbl_p1.add_row()
-        for idx, text in enumerate(row_d):
-            c = row.cells[idx]
-            c.text = text
-            c.width = w_p[idx]
-            set_cell_margins(c, 80, 80, 120, 120)
-            if row_d[0] == "SUB TOTAL":
-                set_cell_shading(c, "F5F5F5")
-            for p in c.paragraphs:
-                p.alignment = WD_ALIGN_PARAGRAPH.RIGHT if idx >= 3 else (WD_ALIGN_PARAGRAPH.CENTER if idx in [1,2] else WD_ALIGN_PARAGRAPH.LEFT)
-                for r in p.runs:
-                    format_run(r, size_pt=9.5, bold=(row_d[0] == "SUB TOTAL"))
-                    
-    # Tabla 2: Programación de Otros Servicios
-    p = doc.add_paragraph()
-    r = p.add_run("PROGRAMACIÓN DE OTROS SERVICIOS")
-    format_run(r, size_pt=11, bold=True)
-    p.paragraph_format.space_before = Pt(8)
-    p.paragraph_format.space_after = Pt(4)
-    
-    tbl_p2 = doc.add_table(rows=1, cols=5)
-    tbl_p2.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    set_table_borders(tbl_p2, color="808080", sz="4", val="single")
-    for i, t in enumerate(hdr_p1):
-        cell = tbl_p2.rows[0].cells[i]
-        cell.text = t
-        cell.width = w_p[i]
-        set_cell_margins(cell, 100, 100, 120, 120)
-        set_cell_shading(cell, "F0F0F0")
-        for p in cell.paragraphs:
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            for r in p.runs:
-                format_run(r, size_pt=9.5, bold=True)
-                
-    rows_p2 = [
-        ("Impresiones y fotocopias", "Hojas", "1000", "0.20", "200.00"),
-        ("Internet y conectividad", "Hora", "200", "1.00", "200.00"),
-        ("Procesamiento y codificación cualitativa", "Unidad", "01", "500.00", "500.00"),
-        ("Empastado de tesis/proyectos", "Unidad", "05", "20.00", "100.00"),
-        ("Traslado y movilidad local", "Días", "20", "10.00", "200.00"),
-        ("SUB TOTAL", "", "", "", "1200.00")
-    ]
-    for row_d in rows_p2:
-        row = tbl_p2.add_row()
-        for idx, text in enumerate(row_d):
-            c = row.cells[idx]
-            c.text = text
-            c.width = w_p[idx]
-            set_cell_margins(c, 80, 80, 120, 120)
-            if row_d[0] == "SUB TOTAL":
-                set_cell_shading(c, "F5F5F5")
-            for p in c.paragraphs:
-                p.alignment = WD_ALIGN_PARAGRAPH.RIGHT if idx >= 3 else (WD_ALIGN_PARAGRAPH.CENTER if idx in [1,2] else WD_ALIGN_PARAGRAPH.LEFT)
-                for r in p.runs:
-                    format_run(r, size_pt=9.5, bold=(row_d[0] == "SUB TOTAL"))
+        rows_p1 = [
+            ("Coasesor / Especialista temático", "Mes", "04", "500.00", "2000.00"),
+            ("Personal de apoyo (02)", "Mes", "02", "500.00", "1000.00"),
+            ("SUB TOTAL", "", "", "", "3000.00")
+        ]
+        for row_d in rows_p1:
+            row = tbl_p1.add_row()
+            for idx, text in enumerate(row_d):
+                c = row.cells[idx]
+                c.text = text
+                c.width = w_p[idx]
+                set_cell_margins(c, 80, 80, 120, 120)
+                if row_d[0] == "SUB TOTAL":
+                    set_cell_shading(c, "F5F5F5")
+                for p in c.paragraphs:
+                    p.alignment = WD_ALIGN_PARAGRAPH.RIGHT if idx >= 3 else (WD_ALIGN_PARAGRAPH.CENTER if idx in [1,2] else WD_ALIGN_PARAGRAPH.LEFT)
+                    for r in p.runs:
+                        format_run(r, size_pt=9.5, bold=(row_d[0] == "SUB TOTAL"))
 
-    # Tabla 3: Adquisición de Materiales
-    p = doc.add_paragraph()
-    r = p.add_run("ADQUISICIÓN DE MATERIALES Y OTROS")
-    format_run(r, size_pt=11, bold=True)
-    p.paragraph_format.space_before = Pt(8)
-    p.paragraph_format.space_after = Pt(4)
-    
-    tbl_p3 = doc.add_table(rows=1, cols=5)
-    tbl_p3.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    set_table_borders(tbl_p3, color="808080", sz="4", val="single")
-    hdr_mat = ["MATERIALES", "U.M", "CANTIDAD", "C. UNIT. S/.", "TOT. S/."]
-    for i, t in enumerate(hdr_mat):
-        cell = tbl_p3.rows[0].cells[i]
-        cell.text = t
-        cell.width = w_p[i]
-        set_cell_margins(cell, 100, 100, 120, 120)
-        set_cell_shading(cell, "F0F0F0")
-        for p in cell.paragraphs:
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            for r in p.runs:
-                format_run(r, size_pt=9.5, bold=True)
-                
-    rows_p3 = [
-        ("Material bibliográfico especializado", "Unidad", "02", "50.00", "100.00"),
-        ("Papel Bond A4 80 gr.", "Millar", "02", "25.00", "50.00"),
-        ("Memoria USB 32 GB", "Unidad", "02", "40.00", "80.00"),
-        ("Carpetas y fólderes", "Unidad", "10", "1.00", "10.00"),
-        ("Lapiceros y resaltadores", "Unidad", "10", "2.00", "20.00"),
-        ("Mascarillas KN95 y bioseguridad", "Caja", "02", "20.00", "40.00"),
-        ("Alcohol en gel / líquido 70%", "Litro", "02", "10.00", "20.00"),
-        ("Imprevistos / Otros", "Global", "01", "80.00", "80.00"),
-        ("SUB TOTAL", "", "", "", "400.00")
-    ]
-    for row_d in rows_p3:
-        row = tbl_p3.add_row()
-        for idx, text in enumerate(row_d):
-            c = row.cells[idx]
-            c.text = text
-            c.width = w_p[idx]
-            set_cell_margins(c, 80, 80, 120, 120)
-            if row_d[0] == "SUB TOTAL":
-                set_cell_shading(c, "F5F5F5")
-            for p in c.paragraphs:
-                p.alignment = WD_ALIGN_PARAGRAPH.RIGHT if idx >= 3 else (WD_ALIGN_PARAGRAPH.CENTER if idx in [1,2] else WD_ALIGN_PARAGRAPH.LEFT)
+        # Tabla 2: Programación de Otros Servicios
+        p = doc.add_paragraph()
+        r = p.add_run("PROGRAMACIÓN DE OTROS SERVICIOS")
+        format_run(r, size_pt=11, bold=True)
+        p.paragraph_format.space_before = Pt(8)
+        p.paragraph_format.space_after = Pt(4)
+
+        tbl_p2 = doc.add_table(rows=1, cols=5)
+        tbl_p2.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_table_borders(tbl_p2, color="808080", sz="4", val="single")
+        for i, t in enumerate(hdr_p1):
+            cell = tbl_p2.rows[0].cells[i]
+            cell.text = t
+            cell.width = w_p[i]
+            set_cell_margins(cell, 100, 100, 120, 120)
+            set_cell_shading(cell, "F0F0F0")
+            for p in cell.paragraphs:
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
                 for r in p.runs:
-                    format_run(r, size_pt=9.5, bold=(row_d[0] == "SUB TOTAL"))
-                    
-    # TOTAL
-    p_tot = doc.add_paragraph()
-    p_tot.paragraph_format.space_before = Pt(8)
-    p_tot.paragraph_format.space_after = Pt(6)
-    r = p_tot.add_run("COSTO TOTAL DEL PROYECTO: S/. 4,600.00 Soles")
-    format_run(r, size_pt=12, bold=True)
-    
-    add_heading_2(doc, "5.3. Financiamiento")
-    add_body_p(doc, "El proyecto de investigación será autofinanciado de manera integral por la investigadora principal.")
-    
-    add_heading_2(doc, "5.4. Cronograma de actividades")
-    add_body_p(doc, "El dimensionamiento temporal del proyecto se sustenta en la técnica de evaluación y revisión de programas (PERT), calculándose el tiempo estimado (te) mediante la formulación: te = (O + 4m + P) / 6, donde O representa el tiempo optimista, m el tiempo más probable y P el tiempo pesimista.")
-    add_body_p(doc, "Asimismo, tal como enfatizó el docente en la cátedra de EN 486, la planificación administrativa de una tesis de pregrado debe ponderar con realismo la brecha existente entre los plazos normativos formales y la realidad académica universitaria: la formulación rigurosa del proyecto demanda aproximadamente cuatro meses tras culminar el ciclo académico (Serie 47); los trámites de dictamen y aprobación ante el Comité Institucional de Ética en Investigación (CIEI) y el Consejo de Facultad suelen tomar entre seis a ocho meses en la práctica; y la fase de ejecución de campo exige un periodo indispensable de al menos tres meses para garantizar inmersión reflexiva, construcción de confianza interpersonal con los informantes y saturación teórica efectiva. Con base en este análisis crítico, se establece un horizonte operativo sistemático de seis (06) meses para la fase de ejecución y dictamen final, programado de agosto de 2026 a enero de 2027.")
-    
-    # Tabla Cronograma
-    tbl_cron = doc.add_table(rows=1, cols=7)
-    tbl_cron.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    set_table_borders(tbl_cron, color="808080", sz="4", val="single")
-    hdr_cron = ["Actividades", "Ago 2026", "Set 2026", "Oct 2026", "Nov 2026", "Dic 2026", "Ene 2027"]
-    w_cron = [Cm(6.0), Cm(1.6), Cm(1.6), Cm(1.6), Cm(1.6), Cm(1.6), Cm(1.6)]
-    for i, t in enumerate(hdr_cron):
-        cell = tbl_cron.rows[0].cells[i]
-        cell.text = t
-        cell.width = w_cron[i]
-        set_cell_margins(cell, 100, 100, 100, 100)
-        set_cell_shading(cell, "F0F0F0")
-        for p in cell.paragraphs:
-            p.alignment = WD_ALIGN_PARAGRAPH.CENTER
-            for r in p.runs:
-                format_run(r, size_pt=9.5, bold=True)
-                
-    cron_data = [
-        ("Presentación del proyecto", "X", "", "", "", "", ""),
-        ("Aprobación del proyecto", "", "X", "", "", "", ""),
-        ("Validación de instrumentos", "", "", "X", "", "", ""),
-        ("Revisión del marco teórico", "", "", "X", "X", "", ""),
-        ("Coordinación con el establecimiento de salud", "", "", "", "X", "", ""),
-        ("Recolección de datos (entrevistas)", "", "", "", "X", "X", ""),
-        ("Transcripción y procesamiento cualitativo", "", "", "", "", "X", ""),
-        ("Análisis cualitativo e interpretación", "", "", "", "", "X", ""),
-        ("Presentación del informe final", "", "", "", "", "", "X"),
-        ("Sustentación de la tesis", "", "", "", "", "", "X")
-    ]
-    for row_d in cron_data:
-        row = tbl_cron.add_row()
-        for idx, text in enumerate(row_d):
-            c = row.cells[idx]
-            c.text = text
-            c.width = w_cron[idx]
-            set_cell_margins(c, 80, 80, 100, 100)
-            for p in c.paragraphs:
-                p.alignment = WD_ALIGN_PARAGRAPH.CENTER if idx > 0 else WD_ALIGN_PARAGRAPH.LEFT
+                    format_run(r, size_pt=9.5, bold=True)
+
+        rows_p2 = [
+            ("Impresiones y fotocopias", "Hojas", "1000", "0.20", "200.00"),
+            ("Internet y conectividad", "Hora", "200", "1.00", "200.00"),
+            ("Procesamiento y codificación cualitativa", "Unidad", "01", "500.00", "500.00"),
+            ("Empastado de tesis/proyectos", "Unidad", "05", "20.00", "100.00"),
+            ("Traslado y movilidad local", "Días", "20", "10.00", "200.00"),
+            ("SUB TOTAL", "", "", "", "1200.00")
+        ]
+        for row_d in rows_p2:
+            row = tbl_p2.add_row()
+            for idx, text in enumerate(row_d):
+                c = row.cells[idx]
+                c.text = text
+                c.width = w_p[idx]
+                set_cell_margins(c, 80, 80, 120, 120)
+                if row_d[0] == "SUB TOTAL":
+                    set_cell_shading(c, "F5F5F5")
+                for p in c.paragraphs:
+                    p.alignment = WD_ALIGN_PARAGRAPH.RIGHT if idx >= 3 else (WD_ALIGN_PARAGRAPH.CENTER if idx in [1,2] else WD_ALIGN_PARAGRAPH.LEFT)
+                    for r in p.runs:
+                        format_run(r, size_pt=9.5, bold=(row_d[0] == "SUB TOTAL"))
+
+        # Tabla 3: Adquisición de Materiales
+        p = doc.add_paragraph()
+        r = p.add_run("ADQUISICIÓN DE MATERIALES Y OTROS")
+        format_run(r, size_pt=11, bold=True)
+        p.paragraph_format.space_before = Pt(8)
+        p.paragraph_format.space_after = Pt(4)
+
+        tbl_p3 = doc.add_table(rows=1, cols=5)
+        tbl_p3.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_table_borders(tbl_p3, color="808080", sz="4", val="single")
+        hdr_mat = ["MATERIALES", "U.M", "CANTIDAD", "C. UNIT. S/.", "TOT. S/."]
+        for i, t in enumerate(hdr_mat):
+            cell = tbl_p3.rows[0].cells[i]
+            cell.text = t
+            cell.width = w_p[i]
+            set_cell_margins(cell, 100, 100, 120, 120)
+            set_cell_shading(cell, "F0F0F0")
+            for p in cell.paragraphs:
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
                 for r in p.runs:
-                    format_run(r, size_pt=9.5, bold=(text == "X"))
-                    
+                    format_run(r, size_pt=9.5, bold=True)
+
+        rows_p3 = [
+            ("Material bibliográfico especializado", "Unidad", "02", "50.00", "100.00"),
+            ("Papel Bond A4 80 gr.", "Millar", "02", "25.00", "50.00"),
+            ("Memoria USB 32 GB", "Unidad", "02", "40.00", "80.00"),
+            ("Carpetas y fólderes", "Unidad", "10", "1.00", "10.00"),
+            ("Lapiceros y resaltadores", "Unidad", "10", "2.00", "20.00"),
+            ("Mascarillas KN95 y bioseguridad", "Caja", "02", "20.00", "40.00"),
+            ("Alcohol en gel / líquido 70%", "Litro", "02", "10.00", "20.00"),
+            ("Imprevistos / Otros", "Global", "01", "80.00", "80.00"),
+            ("SUB TOTAL", "", "", "", "400.00")
+        ]
+        for row_d in rows_p3:
+            row = tbl_p3.add_row()
+            for idx, text in enumerate(row_d):
+                c = row.cells[idx]
+                c.text = text
+                c.width = w_p[idx]
+                set_cell_margins(c, 80, 80, 120, 120)
+                if row_d[0] == "SUB TOTAL":
+                    set_cell_shading(c, "F5F5F5")
+                for p in c.paragraphs:
+                    p.alignment = WD_ALIGN_PARAGRAPH.RIGHT if idx >= 3 else (WD_ALIGN_PARAGRAPH.CENTER if idx in [1,2] else WD_ALIGN_PARAGRAPH.LEFT)
+                    for r in p.runs:
+                        format_run(r, size_pt=9.5, bold=(row_d[0] == "SUB TOTAL"))
+
+        # TOTAL
+        p_tot = doc.add_paragraph()
+        p_tot.paragraph_format.space_before = Pt(8)
+        p_tot.paragraph_format.space_after = Pt(6)
+        r = p_tot.add_run("COSTO TOTAL DEL PROYECTO: S/. 4,600.00 Soles")
+        format_run(r, size_pt=12, bold=True)
+
+        add_heading_2(doc, "5.3. Financiamiento")
+        add_body_p(doc, "El proyecto de investigación será autofinanciado de manera integral por la investigadora principal.")
+
+        add_heading_2(doc, "5.4. Cronograma de actividades")
+        add_body_p(doc, "El dimensionamiento temporal del proyecto se sustenta en la técnica de evaluación y revisión de programas (PERT), calculándose el tiempo estimado (te) mediante la formulación: te = (O + 4m + P) / 6, donde O representa el tiempo optimista, m el tiempo más probable y P el tiempo pesimista.")
+        add_body_p(doc, "Asimismo, tal como enfatizó el docente en la cátedra de EN 486, la planificación administrativa de una tesis de pregrado debe ponderar con realismo la brecha existente entre los plazos normativos formales y la realidad académica universitaria: la formulación rigurosa del proyecto demanda aproximadamente cuatro meses tras culminar el ciclo académico (Serie 47); los trámites de dictamen y aprobación ante el Comité Institucional de Ética en Investigación (CIEI) y el Consejo de Facultad suelen tomar entre seis a ocho meses en la práctica; y la fase de ejecución de campo exige un periodo indispensable de al menos tres meses para garantizar inmersión reflexiva, construcción de confianza interpersonal con los informantes y saturación teórica efectiva. Con base en este análisis crítico, se establece un horizonte operativo sistemático de seis (06) meses para la fase de ejecución y dictamen final, programado de agosto de 2026 a enero de 2027.")
+
+        # Tabla Cronograma
+        tbl_cron = doc.add_table(rows=1, cols=7)
+        tbl_cron.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        set_table_borders(tbl_cron, color="808080", sz="4", val="single")
+        hdr_cron = ["Actividades", "Ago 2026", "Set 2026", "Oct 2026", "Nov 2026", "Dic 2026", "Ene 2027"]
+        w_cron = [Cm(6.0), Cm(1.6), Cm(1.6), Cm(1.6), Cm(1.6), Cm(1.6), Cm(1.6)]
+        for i, t in enumerate(hdr_cron):
+            cell = tbl_cron.rows[0].cells[i]
+            cell.text = t
+            cell.width = w_cron[i]
+            set_cell_margins(cell, 100, 100, 100, 100)
+            set_cell_shading(cell, "F0F0F0")
+            for p in cell.paragraphs:
+                p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                for r in p.runs:
+                    format_run(r, size_pt=9.5, bold=True)
+
+        cron_data = [
+            ("Presentación del proyecto", "X", "", "", "", "", ""),
+            ("Aprobación del proyecto", "", "X", "", "", "", ""),
+            ("Validación de instrumentos", "", "", "X", "", "", ""),
+            ("Revisión del marco teórico", "", "", "X", "X", "", ""),
+            ("Coordinación con el establecimiento de salud", "", "", "", "X", "", ""),
+            ("Recolección de datos (entrevistas)", "", "", "", "X", "X", ""),
+            ("Transcripción y procesamiento cualitativo", "", "", "", "", "X", ""),
+            ("Análisis cualitativo e interpretación", "", "", "", "", "X", ""),
+            ("Presentación del informe final", "", "", "", "", "", "X"),
+            ("Sustentación de la tesis", "", "", "", "", "", "X")
+        ]
+        for row_d in cron_data:
+            row = tbl_cron.add_row()
+            for idx, text in enumerate(row_d):
+                c = row.cells[idx]
+                c.text = text
+                c.width = w_cron[idx]
+                set_cell_margins(c, 80, 80, 100, 100)
+                for p in c.paragraphs:
+                    p.alignment = WD_ALIGN_PARAGRAPH.CENTER if idx > 0 else WD_ALIGN_PARAGRAPH.LEFT
+                    for r in p.runs:
+                        format_run(r, size_pt=9.5, bold=(text == "X"))
+
+
     # ==========================================================================
     # SECCIÓN 9: REFERENCIAS BIBLIOGRÁFICAS (Normas Vancouver)
     # ==========================================================================
@@ -1175,30 +1165,26 @@ def build_protocolo_word(output_path):
     format_run(r, size_pt=14, bold=True)
     
     referencias = [
-        (1, "Hernández-Sampieri R, Mendoza CP. Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. Ciudad de México: McGraw-Hill; 2018."),
-        (2, "Donabedian A. The definition of quality and approaches to its assessment. Ann Arbor: Health Administration Press; 2005."),
-        (3, "Watson J. Nursing: The philosophy and science of caring. 2nd ed. Boulder: University Press of Colorado; 2008."),
-        (4, "Husserl E. Ideas relativas a una fenomenología pura y una filosofía fenomenológica. Gaos J, traductor. México D.F.: Fondo de Cultura Económica; 1949."),
-        (5, "Creswell JW. Qualitative inquiry and research design: Choosing among five approaches. 3rd ed. Thousand Oaks (CA): SAGE Publications; 2013."),
-        (6, "van Manen M. Researching lived experience: Human science for an action sensitive pedagogy. Albany (NY): State University of New York Press; 1990."),
-        (7, "Moustakas C. Phenomenological research methods. Thousand Oaks (CA): SAGE Publications; 1994."),
-        (8, "Norlyk A, Harder I. What makes a phenomenological study phenomenological? An analysis of peer-reviewed empirical nursing studies. Qual Health Res. 2010;20(3):420-31."),
-        (9, "Benner P. From novice to expert: Excellence and power in clinical nursing practice. Commemorative ed. Upper Saddle River (NJ): Prentice Hall; 2008."),
-        (10, "Wilson HS. Research in nursing. 3rd ed. Redwood City (CA): Addison-Wesley; 2007."),
-        (11, "Esbensen BA, Swane CE, Hallberg IR, Thome B. Being a next of kin to an elderly person with cancer: Experiences of the relationship to the person with cancer and to the health care system. Eur J Oncol Nurs. 2008;12(1):40-8."),
-        (12, "Lincoln YS, Guba EG. Naturalistic Inquiry. Beverly Hills (CA): SAGE Publications; 1985."),
-        (13, "Quintana L, Hermida J. La hermenéutica como método de interpretación de textos en la investigación psicoanalítica. Rev Psicolog Cienc Afines. 2019;16(2):73-80."),
-        (14, "Montes-Sosa G, Castillo-Sanguino N. El método fenomenológico en la investigación educativa. Diálogos sobre educ. 2024;15(29):1-15."),
-        (15, "Cotán Fernández A. El método etnográfico como construcción de conocimiento. MÁRGENES. 2020;1(1):83-103."),
-        (16, "Okuda Benavides M, Gómez-Restrepo C. Métodos en investigación cualitativa: triangulación. Rev Colomb Psiquiatr. 2005;34(1):118-24."),
-        (17, "Ministerio de Salud del Perú. Política Nacional de Calidad en Salud. Lima: MINSA; 2021."),
-        (18, "Pineda EB, De Alvarado EL, De Canales FH. Metodología de la investigación: manual para el desarrollo de personal de salud. 2da ed. Washington D.C.: OPS/OMS; 1994."),
-        (19, "Katayama Omura RJ. Introducción a la investigación cualitativa: fundamentos, métodos, estrategias y técnicas. Lima: Fondo Editorial UIGV; 2014."),
-        (20, "Ministerio de Salud del Perú. Líneas de Investigación en Salud al 2030: Resolución Ministerial N° 424-2025/MINSA. Lima: MINSA; 2025."),
-        (21, "Dirección Regional de Salud de Ayacucho. Prioridades Regionales de Investigación en Salud de Ayacucho 2025–2030. Ayacucho: DIRESA; 2025."),
-        (22, "Aguirre-Andrade M, Tenorio-Acosta I, Rivas-Díaz L, Valenzuela-Oré F, Sánchez-Simbrón M, Quino-Huamaní F. Promoción de salud y nivel de salubridad de las familias, en comunidades del Distrito de Cangallo, Ayacucho 2020. Rev Investig Salud. 2020;14(2):45-58."),
-        (23, "Asociación Médica Mundial. Declaración de Helsinki de la AMM: Principios éticos para las investigaciones médicas en seres humanos. Ferney-Voltaire: WMA; 2013."),
-        (24, "Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS). Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos. Ginebra: CIOMS; 2016.")
+        (1, "World Health Organization, OECD, The World Bank. Delivering quality health services: a global imperative for universal health coverage. Geneva: World Health Organization; 2018."),
+        (2, "Ministerio de Salud del Perú. Política Nacional de Calidad en Salud: Documento Técnico. Lima: MINSA; 2021."),
+        (3, "Ministerio de Salud del Perú. Líneas de Investigación en Salud al 2030: Resolución Ministerial N° 424-2025/MINSA. Lima: MINSA; 2025."),
+        (4, "Dirección Regional de Salud de Ayacucho. Prioridades Regionales de Investigación en Salud de Ayacucho 2025–2030. Ayacucho: DIRESA Ayacucho; 2025."),
+        (5, "Hernández-Sampieri R, Mendoza CP. Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. Ciudad de México: McGraw-Hill; 2018."),
+        (6, "Creswell JW. Qualitative inquiry and research design: Choosing among five approaches. 3rd ed. Thousand Oaks (CA): SAGE Publications; 2013."),
+        (7, "Husserl E. Ideas relativas a una fenomenología pura y una filosofía fenomenológica. Gaos J, traductor. México D.F.: Fondo de Cultura Económica; 1949."),
+        (8, "van Manen M. Researching lived experience: Human science for an action sensitive pedagogy. Albany (NY): State University of New York Press; 1990."),
+        (9, "Donabedian A. Explorations in Quality Assessment and Monitoring. Vol. 1: The Definition of Quality and Approaches to its Assessment. Ann Arbor (MI): Health Administration Press; 1980."),
+        (10, "Donabedian A. Evaluating the quality of medical care. 1966. Milbank Q. 2005;83(4):691-729."),
+        (11, "Penchansky R, Thomas JW. The concept of access: definition and relationship to consumer satisfaction. Med Care. 1981;19(2):127-40."),
+        (12, "Watson J. Nursing: The philosophy and science of caring. 2nd ed. Boulder: University Press of Colorado; 2008."),
+        (13, "Lincoln YS, Guba EG. Naturalistic Inquiry. Beverly Hills (CA): SAGE Publications; 1985."),
+        (14, "Okuda Benavides M, Gómez-Restrepo C. Métodos en investigación cualitativa: triangulación. Rev Colomb Psiquiatr. 2005;34(1):118-24."),
+        (15, "Bunge M. La ciencia, su método y su filosofía. Buenos Aires: Editorial Sudamericana; 2014."),
+        (16, "Asociación Médica Mundial. Declaración de Helsinki de la AMM: Principios éticos para las investigaciones médicas en seres humanos. Ferney-Voltaire: WMA; 2013."),
+        (17, "Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS). Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos. Ginebra: CIOMS; 2016."),
+        (18, "Aguirre-Andrade M, Tenorio-Acosta I, Rivas-Díaz L, Valenzuela-Oré F, Sánchez-Simbrón M, Quino-Huamaní F. Promoción de salud y nivel de salubridad de las familias, en comunidades del Distrito de Cangallo, Ayacucho 2020. Rev Investig Salud. 2020;14(2):45-58."),
+        (19, "Parasuraman A, Zeithaml VA, Berry LL. SERVQUAL: A multiple-item scale for measuring consumer perceptions of service quality. J Retailing. 1988;64(1):12-40."),
+        (20, "Ministerio de Salud del Perú. Guía técnica para la evaluación de la satisfacción del usuario externo en los establecimientos de salud y servicios médicos de apoyo: Resolución Ministerial N° 527-2011/MINSA. Lima: MINSA; 2011.")
     ]
     
     for num, texto in referencias:

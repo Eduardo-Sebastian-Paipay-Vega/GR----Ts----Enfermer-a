@@ -1,7 +1,7 @@
 # Graph Report - GRESLY  (2026-10-03)
 
 ## Corpus Check
-- 93 files · ~354,055 words
+- 93 files · ~353,728 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
@@ -10,7 +10,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `8819a9ed`
+- Built from commit: `01cb32ac`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 

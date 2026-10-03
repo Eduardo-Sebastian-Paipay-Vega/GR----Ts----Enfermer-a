@@ -9511,7 +9511,7 @@
       "label": "ANEXOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L575",
+      "source_location": "L562",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexos",
       "community": 390,
       "norm_label": "anexos"
@@ -9520,7 +9520,7 @@
       "label": "ANEXO 1: GU\u00cdA DE ENTREVISTA A PROFUNDIDAD FENOMENOL\u00d3GICA SEMIESTRUCTURADA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L577",
+      "source_location": "L564",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_1_gu\u00eda_de_entrevista_a_profundidad_fenomenol\u00f3gica_semiestructurada",
       "community": 390,
       "norm_label": "anexo 1: guia de entrevista a profundidad fenomenologica semiestructurada"
@@ -9529,7 +9529,7 @@
       "label": "ANEXO 2: MATRIZ DE CONSISTENCIA FENOMENOL\u00d3GICA CUALITATIVA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L599",
+      "source_location": "L586",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_2_matriz_de_consistencia_fenomenol\u00f3gica_cualitativa",
       "community": 390,
       "norm_label": "anexo 2: matriz de consistencia fenomenologica cualitativa"
@@ -9538,7 +9538,7 @@
       "label": "ANEXO 3: FORMATO DE JUICIO DE EXPERTOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L609",
+      "source_location": "L596",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_3_formato_de_juicio_de_expertos",
       "community": 390,
       "norm_label": "anexo 3: formato de juicio de expertos"
@@ -9547,7 +9547,7 @@
       "label": "ANEXO 4: MODELO DE CONSENTIMIENTO INFORMADO",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L645",
+      "source_location": "L632",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_4_modelo_de_consentimiento_informado",
       "community": 390,
       "norm_label": "anexo 4: modelo de consentimiento informado"
@@ -9556,7 +9556,7 @@
       "label": "ANEXO 5: MODELO DE CARTA DE ASESOR\u00cdA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L665",
+      "source_location": "L652",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_5_modelo_de_carta_de_asesor\u00eda",
       "community": 390,
       "norm_label": "anexo 5: modelo de carta de asesoria"
@@ -17358,9 +17358,9 @@
       "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md",
-      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "confidence_score": 1.0
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex"
     },
     {
       "relation": "contains",
@@ -17368,9 +17368,9 @@
       "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito",
-      "confidence_score": 1.0
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito"
     },
     {
       "relation": "contains",
@@ -17378,9 +17378,9 @@
       "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado",
-      "confidence_score": 1.0
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado"
     },
     {
       "relation": "contains",
@@ -17388,9 +17388,9 @@
       "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado",
-      "confidence_score": 1.0
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado"
     },
     {
       "relation": "contains",
@@ -17678,9 +17678,9 @@
       "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md",
-      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "confidence_score": 1.0
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex"
     },
     {
       "relation": "contains",
@@ -17688,9 +17688,9 @@
       "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito",
-      "confidence_score": 1.0
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito"
     },
     {
       "relation": "contains",
@@ -17698,9 +17698,9 @@
       "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado",
-      "confidence_score": 1.0
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado"
     },
     {
       "relation": "contains",
@@ -17708,9 +17708,9 @@
       "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
-      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado",
-      "confidence_score": 1.0
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado"
     },
     {
       "relation": "contains",
@@ -18728,9 +18728,9 @@
       "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_00_metadatos_md",
-      "target": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado"
     },
     {
       "relation": "contains",
@@ -18738,9 +18738,9 @@
       "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
-      "target": "00_contexto_sellado_00_metadatos_1_metadatos_administrativos_y_de_formato",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_00_metadatos_1_metadatos_administrativos_y_de_formato"
     },
     {
       "relation": "contains",
@@ -18748,9 +18748,9 @@
       "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
       "source_location": "L35",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
-      "target": "00_contexto_sellado_00_metadatos_2_metadatos_epistemol\u00f3gicos_y_metodol\u00f3gicos",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_00_metadatos_2_metadatos_epistemol\u00f3gicos_y_metodol\u00f3gicos"
     },
     {
       "relation": "contains",
@@ -18758,9 +18758,9 @@
       "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
-      "target": "00_contexto_sellado_00_metadatos_3_metadatos_muestrales_y_unidad_de_informaci\u00f3n",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_00_metadatos_3_metadatos_muestrales_y_unidad_de_informaci\u00f3n"
     },
     {
       "relation": "contains",
@@ -18768,9 +18768,9 @@
       "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_01_matriz_consistencia_md",
-      "target": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado"
     },
     {
       "relation": "contains",
@@ -18778,9 +18778,9 @@
       "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado",
-      "target": "00_contexto_sellado_01_matriz_consistencia_cl\u00e1usula_de_bloqueo_y_trazabilidad",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_01_matriz_consistencia_cl\u00e1usula_de_bloqueo_y_trazabilidad"
     },
     {
       "relation": "contains",
@@ -18788,9 +18788,9 @@
       "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado",
-      "target": "00_contexto_sellado_01_matriz_consistencia_tabla_maestra_de_correspondencia_biun\u00edvoca_1_1",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_01_matriz_consistencia_tabla_maestra_de_correspondencia_biun\u00edvoca_1_1"
     },
     {
       "relation": "contains",
@@ -18798,9 +18798,9 @@
       "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_02_operacionalizacion_md",
-      "target": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado"
     },
     {
       "relation": "contains",
@@ -18808,9 +18808,9 @@
       "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
-      "target": "00_contexto_sellado_02_operacionalizacion_aclaraci\u00f3n_epistemol\u00f3gica_obligatoria",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_02_operacionalizacion_aclaraci\u00f3n_epistemol\u00f3gica_obligatoria"
     },
     {
       "relation": "contains",
@@ -18818,9 +18818,9 @@
       "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
-      "target": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_y_gu\u00eda_de_entrevista",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_y_gu\u00eda_de_entrevista"
     },
     {
       "relation": "contains",
@@ -18828,9 +18828,9 @@
       "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
-      "target": "00_contexto_sellado_02_operacionalizacion_regla_de_bloqueo_para_el_agente_en_cap\u00edtulo_ii_y_iii",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_02_operacionalizacion_regla_de_bloqueo_para_el_agente_en_cap\u00edtulo_ii_y_iii"
     },
     {
       "relation": "contains",
@@ -18838,9 +18838,9 @@
       "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_03_diccionario_datos_reales_md",
-      "target": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado"
     },
     {
       "relation": "contains",
@@ -18848,9 +18848,9 @@
       "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
       "source_location": "L7",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
-      "target": "00_contexto_sellado_03_diccionario_datos_reales_1_datos_institucionales_y_territoriales_verificados_centro_de_salud_bel\u00e9n",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_1_datos_institucionales_y_territoriales_verificados_centro_de_salud_bel\u00e9n"
     },
     {
       "relation": "contains",
@@ -18858,9 +18858,9 @@
       "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
-      "target": "00_contexto_sellado_03_diccionario_datos_reales_2_indicadores_sociodemogr\u00e1ficos_y_epidemiol\u00f3gicos_oficiales",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_2_indicadores_sociodemogr\u00e1ficos_y_epidemiol\u00f3gicos_oficiales"
     },
     {
       "relation": "contains",
@@ -18868,9 +18868,9 @@
       "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
-      "target": "00_contexto_sellado_03_diccionario_datos_reales_3_protocolo_del_corpus_cualitativo_de_informantes",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_3_protocolo_del_corpus_cualitativo_de_informantes"
     },
     {
       "relation": "contains",
@@ -18878,9 +18878,9 @@
       "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
       "source_location": "L37",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
-      "target": "00_contexto_sellado_03_diccionario_datos_reales_4_resoluciones_y_marcos_normativos_vinculantes",
-      "confidence_score": 1.0
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_4_resoluciones_y_marcos_normativos_vinculantes"
     },
     {
       "relation": "contains",
@@ -25798,9 +25798,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L121",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica"
     },
     {
       "relation": "contains",
@@ -25818,9 +25818,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L146",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema"
     },
     {
       "relation": "contains",
@@ -25838,9 +25838,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L176",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n"
     },
     {
       "relation": "contains",
@@ -25858,9 +25858,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L191",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n"
     },
     {
       "relation": "contains",
@@ -25868,9 +25868,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L208",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio"
     },
     {
       "relation": "contains",
@@ -25878,9 +25878,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L233",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_7_viabilidad_y_consideraciones_bio\u00e9ticas",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_7_viabilidad_y_consideraciones_bio\u00e9ticas"
     },
     {
       "relation": "contains",
@@ -25888,9 +25888,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L128",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro"
     },
     {
       "relation": "contains",
@@ -25898,9 +25898,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L131",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso"
     },
     {
       "relation": "contains",
@@ -25908,9 +25908,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L134",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n"
     },
     {
       "relation": "contains",
@@ -25918,9 +25918,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L149",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problema_general_pregunta_principal",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problema_general_pregunta_principal"
     },
     {
       "relation": "contains",
@@ -25928,9 +25928,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L152",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problemas_espec\u00edficos_preguntas_espec\u00edficas",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problemas_espec\u00edficos_preguntas_espec\u00edficas"
     },
     {
       "relation": "contains",
@@ -25958,9 +25958,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L179",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuesto_general",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuesto_general"
     },
     {
       "relation": "contains",
@@ -25968,9 +25968,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L182",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuestos_espec\u00edficos_del_mundo_de_la_vida_lebenswelt",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuestos_espec\u00edficos_del_mundo_de_la_vida_lebenswelt"
     },
     {
       "relation": "contains",
@@ -25978,9 +25978,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L200",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_metodol\u00f3gica",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_metodol\u00f3gica"
     },
     {
       "relation": "contains",
@@ -25988,9 +25988,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L197",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_pr\u00e1ctica",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_pr\u00e1ctica"
     },
     {
       "relation": "contains",
@@ -25998,9 +25998,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L203",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_social_y_sanitaria",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_social_y_sanitaria"
     },
     {
       "relation": "contains",
@@ -26008,9 +26008,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L194",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_te\u00f3rica",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_te\u00f3rica"
     },
     {
       "relation": "contains",
@@ -26018,9 +26018,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L220",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_conceptual_y_tem\u00e1tica",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_conceptual_y_tem\u00e1tica"
     },
     {
       "relation": "contains",
@@ -26028,9 +26028,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L211",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_espacial_y_territorial",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_espacial_y_territorial"
     },
     {
       "relation": "contains",
@@ -26038,9 +26038,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L223",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_social_y_poblacional",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_social_y_poblacional"
     },
     {
       "relation": "contains",
@@ -26048,9 +26048,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L214",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_temporal",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_temporal"
     },
     {
       "relation": "contains",
@@ -26058,9 +26058,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L217",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_te\u00f3rica_y_epistemol\u00f3gica",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_te\u00f3rica_y_epistemol\u00f3gica"
     },
     {
       "relation": "contains",
@@ -26068,9 +26068,9 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L226",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_limitaciones_metodol\u00f3gicas_del_estudio",
-      "confidence_score": 1.0
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_limitaciones_metodol\u00f3gicas_del_estudio"
     },
     {
       "relation": "contains",
@@ -31987,5 +31987,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "8819a9eda1c642c7669200c916b65f43085a14f8"
+  "built_at_commit": "01cb32aca04dbfb8739aac1b1f13765a98db6062"
 }
