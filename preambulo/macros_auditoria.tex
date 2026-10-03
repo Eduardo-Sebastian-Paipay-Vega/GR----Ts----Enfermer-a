@@ -1,0 +1,30 @@
+% ==============================================================================
+% MACROS DE SEGURIDAD Y AUDITORÍA - ENTORNO SELLADO ANTIALUCINACIONES
+% Cátedra: Proyecto de Investigación en Salud (EN 486) - UNSCH
+% ==============================================================================
+
+\usepackage{xcolor}
+\usepackage{soul}
+
+% 1. Macro para citas pendientes o no validadas en el archivo .bib
+% Si un argumento carece de fuente en el contexto sellado, debe usarse esta macro.
+\newcommand{\todoCita}[1]{%
+  \texthl{\textbf{\textcolor{red}{[FALTA CITA REAL: #1]}}}%
+}
+
+% 2. Macro para datos empíricos, estadísticos o porcentajes pendientes de verificación
+% Prohibido inventar tamaños de muestra, cifras o hallazgos.
+\newcommand{\datoPendiente}[1]{%
+  \fcolorbox{red}{yellow!30}{\textbf{\texttt{[DATO PENDIENTE: #1]}}}%
+}
+
+% 3. Macro para términos, variables o categorías ontológicamente inmutables
+% Garantiza la trazabilidad léxica exacta con la Matriz de Consistencia.
+\newcommand{\variableInmutable}[1]{%
+  \textbf{#1}%
+}
+
+% 4. Macro para categorías fenomenológicas cualitativas inmutables (Existenciales del Lebenswelt)
+\newcommand{\categoriaInmutable}[1]{%
+  \textbf{\textit{#1}}%
+}
