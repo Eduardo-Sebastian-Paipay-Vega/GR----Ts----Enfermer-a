@@ -50,11 +50,11 @@
 \pagenumbering{roman}
 \setcounter{page}{2}
 
-% Índice General (Hasta Capítulo II)
+% Índice General
 \tableofcontents
 \newpage
 
-% Índice de Tablas (Tablas de Capítulo II)
+% Índice de Tablas
 \renewcommand{\listtablename}{ÍNDICE DE TABLAS}
 \addcontentsline{toc}{section}{ÍNDICE DE TABLAS}
 \listoftables
@@ -62,7 +62,7 @@
 
 % ==============================================================================
 % CUERPO DEL PROYECTO (Numeración Arábiga - Estructura Modular)
-% Restringido por requerimiento del usuario estrictamente hasta el Capítulo II
+% Activo y calibrado: Introducción, Capítulo I y Capítulo II
 % ==============================================================================
 \pagenumbering{arabic}
 \setcounter{page}{1}
@@ -77,25 +77,21 @@
 \input{subcapitulos/sec_02_marco_contextual.tex}
 
 % ==============================================================================
-% RESOLUCIÓN DE CITAS EN SEGUNDO PLANO (Cero Citas Fantasma / Cero Páginas Extra)
-% Carga las referencias para resolver \cite{} numéricamente sin imprimirlas visualmente
-% ==============================================================================
-\begingroup
-\let\oldaddcontentsline\addcontentsline
-\renewcommand{\addcontentsline}[3]{}
-\setbox0=\vbox{
-  \input{subcapitulos/sec_06_referencias.tex}
-}
-\endgroup
-
-% ==============================================================================
 % MÓDULOS EN ESPERA: Se activarán cuando el usuario indique:
 % "DEJA QUE LOS DEMÁS DESPUES DEL CAP 2 SEAN VISIBLES"
 % ==============================================================================
 % \input{subcapitulos/sec_03_abordaje_teorico.tex}
 % \input{subcapitulos/sec_04_metodologia.tex}
 % \input{subcapitulos/sec_05_aspectos_administrativos.tex}
-% \input{subcapitulos/sec_06_referencias.tex}
-% \input{subcapitulos/sec_07_anexos.tex}
+
+% ==============================================================================
+% REFERENCIAS BIBLIOGRÁFICAS (Normas Vancouver NLM / ICMJE)
+% ==============================================================================
+\input{subcapitulos/sec_06_referencias.tex}
+
+% ==============================================================================
+% ANEXOS OFICIALES (Guía Bilingüe, Matriz de Consistencia, Consentimiento, etc.)
+% ==============================================================================
+\input{subcapitulos/sec_07_anexos.tex}
 
 \end{document}
