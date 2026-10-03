@@ -2310,8 +2310,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\03_PROYECTO_ACTIVO_CS_BELEN\\PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md": {
-    "mtime": 1790961125.459725,
-    "ast_hash": "6c81c3ff829521e449e0584a376db445",
+    "mtime": 1791043107.2168021,
+    "ast_hash": "a5c0e6ba220f9c43664c15c50d99eaeb",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\03_PROYECTO_ACTIVO_CS_BELEN\\README.md": {
@@ -2382,6 +2382,36 @@
   "C:\\GRESLY\\.agents\\workflows\\paraphrase.md": {
     "mtime": 1791042322.7949855,
     "ast_hash": "dddfcb7cf267b02696bb4c32a92c65b5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agent\\rules\\sistema-auditor-tesis-antialucinaciones.md": {
+    "mtime": 1791042715.4163597,
+    "ast_hash": "507bb648a91ba5917281262e9b7d3971",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\rules\\sistema-auditor-tesis-antialucinaciones.md": {
+    "mtime": 1791042704.9056938,
+    "ast_hash": "507bb648a91ba5917281262e9b7d3971",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\00_CONTEXTO_SELLADO\\00_metadatos.md": {
+    "mtime": 1791042616.416062,
+    "ast_hash": "9086f54e2f170f17418978e7976f006e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\00_CONTEXTO_SELLADO\\01_matriz_consistencia.md": {
+    "mtime": 1791042627.9296432,
+    "ast_hash": "2eb3682813be266e6eb6746928855bb9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\00_CONTEXTO_SELLADO\\02_operacionalizacion.md": {
+    "mtime": 1791042645.9306586,
+    "ast_hash": "6ad5899378bb7ee6f25eb6ec35928dbe",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\00_CONTEXTO_SELLADO\\03_diccionario_datos_reales.md": {
+    "mtime": 1791042658.037709,
+    "ast_hash": "30b2016ea886ffba4491d02146072f38",
     "semantic_hash": ""
   }
 }

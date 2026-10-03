@@ -1327,6 +1327,51 @@
       "norm_label": "\ud83d\udccc checklist rapido de autoevaluacion para la ia:"
     },
     {
+      "label": "sistema-auditor-tesis-antialucinaciones.md",
+      "file_type": "document",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L1",
+      "id": "agent_rules_sistema_auditor_tesis_antialucinaciones_md",
+      "community": 71,
+      "norm_label": "sistema-auditor-tesis-antialucinaciones.md"
+    },
+    {
+      "label": "REGLA DE TRABAJO: SISTEMA AUDITOR DE TESIS Y ENTORNO SELLADO ANTIALUCINACIONES (.md -> .tex)",
+      "file_type": "document",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L1",
+      "id": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "community": 71,
+      "norm_label": "regla de trabajo: sistema auditor de tesis y entorno sellado antialucinaciones (.md -> .tex)"
+    },
+    {
+      "label": "1. ROL Y PROP\u00d3SITO",
+      "file_type": "document",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L5",
+      "id": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito",
+      "community": 71,
+      "norm_label": "1. rol y proposito"
+    },
+    {
+      "label": "2. REGLAS DE HIERRO DEL ENTORNO SELLADO",
+      "file_type": "document",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L10",
+      "id": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado",
+      "community": 71,
+      "norm_label": "2. reglas de hierro del entorno sellado"
+    },
+    {
+      "label": "3. ARQUITECTURA DEL REPOSITORIO SELLADO",
+      "file_type": "document",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L18",
+      "id": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado",
+      "community": 71,
+      "norm_label": "3. arquitectura del repositorio sellado"
+    },
+    {
       "label": "SKILL.md",
       "file_type": "document",
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
@@ -1631,6 +1676,51 @@
       "id": "rules_ruta_cognitiva_ia_algoritmo_mental_obligatorio_piensa_apoya_planifica_audita_ejecuta",
       "community": 400,
       "norm_label": "algoritmo mental obligatorio (piensa -> apoya -> planifica -> audita -> ejecuta)"
+    },
+    {
+      "label": "sistema-auditor-tesis-antialucinaciones.md",
+      "file_type": "document",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L1",
+      "id": "agents_rules_sistema_auditor_tesis_antialucinaciones_md",
+      "community": 72,
+      "norm_label": "sistema-auditor-tesis-antialucinaciones.md"
+    },
+    {
+      "label": "REGLA DE TRABAJO: SISTEMA AUDITOR DE TESIS Y ENTORNO SELLADO ANTIALUCINACIONES (.md -> .tex)",
+      "file_type": "document",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L1",
+      "id": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "community": 72,
+      "norm_label": "regla de trabajo: sistema auditor de tesis y entorno sellado antialucinaciones (.md -> .tex)"
+    },
+    {
+      "label": "1. ROL Y PROP\u00d3SITO",
+      "file_type": "document",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L5",
+      "id": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito",
+      "community": 72,
+      "norm_label": "1. rol y proposito"
+    },
+    {
+      "label": "2. REGLAS DE HIERRO DEL ENTORNO SELLADO",
+      "file_type": "document",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L10",
+      "id": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado",
+      "community": 72,
+      "norm_label": "2. reglas de hierro del entorno sellado"
+    },
+    {
+      "label": "3. ARQUITECTURA DEL REPOSITORIO SELLADO",
+      "file_type": "document",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L18",
+      "id": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado",
+      "community": 72,
+      "norm_label": "3. arquitectura del repositorio sellado"
     },
     {
       "label": "SKILL.md",
@@ -2639,6 +2729,186 @@
       "id": "agents_workflows_paraphrase_md_workflows_paraphrase_formato_de_salida_al_usuario",
       "community": 51,
       "norm_label": "\ud83d\udce4 formato de salida al usuario"
+    },
+    {
+      "label": "00_metadatos.md",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_00_metadatos_md",
+      "community": 69,
+      "norm_label": "00_metadatos.md"
+    },
+    {
+      "label": "FICHA T\u00c9CNICA DE METADATOS INMUTABLES (ENTORNO SELLADO)",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
+      "community": 69,
+      "norm_label": "ficha tecnica de metadatos inmutables (entorno sellado)"
+    },
+    {
+      "label": "1. METADATOS ADMINISTRATIVOS Y DE FORMATO",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L7",
+      "id": "00_contexto_sellado_00_metadatos_1_metadatos_administrativos_y_de_formato",
+      "community": 69,
+      "norm_label": "1. metadatos administrativos y de formato"
+    },
+    {
+      "label": "2. METADATOS EPISTEMOL\u00d3GICOS Y METODOL\u00d3GICOS",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L35",
+      "id": "00_contexto_sellado_00_metadatos_2_metadatos_epistemol\u00f3gicos_y_metodol\u00f3gicos",
+      "community": 69,
+      "norm_label": "2. metadatos epistemologicos y metodologicos"
+    },
+    {
+      "label": "3. METADATOS MUESTRALES Y UNIDAD DE INFORMACI\u00d3N",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L55",
+      "id": "00_contexto_sellado_00_metadatos_3_metadatos_muestrales_y_unidad_de_informaci\u00f3n",
+      "community": 69,
+      "norm_label": "3. metadatos muestrales y unidad de informacion"
+    },
+    {
+      "label": "01_matriz_consistencia.md",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_01_matriz_consistencia_md",
+      "community": 73,
+      "norm_label": "01_matriz_consistencia.md"
+    },
+    {
+      "label": "MATRIZ DE CONSISTENCIA CUALITATIVA FENOMENOL\u00d3GICA (ENTORNO SELLADO)",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "community": 73,
+      "norm_label": "matriz de consistencia cualitativa fenomenologica (entorno sellado)"
+    },
+    {
+      "label": "TABLA MAESTRA DE CORRESPONDENCIA BIUN\u00cdVOCA (1 : 1)",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
+      "source_location": "L9",
+      "id": "00_contexto_sellado_01_matriz_consistencia_tabla_maestra_de_correspondencia_biun\u00edvoca_1_1",
+      "community": 73,
+      "norm_label": "tabla maestra de correspondencia biunivoca (1 : 1)"
+    },
+    {
+      "label": "\ud83d\udd12 CL\u00c1USULA DE BLOQUEO Y TRAZABILIDAD",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
+      "source_location": "L22",
+      "id": "00_contexto_sellado_01_matriz_consistencia_cl\u00e1usula_de_bloqueo_y_trazabilidad",
+      "community": 73,
+      "norm_label": "\ud83d\udd12 clausula de bloqueo y trazabilidad"
+    },
+    {
+      "label": "02_operacionalizacion.md",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_02_operacionalizacion_md",
+      "community": 70,
+      "norm_label": "02_operacionalizacion.md"
+    },
+    {
+      "label": "MATRIZ DE CATEGORIZACI\u00d3N CUALITATIVA FENOMENOL\u00d3GICA (ENTORNO SELLADO)",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "community": 70,
+      "norm_label": "matriz de categorizacion cualitativa fenomenologica (entorno sellado)"
+    },
+    {
+      "label": "\ud83c\udfdb\ufe0f ACLARACI\u00d3N EPISTEMOL\u00d3GICA OBLIGATORIA",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L9",
+      "id": "00_contexto_sellado_02_operacionalizacion_aclaraci\u00f3n_epistemol\u00f3gica_obligatoria",
+      "community": 70,
+      "norm_label": "\ud83c\udfdb\ufe0f aclaracion epistemologica obligatoria"
+    },
+    {
+      "label": "MATRIZ DE CATEGORIZACI\u00d3N Y GU\u00cdA DE ENTREVISTA",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L14",
+      "id": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_y_gu\u00eda_de_entrevista",
+      "community": 70,
+      "norm_label": "matriz de categorizacion y guia de entrevista"
+    },
+    {
+      "label": "\ud83d\udd12 REGLA DE BLOQUEO PARA EL AGENTE EN CAP\u00cdTULO II Y III",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L26",
+      "id": "00_contexto_sellado_02_operacionalizacion_regla_de_bloqueo_para_el_agente_en_cap\u00edtulo_ii_y_iii",
+      "community": 70,
+      "norm_label": "\ud83d\udd12 regla de bloqueo para el agente en capitulo ii y iii"
+    },
+    {
+      "label": "03_diccionario_datos_reales.md",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_03_diccionario_datos_reales_md",
+      "community": 68,
+      "norm_label": "03_diccionario_datos_reales.md"
+    },
+    {
+      "label": "DICCIONARIO DE DATOS REALES Y CORPUS VERIFICADO (ENTORNO SELLADO)",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L1",
+      "id": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
+      "community": 68,
+      "norm_label": "diccionario de datos reales y corpus verificado (entorno sellado)"
+    },
+    {
+      "label": "1. DATOS INSTITUCIONALES Y TERRITORIALES VERIFICADOS (Centro de Salud Bel\u00e9n)",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L7",
+      "id": "00_contexto_sellado_03_diccionario_datos_reales_1_datos_institucionales_y_territoriales_verificados_centro_de_salud_bel\u00e9n",
+      "community": 68,
+      "norm_label": "1. datos institucionales y territoriales verificados (centro de salud belen)"
+    },
+    {
+      "label": "2. INDICADORES SOCIODEMOGR\u00c1FICOS Y EPIDEMIOL\u00d3GICOS OFICIALES",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L18",
+      "id": "00_contexto_sellado_03_diccionario_datos_reales_2_indicadores_sociodemogr\u00e1ficos_y_epidemiol\u00f3gicos_oficiales",
+      "community": 68,
+      "norm_label": "2. indicadores sociodemograficos y epidemiologicos oficiales"
+    },
+    {
+      "label": "3. PROTOCOLO DEL CORPUS CUALITATIVO DE INFORMANTES",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L26",
+      "id": "00_contexto_sellado_03_diccionario_datos_reales_3_protocolo_del_corpus_cualitativo_de_informantes",
+      "community": 68,
+      "norm_label": "3. protocolo del corpus cualitativo de informantes"
+    },
+    {
+      "label": "4. RESOLUCIONES Y MARCOS NORMATIVOS VINCULANTES",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L37",
+      "id": "00_contexto_sellado_03_diccionario_datos_reales_4_resoluciones_y_marcos_normativos_vinculantes",
+      "community": 68,
+      "norm_label": "4. resoluciones y marcos normativos vinculantes"
     },
     {
       "label": "GUIA_REPOSITORIOS_FUENTES_INFORMACION.md",
@@ -8698,91 +8968,244 @@
       "norm_label": "capitulo i: el problema de investigacion"
     },
     {
-      "label": "1.1. Contextualizaci\u00f3n y delimitaci\u00f3n del problema de investigaci\u00f3n",
+      "label": "1.1. Descripci\u00f3n de la Realidad Problem\u00e1tica",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L121",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_y_delimitaci\u00f3n_del_problema_de_investigaci\u00f3n",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
       "community": 370,
-      "norm_label": "1.1. contextualizacion y delimitacion del problema de investigacion"
+      "norm_label": "1.1. descripcion de la realidad problematica"
     },
     {
-      "label": "Delimitaci\u00f3n rigurosa del estudio (C\u00e1tedra EN 486)",
+      "label": "Contexto Internacional (Macro)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L130",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_rigurosa_del_estudio_c\u00e1tedra_en_486",
+      "source_location": "L128",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro",
       "community": 370,
-      "norm_label": "delimitacion rigurosa del estudio (catedra en 486)"
+      "norm_label": "contexto internacional (macro)"
     },
     {
-      "label": "1.2. Formulaci\u00f3n de las preguntas norteadoras",
+      "label": "Contexto Nacional (Meso)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L139",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_de_las_preguntas_norteadoras",
+      "source_location": "L131",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso",
       "community": 370,
-      "norm_label": "1.2. formulacion de las preguntas norteadoras"
+      "norm_label": "contexto nacional (meso)"
     },
     {
-      "label": "Pregunta principal",
+      "label": "Contexto Regional y Local (Micro: Centro de Salud Bel\u00e9n)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L142",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_pregunta_principal",
+      "source_location": "L134",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n",
       "community": 370,
-      "norm_label": "pregunta principal"
+      "norm_label": "contexto regional y local (micro: centro de salud belen)"
     },
     {
-      "label": "Preguntas espec\u00edficas",
+      "label": "1.2. Formulaci\u00f3n del Problema",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L145",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_preguntas_espec\u00edficas",
+      "source_location": "L146",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
       "community": 370,
-      "norm_label": "preguntas especificas"
+      "norm_label": "1.2. formulacion del problema"
     },
     {
-      "label": "1.3. Formulaci\u00f3n de los objetivos de investigaci\u00f3n",
+      "label": "Problema General (Pregunta Principal)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L154",
+      "source_location": "L149",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problema_general_pregunta_principal",
+      "community": 370,
+      "norm_label": "problema general (pregunta principal)"
+    },
+    {
+      "label": "Problemas Espec\u00edficos (Preguntas Espec\u00edficas)",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L152",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problemas_espec\u00edficos_preguntas_espec\u00edficas",
+      "community": 370,
+      "norm_label": "problemas especificos (preguntas especificas)"
+    },
+    {
+      "label": "1.3. Formulaci\u00f3n de los Objetivos de Investigaci\u00f3n",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L161",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_3_formulaci\u00f3n_de_los_objetivos_de_investigaci\u00f3n",
       "community": 370,
       "norm_label": "1.3. formulacion de los objetivos de investigacion"
     },
     {
-      "label": "Objetivo general",
+      "label": "Objetivo General",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L157",
+      "source_location": "L164",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_objetivo_general",
       "community": 370,
       "norm_label": "objetivo general"
     },
     {
-      "label": "Objetivos espec\u00edficos",
+      "label": "Objetivos Espec\u00edficos",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L160",
+      "source_location": "L167",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_objetivos_espec\u00edficos",
       "community": 370,
       "norm_label": "objetivos especificos"
     },
     {
-      "label": "1.4. Viabilidad y consideraciones bio\u00e9ticas",
+      "label": "1.4. Supuestos Fenomenol\u00f3gicos de la Investigaci\u00f3n",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L169",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_viabilidad_y_consideraciones_bio\u00e9ticas",
+      "source_location": "L176",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
       "community": 370,
-      "norm_label": "1.4. viabilidad y consideraciones bioeticas"
+      "norm_label": "1.4. supuestos fenomenologicos de la investigacion"
+    },
+    {
+      "label": "Supuesto General",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L179",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuesto_general",
+      "community": 370,
+      "norm_label": "supuesto general"
+    },
+    {
+      "label": "Supuestos Espec\u00edficos del Mundo de la Vida (*Lebenswelt*)",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L182",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuestos_espec\u00edficos_del_mundo_de_la_vida_lebenswelt",
+      "community": 370,
+      "norm_label": "supuestos especificos del mundo de la vida (*lebenswelt*)"
+    },
+    {
+      "label": "1.5. Justificaci\u00f3n e Importancia de la Investigaci\u00f3n",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L191",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
+      "community": 370,
+      "norm_label": "1.5. justificacion e importancia de la investigacion"
+    },
+    {
+      "label": "Justificaci\u00f3n Te\u00f3rica",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L194",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_te\u00f3rica",
+      "community": 370,
+      "norm_label": "justificacion teorica"
+    },
+    {
+      "label": "Justificaci\u00f3n Pr\u00e1ctica",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L197",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_pr\u00e1ctica",
+      "community": 370,
+      "norm_label": "justificacion practica"
+    },
+    {
+      "label": "Justificaci\u00f3n Metodol\u00f3gica",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L200",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_metodol\u00f3gica",
+      "community": 370,
+      "norm_label": "justificacion metodologica"
+    },
+    {
+      "label": "Justificaci\u00f3n Social y Sanitaria",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L203",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_social_y_sanitaria",
+      "community": 370,
+      "norm_label": "justificacion social y sanitaria"
+    },
+    {
+      "label": "1.6. Delimitaciones y Limitaciones del Estudio",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L208",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "community": 370,
+      "norm_label": "1.6. delimitaciones y limitaciones del estudio"
+    },
+    {
+      "label": "Delimitaci\u00f3n Espacial y Territorial",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L211",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_espacial_y_territorial",
+      "community": 370,
+      "norm_label": "delimitacion espacial y territorial"
+    },
+    {
+      "label": "Delimitaci\u00f3n Temporal",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L214",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_temporal",
+      "community": 370,
+      "norm_label": "delimitacion temporal"
+    },
+    {
+      "label": "Delimitaci\u00f3n Te\u00f3rica y Epistemol\u00f3gica",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L217",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_te\u00f3rica_y_epistemol\u00f3gica",
+      "community": 370,
+      "norm_label": "delimitacion teorica y epistemologica"
+    },
+    {
+      "label": "Delimitaci\u00f3n Conceptual y Tem\u00e1tica",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L220",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_conceptual_y_tem\u00e1tica",
+      "community": 370,
+      "norm_label": "delimitacion conceptual y tematica"
+    },
+    {
+      "label": "Delimitaci\u00f3n Social y Poblacional",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L223",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_social_y_poblacional",
+      "community": 370,
+      "norm_label": "delimitacion social y poblacional"
+    },
+    {
+      "label": "Limitaciones Metodol\u00f3gicas del Estudio",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L226",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_limitaciones_metodol\u00f3gicas_del_estudio",
+      "community": 370,
+      "norm_label": "limitaciones metodologicas del estudio"
+    },
+    {
+      "label": "1.7. Viabilidad y Consideraciones Bio\u00e9ticas",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L233",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_7_viabilidad_y_consideraciones_bio\u00e9ticas",
+      "community": 370,
+      "norm_label": "1.7. viabilidad y consideraciones bioeticas"
     },
     {
       "label": "CAP\u00cdTULO II: MARCO CONTEXTUAL",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L181",
+      "source_location": "L246",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_ii_marco_contextual",
       "community": 387,
       "norm_label": "capitulo ii: marco contextual"
@@ -8791,7 +9214,7 @@
       "label": "2.1. Descripci\u00f3n geogr\u00e1fica, territorial y ambiental del \u00e1rea de estudio",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L185",
+      "source_location": "L250",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_1_descripci\u00f3n_geogr\u00e1fica_territorial_y_ambiental_del_\u00e1rea_de_estudio",
       "community": 387,
       "norm_label": "2.1. descripcion geografica, territorial y ambiental del area de estudio"
@@ -8800,7 +9223,7 @@
       "label": "2.2. Caracter\u00edsticas demogr\u00e1ficas y estructura poblacional",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L194",
+      "source_location": "L259",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_2_caracter\u00edsticas_demogr\u00e1ficas_y_estructura_poblacional",
       "community": 387,
       "norm_label": "2.2. caracteristicas demograficas y estructura poblacional"
@@ -8809,7 +9232,7 @@
       "label": "2.3. Caracter\u00edsticas socioculturales, ling\u00fc\u00edsticas y cosmovisi\u00f3n andina",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L203",
+      "source_location": "L268",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_3_caracter\u00edsticas_socioculturales_ling\u00fc\u00edsticas_y_cosmovisi\u00f3n_andina",
       "community": 387,
       "norm_label": "2.3. caracteristicas socioculturales, linguisticas y cosmovision andina"
@@ -8818,7 +9241,7 @@
       "label": "2.4. Din\u00e1mica socioecon\u00f3mica, vulnerabilidad y nivel de aseguramiento p\u00fablico",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L212",
+      "source_location": "L277",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_4_din\u00e1mica_socioecon\u00f3mica_vulnerabilidad_y_nivel_de_aseguramiento_p\u00fablico",
       "community": 387,
       "norm_label": "2.4. dinamica socioeconomica, vulnerabilidad y nivel de aseguramiento publico"
@@ -8827,7 +9250,7 @@
       "label": "2.5. Caracter\u00edsticas sanitarias, cartera de servicios y capacidad resolutiva institucional",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L219",
+      "source_location": "L284",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_5_caracter\u00edsticas_sanitarias_cartera_de_servicios_y_capacidad_resolutiva_institucional",
       "community": 387,
       "norm_label": "2.5. caracteristicas sanitarias, cartera de servicios y capacidad resolutiva institucional"
@@ -8836,7 +9259,7 @@
       "label": "2.6. Articulaci\u00f3n dial\u00e9ctica del escenario f\u00edsico-social con las dimensiones existenciales del usuario (*Lebenswelt*)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L243",
+      "source_location": "L308",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_6_articulaci\u00f3n_dial\u00e9ctica_del_escenario_f\u00edsico_social_con_las_dimensiones_existenciales_del_usuario_lebenswelt",
       "community": 387,
       "norm_label": "2.6. articulacion dialectica del escenario fisico-social con las dimensiones existenciales del usuario (*lebenswelt*)"
@@ -8845,7 +9268,7 @@
       "label": "CAP\u00cdTULO III: ABORDAJE TE\u00d3RICO",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L257",
+      "source_location": "L322",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico",
       "community": 371,
       "norm_label": "capitulo iii: abordaje teorico"
@@ -8854,7 +9277,7 @@
       "label": "3.1. Antecedentes de estudio",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L259",
+      "source_location": "L324",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_antecedentes_de_estudio",
       "community": 371,
       "norm_label": "3.1. antecedentes de estudio"
@@ -8863,7 +9286,7 @@
       "label": "3.1.1. Antecedentes internacionales",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L261",
+      "source_location": "L326",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_1_antecedentes_internacionales",
       "community": 371,
       "norm_label": "3.1.1. antecedentes internacionales"
@@ -8872,7 +9295,7 @@
       "label": "3.1.2. Antecedentes nacionales",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L266",
+      "source_location": "L331",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_2_antecedentes_nacionales",
       "community": 371,
       "norm_label": "3.1.2. antecedentes nacionales"
@@ -8881,7 +9304,7 @@
       "label": "3.1.3. Antecedentes regionales y locales (UNSCH \u2013 Ayacucho)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L270",
+      "source_location": "L335",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_3_antecedentes_regionales_y_locales_unsch_ayacucho",
       "community": 371,
       "norm_label": "3.1.3. antecedentes regionales y locales (unsch \u2013 ayacucho)"
@@ -8890,7 +9313,7 @@
       "label": "3.2. Bases te\u00f3ricas fundamentales",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L277",
+      "source_location": "L342",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_2_bases_te\u00f3ricas_fundamentales",
       "community": 371,
       "norm_label": "3.2. bases teoricas fundamentales"
@@ -8899,7 +9322,7 @@
       "label": "Dimensi\u00f3n del Proceso Interpersonal en la Teor\u00eda de Avedis Donabedian",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L279",
+      "source_location": "L344",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_dimensi\u00f3n_del_proceso_interpersonal_en_la_teor\u00eda_de_avedis_donabedian",
       "community": 371,
       "norm_label": "dimension del proceso interpersonal en la teoria de avedis donabedian"
@@ -8908,7 +9331,7 @@
       "label": "Teor\u00eda del Cuidado Humano y Factores Caritas de Jean Watson",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L285",
+      "source_location": "L350",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_teor\u00eda_del_cuidado_humano_y_factores_caritas_de_jean_watson",
       "community": 371,
       "norm_label": "teoria del cuidado humano y factores caritas de jean watson"
@@ -8917,7 +9340,7 @@
       "label": "Fundamentos del Cuidado Fenomenol\u00f3gico en Enfermer\u00eda: Patricia Benner y Holly Wilson",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L292",
+      "source_location": "L357",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_fundamentos_del_cuidado_fenomenol\u00f3gico_en_enfermer\u00eda_patricia_benner_y_holly_wilson",
       "community": 371,
       "norm_label": "fundamentos del cuidado fenomenologico en enfermeria: patricia benner y holly wilson"
@@ -8926,7 +9349,7 @@
       "label": "3.3. Matriz de categorizaci\u00f3n cualitativa y an\u00e1lisis fenomenol\u00f3gico",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L299",
+      "source_location": "L364",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_3_matriz_de_categorizaci\u00f3n_cualitativa_y_an\u00e1lisis_fenomenol\u00f3gico",
       "community": 371,
       "norm_label": "3.3. matriz de categorizacion cualitativa y analisis fenomenologico"
@@ -8935,7 +9358,7 @@
       "label": "CAP\u00cdTULO IV: METODOLOG\u00cdA: DISE\u00d1O FENOMENOL\u00d3GICO DE INVESTIGACI\u00d3N",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L312",
+      "source_location": "L377",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_dise\u00f1o_fenomenol\u00f3gico_de_investigaci\u00f3n",
       "community": 379,
       "norm_label": "capitulo iv: metodologia: diseno fenomenologico de investigacion"
@@ -8944,7 +9367,7 @@
       "label": "4.1. Fundamentaci\u00f3n filos\u00f3fica y epistemol\u00f3gica del dise\u00f1o fenomenol\u00f3gico",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L314",
+      "source_location": "L379",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_1_fundamentaci\u00f3n_filos\u00f3fica_y_epistemol\u00f3gica_del_dise\u00f1o_fenomenol\u00f3gico",
       "community": 379,
       "norm_label": "4.1. fundamentacion filosofica y epistemologica del diseno fenomenologico"
@@ -8953,7 +9376,7 @@
       "label": "4.2. Los cuatro existenciales de la experiencia humana vivida (van Manen y Sampieri)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L328",
+      "source_location": "L393",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_2_los_cuatro_existenciales_de_la_experiencia_humana_vivida_van_manen_y_sampieri",
       "community": 379,
       "norm_label": "4.2. los cuatro existenciales de la experiencia humana vivida (van manen y sampieri)"
@@ -8962,7 +9385,7 @@
       "label": "4.3. Postura epistemol\u00f3gica, reflexividad y reducci\u00f3n fenomenol\u00f3gica (*Epoj\u00e9*)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L338",
+      "source_location": "L403",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_3_postura_epistemol\u00f3gica_reflexividad_y_reducci\u00f3n_fenomenol\u00f3gica_epoj\u00e9",
       "community": 379,
       "norm_label": "4.3. postura epistemologica, reflexividad y reduccion fenomenologica (*epoje*)"
@@ -8971,7 +9394,7 @@
       "label": "4.4. Muestreo cualitativo: Muestra de casos tipo, homog\u00e9nea y saturaci\u00f3n te\u00f3rica (Sampieri, Cap. 13)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L347",
+      "source_location": "L412",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_4_muestreo_cualitativo_muestra_de_casos_tipo_homog\u00e9nea_y_saturaci\u00f3n_te\u00f3rica_sampieri_cap_13",
       "community": 379,
       "norm_label": "4.4. muestreo cualitativo: muestra de casos tipo, homogenea y saturacion teorica (sampieri, cap. 13)"
@@ -8980,7 +9403,7 @@
       "label": "4.5. T\u00e9cnicas e instrumentos de recolecci\u00f3n de vivencias (Sampieri, Cap. 14)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L365",
+      "source_location": "L430",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_5_t\u00e9cnicas_e_instrumentos_de_recolecci\u00f3n_de_vivencias_sampieri_cap_14",
       "community": 379,
       "norm_label": "4.5. tecnicas e instrumentos de recoleccion de vivencias (sampieri, cap. 14)"
@@ -8989,7 +9412,7 @@
       "label": "4.6. Criterios de rigor cient\u00edfico cualitativo (Hern\u00e1ndez-Sampieri, Cap. 14)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L379",
+      "source_location": "L444",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_6_criterios_de_rigor_cient\u00edfico_cualitativo_hern\u00e1ndez_sampieri_cap_14",
       "community": 379,
       "norm_label": "4.6. criterios de rigor cientifico cualitativo (hernandez-sampieri, cap. 14)"
@@ -8998,7 +9421,7 @@
       "label": "4.7. Procedimiento sistem\u00e1tico de an\u00e1lisis cualitativo fenomenol\u00f3gico (Sampieri, Cap. 14 y 15)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L391",
+      "source_location": "L456",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_7_procedimiento_sistem\u00e1tico_de_an\u00e1lisis_cualitativo_fenomenol\u00f3gico_sampieri_cap_14_y_15",
       "community": 379,
       "norm_label": "4.7. procedimiento sistematico de analisis cualitativo fenomenologico (sampieri, cap. 14 y 15)"
@@ -9007,7 +9430,7 @@
       "label": "CAP\u00cdTULO V: ASPECTOS ADMINISTRATIVOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L406",
+      "source_location": "L471",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_v_aspectos_administrativos",
       "community": 380,
       "norm_label": "capitulo v: aspectos administrativos"
@@ -9016,7 +9439,7 @@
       "label": "5.1. Asignaci\u00f3n de recursos humanos",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L408",
+      "source_location": "L473",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_1_asignaci\u00f3n_de_recursos_humanos",
       "community": 380,
       "norm_label": "5.1. asignacion de recursos humanos"
@@ -9025,7 +9448,7 @@
       "label": "5.2. Presupuesto",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L413",
+      "source_location": "L478",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_2_presupuesto",
       "community": 380,
       "norm_label": "5.2. presupuesto"
@@ -9034,7 +9457,7 @@
       "label": "Tabla 1: Pago de Servicios de Personal",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L415",
+      "source_location": "L480",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_tabla_1_pago_de_servicios_de_personal",
       "community": 380,
       "norm_label": "tabla 1: pago de servicios de personal"
@@ -9043,7 +9466,7 @@
       "label": "Tabla 2: Programaci\u00f3n de Otros Servicios",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L422",
+      "source_location": "L487",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_tabla_2_programaci\u00f3n_de_otros_servicios",
       "community": 380,
       "norm_label": "tabla 2: programacion de otros servicios"
@@ -9052,7 +9475,7 @@
       "label": "Tabla 3: Adquisici\u00f3n de Materiales y Otros",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L432",
+      "source_location": "L497",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_tabla_3_adquisici\u00f3n_de_materiales_y_otros",
       "community": 380,
       "norm_label": "tabla 3: adquisicion de materiales y otros"
@@ -9061,7 +9484,7 @@
       "label": "5.3. Financiamiento",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L447",
+      "source_location": "L512",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_3_financiamiento",
       "community": 380,
       "norm_label": "5.3. financiamiento"
@@ -9070,7 +9493,7 @@
       "label": "5.4. Cronograma de actividades",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L450",
+      "source_location": "L515",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_4_cronograma_de_actividades",
       "community": 380,
       "norm_label": "5.4. cronograma de actividades"
@@ -9079,7 +9502,7 @@
       "label": "REFERENCIAS BIBLIOGR\u00c1FICAS (Normas Vancouver)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L472",
+      "source_location": "L537",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_referencias_bibliogr\u00e1ficas_normas_vancouver",
       "community": 395,
       "norm_label": "referencias bibliograficas (normas vancouver)"
@@ -9088,7 +9511,7 @@
       "label": "ANEXOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L510",
+      "source_location": "L575",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexos",
       "community": 390,
       "norm_label": "anexos"
@@ -9097,7 +9520,7 @@
       "label": "ANEXO 1: GU\u00cdA DE ENTREVISTA A PROFUNDIDAD FENOMENOL\u00d3GICA SEMIESTRUCTURADA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L512",
+      "source_location": "L577",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_1_gu\u00eda_de_entrevista_a_profundidad_fenomenol\u00f3gica_semiestructurada",
       "community": 390,
       "norm_label": "anexo 1: guia de entrevista a profundidad fenomenologica semiestructurada"
@@ -9106,7 +9529,7 @@
       "label": "ANEXO 2: MATRIZ DE CONSISTENCIA FENOMENOL\u00d3GICA CUALITATIVA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L534",
+      "source_location": "L599",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_2_matriz_de_consistencia_fenomenol\u00f3gica_cualitativa",
       "community": 390,
       "norm_label": "anexo 2: matriz de consistencia fenomenologica cualitativa"
@@ -9115,7 +9538,7 @@
       "label": "ANEXO 3: FORMATO DE JUICIO DE EXPERTOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L544",
+      "source_location": "L609",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_3_formato_de_juicio_de_expertos",
       "community": 390,
       "norm_label": "anexo 3: formato de juicio de expertos"
@@ -9124,7 +9547,7 @@
       "label": "ANEXO 4: MODELO DE CONSENTIMIENTO INFORMADO",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L580",
+      "source_location": "L645",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_4_modelo_de_consentimiento_informado",
       "community": 390,
       "norm_label": "anexo 4: modelo de consentimiento informado"
@@ -9133,7 +9556,7 @@
       "label": "ANEXO 5: MODELO DE CARTA DE ASESOR\u00cdA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L600",
+      "source_location": "L665",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_5_modelo_de_carta_de_asesor\u00eda",
       "community": 390,
       "norm_label": "anexo 5: modelo de carta de asesoria"
@@ -10550,6 +10973,60 @@
       "id": "documentos_repositorios_descargas_20_openaire_md",
       "community": 340,
       "norm_label": "20_openaire.md"
+    },
+    {
+      "label": "1.1. Contextualizaci\u00f3n y delimitaci\u00f3n del problema de investigaci\u00f3n",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L121",
+      "community": 370,
+      "norm_label": "1.1. contextualizacion y delimitacion del problema de investigacion",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_y_delimitaci\u00f3n_del_problema_de_investigaci\u00f3n"
+    },
+    {
+      "label": "Delimitaci\u00f3n rigurosa del estudio (C\u00e1tedra EN 486)",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L130",
+      "community": 370,
+      "norm_label": "delimitacion rigurosa del estudio (catedra en 486)",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_rigurosa_del_estudio_c\u00e1tedra_en_486"
+    },
+    {
+      "label": "1.2. Formulaci\u00f3n de las preguntas norteadoras",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L139",
+      "community": 370,
+      "norm_label": "1.2. formulacion de las preguntas norteadoras",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_de_las_preguntas_norteadoras"
+    },
+    {
+      "label": "Pregunta principal",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L142",
+      "community": 370,
+      "norm_label": "pregunta principal",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_pregunta_principal"
+    },
+    {
+      "label": "Preguntas espec\u00edficas",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L145",
+      "community": 370,
+      "norm_label": "preguntas especificas",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_preguntas_espec\u00edficas"
+    },
+    {
+      "label": "1.4. Viabilidad y consideraciones bio\u00e9ticas",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L169",
+      "community": 370,
+      "norm_label": "1.4. viabilidad y consideraciones bioeticas",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_viabilidad_y_consideraciones_bio\u00e9ticas"
     },
     {
       "label": "str",
@@ -15370,9 +15847,9 @@
       "source_file": ".agents/skills/docx-safe-editor/scripts/docx_editor.py",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "scripts_docx_editor_safe_replace_in_docx",
-      "target": "str",
-      "confidence_score": 1.0
+      "target": "str"
     },
     {
       "relation": "contains",
@@ -16311,9 +16788,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "guia_instalacion_md",
-      "target": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio"
     },
     {
       "relation": "contains",
@@ -16321,9 +16798,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L73",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio",
-      "target": "gresly_guia_instalacion_gu\u00eda_de_ejecuci\u00f3n_y_compilaci\u00f3n",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_gu\u00eda_de_ejecuci\u00f3n_y_compilaci\u00f3n"
     },
     {
       "relation": "contains",
@@ -16331,9 +16808,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L125",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio",
-      "target": "gresly_guia_instalacion_mapa_de_carpetas_y_rutas_de_entrega",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_mapa_de_carpetas_y_rutas_de_entrega"
     },
     {
       "relation": "contains",
@@ -16341,9 +16818,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio",
-      "target": "gresly_guia_instalacion_paso_a_paso_instalaci\u00f3n_y_puesta_en_marcha",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_paso_a_paso_instalaci\u00f3n_y_puesta_en_marcha"
     },
     {
       "relation": "contains",
@@ -16351,9 +16828,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L142",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio",
-      "target": "gresly_guia_instalacion_preguntas_frecuentes_y_soluci\u00f3n_de_problemas_troubleshooting",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_preguntas_frecuentes_y_soluci\u00f3n_de_problemas_troubleshooting"
     },
     {
       "relation": "contains",
@@ -16361,9 +16838,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio",
-      "target": "gresly_guia_instalacion_requisitos_previos_del_sistema",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_requisitos_previos_del_sistema"
     },
     {
       "relation": "contains",
@@ -16371,9 +16848,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L163",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_instalaci\u00f3n_configuraci\u00f3n_y_ejecuci\u00f3n_del_repositorio",
-      "target": "gresly_guia_instalacion_soporte_y_asesor\u00eda",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_soporte_y_asesor\u00eda"
     },
     {
       "relation": "contains",
@@ -16381,9 +16858,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_paso_a_paso_instalaci\u00f3n_y_puesta_en_marcha",
-      "target": "gresly_guia_instalacion_paso_1_clonar_el_repositorio_de_github",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_paso_1_clonar_el_repositorio_de_github"
     },
     {
       "relation": "contains",
@@ -16391,9 +16868,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_paso_a_paso_instalaci\u00f3n_y_puesta_en_marcha",
-      "target": "gresly_guia_instalacion_paso_2_configurar_el_entorno_de_python_e_instalar_dependencias",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_paso_2_configurar_el_entorno_de_python_e_instalar_dependencias"
     },
     {
       "relation": "contains",
@@ -16401,9 +16878,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L61",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_paso_a_paso_instalaci\u00f3n_y_puesta_en_marcha",
-      "target": "gresly_guia_instalacion_paso_3_verificar_el_motor_latex_pdflatex",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_paso_3_verificar_el_motor_latex_pdflatex"
     },
     {
       "relation": "contains",
@@ -16411,9 +16888,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L41",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_paso_2_configurar_el_entorno_de_python_e_instalar_dependencias",
-      "target": "gresly_guia_instalacion_en_windows_powershell_cmd",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_en_windows_powershell_cmd"
     },
     {
       "relation": "contains",
@@ -16421,9 +16898,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L75",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_ejecuci\u00f3n_y_compilaci\u00f3n",
-      "target": "gresly_guia_instalacion_1_compilaci\u00f3n_del_documento_pdf_oficial_latex",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_1_compilaci\u00f3n_del_documento_pdf_oficial_latex"
     },
     {
       "relation": "contains",
@@ -16431,9 +16908,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L94",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_ejecuci\u00f3n_y_compilaci\u00f3n",
-      "target": "gresly_guia_instalacion_2_generaci\u00f3n_automatizada_del_documento_word_docx",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_2_generaci\u00f3n_automatizada_del_documento_word_docx"
     },
     {
       "relation": "contains",
@@ -16441,9 +16918,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L107",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_ejecuci\u00f3n_y_compilaci\u00f3n",
-      "target": "gresly_guia_instalacion_3_verificaci\u00f3n_de_paginaci\u00f3n_y_encabezados",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_3_verificaci\u00f3n_de_paginaci\u00f3n_y_encabezados"
     },
     {
       "relation": "contains",
@@ -16451,9 +16928,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L116",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_gu\u00eda_de_ejecuci\u00f3n_y_compilaci\u00f3n",
-      "target": "gresly_guia_instalacion_4_actualizaci\u00f3n_del_grafo_de_conocimiento_graphify",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_4_actualizaci\u00f3n_del_grafo_de_conocimiento_graphify"
     },
     {
       "relation": "contains",
@@ -16461,9 +16938,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L83",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_1_compilaci\u00f3n_del_documento_pdf_oficial_latex",
-      "target": "gresly_guia_instalacion_desde_la_l\u00ednea_de_comandos_cl\u00e1sica_cmd",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_desde_la_l\u00ednea_de_comandos_cl\u00e1sica_cmd"
     },
     {
       "relation": "contains",
@@ -16471,9 +16948,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L78",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_1_compilaci\u00f3n_del_documento_pdf_oficial_latex",
-      "target": "gresly_guia_instalacion_desde_powershell",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_desde_powershell"
     },
     {
       "relation": "contains",
@@ -16481,9 +16958,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L144",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_preguntas_frecuentes_y_soluci\u00f3n_de_problemas_troubleshooting",
-      "target": "gresly_guia_instalacion_error_1_execution_of_scripts_is_disabled_on_this_system_en_powershell",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_error_1_execution_of_scripts_is_disabled_on_this_system_en_powershell"
     },
     {
       "relation": "contains",
@@ -16491,9 +16968,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L151",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_preguntas_frecuentes_y_soluci\u00f3n_de_problemas_troubleshooting",
-      "target": "gresly_guia_instalacion_error_2_permission_denied_plantilla_aqui_edita_docx_al_ejecutar_generar_word_py",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_error_2_permission_denied_plantilla_aqui_edita_docx_al_ejecutar_generar_word_py"
     },
     {
       "relation": "contains",
@@ -16501,9 +16978,9 @@
       "source_file": "GUIA_INSTALACION.md",
       "source_location": "L155",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "gresly_guia_instalacion_preguntas_frecuentes_y_soluci\u00f3n_de_problemas_troubleshooting",
-      "target": "gresly_guia_instalacion_error_3_paquetes_faltantes_en_latex_latex_error_file_tabularx_sty_not_found",
-      "confidence_score": 1.0
+      "target": "gresly_guia_instalacion_error_3_paquetes_faltantes_en_latex_latex_error_file_tabularx_sty_not_found"
     },
     {
       "relation": "contains",
@@ -16878,12 +17355,52 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md",
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agent/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "target": "agent_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana"
     },
     {
       "relation": "contains",
@@ -16891,9 +17408,9 @@
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_formato_de_salida_requerido",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_formato_de_salida_requerido"
     },
     {
       "relation": "contains",
@@ -16901,9 +17418,9 @@
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L31",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_lista_negra_prohibici\u00f3n_total_de_muletillas_y_f\u00f3rmulas_t\u00edpicas_de_ia",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_lista_negra_prohibici\u00f3n_total_de_muletillas_y_f\u00f3rmulas_t\u00edpicas_de_ia"
     },
     {
       "relation": "contains",
@@ -16911,9 +17428,9 @@
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano"
     },
     {
       "relation": "contains",
@@ -16921,9 +17438,9 @@
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L45",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_regla_de_fidelidad_a_la_matriz_de_invarianza_sem\u00e1ntica",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_regla_de_fidelidad_a_la_matriz_de_invarianza_sem\u00e1ntica"
     },
     {
       "relation": "contains",
@@ -16931,9 +17448,9 @@
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_1_variaci\u00f3n_r\u00edtmica_extrema_burstiness",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_1_variaci\u00f3n_r\u00edtmica_extrema_burstiness"
     },
     {
       "relation": "contains",
@@ -16941,9 +17458,9 @@
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_2_voz_activa_y_energ\u00eda_verbal_directa",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_2_voz_activa_y_energ\u00eda_verbal_directa"
     },
     {
       "relation": "contains",
@@ -16951,9 +17468,9 @@
       "source_file": ".agent/skills/human-paraphraser/SKILL.md",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_3_perplejidad_org\u00e1nica_y_precisi\u00f3n_l\u00e9xica",
-      "confidence_score": 1.0
+      "target": "agent_skills_human_paraphraser_skill_md_human_paraphraser_skill_3_perplejidad_org\u00e1nica_y_precisi\u00f3n_l\u00e9xica"
     },
     {
       "relation": "contains",
@@ -16961,9 +17478,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense"
     },
     {
       "relation": "contains",
@@ -16971,9 +17488,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso"
     },
     {
       "relation": "contains",
@@ -16981,9 +17498,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_prop\u00f3sito_y_filosof\u00eda",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_prop\u00f3sito_y_filosof\u00eda"
     },
     {
       "relation": "contains",
@@ -16991,9 +17508,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L62",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_reglas_de_salida_del_skill",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_reglas_de_salida_del_skill"
     },
     {
       "relation": "contains",
@@ -17001,9 +17518,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_1_deconstrucci\u00f3n_p\u00e1rrafo_a_p\u00e1rrafo",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_1_deconstrucci\u00f3n_p\u00e1rrafo_a_p\u00e1rrafo"
     },
     {
       "relation": "contains",
@@ -17011,9 +17528,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_2_identificaci\u00f3n_de_la_tesis_central_y_proposiciones_nucleares",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_2_identificaci\u00f3n_de_la_tesis_central_y_proposiciones_nucleares"
     },
     {
       "relation": "contains",
@@ -17021,9 +17538,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_3_blindaje_de_relaciones_causa_efecto_nexo_causal",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_3_blindaje_de_relaciones_causa_efecto_nexo_causal"
     },
     {
       "relation": "contains",
@@ -17031,9 +17548,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L37",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_4_aislamiento_de_datos_duros_y_evidencia_inmutable",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_4_aislamiento_de_datos_duros_y_evidencia_inmutable"
     },
     {
       "relation": "contains",
@@ -17041,9 +17558,9 @@
       "source_file": ".agent/skills/logical-extractor/SKILL.md",
       "source_location": "L45",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_5_generaci\u00f3n_de_la_matriz_de_invarianza_sem\u00e1ntica",
-      "confidence_score": 1.0
+      "target": "agent_skills_logical_extractor_skill_md_logical_extractor_skill_5_generaci\u00f3n_de_la_matriz_de_invarianza_sem\u00e1ntica"
     },
     {
       "relation": "contains",
@@ -17051,9 +17568,9 @@
       "source_file": ".agent/workflows/paraphrase.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_workflows_paraphrase_md",
-      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "confidence_score": 1.0
+      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase"
     },
     {
       "relation": "contains",
@@ -17061,9 +17578,9 @@
       "source_file": ".agent/workflows/paraphrase.md",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_etapa_1_extracci\u00f3n_y_blindaje_l\u00f3gico_logical_extractor",
-      "confidence_score": 1.0
+      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_etapa_1_extracci\u00f3n_y_blindaje_l\u00f3gico_logical_extractor"
     },
     {
       "relation": "contains",
@@ -17071,9 +17588,9 @@
       "source_file": ".agent/workflows/paraphrase.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_etapa_2_reescritura_humana_y_estilizaci\u00f3n_human_paraphraser",
-      "confidence_score": 1.0
+      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_etapa_2_reescritura_humana_y_estilizaci\u00f3n_human_paraphraser"
     },
     {
       "relation": "contains",
@@ -17081,9 +17598,9 @@
       "source_file": ".agent/workflows/paraphrase.md",
       "source_location": "L69",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_etapa_3_auditor\u00eda_y_verificaci\u00f3n_de_invarianza_sem\u00e1ntica",
-      "confidence_score": 1.0
+      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_etapa_3_auditor\u00eda_y_verificaci\u00f3n_de_invarianza_sem\u00e1ntica"
     },
     {
       "relation": "contains",
@@ -17091,9 +17608,9 @@
       "source_file": ".agent/workflows/paraphrase.md",
       "source_location": "L80",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_formato_de_salida_al_usuario",
-      "confidence_score": 1.0
+      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_formato_de_salida_al_usuario"
     },
     {
       "relation": "contains",
@@ -17101,9 +17618,9 @@
       "source_file": ".agent/workflows/paraphrase.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agent_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_pipeline_de_ejecuci\u00f3n_en_3_etapas",
-      "confidence_score": 1.0
+      "target": "agent_workflows_paraphrase_md_workflows_paraphrase_pipeline_de_ejecuci\u00f3n_en_3_etapas"
     },
     {
       "relation": "contains",
@@ -17154,6 +17671,46 @@
       "confidence_score": 1.0,
       "source": "rules_ruta_cognitiva_ia_regla_obligatoria_ruta_cognitiva_de_creaci\u00f3n_para_la_inteligencia_artificial",
       "target": "rules_ruta_cognitiva_ia_algoritmo_mental_obligatorio_piensa_apoya_planifica_audita_ejecuta"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md",
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_1_rol_y_prop\u00f3sito",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_2_reglas_de_hierro_del_entorno_sellado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".agents/rules/sistema-auditor-tesis-antialucinaciones.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_regla_de_trabajo_sistema_auditor_de_tesis_y_entorno_sellado_antialucinaciones_md_tex",
+      "target": "agents_rules_sistema_auditor_tesis_antialucinaciones_md_rules_sistema_auditor_tesis_antialucinaciones_3_arquitectura_del_repositorio_sellado",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -17221,9 +17778,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana"
     },
     {
       "relation": "contains",
@@ -17231,9 +17788,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_formato_de_salida_requerido",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_formato_de_salida_requerido"
     },
     {
       "relation": "contains",
@@ -17241,9 +17798,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L31",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_lista_negra_prohibici\u00f3n_total_de_muletillas_y_f\u00f3rmulas_t\u00edpicas_de_ia",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_lista_negra_prohibici\u00f3n_total_de_muletillas_y_f\u00f3rmulas_t\u00edpicas_de_ia"
     },
     {
       "relation": "contains",
@@ -17251,9 +17808,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano"
     },
     {
       "relation": "contains",
@@ -17261,9 +17818,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L45",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_human_paraphraser_parafraseador_y_reescritor_de_prosa_humana",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_regla_de_fidelidad_a_la_matriz_de_invarianza_sem\u00e1ntica",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_regla_de_fidelidad_a_la_matriz_de_invarianza_sem\u00e1ntica"
     },
     {
       "relation": "contains",
@@ -17271,9 +17828,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_1_variaci\u00f3n_r\u00edtmica_extrema_burstiness",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_1_variaci\u00f3n_r\u00edtmica_extrema_burstiness"
     },
     {
       "relation": "contains",
@@ -17281,9 +17838,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L21",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_2_voz_activa_y_energ\u00eda_verbal_directa",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_2_voz_activa_y_energ\u00eda_verbal_directa"
     },
     {
       "relation": "contains",
@@ -17291,9 +17848,9 @@
       "source_file": ".agents/skills/human-paraphraser/SKILL.md",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_los_cuatro_pilares_del_estilo_humano",
-      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_3_perplejidad_org\u00e1nica_y_precisi\u00f3n_l\u00e9xica",
-      "confidence_score": 1.0
+      "target": "agents_skills_human_paraphraser_skill_md_human_paraphraser_skill_3_perplejidad_org\u00e1nica_y_precisi\u00f3n_l\u00e9xica"
     },
     {
       "relation": "contains",
@@ -17351,9 +17908,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense"
     },
     {
       "relation": "contains",
@@ -17361,9 +17918,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso"
     },
     {
       "relation": "contains",
@@ -17371,9 +17928,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_prop\u00f3sito_y_filosof\u00eda",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_prop\u00f3sito_y_filosof\u00eda"
     },
     {
       "relation": "contains",
@@ -17381,9 +17938,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L62",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_logical_extractor_extractor_y_blindador_l\u00f3gico_forense",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_reglas_de_salida_del_skill",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_reglas_de_salida_del_skill"
     },
     {
       "relation": "contains",
@@ -17391,9 +17948,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_1_deconstrucci\u00f3n_p\u00e1rrafo_a_p\u00e1rrafo",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_1_deconstrucci\u00f3n_p\u00e1rrafo_a_p\u00e1rrafo"
     },
     {
       "relation": "contains",
@@ -17401,9 +17958,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_2_identificaci\u00f3n_de_la_tesis_central_y_proposiciones_nucleares",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_2_identificaci\u00f3n_de_la_tesis_central_y_proposiciones_nucleares"
     },
     {
       "relation": "contains",
@@ -17411,9 +17968,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_3_blindaje_de_relaciones_causa_efecto_nexo_causal",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_3_blindaje_de_relaciones_causa_efecto_nexo_causal"
     },
     {
       "relation": "contains",
@@ -17421,9 +17978,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L37",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_4_aislamiento_de_datos_duros_y_evidencia_inmutable",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_4_aislamiento_de_datos_duros_y_evidencia_inmutable"
     },
     {
       "relation": "contains",
@@ -17431,9 +17988,9 @@
       "source_file": ".agents/skills/logical-extractor/SKILL.md",
       "source_location": "L45",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_procedimiento_de_extracci\u00f3n_paso_a_paso",
-      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_5_generaci\u00f3n_de_la_matriz_de_invarianza_sem\u00e1ntica",
-      "confidence_score": 1.0
+      "target": "agents_skills_logical_extractor_skill_md_logical_extractor_skill_5_generaci\u00f3n_de_la_matriz_de_invarianza_sem\u00e1ntica"
     },
     {
       "relation": "contains",
@@ -18111,9 +18668,9 @@
       "source_file": ".agents/workflows/paraphrase.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_workflows_paraphrase_md",
-      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "confidence_score": 1.0
+      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase"
     },
     {
       "relation": "contains",
@@ -18121,9 +18678,9 @@
       "source_file": ".agents/workflows/paraphrase.md",
       "source_location": "L25",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_etapa_1_extracci\u00f3n_y_blindaje_l\u00f3gico_logical_extractor",
-      "confidence_score": 1.0
+      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_etapa_1_extracci\u00f3n_y_blindaje_l\u00f3gico_logical_extractor"
     },
     {
       "relation": "contains",
@@ -18131,9 +18688,9 @@
       "source_file": ".agents/workflows/paraphrase.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_etapa_2_reescritura_humana_y_estilizaci\u00f3n_human_paraphraser",
-      "confidence_score": 1.0
+      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_etapa_2_reescritura_humana_y_estilizaci\u00f3n_human_paraphraser"
     },
     {
       "relation": "contains",
@@ -18141,9 +18698,9 @@
       "source_file": ".agents/workflows/paraphrase.md",
       "source_location": "L69",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_etapa_3_auditor\u00eda_y_verificaci\u00f3n_de_invarianza_sem\u00e1ntica",
-      "confidence_score": 1.0
+      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_etapa_3_auditor\u00eda_y_verificaci\u00f3n_de_invarianza_sem\u00e1ntica"
     },
     {
       "relation": "contains",
@@ -18151,9 +18708,9 @@
       "source_file": ".agents/workflows/paraphrase.md",
       "source_location": "L80",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_formato_de_salida_al_usuario",
-      "confidence_score": 1.0
+      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_formato_de_salida_al_usuario"
     },
     {
       "relation": "contains",
@@ -18161,8 +18718,168 @@
       "source_file": ".agents/workflows/paraphrase.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "agents_workflows_paraphrase_md_workflows_paraphrase_workflow_parafraseo_humano_forense_paraphrase",
-      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_pipeline_de_ejecuci\u00f3n_en_3_etapas",
+      "target": "agents_workflows_paraphrase_md_workflows_paraphrase_pipeline_de_ejecuci\u00f3n_en_3_etapas"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_00_metadatos_md",
+      "target": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
+      "target": "00_contexto_sellado_00_metadatos_1_metadatos_administrativos_y_de_formato",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
+      "target": "00_contexto_sellado_00_metadatos_2_metadatos_epistemol\u00f3gicos_y_metodol\u00f3gicos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_00_metadatos_ficha_t\u00e9cnica_de_metadatos_inmutables_entorno_sellado",
+      "target": "00_contexto_sellado_00_metadatos_3_metadatos_muestrales_y_unidad_de_informaci\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_01_matriz_consistencia_md",
+      "target": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "target": "00_contexto_sellado_01_matriz_consistencia_cl\u00e1usula_de_bloqueo_y_trazabilidad",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_01_matriz_consistencia_matriz_de_consistencia_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "target": "00_contexto_sellado_01_matriz_consistencia_tabla_maestra_de_correspondencia_biun\u00edvoca_1_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_02_operacionalizacion_md",
+      "target": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "target": "00_contexto_sellado_02_operacionalizacion_aclaraci\u00f3n_epistemol\u00f3gica_obligatoria",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "target": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_y_gu\u00eda_de_entrevista",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "target": "00_contexto_sellado_02_operacionalizacion_regla_de_bloqueo_para_el_agente_en_cap\u00edtulo_ii_y_iii",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_03_diccionario_datos_reales_md",
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_1_datos_institucionales_y_territoriales_verificados_centro_de_salud_bel\u00e9n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_2_indicadores_sociodemogr\u00e1ficos_y_epidemiol\u00f3gicos_oficiales",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_3_protocolo_del_corpus_cualitativo_de_informantes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/03_diccionario_datos_reales.md",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "00_contexto_sellado_03_diccionario_datos_reales_diccionario_de_datos_reales_y_corpus_verificado_entorno_sellado",
+      "target": "00_contexto_sellado_03_diccionario_datos_reales_4_resoluciones_y_marcos_normativos_vinculantes",
       "confidence_score": 1.0
     },
     {
@@ -25079,11 +25796,31 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L121",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L139",
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_de_las_preguntas_norteadoras"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -25099,6 +25836,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L169",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -25109,31 +25856,81 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L130",
+      "source_location": "L191",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_y_delimitaci\u00f3n_del_problema_de_investigaci\u00f3n",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_rigurosa_del_estudio_c\u00e1tedra_en_486"
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L142",
+      "source_location": "L208",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_de_las_preguntas_norteadoras",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_pregunta_principal"
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L145",
+      "source_location": "L233",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_de_las_preguntas_norteadoras",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_preguntas_espec\u00edficas"
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_7_viabilidad_y_consideraciones_bio\u00e9ticas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problema_general_pregunta_principal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problemas_espec\u00edficos_preguntas_espec\u00edficas",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -25154,6 +25951,126 @@
       "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_3_formulaci\u00f3n_de_los_objetivos_de_investigaci\u00f3n",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_objetivos_espec\u00edficos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L179",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuesto_general",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuestos_espec\u00edficos_del_mundo_de_la_vida_lebenswelt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_metodol\u00f3gica",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L197",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_pr\u00e1ctica",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L203",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_social_y_sanitaria",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L194",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_te\u00f3rica",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L220",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_conceptual_y_tem\u00e1tica",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L211",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_espacial_y_territorial",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L223",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_social_y_poblacional",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L214",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_temporal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L217",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_te\u00f3rica_y_epistemol\u00f3gica",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_limitaciones_metodol\u00f3gicas_del_estudio",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -26974,6 +27891,36 @@
       "confidence_score": 1.0,
       "source": "referencias_teoricas_penchansky_thomas_1981_concept_of_access_2_las_5_dimensiones_del_acceso_a_los_servicios_de_salud",
       "target": "referencias_teoricas_penchansky_thomas_1981_concept_of_access_5_aceptabilidad_intercultural_actitudinal_acceptability"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L130",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_y_delimitaci\u00f3n_del_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_rigurosa_del_estudio_c\u00e1tedra_en_486"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L142",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_de_las_preguntas_norteadoras",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_pregunta_principal"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L145",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_de_las_preguntas_norteadoras",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_preguntas_espec\u00edficas"
     },
     {
       "relation": "contains",
@@ -31040,5 +31987,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "2c29b6d2fbc4e41a9bee30ad84591b7b3e13de8e"
+  "built_at_commit": "8819a9eda1c642c7669200c916b65f43085a14f8"
 }

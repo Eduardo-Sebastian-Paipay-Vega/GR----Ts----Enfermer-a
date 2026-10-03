@@ -1,16 +1,16 @@
 # Graph Report - GRESLY  (2026-10-03)
 
 ## Corpus Check
-- 87 files · ~349,743 words
+- 93 files · ~354,055 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1693 nodes · 1573 edges · 192 communities (150 shown, 42 thin omitted)
+- 1746 nodes · 1620 edges · 198 communities (156 shown, 42 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `2c29b6d2`
+- Built from commit: `8819a9ed`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -80,6 +80,12 @@
 - [[_COMMUNITY_Community 65|Community 65]]
 - [[_COMMUNITY_Community 66|Community 66]]
 - [[_COMMUNITY_Community 67|Community 67]]
+- [[_COMMUNITY_Community 68|Community 68]]
+- [[_COMMUNITY_Community 69|Community 69]]
+- [[_COMMUNITY_Community 70|Community 70]]
+- [[_COMMUNITY_Community 71|Community 71]]
+- [[_COMMUNITY_Community 72|Community 72]]
+- [[_COMMUNITY_Community 73|Community 73]]
 - [[_COMMUNITY_Community 74|Community 74]]
 - [[_COMMUNITY_Community 82|Community 82]]
 - [[_COMMUNITY_Community 83|Community 83]]
@@ -202,7 +208,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (192 total, 42 thin omitted)
+## Communities (198 total, 42 thin omitted)
 
 ### Community 0 - "Marcos Teóricos de Calidad en Salud"
 Cohesion: 0.05
@@ -367,6 +373,30 @@ Nodes (4): DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN, ESCUELA PROFESIONAL DE ENF
 ### Community 59 - "Community 59"
 Cohesion: 0.07
 Nodes (27): 1. RESUMEN EJECUTIVO Y CONTEXTO INSTITUCIONAL, 2.1. Ficha Principal de Metadatos de la Investigadora y del Proyecto (Dublin Core / ALICIA-CONCYTEC), 2.2. Fundamentación Teórica y Epistemológica del Proyecto, 2. METADATOS DEL AUTOR Y PROYECTO DE INVESTIGACIÓN (UNSCH - EN 486), 3.2. Fuentes Empíricas y Producción Científica de la Cátedra (DOCUMENTOS/TESIS), 3.3. Plantillas Institucionales y Suite de Compilación, 3. TABLA MAESTRA CONSOLIDADA DE FUENTES, 4.0. Proyecto de Investigación Principal (Gresly Lucero Pariona Palomino) (+19 more)
+
+### Community 68 - "Community 68"
+Cohesion: 0.33
+Nodes (5): 1. DATOS INSTITUCIONALES Y TERRITORIALES VERIFICADOS (Centro de Salud Belén), 2. INDICADORES SOCIODEMOGRÁFICOS Y EPIDEMIOLÓGICOS OFICIALES, 3. PROTOCOLO DEL CORPUS CUALITATIVO DE INFORMANTES, 4. RESOLUCIONES Y MARCOS NORMATIVOS VINCULANTES, DICCIONARIO DE DATOS REALES Y CORPUS VERIFICADO (ENTORNO SELLADO)
+
+### Community 69 - "Community 69"
+Cohesion: 0.40
+Nodes (4): 1. METADATOS ADMINISTRATIVOS Y DE FORMATO, 2. METADATOS EPISTEMOLÓGICOS Y METODOLÓGICOS, 3. METADATOS MUESTRALES Y UNIDAD DE INFORMACIÓN, FICHA TÉCNICA DE METADATOS INMUTABLES (ENTORNO SELLADO)
+
+### Community 70 - "Community 70"
+Cohesion: 0.40
+Nodes (4): 🏛️ ACLARACIÓN EPISTEMOLÓGICA OBLIGATORIA, MATRIZ DE CATEGORIZACIÓN CUALITATIVA FENOMENOLÓGICA (ENTORNO SELLADO), MATRIZ DE CATEGORIZACIÓN Y GUÍA DE ENTREVISTA, 🔒 REGLA DE BLOQUEO PARA EL AGENTE EN CAPÍTULO II Y III
+
+### Community 71 - "Community 71"
+Cohesion: 0.40
+Nodes (4): 1. ROL Y PROPÓSITO, 2. REGLAS DE HIERRO DEL ENTORNO SELLADO, 3. ARQUITECTURA DEL REPOSITORIO SELLADO, REGLA DE TRABAJO: SISTEMA AUDITOR DE TESIS Y ENTORNO SELLADO ANTIALUCINACIONES (.md -> .tex)
+
+### Community 72 - "Community 72"
+Cohesion: 0.40
+Nodes (4): 1. ROL Y PROPÓSITO, 2. REGLAS DE HIERRO DEL ENTORNO SELLADO, 3. ARQUITECTURA DEL REPOSITORIO SELLADO, REGLA DE TRABAJO: SISTEMA AUDITOR DE TESIS Y ENTORNO SELLADO ANTIALUCINACIONES (.md -> .tex)
+
+### Community 73 - "Community 73"
+Cohesion: 0.50
+Nodes (3): 🔒 CLÁUSULA DE BLOQUEO Y TRAZABILIDAD, MATRIZ DE CONSISTENCIA CUALITATIVA FENOMENOLÓGICA (ENTORNO SELLADO), TABLA MAESTRA DE CORRESPONDENCIA BIUNÍVOCA (1 : 1)
 
 ### Community 74 - "Community 74"
 Cohesion: 0.05
@@ -625,8 +655,8 @@ Cohesion: 0.18
 Nodes (10): 1. [1. CIENCIA Y CONOCIMIENTO.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/1.%20CIENCIA%20Y%20CONOCIMIENTO.md), 2. [2 INV. CIENTIFICA.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/2%20INV.%20CIENTIFICA.md), 3. [PUNTOS_CLASE_METODOLOGIA_CUALITATIVA.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/PUNTOS_CLASE_METODOLOGIA_CUALITATIVA.md), 4. [1. LINEAS DE INVESTIGACIÓN.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/1.%20LINEAS%20DE%20INVESTIGACI%C3%93N.md), 5. [BOLETIN PRIORIDADES REGIONALES EN SALUD.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/BOLETIN%20PRIORIDADES%20REGIONALES%20EN%20SALUD.md), 6. [Silabo_-_EN-486_-_Proyecto_de_investigacion_en_Salud (1).md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/Silabo_-_EN-486_-_Proyecto_de_investigacion_en_Salud%20(1).md), 7. [NORMATIVA_PORTADA_UNSCH.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/NORMATIVA_PORTADA_UNSCH.md), 📂 Inventario de Documentos y su Utilidad Operativa (+2 more)
 
 ### Community 370 - "Community 370"
-Cohesion: 0.20
-Nodes (10): 1.1. Contextualización y delimitación del problema de investigación, 1.2. Formulación de las preguntas norteadoras, 1.3. Formulación de los objetivos de investigación, 1.4. Viabilidad y consideraciones bioéticas, CAPÍTULO I: EL PROBLEMA DE INVESTIGACIÓN, Delimitación rigurosa del estudio (Cátedra EN 486), Objetivo general, Objetivos específicos (+2 more)
+Cohesion: 0.06
+Nodes (33): 1.1. Contextualización y delimitación del problema de investigación, 1.1. Descripción de la Realidad Problemática, 1.2. Formulación de las preguntas norteadoras, 1.2. Formulación del Problema, 1.3. Formulación de los Objetivos de Investigación, 1.4. Supuestos Fenomenológicos de la Investigación, 1.4. Viabilidad y consideraciones bioéticas, 1.5. Justificación e Importancia de la Investigación (+25 more)
 
 ### Community 371 - "Community 371"
 Cohesion: 0.20
@@ -721,21 +751,21 @@ Cohesion: 0.50
 Nodes (4): 📌 FASE 8: Estructuración del Informe Final / Tesis y Sustentación (Semana 16), Paso 8.1: Presentación Canónica de Resultados en Tablas de Contingencia, Paso 8.2: Discusión Triangulada de Resultados, Paso 8.3: Conclusiones y Recomendaciones con Destinatarios Precisos
 
 ## Knowledge Gaps
-- **1117 isolated node(s):** `str`, `titulo`, `autora`, `asesor`, `catedra` (+1112 more)
+- **1153 isolated node(s):** `str`, `titulo`, `autora`, `asesor`, `catedra` (+1148 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **42 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `PLAN MAESTRO DE ELABORACIÓN Y EVALUACIÓN DE TESIS Y PROYECTOS DE INVESTIGACIÓN EN SALUD (UNSCH - EN 486)` connect `Community 203` to `Epistemología y Filosofía de la Ciencia (Mario Bunge)`, `Community 267`, `Marcos Teóricos de Calidad en Salud`, `Community 268`, `Community 269`, `Metodología Cualitativa y Trabajo de Campo (C.S. Belén)`, `Community 254`?**
-  _High betweenness centrality (0.001) - this node is a cross-community bridge._
-- **Why does `Graphiti MCP Server` connect `Community 205` to `Community 199`, `Community 200`, `Community 266`, `Community 281`, `Community 282`, `Community 283`?**
+- **Why does `PLAN MAESTRO DE ELABORACIÓN Y EVALUACIÓN DE TESIS Y PROYECTOS DE INVESTIGACIÓN EN SALUD (UNSCH - EN 486)` connect `Community 378` to `Community 394`, `Community 396`, `Community 397`, `Community 398`, `Community 374`, `Community 375`, `Community 377`?**
   _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **Why does `Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026` connect `Marcos Teóricos de Calidad en Salud` to `Community 227`, `Community 238`, `Metodología Cualitativa y Trabajo de Campo (C.S. Belén)`, `Marcos Teóricos de Calidad en Salud`, `Community 239`, `Community 211`, `Community 214`?**
   _High betweenness centrality (0.001) - this node is a cross-community bridge._
+- **Why does `PLAN MAESTRO DE ELABORACIÓN Y EVALUACIÓN DE TESIS Y PROYECTOS DE INVESTIGACIÓN EN SALUD (UNSCH - EN 486)` connect `Community 203` to `Epistemología y Filosofía de la Ciencia (Mario Bunge)`, `Community 267`, `Marcos Teóricos de Calidad en Salud`, `Community 268`, `Community 269`, `Metodología Cualitativa y Trabajo de Campo (C.S. Belén)`, `Community 254`?**
+  _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **What connects `str`, `Docx Safe Editor Utility Script Safely replaces text in Word (.docx) documents p`, `Safely replaces occurrences of old_text with new_text in paragraphs,     tables,` to the rest of the system?**
-  _1120 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _1156 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Marcos Teóricos de Calidad en Salud` be split into smaller, more focused modules?**
   _Cohesion score 0.05128205128205128 - nodes in this community are weakly interconnected._
 - **Should `Marcos Teóricos de Calidad en Salud` be split into smaller, more focused modules?**
