@@ -1,0 +1,555 @@
+[000] UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DE HUAMANGA
+[001] 
+[002] FACULTAD DE CIENCIAS DE LA SALUD
+[003] 
+[004] ESCUELA PROFESIONAL DE ENFERMERIA
+[005] 
+[006] GUIA PARA FORMULAR PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO
+[007] 
+[008] “…….., AYACUCHO 2025”
+[009] 
+[010]  PRESENTADO POR:
+[011] NOMBRE Y APELLIDO
+[012] ORCID
+[013] 
+[014] ASESOR:
+[015] NOMBRE Y APELLIDO
+[016] ORCID
+[017] AYACUCHO- PERÚ
+[018] 
+[019] 2026
+[020] 
+[021] 
+[022] 
+[023] 
+[024] ÍNDICE
+[025] I INTRODUCCIÓN
+[026] CAPITULO I.- EL PROBLEMA
+[027] 1.1. Contextualización de problema de investigación
+[028] 1.2. Formulación de las preguntas norteadoras
+[029] 1.4. Formulación de los objetivos
+[030] 1.5. Justificación
+[031] CAPITULO II.- MARCO CONTEXTUAL
+[032] CAPITULO III.- ABORDAJE TEÓRICO.
+[033] 3.1. Antecedentes de estudio.
+[034] 3.2. Categorías de estudio.
+[035] 
+[036] CAPITULO IV.- METODOLOGIA CUALITATIVA
+[037] *Deberá seleccionarse tanto el general como el específico.
+[038] 4.1. Metodología general y específica
+[039] General:
+[040] Estudios descriptivos (Demográficos, estudios de casos)
+[041] Estudios interpretativos
+[042] Estudios históricos
+[043] Métodos cualitativos específicos: Método hermenéutico, dialéctico; Método fenomenológico; Método Etnográfico; Método de Investigación acción, Método de Historia de Vida; Método dialéctico estructural.
+[044] 4.2. Selección de la muestra
+[045] 4.3. Técnicas e instrumentos de recolección de datos.
+[046] 4.4. Plan de recolección de datos.			
+[047] 4.5. Plan de procesamiento de datos
+[048] 4.6. Plan de presentación y análisis de datos.
+[049] CAPITULO V.-ASPECTOS ADMINISTRATIVOS
+[050] 5.1. Asignación de recursos
+[051] 5.2. Cronograma 
+[052] 5.3. Financiamiento
+[053] REFERENCIAS BIBLIOGRAFICAS
+[054] ANEXOS:
+[055] -Instrumento de recolección de datos.
+[056] -Matriz de consistencia.							
+[057] 									
+[058] INTRODUCCIÓN
+[059] 
+[060] Precisar:
+[061] Importancia:
+[062] Destacar la magnitud del problema latente que motiva el planteamiento del problema.
+[063] Destacar que políticas, planes o programas existe para responder al problema latente.
+[064] Señalar los beneficiarios que estarían interesados con los resultados que ha de generar el estudio.
+[065] 
+[066] Finalidad o valor práctico:
+[067] Que se pretende lograr a partir de los objetivos del estudio:
+[068] Establecer la magnitud e intensidad del problema.
+[069] Responder al problema, solucionar el problema.
+[070] Demostrar la eficacia de alguna intervención.
+[071] Generar, proponer políticas, planes, programas, estrategias a los entes competentes.
+[072] 
+[073] Valor teórico, debe precisarse:
+[074] Qua vacío del conocimiento se pretende alcanzar: Describir, explicar, comprender, predecir, comprobar.
+[075] Se pretende contrastar la amplitud del fenómeno en relación a la base teórica existente.
+[076] Se pretender generar una nueva teoría, ampliar o rechazar la teoría existente.
+[077] 
+[078] Valor metodológico:
+[079] Existe métodos, técnicas, equipos e instrumentos para comprender la dinámica del comportamiento de las variables.
+[080] Se pretende generar un nuevo método, técnica o instrumentos, para evaluar el comportamiento de la variable.
+[081] 
+[082] 
+[083] 
+[084] 
+[085] 
+[086] 
+[087] CAPITULO I: EL PROBLEMA
+[088] La orientación metodológica cualitativa, no suele partir del planteamiento de un problema específico, sino de un área problemática más amplia en la cual puedan haber muchos problemas entrelazados que no se vislumbrarán hasta avanzar la investigación. Por ello, partir de un problema específico reduce el horizonte que tienen las realidades complejas como las realidades humanas(2). El investigador observa eventos ordinarios y actividades cotidianas tal como suceden en sus ambientes naturales, además de cualquier acontecimiento inusual. Está directamente involucrado con las personas estudiadas y con sus experiencias personales.
+[089] En la problemática de investigación, es importante describir la realidad que descubrir, construir e interpretar, en ese sentido vamos a identificar varias realidades subjetivas, los cuales varían en su forma y contenido entre individuos, grupos y culturas. Por ello el investigador cualitativo parte de la premisa de que el mundo social es “relativo” y solo puede ser entendido desde el punto de vista de los actores estudiados. Entre las condiciones para identificar un problema con enfoque cualitativo son:
+[090] El descubrimiento de un problema lleva tiempo, en la medida de haber acumulado información.
+[091] Puede que se adopten nuevas perespectivas o se cambie de enfoque.
+[092] Que se varíen las hipótesis interpretativas de lo que se va encontrando.
+[093] No percibir las justificaciones de la investigación como el único fin de un científico.
+[094] Investigar un problema concreto si ya se tiene un caso específico anteladamente.
+[095] 
+[096] Contextualización del problema de investigación
+[097] Se debe tener en consideración:
+[098] Partir de la propia subjetividad; es decir, del sentir y pensar sobre su experiencia en el tema o área de interés, que ayude a encontrar el verdadero objeto de estudio. Es como un recorrido o una trayectoria de aquello que observó, vivió, sintió, pensó en una época o periodo y en un lugar, área, espacio social o escenario.
+[099] Considerar acontecimientos relacionados con la inquietud o fenómeno a investigar.
+[100] Si es posible, ubicar la temporalidad del fenómeno de estudio (si es histórico).
+[101] Conseguir y relatar las evidencias empíricas sobre el fenómeno: tasas, promedios, estudios realizados.
+[102] Llegar a una aproximación del OBJETO DE ESTUDIO el cual corresponde al QUÉ ESTUDIAR.
+[103] 
+[104] Una vez que se haya contextualizado el problema de investigación, este se contrasta con los antecedentes de estudios relacionados.
+[105] 1.2. Formulación de las preguntas norteadoras
+[106] No es sino el propio objeto de estudio en forma interrogativa. En estudios fenomenológicos y etnográficos suelen ser únicas y en los dialécticos, históricos, de pensamiento complejo, socio poéticos, creativos – sensible; se genera más de una pregunta.
+[107] Ejemplo 01:
+[108] Se desea realizar un estudio relacionado con el clima organizacional, en función a lo contextualizado, las preguntas norteadoras serían: 
+[109] ¿Cuáles son las emociones que experimentan el personal respecto al clima organizacional?.
+[110] ¿Cuáles son las vivencias respecto al clima organizacional del personal que labora?.
+[111] ¿Qué mecanismos de respuesta utiliza el personal, frente al clima organizacional?.
+[112] ¿Cómo interactúan el personal frente al clima organizacional?.
+[113] ¿Cómo impacta el clima organizacional, en el desempeño de la organización?.
+[114] 
+[115] Ejemplo 02:
+[116] Supongamos que nos interesa efectuar un estudio sobre las percepciones que experimentan los usuarios adolescentes que recibirán atención en los servicios de planificación familiar.
+[117] ¿Cuál es la percepción real de los usuarios adolescentes que recibirán atención en los servicios de planificación familiar?.
+[118] ¿Qué condiciona la desconfianza y confianza frente a los servicios de salud, en los adolescentes que acuden a los servicios de planificación familiar?.
+[119] ¿Cuál es la respuesta de los usuarios adolescentes frente a los efectos de la atención que recibirán, en los servicios de planificación familiar?
+[120] 
+[121] 1.4. Formulación de los objetivos:
+[122] Establecer el alcance del estudio, para el efecto plantear enunciados haciendo uso de verbos en infinitivo orientado a:
+[123] Describir…
+[124] Identificar…
+[125] Comprender…
+[126] Analizar…
+[127] Explicar…
+[128] Demostrar…
+[129] 
+[130] 
+[131] 
+[132] 
+[133] 
+[134] 
+[135] 
+[136] 
+[137] 
+[138] 
+[139] 
+[140] CAPITULO II: MARCO CONTEXTUAL
+[141] 2.1. Descripción geográfica del área de estudio
+[142] Precisar el área acorde a los objetivos del estudio: 
+[143] Describir la ubicación.
+[144] Señalar las características geográficas (altitud, topografía, clima, etc)
+[145] Precisar las formas de acceso al área de estudio.
+[146] Caracterizar la forma de organización.
+[147] Presentar un mapa geográfico referencial.
+[148] 
+[149] 2.2. Características demográficas del área de estudio.
+[150] Destacar de acuerdo al estudio entre otros:
+[151] Tamaño de la población, distribución por grupos etareos y sexo.
+[152] Señalar las características de la pirámide poblacional.
+[153] 
+[154] 2.3. Características sociales
+[155] Señalar entre otros:
+[156] Nivel de instrucción.
+[157] Condición civil de los miembros de la población.
+[158] Tipos de familias.
+[159] Prácticas y costumbres del área de estudio.
+[160] Formas de interacción.
+[161] Etc.
+[162] 
+[163] 2.3. Dinámica económica del área de estudio:
+[164] Señalar entre otros la:
+[165] Actividad económica principal.
+[166] Población económicamente activa.
+[167] Condición de pobreza.
+[168] Acceso a servicios básicos.
+[169] Etc.
+[170] 2.4. Características sanitarias 
+[171] Señalar entre otros:
+[172] Principales problemas de salud, determinantes sociales.
+[173] Amenazas, nivel de vulnerabilidad de la población
+[174] Oferta de servicios de salud.
+[175] Etc.
+[176] CAPITULO III: ABORDAJE TEÓRICO.
+[177] 
+[178] 3.1. Antecedentes de estudio.
+[179] Incorporar estudios preferentemente de los últimos 05 años, 
+[180] 3.1.1. Antecedentes internacionales
+[181] 3.1.2. Antecedentes nacionales
+[182] 3.1.3. Antecedentes regionales y locales.
+[183] 
+[184] 3.2. Base teórica:
+[185] Señalar las teorías que sustenta las variables objeto de estudio, para el efecto organizar, sistematizar y analizar los enfoques teóricos en las que se sustenta las variables de estudio
+[186] 
+[187] 3.3. Variables de estudio categorías de estudio
+[188] En los estudios cualitativos no medimos variables con números ni las dividimos en indicadores matemáticos, en su lugar, hablamos de conceptualizar, categorizar o definir dimensiones para comprender un fenómeno a fondo; el objetivo aquí es transformar ideas abstractas en elementos claros que puedas observar, escuchar o analizar en los discursos de las personas.
+[189] Criterios para realizar la categorización de variables:
+[190] 1. Rigor Conceptual (Definición Teórica)
+[191] Claridad inicial: Debes definir cada gran tema (o categoría central) basándote en la literatura o en tu marco de referencia.
+[192] Flexibilidad: A diferencia de lo cuantitativo, estas definiciones pueden cambiar o enriquecerse a medida que se aborda con los participantes.
+[193] 2. Identificación de Categorías y Subcategorías
+[194] Categorías: Son los grandes cajones o conceptos principales de tu estudio (equivalentes a las "variables").
+[195] Subcategorías: Son las partes más pequeñas que componen esa categoría (equivalentes a las "dimensiones").
+[196] Ejemplo: Si tu categoría es "Calidad del servicio de salud", tus subcategorías podrían ser "Trato del personal" y "Tiempo de espera".
+[197] 3. Establecimiento de Indicadores Cualitativos o Códigos
+[198] Evidencias empíricas: Son las pistas que buscarás en el texto o la entrevista para saber que la categoría está presente.
+[199] Lenguaje vivo: Se asocian a frases, palabras clave, gestos o metáforas que usan los participantes.
+[200] Ejemplo: Para la subcategoría "Trato del personal", un indicador puede ser "Mención de frases de amabilidad" o "Expresiones de frustración por indiferencia".
+[201] 4. Coherencia Instrumental
+[202] Guía de entrevista/observación: Cada subcategoría e indicador debe transformarse en una o varias preguntas abiertas para tu instrumento de recolección de datos. Esto asegura que realmente vas a preguntar sobre lo que te interesa investigar.
+[203] MODELO DE MATRIZ DE CATEGORIZACIÓN CUALITATIVA
+[204] 
+[205] Tener presente en la categorización de la variable:
+[206] Credibilidad (Validez): Que las categorías realmente reflejen la realidad de los participantes y no solo lo que el investigador quiere ver.
+[207] Transferibilidad: Que las definiciones sean lo suficientemente claras para que otro investigador entienda el contexto del estudio.
+[208] Confirmabilidad: Que se pueda rastrear claramente cómo pasaste de la idea abstracta a la pregunta de la entrevista.
+[209] 
+[210] Hernández-Sampieri, R., & Mendoza, C. P. (2018). Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. McGraw-Hill.
+[211] 
+[212] 
+[213] 
+[214] CAPITULO IV: METODOLOGIA CUALITATIVA
+[215] 
+[216] 4.1. Metodología general y específica
+[217] General:
+[218] Estudios descriptivos (Demográficos, estudios de casos)
+[219] Estudios interpretativos
+[220] Estudios históricos
+[221] 
+[222] Métodos cualitativos específicos:
+[223] Método hermenéutico. - El método hermenéutico es un enfoque de investigación cualitativa que busca interpretar y comprender el sentido profundo de los textos, las acciones humanas y los fenómenos sociales dentro de su contexto cultural e histórico.
+[224] 
+[225] Características principales:
+[226] No es lineal: El significado se construye mediante un proceso circular.
+[227] Subjetividad consciente: Reconoce que los prejuicios y conocimientos previos del investigador influyen, por lo que debe examinarlos de forma crítica en lugar de ocultarlos.
+[228] Contextual: Ningún mensaje o texto existe en el vacío; depende de su época, autor y cultura. 
+[229] 
+[230] El Círculo Hermenéutico: El núcleo del método es el círculo hermenéutico, un movimiento dialéctico donde para entender el todo hay que comprender las partes, y para entender las partes se necesita la visión del todo. Este proceso se repite en espiral hasta lograr una comprensión coherente y profunda del fenómeno.
+[231] 
+[232] Fases del Proceso de Investigación
+[233] Preparación y conciencia previa: El investigador identifica sus propias ideas preconcebidas, prejuicios o marcos teóricos iniciales.
+[234] Aproximación al objeto o texto: Lectura general o inmersión en el material (documentos, discursos, conductas) para captar patrones o temas globales. 
+[235] Análisis dialéctico (partes-todo): Desglose del contenido en categorías o códigos, relacionando cada fragmento con el contexto general.
+[236] Interpretación y síntesis: Integración de la información nueva con el conocimiento previo para alcanzar una comprensión ampliada y sin sesgos arbitrarios
+[237] 
+[238] Quintana L, Hermida J. La hermenéutica como método de interpretación de textos en la investigación psicoanalítica en Revista de Psicología y Ciencias Afines, vol. 16, núm. 2, pp. 73-80, 2019. Universidad Nacional de Mar del Plata.
+[239] 
+[240] Método fenomenológico.- El método fenomenológico busca comprender y describir las experiencias vividas por las personas y el significado que les otorgan. Su meta principal no es explicar las causas de un problema ni medir datos en números, sino capturar la "esencia" profunda de una vivencia compartida desde la perspectiva de quienes la experimentaron directamente. 
+[241] 
+[242] Características clave del método:
+[243] Enfoque en la subjetividad: Explora el mundo interior de los participantes (emociones, percepciones y significados). 
+[244] Muestras pequeñas: Suele trabajar con grupos reducidos (generalmente de 5 a 25 personas) que hayan vivido el mismo fenómeno con intensidad.
+[245] La "Epojé" o reducción fenomenológica: El investigador debe hacer un esfuerzo consciente por "poner entre paréntesis" sus propios prejuicios, ideas y teorías para no alterar la realidad narrada por el participante.
+[246] 
+[247] Pasos para realizar una investigación fenomenológica
+[248] 1. Definición del fenómeno y problema: Se elige una experiencia humana compleja y profunda que requiera ser comprendida.
+[249] Ejemplo: ¿Cómo es la experiencia vivida por los médicos de emergencias durante su primera crisis sanitaria global? o ¿Cómo experimentan los clientes el proceso de devolución en un comercio electrónico?.
+[250] 2. Selección de los participantes: Se busca intencionalmente a personas que hayan pasado por esa situación específica y que sean capaces de relatar y articular lo que sintieron y pensaron. 
+[251] 3. Recolección de datos (Entrevistas a profundidad): La herramienta estrella es la entrevista fenomenológica, que se caracteriza por ser abierta, flexible y sin un guion estricto. El investigador hace preguntas para que el sujeto hable libremente sobre lo que vivió y el contexto que lo rodeó. Estas sesiones se graban y se transcriben palabra por palabra (textual).
+[252] 4. Análisis de los datos (Búsqueda de la esencia): Es un proceso inductivo que va desde los relatos individuales hacia una estructura general: 
+[253] Horizontalización: Se revisan las transcripciones y se extraen las declaraciones significativas (frases clave que describen la experiencia). 
+[254] Unidades de significado: Esas frases se agrupan en temas o categorías comunes (por ejemplo, el miedo al contagio, el peso de la responsabilidad, la frustración por la falta de recursos). 
+[255] Descripción de la esencia: El investigador redacta un informe integrando qué experimentaron los participantes (descripción textual) y cómo influyó su entorno (descripción estructural) para revelar la esencia compartida del fenómeno.
+[256] 5. Validación: Frecuentemente, los hallazgos y temas identificados se presentan nuevamente a los participantes para que confirmen si esa descripción realmente refleja la realidad de lo que vivieron (validación por miembros).
+[257] 
+[258] Ejemplo analógico sencillo: Imagina que un investigador tradicional (cuantitativo) estudia un viaje en una montaña rusa midiendo la velocidad del carrito, la altura del riel y las pulsaciones del corazón de los pasajeros. En cambio, un investigador fenomenológico se sentará a conversar detalladamente con los pasajeros después del viaje. Les preguntará por el vacío en el estómago, el momento exacto en que sintieron miedo, la adrenalina al bajar y el significado que tuvo para ellos superar ese temor. Ese relato de la experiencia pura es la fenomenología
+[259] 
+[260] Montes-Sosa, Gabriel; Castillo-Sanguino, Narciso. El método fenomenológico en la investigación educativa: entendiendo los principios clave de la metodología de Max van Manen. Diálogos sobre educ. Temas actuales en investig. educ, Zapopan, v. 15, n. 29, 00015, 2024.
+[261] Disponible en <http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-21712024000100305&lng=es&nrm=iso>.  https://doi.org/10.32870/dse.v0i29.1423.
+[262] 
+[263] Método Etnográfico.- El método etnográfico es una forma de investigación cualitativa que se usa para estudiar y describir a fondo el estilo de vida, las costumbres y las normas de un grupo de personas que comparten una misma cultura. En lugar de usar números o estadísticas, el investigador se sumerge directamente en la comunidad o entorno (como un colegio, un hospital o una tribu) para entender el mundo desde los ojos de las personas que lo habitan.
+[264] 
+[265] Características principales:
+[266] El diseño etnográfico destaca por ser muy flexible y centrado en la vida real:
+[267] Inmersión total: El investigador pasa mucho tiempo viviendo o compartiendo con el grupo estudiado.
+[268] Perspectiva "Emic" y "Etic": Busca entender lo que significan las cosas para los miembros del grupo (visión interna o emic) sin perder la mirada analítica del científico (visión externa o etic).
+[269] Inductivo: No empieza con una teoría cerrada; prefiere descubrir patrones a partir de los detalles del día a día.
+[270] Naturalista: Observa los comportamientos tal y como ocurren de forma espontánea, sin preparar experimentos en laboratorios.
+[271] 
+[272] Entre las técnicas más utilizadas para recolectar información: 
+[273] Observación participante: Es la herramienta estrella. El investigador se convierte en un miembro más de las actividades cotidianas del grupo para registrar todo lo que ve y siente en sus notas de campo. 
+[274] Entrevistas a profundidad: Conversaciones abiertas donde los participantes explican libremente sus historias, creencias y valores.
+[275] Diario de campo: Cuaderno personal donde el investigador apunta de forma constante datos detallados, reflexiones y el cronograma diario.
+[276] Análisis de objetos culturales: Revisión de documentos, fotos, videos o herramientas del grupo para entender mejor su historia.
+[277] 
+[278] Pasos de una Investigación Etnográfica
+[279] [Selección del Diseño] ➔ [Acceso al Campo] ➔ [Recolección de Datos] ➔ [Análisis e Interpretación]
+[280] Selección del diseño: Se define el grupo que se quiere estudiar y se plantea una pregunta abierta sobre su comportamiento.
+[281] Acceso al campo: El investigador busca contactos o "porteros" locales que le permitan entrar con respeto a la comunidad.
+[282] Recolección: Se convive con el grupo por semanas o meses, observando y escribiendo en el diario de campo.
+[283] Análisis e interpretación: Se clasifican las notas, se identifican temas comunes y se explica el significado oculto de las normas del grupo.
+[284] 
+[285] Cotán Fernández A. El método etnográfico como construcción de conocimiento: un análisis descriptivo sobre su uso y conceptualización en ciencias sociales. MÁRGENES [Internet]. 30 de enero de 2020 [citado 9 de septiembre de 2026];1(1):83-103. Disponible en: https://revistas.uma.es/index.php/mgn/article/view/7241
+[286] 
+[287] Método de Investigación acción.- El método de investigación-acción es un enfoque de investigación cualitativa diseñado para resolver problemas prácticos en una comunidad u organización al mismo tiempo que se genera nuevo conocimiento. Este modelo se diferencia de la investigación tradicional porque los propios afectados participan de forma activa junto al investigador para transformar su realidad.
+[288] 
+[289] Características principales:
+[290] Participativa y colaborativa: Los miembros del grupo u organización se involucran directamente en todo el proceso.
+[291] Enfoque práctico: Busca solucionar problemas del día a día en entornos como escuelas, hospitales o comunidades.
+[292] Ciclo en espiral: No es un proceso lineal; se repite de forma continua para lograr mejoras constantes.
+[293] Autocrítica y reflexiva: Obliga a los participantes a examinar sus propias acciones y supuestos para mejorar la práctica.
+[294] 
+[295] El ciclo de la investigación-acción.- Este método avanza mediante una serie de fases que se repiten de forma ascendente o "en espiral":
+[296] Detección del problema: Identificar y describir qué situación necesita ser mejorada.
+[297] Planificación: Diseñar una estrategia o plan de acción concreto para solucionar la falla hallada.
+[298] Acción e implementación: Poner en práctica el plan trazado dentro del entorno real.
+[299] Observación y evaluación: Recopilar datos y evidencias para analizar el impacto de la solución aplicada.
+[300] Reflexión: Analizar los resultados de la evaluación, lo que usualmente abre paso a un nuevo ciclo de mejora.
+[301] 
+[302] Ejemplos:
+[303] ¿Cómo explican los docentes en formación del programa de licenciatura de Enseñanza de Lenguas Extranjeras el uso de la investigación acción durante el proceso de su práctica?
+[304] ¿Cómo aplican esta estrategia en su desarrollo académico-investigativo?
+[305] 
+[306] Peralta-Castro Fernando, Mayoral-Valdivia Pedro José. La investigación acción como estrategia de reflexión, mejora y cambio en la práctica docente de la enseñanza de lenguas. RIDE. Rev. Iberoam. Investig. Desarro. Educ [revista en la Internet]. 2022 Jun; 12 (24): e019.
+[307] Disponible en: http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S2007-74672022000100019&lng=es.  https://doi.org/10.23913/ride.v12i24.1152.
+[308] 
+[309] 4.2. Selección de la muestra
+[310] 4.3. Técnicas e instrumentos de recolección de datos.- Entre ellos se presenta:
+[311] Observación participante. 
+[312] Entrevistas a profundidad.
+[313] Diario de campo.
+[314] Análisis de objetos culturales.
+[315] Triangulación.
+[316] Etc.
+[317] 
+[318] La triangulación en la investigación cualitativa es una técnica metodológica que consiste en combinar múltiples fuentes de datos, métodos, teorías o investigadores para estudiar un mismo fenómeno. Su objetivo principal es actuar como un control de calidad para aumentar la validez, confiabilidad y credibilidad de los hallazgos, reduciendo los sesgos individuales del investigador.  El término proviene de la topografía, donde se usan dos puntos de referencia conocidos para ubicar la posición exacta de un tercer punto invisible. En la ciencia, funciona igual: mirar un problema desde diferentes ángulos ayuda a obtener una verdad más completa.
+[319] 
+[320] Tipos de Triangulación.- Según los planteamientos clásicos de Norman Denzin, existen cuatro tipos principales de triangulación:
+[321] Triangulación de Datos: Utiliza diferentes fuentes de información para estudiar el mismo problema. Por ejemplo, en un estudio sobre convivencia escolar, se recopila la opinión de los alumnos, de los profesores y de los padres de familia.
+[322] Triangulación de Métodos: Combina distintas herramientas o caminos para recolectar información. Implica mezclar técnicas como entrevistas en profundidad, grupos focales y observación directa de campo.
+[323] Triangulación de Investigadores: Involucra a dos o más profesionales en la recolección o el análisis de los mismos datos. Al comparar lo que vio cada investigador, se neutralizan las opiniones sesgadas de una sola persona.
+[324] Triangulación Teórica: Consiste en interpretar los datos obtenidos utilizando diferentes teorías o marcos conceptuales. Permite que un mismo problema sea explicado desde varias corrientes de pensamiento.
+[325] 
+[326] Ventajas y Desventajas.- Como cualquier otra herramienta en las ciencias sociales, la triangulación ofrece grandes beneficios, pero también exige un esfuerzo considerable:
+[327] Ventajas:
+[328] Mayor Rigor Científico: Le da un escudo de credibilidad y transparencia a los resultados obtenidos.
+[329] Visión Holística: Permite comprender problemas humanos complejos de forma integral y profunda.
+[330] Aprovechamiento de Divergencias: Si los datos no coinciden, no se considera un error, sino una oportunidad para descubrir nuevas preguntas de investigación.
+[331] Desventajas:
+[332] Mayor Costo y Tiempo: Recolectar e interpretar información masiva de distintas vías consume muchos recursos.
+[333] Complejidad en el Análisis: Cruzar datos divergentes puede volver el proceso de interpretación muy confuso o difícil de estructurar.
+[334] 
+[335] 
+[336] Okuda Benavides, Mayumi; Gómez-Restrepo, Carlos Métodos en investigación cualitativa: triangulación Revista Colombiana de Psiquiatría, vol. XXXIV, núm. 1, 2005, pp. 118-124 Asociación Colombiana de Psiquiatría Bogotá, D.C., Colombia. http://www.redalyc.org/articulo.oa?id=80628403009
+[337] 
+[338] 4.4. Plan de recolección de datos.			
+[339] 4.5. Plan de procesamiento de datos
+[340] 4.6. Plan de presentación y análisis de datos.
+[341] 
+[342] 
+[343] 
+[344] 
+[345] 
+[346] CAPITULO V: ASPECTOS ADMINISTRATIVOS
+[347] 
+[348] 5.1. PROGRAMACIÓN DE RECURSOS HUMANOS.
+[349] Investigadores		: 01
+[350] Asesor				: 01
+[351] Personal de apoyo		: 02
+[352] 
+[353] 5.2. PRESUPUESTO.
+[354] PAGO DE SERVICIOS DE PERSONAL:
+[355] 
+[356] PROGRAMACIÓN DE OTROS SERVICIOS
+[357] 
+[358] 
+[359] 
+[360] C.ADQUISICIÓN DE MATERIALES Y OTROS
+[361] 
+[362] Costo total: 4200.00 Soles
+[363] 
+[364] 5.3. FINANCIAMIENTO: Autofinanciado, cofinanciado.
+[365] 
+[366] 5.4. GRONOGRAMA DE ACTIVIDADES.-
+[367] TIEMPO ESTIMADO
+[368] te = O + 4m + p
+[369]               6
+[370] Te	: Tiempo estimado.
+[371] O	: Tiempo óptimo.
+[372] m : Tiempo medio.
+[373] P	: Tiempo pesimista.
+[374] Duración		: 06 meses.
+[375] Inicio		: Agosto del 2026.
+[376] Finalización	: Enero del 2027.
+[377] 
+[378] 
+[379] 
+[380] 
+[381] 
+[382] REFERENCIAS BIBLIOGRÁFICAS
+[383] 
+[384] 
+[385] ANEXOS
+[386] 
+[387] Instrumento de recolección de datos
+[388] Matriz de consistencia
+[389] TÍTULO: “MEDIDAS DE …….”
+[390] 
+[391] 
+[392] 
+[393] 
+[394] 
+[395] 
+[396] 
+[397] 
+[398] 
+[399] 
+[400] 
+[401] 
+[402] 
+[403] 3. FORMATO DE JUICIO DE EXPERTOS (El modelo es opcional) En caso que se requiera juicio de expertos se necesita como mínimo 05 expertos
+[404] I. ASPECTOS GENERALES
+[405] 1.1. Apellidos y nombres del informante (Experto): ………………………………………………….
+[406] 1.2. Grado académico del experto: .............................................................................................
+[407] 1.3. Profesión del experto: …………………………………………………………………………….
+[408] 1.4. Institución donde labora el experto: ………………………………………………………………
+[409] 1.5. Cargo que desempeña...........................................................................................................
+[410] 1.6 Denominación del Instrumento: 
+[411] 1.7. Autor del instrumento:
+[412] 1.8. Título de la tesis:
+[413] 
+[414] II.CRITERIOS DE VALIDACIÓN
+[415] Examine el instrumento y determine si cumple con los criterios establecidos marcando con un X en la columna que corresponda:
+[416] Observaciones generales:
+[417] 
+[418] 
+[419] Ayacucho,                 del 2026
+[420] 
+[421] 
+[422] 
+[423] 
+[424] FIRMA Y SELLO DEL EXPERTO
+[425] 
+[426] 
+[427] 3.MODELO DE CONSENTIMIENTO INFORMADO 
+[428] 
+[429] Yo…………………………………………identificado con DNI N°..…………………………
+[430] Domiciliado en…………………….Distrito………………….Región………………………..
+[431] Hey tomado conocimiento del estudio titulado:……………………………………………..
+[432] ……………………………………………………………………………………………………
+[433] ……………………………………………………………………………………………………
+[434] ……………………………………………………………………………………………………
+[435] 
+[436] Y declaro participar como:
+[437] (   ) Informante
+[438] Y me comprometo a participar y dar la información fidedigna para el estudio arriba mención, debido a que este acto no compromete mi integridad, física y psicológica. Para dar conformidad este acto firmo y estampo mi huella digital al pie.
+[439] 
+[440] 			Lugar y Fecha………………………………………………….
+[441] 
+[442] 
+[443] 				FIRMA Y HUELLA.
+[444] 
+[445] 
+[446] 
+[447] 
+[448] 
+[449] 4.MODELO DE CARTA DE ASESORIA
+[450] 
+[451] Ayacucho,   de enero del 2026.
+[452] 
+[453] Dr. Alejandro Yarlequé Mujica
+[454] Decano de la Facultad de Ciencias de la Salud de la UNSCH
+[455] 
+[456] Sirva la presente para saludarle y a la vez comunicarle la asesoría formal del Proyecto de Tesis titulado: “…………………………………………………” ”, perteneciente a ……………………………………….……, estudiante o egresado de la Escue Profesional de Enfermería, en tal sentido dicha asesoría comprenderá todas las etapas del proyecto de investigación, y a la vez le permita a la responsable del proyecto lograr la obtención el Título de ……, mediante la aprobación y sustentación de la Tesis.
+[457] 
+[458] 	Es cuanto informo a Ud., para su conocimiento y siendo propicia la ocasión para testimoniar las muestras de mi alta estima y consideración especial.
+[459] 
+[460] 
+[461] 				Atentamente,
+[462] 
+[463] 
+[464] 
+[465] 
+[466] 						   ________________________________
+[467] 						          Dr.
+[468]          DNI N°: 
+[469] 
+[470] 
+[471] 
+[472] 
+[473] 
+[474] 
+[475] 
+[476] Otros que estime pertinente
+[477] 
+[478] 
+[479] 
+[480] 
+[481] INDICACIONES PARA LA REDACCIÓN:
+[482] La redacción es en Times 12, o Arial 11, márgenes: superior 3, izquierdo 3.5, derecho 2.5, inferior 2.5, interlineado espacio 1 ½.
+[483] Norma de redacción Vancouver o APA.
+[484] Gestor de referencias Méndeley o Sotero…
+[485] Respecto al índice de similitud, de acuerdo a la norma de la UNSCH, se acepta no más del 25%, para las citas directas no más de 30 palabras.
+[486] 
+[487] 
+
+=== TABLES ===
+
+--- TABLE 0 ---
+CATEGORIA CENTRAL | SUBCATEGORIAS | DEFINICIÓN OPERATIVA | INDICADORES CÓDIGOS SUGERIDOS | PREGUNTA ORIENTADORA
+Satisfacción laboral | Clima relacional | Percepción del trabajador sobre el trato con sus compañeros y jefes. | • Apoyo mutuo • Conflictos • Confianza | ¿Cómo describe la relación con sus compañeros en el día a día?
+ | Motivación intrínseca | Sentimiento de realización personal que el empleado obtiene de su trabajo. | • Orgullo por el rol • Disfrute de tareas • Aburrimiento | ¿Qué es lo que más le genera satisfacción al terminar su jornada?
+
+--- TABLE 1 ---
+SERVICIOS | U.M | CANTIDAD | C- UNIT. S/. | TOT S/.
+Coasesor | Mes | 04 | 500 | 1000.00
+Personal de apoyo (02) | Mes | 02 | 500 | 1000.00
+SUB TOTAL |  |  |  | 2000.00
+
+--- TABLE 2 ---
+SERVICIOS | U.M | CANTIDAD | C- UNIT. S/. | TOT S/.
+Impresión | Hojas | 1000 | 0.20 | 200.00
+Internet | Hora | 200 | 1.00 | 100.00
+Procesamiento de datos | Unidad | 01 | 500.00 | 500.00
+Empastado de tesis | Unidad | 10 | 20.00 | 200.00
+Traslado | DIas | 15 | 20 | 200.00
+SUB TOTAL |  |  | S/. | 1200.00
+
+--- TABLE 3 ---
+MATERIALES | U.M | CANTIDAD | C.UNIT. S/. | TOT. S/.
+Material bibliográfico | Unidad | 04 | 50.00 | 200.00
+Papel Bong A4 80 gr. | Millar | 04 | 25.00 | 100.00
+Usb 32 GB | Unidad | 02 | 50.00 | 100.00
+Folder | Unidad | 20 | 0.50 | 10.00
+Lapicero | Unidad | 20 | 2.00 | 40.00
+Mascarilla KN95 | Unidad | 25 | 5.0 | 100.00
+Alcohol al 70% | Litro | 05 | 10.0 | 50.00
+Protector facial | Unidad | 05 | 10.0 | 50.00
+Mandilón descartable | Unidad | 30 | 10.0 | 300.00
+Otros |  |  |  | 50.00
+SUB TOTAL |  |  |  | 1000.00
+
+--- TABLE 4 ---
+Actividades | 2026-2026 | 2026-2026 | 2026-2026 | 2026-2026 | 2026-2026 | 2026-2026
+Actividades | A | S | O | N | D | E
+Presentación del proyecto | X | X |  |  |  | 
+Aprobación del proyecto |  | X | X |  |  | 
+Validación del instrumento |  |  | X |  |  | 
+Revisión del marco teórico |  |  | X | X | X | 
+Preparación de la logística |  |  |  | X |  | 
+Coordinación con el EE.SS |  |  |  | X |  | 
+Capacitación del personal de apoyo |  |  |  | X |  | 
+Administración y recolección de datos |  |  |  | X | X | 
+Control de calidad de los instrumentos aplicados. |  |  |  |  | X | 
+Elaboración de la base de datos |  |  |  |  | X | 
+Procesamiento de datos y análisis de los resultados. |  |  |  |  | X | 
+Presentación del informe final |  |  |  |  | X | 
+Aprobación del informe final |  |  |  |  |  | X
+Sustentación |  |  |  |  |  | X
+
+--- TABLE 5 ---
+PROBLEMA | OBJETIVOS | HIPOTESIS | VARIABLE | METODOLOGIA
+General     Específicos | General     Específicos | General     Específicos |  | Estudio de tipo aplicada.  Diseño:  Población: Usuarios ….   Muestreo no probabilístico accidentado:   Técnica:  .  Instrumentos:
+
+--- TABLE 6 ---
+CRITERIOS | Indicadores de evaluación del instrumento | SI | NO | Observaciones
+1.CLARIDAD | Están formulados con lenguaje apropiado que facilita su comprensión. |  |  | 
+2.OBJETIVIDAD | Están expresados en conductas observables, medibles. |  |  | 
+3.CONSISTENCIA | Existe una organización lógica en los contenidos y relación con la teoría. |  |  | 
+4.COHERENCIA | Existe relación de los contenidos con los indicadores de la variable |  |  | 
+5.PERTINENCIA | Las categorías de respuestas y sus valores son apropiados. |  |  | 
+6.SUFICIENCIA | Son suficientes la cantidad y calidad de ítems presentados en el instrumento. |  |  | 

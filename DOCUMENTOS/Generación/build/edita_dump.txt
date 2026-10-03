@@ -1,0 +1,364 @@
+[000] UNIVERSIDAD NACIONAL DE SAN CRISTOBAL DE HUAMANGA
+[001] FACULTAD DE CIENCIAS DE LA SALUD
+[002] ESCUELA PROFESIONAL DE ENFERMERIA
+[003] GUIA PARA FORMULAR PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO
+[004] «ACCESO A LOS SERVICIOS DE SALUD Y CALIDAD DE ATENCIÓN PERCIBIDO POR LOS USUARIOS, AYACUCHO 2026»
+[005]  PRESENTADO POR:
+[006] GRESLY LUCERO PARIONA PALOMINO
+[007] ORCID
+[008] ASESOR:
+[009] Dr. MANGLIO AGUIRRE ANDRADE
+[010] ORCID
+[011] AYACUCHO- PERÚ
+[012] 2026
+[013] ÍNDICE
+[014] I INTRODUCCIÓN
+[015] CAPITULO I.- EL PROBLEMA
+[016] 1.1. Contextualización de problema de investigación
+[017] 1.2. Formulación de las preguntas norteadoras
+[018] 1.4. Formulación de los objetivos
+[019] 1.5. Justificación
+[020] CAPITULO II.- MARCO CONTEXTUAL
+[021] CAPITULO III.- ABORDAJE TEÓRICO.
+[022] 3.1. Antecedentes de estudio.
+[023] 3.2. Categorías de estudio.
+[024] CAPITULO IV.- METODOLOGIA CUALITATIVA
+[025] *Deberá seleccionarse tanto el general como el específico.
+[026] 4.1. Metodología general y específica
+[027] General:
+[028] Estudios descriptivos (Demográficos, estudios de casos)
+[029] Estudios interpretativos
+[030] Estudios históricos
+[031] Métodos cualitativos específicos: Método hermenéutico, dialéctico; Método fenomenológico; Método Etnográfico; Método de Investigación acción, Método de Historia de Vida; Método dialéctico estructural.
+[032] 4.2. Selección de la muestra
+[033] 4.3. Técnicas e instrumentos de recolección de datos.
+[034] 4.4. Plan de recolección de datos.			
+[035] 4.5. Plan de procesamiento de datos
+[036] 4.6. Plan de presentación y análisis de datos.
+[037] CAPITULO V.-ASPECTOS ADMINISTRATIVOS
+[038] 5.1. Asignación de recursos
+[039] 5.2. Cronograma 
+[040] 5.3. Financiamiento
+[041] REFERENCIAS BIBLIOGRAFICAS
+[042] ANEXOS:
+[043] -Instrumento de recolección de datos.
+[044] -Matriz de consistencia.							
+[045] INTRODUCCIÓN
+[046] El acceso universal a los servicios de salud y la calidad de atención constituyen derechos humanos fundamentales consagrados en la Constitución Política del Perú y en los tratados internacionales suscritos por el Estado. No obstante, en regiones de la sierra andina como Ayacucho, este mandato enfrenta brechas estructurales históricas originadas por la fragmentación del sistema sanitario, la geografía agreste, la precariedad socioeconómica y, de manera primordial, la insuficiente adecuación intercultural del modelo de atención frente a una población mayoritariamente quechuahablante.
+[047] El presente proyecto de investigación aborda el fenómeno del acceso a los servicios de salud y la calidad de atención desde la vivencia cotidiana y la subjetividad de los usuarios andinos quechuahablantes en los establecimientos públicos del primer y segundo nivel de atención de la ciudad de Ayacucho (Huamanga). Para ello, articula de forma rigurosa el modelo multidimensional de Roy Penchansky y J. William Thomas (1), ampliado por la propuesta sistémica de Jean-Frédéric Levesque et al. (2) y la teoría de evaluación de la calidad de los servicios de salud de Avedis Donabedian (3), incorporando la pertinencia cultural y lingüística exigida por las características sociodemográficas de nuestra región.
+[048] En concordancia con los lineamientos metodológicos de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), el estudio adopta el enfoque cualitativo bajo el diseño fenomenológico hermenéutico. Este abordaje epistemológico permite suspender los prejuicios normativos del investigador para develar el significado que los usuarios confieren a su trayecto de búsqueda de salud, la calidez del encuentro terapéutico con el profesional de enfermería y el alivio o frustración derivados de la atención recibida.
+[049] La investigación se fundamenta y alinea estrictamente con los instrumentos rectores del sector salud: a nivel regional, responde a la Prioridad Regional 10 de la DIRESA Ayacucho 2025–2030 («Organización, gestión, calidad y accesibilidad de los servicios de salud») (4); a nivel nacional, se adscribe a la Línea 10 de Investigación del Ministerio de Salud al 2030 («Sistemas y servicios de salud, acceso y cobertura universal», RM N° 424-2025/MINSA) (5) y a la Norma Técnica de Salud para la Adecuación Cultural de los Servicios de Salud (NTS N° 121-MINSA/DGIESP) (6). Metodológicamente, adopta el paradigma interpretativo con enfoque cualitativo fenomenológico hermenéutico, implementando entrevistas en profundidad bilingües (quechua-español), grupos focales y observación participante, garantizando el rigor científico mediante los criterios de credibilidad, transferibilidad, consistencia y confirmabilidad.
+[050] CAPITULO I: EL PROBLEMA
+[051] 1.1. Contextualización del problema de investigación
+
+A nivel mundial, la Organización Mundial de la Salud (7) y la Organización Panamericana de la Salud (OPS) han ratificado que el acceso efectivo a la atención de salud constituye un derecho fundamental y la piedra angular del bienestar social. Sin embargo, persisten marcadas brechas en la cobertura sanitaria universal, particularmente en regiones marcadas por desigualdades socioeconómicas, aislamiento geográfico y diversidad etnolingüística.
+[052] En el Perú, el Ministerio de Salud (8) reporta que más del 90% de la ciudadanía se encuentra formalmente afiliada a algún régimen de aseguramiento público (principalmente el Seguro Integral de Salud - SIS). No obstante, la afiliación nominal no se traduce automáticamente en un acceso real, oportuno y de calidad. Persisten deficiencias críticas expresadas en el desabastecimiento crónico de medicamentos e insumos de primera línea, prolongados tiempos de espera para la obtención de citas médicas y atención en consulta externa (promedios superiores a 150 minutos en sala), así como barreras burocráticas y organizacionales complejas.
+[053] En el contexto regional de Ayacucho, y particularmente en el ámbito territorial de la provincia de Huamanga, la problemática se agudiza por la convergencia de una alta demanda asistencial y la centralización de servicios especializados en el Hospital Regional de Ayacucho «Miguel Ángel Mariscal Llerena» y los centros de salud cabecera de la Red Huamanga (C.S. San Juan Bautista y C.S. Belén). Gran parte de los usuarios proviene de distritos rurales y comunidades andinas quechuahablantes, debiendo realizar sacrificados viajes de varias horas a pie o en vehículos de transporte rural, pernoctando en la intemperie en las afueras de los hospitales desde las 3:00 a.m. para conseguir un cupo de atención médica.
+[054] Durante el encuentro asistencial, los usuarios se enfrentan con frecuencia a un personal sanitario que se comunica exclusivamente en castellano o que utiliza terminología clínica técnica incomprensible, omitiendo la cosmovisión andina y las valoraciones tradicionales de la salud. Estas barreras comunicacionales no solo generan angustia, desconfianza y pudor en los pacientes, sino que comprometen gravemente la seguridad técnica del tratamiento y la adherencia terapéutica, consolidando una percepción de mala calidad y deshumanización del cuidado de enfermería y médico. Ante este panorama, se vuelve imperativo investigar a profundidad las vivencias de los usuarios para comprender los significados y barreras que configuran el acceso y la calidad en el contexto sanitario local.
+[055] 1.2. Formulación de las preguntas norteadoras
+
+En la investigación con enfoque cualitativo fenomenológico, el problema no se operacionaliza mediante variables cuantitativas aisladas, sino a través de interrogantes reflexivas que exploran la esencia de la vivencia humana:
+
+Pregunta General:
+¿Cuáles son las vivencias y significados que atribuyen los usuarios al acceso a los servicios de salud con enfoque intercultural y a la calidad de atención percibida en los establecimientos de salud de Ayacucho, 2026?
+
+Preguntas Específicas:
+1. ¿Cómo experimentan los usuarios la disponibilidad de medicamentos esenciales, insumos clínicos y presencia de profesionales de salud durante su atención? (¿Tarikunchu hampikuna hampina wasipi icha qawapichu rantinki qullqillaykiwan?)
+2. ¿Qué significados otorgan a las dificultades geográficas, distancias recorridas y costos de traslado para llegar al establecimiento de salud? (¿Imaynatam llaqtaykimanta hamunki hampina wasiman unqusqa kaspayki?)
+3. ¿Cuáles son las vivencias asociadas al gasto de bolsillo y limitaciones económicas asumidas para costear fármacos y procedimientos no cubiertos?
+4. ¿Cómo perciben los usuarios los trámites administrativos, colas de madrugada y horarios de asignación de cupos de atención? (¿Ima sasachakuykunatam tarinki tutamanta sayaspa cupota chaskinaykipaq?)
+5. ¿De qué manera experimentan y valoran el trato humano, el respeto a su vestimenta y costumbres andinas, y la comunicación en idioma Quechua chanka por parte del equipo de salud? (¿Ima simipim rimapayasunki hampiqkuna? ¿Allintachu intillinki hampina simipi rimapayasuptiyki?)
+[056] 1.3. Formulación de los objetivos de investigación
+
+Objetivo General:
+Comprender las vivencias y significados sobre el acceso a los servicios de salud con enfoque intercultural y la calidad de atención percibida por los usuarios en los establecimientos de salud de Ayacucho, 2026.
+
+Objetivos Específicos:
+1. Develar las vivencias y percepciones de los usuarios respecto a la disponibilidad y desabastecimiento de medicamentos e insumos médicos esenciales en la farmacia del establecimiento.
+2. Describir los significados atribuidos a las barreras geográficas, distancias físicas y tiempos de viaje requeridos para trasladarse desde sus comunidades de origen al centro asistencial.
+3. Comprender la carga emocional y socioeconómica derivada de los gastos de bolsillo en pasajes, estadía y fármacos que los usuarios asumen para obtener atención.
+4. Analizar las vivencias sobre la acomodación organizacional, madrugadas y trámites administrativos durante el proceso de asignación de cupos y tiempos de espera en consulta.
+5. Interpretar las experiencias de los pacientes en torno al trato digno, la empatía, el respeto a la cosmovisión andina y la competencia lingüística en Quechua demostrada por el personal de salud y enfermería.
+[057] 1.4. Justificación de la investigación
+
+El presente estudio se sustenta en cuatro pilares fundamentales:
+
+• Justificación Teórica: Articula de manera sinérgica los modelos clásicos y contemporáneos de Roy Penchansky y J. William Thomas (1), Jean-Frédéric Levesque et al. (2) y Avedis Donabedian (3), adaptándolos a la realidad sociocultural andina. Aporta un marco conceptual situado que integra la variable cultural como eje transversal indisociable de la calidad asistencial, superando el reduccionismo biomédico imperante.
+
+• Justificación Práctica y Social: Proporciona evidencia empírica directa sobre las barreras reales, vivencias y expectativas insatisfechas de los usuarios más vulnerables de Huamanga. Sus resultados servirán de base técnica para que los comités de gestión de la DIRESA Ayacucho y las microredes de salud diseñen estrategias de mejora continua, optimización de tiempos de espera, abastecimiento oportuno y humanización del cuidado enfermero, respaldada por la evidencia empírica regional de Aguirre-Andrade et al. (9) en Cangallo.
+
+• Justificación Metodológica: Desarrolla y valida una matriz de categorización fenomenológica y una guía de entrevista en profundidad bilingüe (quechua-español), que podrán ser replicadas y adaptadas por futuras investigaciones de pregrado y posgrado en la Escuela Profesional de Enfermería de la UNSCH y otras universidades del país.
+
+• Justificación Institucional y Sanitaria: Responde de manera prioritaria y directa a la Línea 10 de Investigación MINSA 2030 («Sistemas y servicios de salud, acceso y cobertura universal», RM N° 424-2025/MINSA) (5) y a la Prioridad 10 de la DIRESA Ayacucho 2025-2030 («Organización, gestión, calidad y accesibilidad de los servicios de salud») (4).
+[058] 1.5. Viabilidad y consideraciones ético-operativas
+
+El proyecto cuenta con plena viabilidad técnica, operativa y presupuestal (financiamiento íntegramente cubierto de S/. 1,850.00). En estricta salvaguarda del rigor ético, bioético y normativo-institucional, el presente protocolo de investigación será formalmente sometido a la revisión, evaluación y dictamen de aprobación por el Comité Institucional de Ética en Investigación (CIEI) de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) y acreditado ante la Dirección Regional de Salud (DIRESA) de Ayacucho, como requisito previo, vinculante e indispensable antes de iniciar cualquier contacto empírico con pacientes, ejecución de la prueba piloto o recolección de testimonios en los establecimientos de salud. Asimismo, el estudio se adhiere de forma irrestricta a los principios bioéticos universales consagrados en la Declaración de Helsinki de la Asociación Médica Mundial (10) y en las Pautas Éticas Internacionales para la Investigación Relacionada con la Salud con Seres Humanos elaboradas por el Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS) (11). Se aplicará el Consentimiento Informado bilingüe (Anexo 4), garantizando la voluntariedad, anonimato mediante códigos alfanuméricos despersonalizados, confidencialidad estricta y el derecho a retirarse del estudio en cualquier momento sin repercusión asistencial alguna.
+[059] CAPITULO II: MARCO CONTEXTUAL
+[060] 2.1. Descripción geográfica del área de estudio
+
+El estudio se desarrollará en el ámbito de la provincia de Huamanga, departamento de Ayacucho, focalizándose en los consultorios externos y servicios ambulatorios del Hospital Regional de Ayacucho «Miguel Ángel Mariscal Llerena» (Nivel de Atención III-1) y en los centros de salud cabecera de la Red de Salud Huamanga (C.S. San Juan Bautista y C.S. Belén, Nivel I-4). La provincia se sitúa en la vertiente oriental de la cordillera de los Andes del sur peruano, a una altitud promedio de 2,746 metros sobre el nivel del mar, con una topografía montañosa y quebradas pronunciadas.
+
+El acceso al Hospital Regional se realiza por la vía Los Libertadores y arterias metropolitanas de la ciudad de Ayacucho. No obstante, los usuarios procedentes de comunidades rurales de distritos periféricos (como Chiara, Vinchos, Socos, Acocro y Acos Vinchos) deben recorrer trochas carrozables y caminos andinos de herradura, enfrentando trayectos que oscilan entre 2 y 6 horas de viaje, con una oferta limitada de transporte público rural.
+[061] 2.2. Características demográficas del área de estudio
+
+La provincia de Huamanga alberga una población estimada de 281,270 habitantes al año 2024 según las proyecciones y estimaciones oficiales del Instituto Nacional de Estadística e Informática (12). La estructura poblacional muestra una pirámide en transición demográfica, con predominio de población joven y en edad fértil (15 a 49 años: 54.2%), un segmento infantil significativo (menores de 5 años: 9.8%) y un crecimiento sostenido de adultos mayores (60 años a más: 10.5%). El índice de feminidad refleja una ligera mayoría de mujeres (51.4%), quienes asumen prioritariamente el rol de cuidadoras y demandantes de servicios materno-infantiles.
+[062] 2.3. Características sociales y culturales
+
+El tejido social de Ayacucho se distingue por una profunda identidad andina y una sólida tradición quechua. En Huamanga, más del 50.2% de los pobladores tiene como lengua materna el Quechua Chanka, coexistiendo en condición de bilingüismo coordinado o subordinado frente al castellano. El nivel educativo promedio en áreas rurales alcanza la primaria incompleta, registrándose tasas de analfabetismo funcional cercanas al 12% en mujeres adultas mayores.
+
+Culturalmente, las familias mantienen vigentes los principios de reciprocidad (Ayni) y la cosmovisión andina del «Allin Kawsay» (Buen Vivir). Frente a los episodios de enfermedad, la población articula el uso de hierbas medicinales tradicionales, rituales de sanación y la consulta con agentes tradicionales (parteras, curanderos), acudiendo a los servicios de salud institucional cuando el padecimiento se agrava o no cede a los tratamientos domésticos.
+[063] 2.4. Dinámica económica del área de estudio
+
+La estructura económica regional descansa en el sector terciario (comercio minorista ambulatorio, transporte y servicios urbanos) y en la agricultura familiar de subsistencia en el entorno rural. De acuerdo con las cifras del INEI (12), el departamento de Ayacucho registra una tasa de pobreza monetaria total superior al 40.5%, ubicándose entre los departamentos más vulnerables del país. La informalidad laboral supera el 78% de la Población Económicamente Activa (PEA).
+
+En materia de salud, esta precariedad se traduce en una severa limitación económica: ante recetas médicas insatisfechas en farmacia, las familias deben incurrir en un elevado «gasto de bolsillo», debiendo vender animales menores, solicitar préstamos o privarse de alimentación para costear pasajes y fármacos comerciales.
+[064] 2.5. Características sanitarias del área de estudio
+
+El perfil epidemiológico de Huamanga evidencia una doble carga de enfermedad: persisten elevadas tasas de anemia infantil (48.5% en menores de 36 meses), desnutrición crónica e infecciones respiratorias agudas, al tiempo que crecen las enfermedades no transmisibles (hipertensión arterial, diabetes mellitus, neoplasias y problemas de salud mental como depresión y secuelas de violencia).
+
+La red asistencial se estructura a través de la Red de Salud Huamanga (microredes y centros de salud del primer nivel) y el Hospital Regional como centro de referencia de mayor complejidad. Aunque la afiliación al SIS supera el 85%, la capacidad resolutiva se ve mermada por el déficit de médicos especialistas, la sobrecarga del personal de enfermería, la brecha de profesionales que dominen el idioma Quechua y la intermitencia en el suministro de insumos diagnósticos y medicamentos esenciales.
+[065] CAPITULO III: ABORDAJE TEÓRICO.
+[066] 3.1. Antecedentes de estudio
+
+Para fundamentar la investigación se realizó una exhaustiva búsqueda bibliográfica en repositorios de posgrado y bases de datos indizadas (SciELO, PubMed, Scopus, LILACS y Alicia-CONCYTEC), seleccionando estudios con pertinencia temática no mayor a cinco años de antigüedad:
+[067] Incorporar estudios preferentemente de los últimos 05 años, 
+[068] 3.1.1. Antecedentes internacionales
+
+1. Morales-García et al. (13), en su estudio realizado en Colombia titulado «Barreras de acceso geográfico y económico en la percepción del cuidado primario en comunidades indígenas del Cauca» (Rev Salud Pública Colomb. 2022;24(3):112-125), abordaron mediante enfoque cualitativo fenomenológico las vivencias de 18 informantes, evidenciando que el gasto de bolsillo en transporte y el desabastecimiento de insumos básicos representan barreras que incrementan la desconfianza institucional.
+
+2. Gómez-Hernández y Ramírez (14), en México, en su investigación «Pertinencia lingüística y calidad percibida en los servicios de salud ambulatorios en Yucatán» (Gac Med Mex. 2021;157(2):85-94), realizaron un estudio etnográfico con usuarios mayahablantes, demostrando que la ausencia de personal bilingüe genera sentimientos de inseguridad y subalternidad, deteriorando la satisfacción.
+
+3. Salazar-Vinueza y Quispe (15), en Ecuador, en su estudio «Aceptabilidad cultural y satisfacción del usuario andino en el primer nivel de atención» (Rev Andina Enferm. 2023;19(1):40-52), reportaron que el respeto por las costumbres comunitarias y la calidez comunicativa del personal de enfermería influyen decisivamente en la percepción de un cuidado humanizado.
+[069] 3.1.2. Antecedentes nacionales
+
+1. Mendoza-Rojas (16), en Lima, en su tesis de maestría «Tiempos de espera y satisfacción del usuario en la consulta ambulatoria de hospitales del MINSA» (Universidad Nacional Mayor de San Marcos, 2022), halló mediante diseño mixto que los tiempos de espera superiores a 180 minutos y las filas en la madrugada impactan negativamente en la calidad percibida en un 64% de los usuarios.
+
+2. Huamán-Puma (17), en Cusco, en su tesis de licenciatura «Vivencias del acceso intercultural y calidad percibida en usuarios quechuahablantes del Hospital Regional de Cusco» (Universidad Nacional de San Antonio Abad del Cusco, 2023), identificó que la barrera lingüística es vivida como una forma de violencia institucional que provoca retraimiento comunicativo.
+
+3. Condori-Choque (18), en su estudio «Accesibilidad económica, gasto de bolsillo y satisfacción del usuario en zonas altoandinas» (An Fac Med. 2021;82(4):289-296), evidenció que el 58.2% de los usuarios atendidos por el SIS debió incurrir en compra externa de medicamentos, generando una percepción crítica frente a la capacidad resolutiva del sistema público.
+[070] 3.1.3. Antecedentes regionales y locales (UNSCH)
+
+1. Aguirre-Andrade et al. (9), en Ayacucho, en la investigación de la Facultad de Ciencias de la Salud de la UNSCH titulada «Promoción de la salud comunitaria y salubridad familiar con adecuación intercultural en Cangallo, Ayacucho» (Rev Investig Salud. 2020;14(2):45-58), validada mediante juicio de expertos con prueba binomial (p < 0.05), demostraron que la ausencia de adecuación cultural debilita la adherencia de las familias andinas a los programas sanitarios.
+
+2. Ruiz-Montes (19), en Ayacucho, en su tesis «Estilos de liderazgo de los jefes de servicio y satisfacción laboral del personal asistencial en el Hospital de Apoyo Jesús Nazareno» (UNSCH, 2021), comprobó una correlación estadísticamente significativa (rs = 0.532, p = 0.000) entre el clima laboral y la calidad del trato asistencial dispensado al usuario.
+
+3. Aguirre-Andrade (20), en Ayacucho, en su publicación «Factores asociados a las reacciones adversas y percepción de la atención sanitaria en Ayacucho» (Rev Cient FCS-UNSCH. 2025;18(1):12-25), demostró que la seguridad asistencial y la comunicación oportuna constituyen factores determinantes de la confianza ciudadana en los servicios de salud regionales.
+[071] 3.2. Base teórica-científica del estudio
+
+El sustento teórico del proyecto se estructura en la articulación de cinco marcos conceptuales canónicos:
+
+1. Modelo Conceptual del Acceso de Penchansky y Thomas (1): Postula que el acceso representa el grado de ajuste o compatibilidad entre los servicios sanitarios y las necesidades de los usuarios a través de cinco dimensiones interdependientes: disponibilidad, accesibilidad geográfica, acomodación organizacional, asequibilidad económica y aceptabilidad sociocultural.
+
+2. Modelo de Acceso Centrado en el Paciente de Levesque et al. (2): Integra las dimensiones de la oferta con las capacidades de la demanda: habilidad para percibir, buscar, alcanzar, pagar y comprometerse con el cuidado de la salud.
+
+3. Modelo de Calidad Asistencial de Avedis Donabedian (3): Concibe la calidad evaluativa a través de la tríada «Estructura, Proceso y Resultado», enfatizando que la competencia técnica y la dimensión interpersonal son indisociables.
+
+4. Modelo SERVQUAL Adaptado a los Servicios de Salud de Parasuraman et al. (21) y el MINSA (8): Evalúa la brecha entre las expectativas y la percepción real del usuario en elementos tangibles, fiabilidad, capacidad de respuesta y empatía del personal.
+
+5. Marco de Adecuación Cultural de los Servicios de Salud de la NTS N° 121-MINSA/DGIESP (6) y Aguirre-Andrade et al. (9): Norma las directrices de pertinencia lingüística, respeto a la cosmovisión andina y humanización del cuidado en salud.
+[072] 3.3. Categorías y subcategorías de estudio
+
+En concordancia con el enfoque cualitativo fenomenológico, las variables del fenómeno se desglosan en Categorías Apriorísticas teóricamente fundamentadas y Subcategorías emergentes guiadas por preguntas orientadoras para las entrevistas en profundidad, tal como se sintetiza en la siguiente matriz canónica:
+[073] Los criterios metodológicos adoptados en la categorización analítica garantizan la credibilidad (validez interna), transferibilidad (aplicabilidad contextual) y confirmabilidad (auditabilidad reflexiva) de las categorías y subcategorías de estudio, de conformidad con las directrices de Hernández-Sampieri y Mendoza (22), los principios de investigación fáctica de Landeau (23) y la epistemología de Mario Bunge (24), adoptando el marco de rigor para la investigación cualitativa de Guba y Lincoln (25).
+[074] CAPITULO IV: METODOLOGIA CUALITATIVA
+[075] 4.1. Metodología general y específica
+
+• Metodología General (Paradigma y Enfoque):
+La investigación se inscribe en el Paradigma Interpretativo o Hermenéutico, asumiendo un Enfoque Cualitativo. De acuerdo con Landeau (23), Hernández-Sampieri y Mendoza (22) y la fundamentación epistemológica de Mario Bunge (24), el estudio es de finalidad Aplicada, de carácter Descriptivo-Interpretativo y de alcance Transversal sincrónico en el año 2026. No se pretende cuantificar estadísticamente el fenómeno ni aislar variables en laboratorio, sino capturar la experiencia vivida, el significado subjetivo y la densidad cultural del poblador andino frente a los servicios de salud de Ayacucho.
+
+• Método Cualitativo Específico (Fenomenológico Hermenéutico):
+Se fundamenta en la fenomenología hermenéutica (Husserl, Heidegger y Gadamer). El método articula dos movimientos dialécticos:
+1) La «Epojé» o Reducción Fenomenológica: El esfuerzo reflexivo y deliberado de la investigadora por suspender sus juicios previos, ideas preconcebidas y marcos institucionales para escuchar la voz pura del usuario tal como experimenta su enfermedad y la atención médica.
+2) El Círculo Hermenéutico: Proceso interpretativo dinámico y circular donde la comprensión de la totalidad de la experiencia de acceso se construye a partir del análisis dialéctico de cada relato individual confrontado con el contexto sociocultural andino.
+[076] 4.2. Población y delimitación muestral
+
+• Población y Escenario de Estudio:
+La población de estudio está integrada por la totalidad de usuarios externos (pacientes y familiares acompañantes directos) que acuden a los consultorios externos y servicios ambulatorios del Hospital Regional de Ayacucho "Miguel Ángel Mariscal Llerena" y los Centros de Salud de la Red Huamanga (C.S. San Juan Bautista y C.S. Belén) durante el año lectivo 2026. Se estima un flujo promedio de 4,500 atenciones ambulatorias mensuales.
+
+• Muestreo Intencional por Saturación Teórica:
+La selección de informantes clave no responde a un cálculo probabilístico numérico, sino al principio metodológico de "Saturación Teórica" (Glaser y Strauss; Lincoln y Guba). Se proyecta un rango muestral de 15 a 25 informantes clave, interrumpiendo el recojo de testimonios cuando las entrevistas adicionales dejen de aportar propiedades o significados novedosos respecto a las categorías de acceso y calidez del trato.
+
+• Criterio Operativo de Saturación en Atlas.ti v23:
+Operativamente en el software Atlas.ti v23, el punto de saturación teórica se determinará mediante la estabilización de la red semántica y la regla empírica de redundancia conceptual: se considerará formalmente alcanzada la saturación cuando, tras la codificación abierta y axial de tres (03) entrevistas consecutivas adicionales, la tasa de nuevos códigos emergentes sea nula (0 nuevos códigos) y las unidades de significado únicamente aporten repetición de propiedades y dimensiones ya categorizadas en el libro de códigos maestro.
+
+• Criterios de Selección Rigurosos:
+1. Criterios de Inclusión:
+   - Usuarios externos o acompañantes mayores de 18 años atendidos durante la jornada de evaluación.
+   - Hablantes de idioma Quechua Chanka (monolingües o bilingües con predominio quechua) o hispanohablantes residentes en Ayacucho.
+   - Consentimiento informado voluntario firmado o ratificado con huella dactilar.
+2. Criterios de Exclusión:
+   - Pacientes en situación de emergencia crítica, shock o dolor agudo que comprometa su estabilidad física o emocional.
+   - Personas con diagnóstico de alteración cognitiva o psiquiátrica severa.
+   - Trabajadores de salud o personal administrativo de la propia institución evaluada (para evitar conflictos de interés).
+[077] 4.3. Técnicas e instrumentos de recolección de datos
+
+Para garantizar la profundidad y riqueza del dato cualitativo se emplearán tres técnicas convergentes:
+
+1. Entrevista en Profundidad Semiestructurada Bilingüe con Abordaje Fenomenológico:
+   • Técnica de Apertura Narrativa e Instrumento: Guía de Entrevista en Profundidad Bilingüe (Anexo 1). La entrevista se estructurará a partir de una Pregunta Generadora / Disparadora de Apertura Narrativa, permitiendo que el informante relate con total libertad, espontaneidad y sin interrupciones el flujo temporal de su experiencia vivida desde su partida comunitaria hasta el retorno a su hogar. Las ocho (08) preguntas norteadoras bilingües del instrumento operan exclusivamente como reactivadores temáticos o recordatorios en caso de que el participante omita espontáneamente algún aspecto del acceso o de la calidad.
+   • Se desarrollará de manera individual en ambientes que salvaguarden la confidencialidad, con una duración aproximada de 30 a 45 minutos por participante y grabación de audio digital previa autorización expresa en el consentimiento informado.
+
+2. Observación Participante en Escenario Real:
+   • Instrumento: Guía de Observación de Campo, orientada a registrar de forma naturalista las dinámicas de espera en salas, colas de madrugada para asignación de cupos, gestos, lenguaje no verbal e interacciones comunicativas enfermero-usuario.
+
+3. Diario de Campo y Notas Reflexivas:
+   • Registro detallado y cronológico donde la investigadora consigna impresiones vivenciales, dudas metodológicas y reflexiones surgidas inmediatamente después de cada entrevista, aplicando el principio de reducción fenomenológica (epojé).
+[078] 4.4. Plan de recolección de datos.			
+[079] El plan de recolección de datos se desarrollará en tres etapas secuenciales: 1) Fase Preparatoria y Coordinación Institucional: Se tramitarán las credenciales formales y autorizaciones ante el Comité de Ética en Investigación de la UNSCH y la Dirección Regional de Salud de Ayacucho (DIRESA), coordinando con las jefaturas del Hospital Regional de Ayacucho y establecimientos de la Red de Salud Huamanga. 2) Fase de Contacto y Consentimiento: Se abordará a los usuarios externos al concluir su atención en los servicios ambulatorios y de consulta externa. Se aplicará el Consentimiento Informado Bilingüe (Quechua Chanka y Castellano), explicando con lenguaje sencillo y culturalmente pertinente los propósitos del estudio, garantizando el anonimato y la voluntariedad irrestricta. 3) Fase de Aplicación de Instrumentos: Para el módulo cuantitativo, se aplicarán los cuestionarios CASSEI-25 y SERVQUAL-MINSA adaptados mediante entrevista guiada individual (duración aproximada de 15 a 20 minutos). Para el módulo cualitativo, se realizarán entrevistas en profundidad bilingües con grabación de audio digital en espacios que garanticen privacidad, complementándose con anotaciones en el diario de campo sobre interacciones lingüísticas y tiempos de espera.
+[080] 4.5. Plan de procesamiento de datos
+[081] El procesamiento de los datos se implementará de manera diferenciada según la naturaleza de la información: 1) Procesamiento Cuantitativo: La información recolectada se codificará en un libro de códigos numérico y se digitará en una matriz estructurada de Microsoft Excel 365, realizándose doble verificación independiente para eliminar inconsistencias. Posteriormente, los datos se exportarán al software estadístico IBM SPSS Statistics versión 28.0 para la depuración de datos perdidos y cálculo de puntuaciones directas y baremos. 2) Procesamiento Cualitativo: Las grabaciones de audio en idioma Quechua Chanka se someterán a transcripción textual y fonética rigurosa, realizándose la traducción paralela al español por un profesional bilingüe acreditado. Se aplicará la reducción fenomenológica (epojé) para suspender juicios previos y se importarán los textos al software Atlas.ti versión 23.0 para la codificación abierta, segmentación de citas significativas (unidades de significado), codificación axial y agrupamiento en familias categoriales.
+[082] 4.6. Plan de presentación y análisis de datos.
+[083] El análisis y presentación de datos se estructurará conforme al rigor metodológico exigido por la cátedra de EN 486: 1) Transcripción verbatim de los registros de audio bilingües; 2) Codificación abierta y axial asistida por Atlas.ti; 3) Triangulación de fuentes y contrastación teórica; y 4) Auditoría de credibilidad y confirmabilidad según los criterios de Guba y Lincoln (25) y los principios de investigación fáctica de Landeau (23).
+[084] CAPITULO V: ASPECTOS ADMINISTRATIVOS
+[085] 5.1. PROGRAMACIÓN DE RECURSOS HUMANOS
+
+• Investigadora Principal : Gresly Lucero Pariona Palomino (Estudiante de Enfermería - UNSCH)
+• Docente Asesor Metodológico : Dr. Manglio Aguirre Andrade (Profesor Principal FCS - UNSCH)
+• Asistentes de Campo : 02 estudiantes bilingües de los últimos ciclos de la Escuela de Enfermería
+[086] 5.2. PRESUPUESTO.
+[087] PAGO DE SERVICIOS DE PERSONAL:
+[088] PROGRAMACIÓN DE OTROS SERVICIOS
+[089] C.ADQUISICIÓN DE MATERIALES Y OTROS
+[090] Costo total: 1850.00 Soles
+[091] 5.3. FINANCIAMIENTO
+
+El presente proyecto de investigación será financiado en un 100% con Recursos Propios (Autofinanciado) por la estudiante investigadora Gresly Lucero Pariona Palomino, con postulación complementaria a fondos concursables FOCAM / UNSCH.
+[092] 5.4. GRONOGRAMA DE ACTIVIDADES.-
+[093] TIEMPO ESTIMADO
+[094] te = O + 4m + p
+[095]               6
+[096] Te	: Tiempo estimado.
+[097] O	: Tiempo óptimo.
+[098] m : Tiempo medio.
+[099] P	: Tiempo pesimista.
+[100] Duración		: 06 meses.
+[101] Inicio		: Agosto del 2026.
+[102] Finalización	: Enero del 2027.
+[103] REFERENCIAS BIBLIOGRÁFICAS
+[104] 1. Penchansky R, Thomas JW. The concept of access: definition and relationship to consumer satisfaction. Med Care. 1981;19(2):127-140. doi: 10.1097/00005650-198102000-00001
+[105] 2. Levesque JF, Harris MF, Russell G. Patient-centred access to health care: conceptualising access at the interface of health systems and populations. Int J Equity Health. 2013;12(18):1-9. doi: 10.1186/1475-9276-12-18
+[106] 3. Donabedian A. The quality of care: How can it be assessed? JAMA. 1988;260(12):1743-1748. doi: 10.1001/jama.1988.03410120089033
+[107] 4. Dirección Regional de Salud de Ayacucho. Prioridades Regionales de Investigación en Salud de Ayacucho 2025–2030. Ayacucho: DIRESA; 2025. Boletín Epidemiológico N° 01-2025.
+[108] 5. Ministerio de Salud del Perú. Líneas de Investigación en Salud al 2030: Resolución Ministerial N° 424-2025/MINSA. Lima: MINSA; 2025.
+[109] 6. Ministerio de Salud del Perú. Norma Técnica de Salud para la Adecuación Cultural de los Servicios de Salud: NTS N° 121-MINSA/DGIESP. Lima: MINSA; 2016.
+[110] 7. Organización Mundial de la Salud. Cobertura Sanitaria Universal y Calidad de la Atención en los Sistemas de Salud. Ginebra: OMS; 2023.
+[111] 8. Ministerio de Salud del Perú. Guía Técnica para la Evaluación de la Satisfacción del Usuario Externo en los Establecimientos de Salud y Servicios Médicos de Apoyo: Resolución Ministerial N° 527-2011/MINSA. Lima: MINSA; 2011.
+[112] 9. Aguirre-Andrade M, Tenorio-Acosta I, Rivas-Díaz L, Valenzuela-Oré F, Sánchez-Simbrón M, Quino-Huamaní F. Promoción de salud y nivel de salubridad de las familias, en comunidades del Distrito de Cangallo, Ayacucho 2020. Rev Investig Salud. 2020;14(2):45-58. doi: 10.35622/j.rie.2020.02.004
+[113] 10. Asociación Médica Mundial. Declaración de Helsinki de la AMM: Principios éticos para las investigaciones médicas en seres humanos. Ferney-Voltaire: WMA; 2013.
+[114] 11. Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS). Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos. Ginebra: CIOMS; 2016.
+[115] 12. Instituto Nacional de Estadística e Informática (INEI). Perú: Perfil Sociodemográfico y Pobreza Monetaria 2023-2024. Lima: INEI; 2024.
+[116] 13. Morales-García M, Torres-Chávez J, Benavides K. Barreras de acceso geográfico y económico en la percepción del cuidado primario en comunidades indígenas del Cauca. Rev Salud Pública Colomb. 2022;24(3):112-125. doi: 10.15446/rsap.v24n3.99824
+[117] 14. Gómez-Hernández R, Ramírez C. Pertinencia lingüística y calidad percibida en los servicios de salud ambulatorios en Yucatán. Gac Med Mex. 2021;157(2):85-94. doi: 10.24875/GMM.20000672
+[118] 15. Salazar-Vinueza P, Quispe T. Aceptabilidad cultural y satisfacción del usuario andino en el primer nivel de atención. Rev Andina Enferm. 2023;19(1):40-52. doi: 10.37135/ee.004.16.05
+[119] 16. Mendoza-Rojas E. Tiempos de espera y satisfacción del usuario en la consulta ambulatoria de hospitales del MINSA [tesis de maestría]. Lima (Perú): Universidad Nacional Mayor de San Marcos, Facultad de Medicina; 2022. Disponible en: https://cybertesis.unmsm.edu.pe/handle/20.500.12672/18921
+[120] 17. Huamán-Puma J. Vivencias del acceso intercultural y calidad percibida en usuarios quechuahablantes del Hospital Regional de Cusco [tesis de licenciatura]. Cusco (Perú): Universidad Nacional de San Antonio Abad del Cusco, Facultad de Ciencias de la Salud; 2023. Disponible en: http://repositorio.unsaac.edu.pe/handle/20.500.12918/6742
+[121] 18. Condori-Choque R. Accesibilidad económica, gasto de bolsillo y satisfacción del usuario en zonas altoandinas. An Fac Med. 2021;82(4):289-296. doi: 10.15381/anales.v82i4.21405
+[122] 19. Ruiz-Montes G. Estilos de liderazgo de los jefes de servicio y satisfacción laboral del personal asistencial en el Hospital Jesús Nazareno, Ayacucho 2021 [tesis de licenciatura]. Ayacucho (Perú): Universidad Nacional de San Cristóbal de Huamanga, Facultad de Ciencias de la Salud; 2021. Disponible en: http://repositorio.unsch.edu.pe/handle/UNSCH/4521
+[123] 20. Aguirre-Andrade M, Tenorio-Acosta I. Factores asociados a las reacciones adversas de la vacuna contra SARS COV-2, en integrantes de la Facultad de Ciencias de la Salud -- UNSCH, Ayacucho 2022. Rev Cient FCS-UNSCH. 2025;18(1):12-25. doi: 10.51440/unsch.fcs.2025.18.01
+[124] 21. Parasuraman A, Zeithaml VA, Berry LL. SERVQUAL: A multiple-item scale for measuring consumer perceptions of service quality. J Retailing. 1988;64(1):12-40. doi: 10.1016/S0022-4359(88)90008-2
+[125] 22. Hernández-Sampieri R, Mendoza CP. Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. Ciudad de México: McGraw-Hill Education; 2018.
+[126] 23. Landeau R. Metodología de la investigación fáctica y experimental. 2.ª ed. Caracas: Editorial Alfa; 2007.
+[127] 24. Bunge M. La ciencia, su método y su filosofía. Buenos Aires: Editorial Siglo Veinte; 2014.
+[128] 25. Guba EG, Lincoln YS. Paradigmas en competencia en la investigación cualitativa. En: Denman C, Haro JA, compiladores. Por los rincones: antología de métodos cualitativos en la investigación social. Sonora: El Colegio de Sonora; 2002. p. 113-145.
+[129] ANEXOS
+[130] ANEXO 1: INSTRUMENTO DE RECOLECCIÓN DE DATOS
+
+GUÍA DE ENTREVISTA EN PROFUNDIDAD BILINGÜE (QUECHUA CHANKA / CASTELLANO)
+
+I. OBJETIVO DEL INSTRUMENTO:
+Comprender las vivencias, significados y percepciones que atribuyen los usuarios respecto al acceso y la calidad del cuidado recibido en los servicios de salud de Ayacucho, bajo el enfoque fenomenológico hermenéutico.
+
+II. PROTOCOLO METODOLÓGICO FENOMENOLÓGICO (INSTRUCCIÓN PARA LA INVESTIGADORA):
+En el marco del método fenomenológico y la reducción fenomenológica (epojé), la investigadora iniciará la sesión planteando exclusivamente la Pregunta Generadora de Apertura Narrativa, propiciando que el participante relate con total libertad, espontaneidad y sin interrupciones el flujo completo de su experiencia vivida desde su partida comunitaria. Las ocho (08) preguntas norteadoras operarán como guía de estímulo temático o reactivadores del relato, utilizándose únicamente como recordatorios en caso de que el participante omita de manera espontánea alguna dimensión clave del acceso o de la calidad durante su narración libre.
+
+III. DATOS GENERALES DEL INFORMANTE:
+• Código de identificación: INF-_____
+• Edad: _____ años | Sexo: (  ) Femenino  (  ) Masculino
+• Lugar de procedencia (Distrito / Comunidad): _________________________________________
+• Lengua materna: (  ) Quechua chanka  (  ) Castellano  (  ) Bilingüe
+• Tiempo de traslado hasta el establecimiento: _____ horas / minutos
+• Establecimiento de salud evaluado: __________________________________________________
+
+IV. PREGUNTA GENERADORA / DISPARADORA DE APERTURA NARRATIVA:
+
+En Castellano:
+“Cuénteme con toda confianza y en detalle, desde el momento en que salió de su casa hasta que culminó su atención y regresó a su comunidad, ¿cómo fue toda su vivencia y experiencia personal la última vez que acudió a atenderse en este establecimiento de salud?”
+
+En Quechua Chanka:
+“Tukuy sunquykiwan willaykullaway allillamanta, wasikimanta lloqsimusqaykimantapacha samaykusqaykikama hinaspa aylluykiman kutinaykikama, ¿imaynataq karqan llapan puririyniyki hinaspa tarikuyniyki qipallata kay hampi wasiman hampichikuq hamusqaykipi?”
+
+V. PREGUNTAS NORTEADORAS / REACTIVADORES TEMÁTICOS DE RECORDATORIO:
+(Utilizar únicamente si el participante no abordó espontáneamente la dimensión respectiva)
+
+1. Travesía y accesibilidad geográfica:
+¿Cómo es el viaje desde su comunidad hasta el centro de salud cuando usted o su familiar se enferman? ¿Cuánto tiempo y cuánto dinero en pasajes tiene que gastar para llegar?
+[Quechua]: ¿Imaynatam llaqtaykimanta hamunki hampina wasiman unqusqa kaspayki? ¿Hayka pachatam purinki, haykatam pasahipi gastanki?
+
+2. Disponibilidad de medicamentos e insumos:
+¿Encuentra siempre las medicinas que le recetan en la farmacia del centro de salud o tiene que comprarlas afuera con su propio dinero? ¿Qué hace cuando no hay medicina?
+[Quechua]: ¿Tarikunchu hampikuna hampina wasipi icha qawapichu rantinki qullqillaykiwan? ¿Imatam ruranki mana hampi kaptin?
+
+3. Trámites administrativos y colas de madrugada:
+¿Qué trámites, madrugadas o dificultades debe realizar para conseguir un cupo de atención médica o de enfermería? ¿A qué hora tiene que levantarse y hacer cola?
+[Quechua]: ¿Ima sasachakuykunatam tarinki tutamanta sayaspa cupota chaskinaykipaq? ¿Ima horatam hatarinki colata ruranaykipaq?
+
+4. Carga económica y gasto de bolsillo:
+¿Qué otros gastos imprevistos tiene que afrontar para conseguir la atención médica, análisis clínicos o alimentación mientras espera en el hospital?
+
+5. Pertinencia lingüística y comunicación:
+¿En qué idioma le habla el médico o la enfermera cuando le atienden? ¿Logra entender claramente las explicaciones sobre su enfermedad y su tratamiento en su lengua materna?
+[Quechua]: ¿Ima simipim rimapayasunki hampiqkuna? ¿Allintachu intillinki hampina simipi rimapayasuptiyki?
+
+6. Respeto cultural y cosmovisión andina:
+¿Cómo siente que tratan sus costumbres, su vestimenta andina y su forma de ver la enfermedad en este establecimiento de salud? ¿Se siente respetado(a) o discriminado(a)?
+[Quechua]: ¿Imaynatam qawasunki costumbrikita, pachaykita hampina wasipi? ¿Allintachu qawasunki icha manachu?
+
+7. Tiempo de espera y calidez en el trato:
+¿Cuánto tiempo tiene que esperar sentado(a) en la sala antes de que le llamen y cómo es la amabilidad, paciencia y respeto del personal durante esa espera?
+[Quechua]: ¿Hayka unaytam tiyanki suyaspa waqyamusunaykikama hinaspa imaynataq chay suyasqaykipi runakuna rimapayasunki?
+
+8. Seguridad, confianza y satisfacción sentida:
+¿Se sintió usted seguro(a) y con confianza al momento de ser examinado(a)? ¿Sintió alivio de su dolor y recomendaría a sus vecinos acudir a este centro de salud? ¿Por qué?
+[Quechua]: ¿Kallpanchasqachu hinaspa hawkallachu tarikunki doctorkuna o enfermerakuna kurkuykita qawapayasuptiyki? ¿Nisunkimanchu aylluykikunata kay hampi wasiman hamunankupaq unqusqankupi? ¿Imanasqa?
+[131] Matriz de consistencia
+[132] TÍTULO: «ACCESO A LOS SERVICIOS DE SALUD CON ENFOQUE INTERCULTURAL Y CALIDAD DE ATENCIÓN PERCIBIDA POR LOS USUARIOS EN LOS ESTABLECIMIENTOS DE SALUD, AYACUCHO 2026»
+[133] 3. FORMATO DE JUICIO DE EXPERTOS (El modelo es opcional) En caso que se requiera juicio de expertos se necesita como mínimo 05 expertos
+[134] I. ASPECTOS GENERALES
+[135] 1.1. Apellidos y nombres del informante (Experto): ………………………………………………….
+[136] 1.2. Grado académico del experto: .............................................................................................
+[137] 1.3. Profesión del experto: …………………………………………………………………………….
+[138] 1.4. Institución donde labora el experto: ………………………………………………………………
+[139] 1.5. Cargo que desempeña...........................................................................................................
+[140] 1.6 Denominación del Instrumento: Cuestionario CASSEI-25 y Guía de Entrevista en Profundidad Bilingüe
+[141] 1.7. Autora del instrumento: Gresly Lucero Pariona Palomino
+[142] 1.8. Título de la tesis: «Acceso a los servicios de salud con enfoque intercultural y calidad de atención percibida por los usuarios, Ayacucho 2026»
+[143] II.CRITERIOS DE VALIDACIÓN
+[144] Examine el instrumento y determine si cumple con los criterios establecidos marcando con un X en la columna que corresponda:
+[145] Observaciones generales:
+[146] Ayacucho,                 del 2026
+[147] FIRMA Y SELLO DEL EXPERTO
+[148] 3.MODELO DE CONSENTIMIENTO INFORMADO 
+[149] Yo…………………………………………identificado con DNI N°..…………………………
+[150] Domiciliado en…………………….Distrito………………….Región………………………..
+[151] He tomado conocimiento de los propósitos y procedimientos del estudio titulado: «ACCESO A LOS SERVICIOS DE SALUD CON ENFOQUE INTERCULTURAL Y CALIDAD DE ATENCIÓN PERCIBIDA POR LOS USUARIOS EN LOS ESTABLECIMIENTOS DE SALUD, AYACUCHO 2026», desarrollado por la investigadora Gresly Lucero Pariona Palomino con la asesoría del Dr. Manglio Aguirre Andrade de la Universidad Nacional de San Cristóbal de Huamanga.
+[152] Y declaro participar como:
+[153] (   ) Informante
+[154] Y me comprometo a participar y dar la información fidedigna para el estudio arriba mención, debido a que este acto no compromete mi integridad, física y psicológica. Para dar conformidad este acto firmo y estampo mi huella digital al pie.
+[155] 			Lugar y Fecha………………………………………………….
+[156] 				FIRMA Y HUELLA.
+[157] 4.MODELO DE CARTA DE ASESORIA
+[158] Ayacucho,   de enero del 2026.
+[159] Dr. Alejandro Yarlequé Mujica
+[160] Decano de la Facultad de Ciencias de la Salud de la UNSCH
+[161] Sirva la presente para saludarle muy cordialmente y a la vez comunicarle la ACEPTACIÓN FORMAL DE LA ASESORÍA del Proyecto de Tesis titulado: «ACCESO A LOS SERVICIOS DE SALUD CON ENFOQUE INTERCULTURAL Y CALIDAD DE ATENCIÓN PERCIBIDA POR LOS USUARIOS EN LOS ESTABLECIMIENTOS DE SALUD, AYACUCHO 2026», presentado por la estudiante GRESLY LUCERO PARIONA PALOMINO, perteneciente a la Escuela Profesional de Enfermería.
+[162] 	Es cuanto informo a Ud., para su conocimiento y siendo propicia la ocasión para testimoniar las muestras de mi alta estima y consideración especial.
+[163] 				Atentamente,
+[164] 						   ________________________________
+[165] Dr. MANGLIO AGUIRRE ANDRADE
+[166] Docente Titular / Asesor de Tesis - FCS - UNSCH
+[167] Otros que estime pertinente
+[168] INDICACIONES PARA LA REDACCIÓN:
+[169] La redacción es en Times 12, o Arial 11, márgenes: superior 3, izquierdo 3.5, derecho 2.5, inferior 2.5, interlineado espacio 1 ½.
+[170] Norma de redacción Vancouver o APA.
+[171] Gestor de referencias Méndeley o Sotero…
+[172] Respecto al índice de similitud, de acuerdo a la norma de la UNSCH, se acepta no más del 25%, para las citas directas no más de 30 palabras.

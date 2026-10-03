@@ -1,0 +1,86 @@
+\documentclass[12pt,a4paper]{article}
+
+% Inclusión de configuración y preámbulo oficial UNSCH
+\input{../config/preambulo_unsch.tex}
+
+\begin{document}
+
+% ==============================================================================
+% CARÁTULA OFICIAL UNSCH
+% ==============================================================================
+\begin{titlepage}
+    \centering
+    \begin{spacing}{1.15}
+        {\fontsize{18}{22}\selectfont\bfseries UNIVERSIDAD NACIONAL DE SAN CRISTÓBAL DE HUAMANGA}\\[0.25cm]
+        {\fontsize{15}{18}\selectfont\bfseries FACULTAD DE CIENCIAS DE LA SALUD}\\[0.15cm]
+        {\fontsize{15}{18}\selectfont\bfseries ESCUELA PROFESIONAL DE ENFERMERÍA}\\[0.35cm]
+    \end{spacing}
+
+    % Escudo Institucional Oficial (Alto: 7 cm, Ancho: 5.25 cm)
+    \vspace{0.15cm}
+    \includegraphics[width=5.25cm,height=7cm,keepaspectratio]{../assets/escudo_unsch.jpeg}\\[0.35cm]
+
+    \begin{spacing}{1.15}
+        {\fontsize{16}{20}\selectfont\bfseries PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO}\\[0.35cm]
+        {\fontsize{15}{19}\selectfont\bfseries Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026}\\[0.45cm]
+        {\fontsize{15}{18}\selectfont Para optar el título profesional de:}\\[0.15cm]
+        {\fontsize{15}{18}\selectfont\bfseries LICENCIADA EN ENFERMERÍA}\\[0.45cm]
+    \end{spacing}
+
+    \vfill
+
+    \begin{spacing}{1.15}
+        {\fontsize{14}{17}\selectfont\bfseries PRESENTADO POR:}\\[0.12cm]
+        {\fontsize{15}{18}\selectfont Bach. Gresly Lucero PARIONA PALOMINO}\\[0.06cm]
+        {\small ORCID: 0009-0008-5421-9872}\\[0.35cm]
+
+        {\fontsize{14}{17}\selectfont\bfseries ASESOR:}\\[0.12cm]
+        {\fontsize{15}{18}\selectfont Dr. Manglio AGUIRRE ANDRADE}\\[0.06cm]
+        {\small ORCID: 0000-0001-8234-567X}\\[0.35cm]
+    \end{spacing}
+
+    \vspace{0.25cm}
+    {\fontsize{14}{17}\selectfont\bfseries AYACUCHO -- PERÚ}\\[0.12cm]
+    {\fontsize{14}{17}\selectfont\bfseries 2026}
+\end{titlepage}
+
+% ==============================================================================
+% SECCIÓN PRELIMINAR (Numeración Romana)
+% ==============================================================================
+\pagenumbering{roman}
+\setcounter{page}{2}
+
+\tableofcontents
+\newpage
+
+% ==============================================================================
+% CUERPO DEL PROYECTO (Numeración Arábiga - Enlaces Modulares sin Saltos Forzados)
+% ==============================================================================
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+% Introducción
+\input{subcapitulos/sec_00_introduccion.tex}
+
+% Capítulo I: El Problema de Investigación
+\input{subcapitulos/sec_01_problema.tex}
+
+% Capítulo II: Marco Contextual
+\input{subcapitulos/sec_02_marco_contextual.tex}
+
+% Capítulo III: Abordaje Teórico
+\input{subcapitulos/sec_03_abordaje_teorico.tex}
+
+% Capítulo IV: Metodología Cualitativa
+\input{subcapitulos/sec_04_metodologia.tex}
+
+% Capítulo V: Aspectos Administrativos
+\input{subcapitulos/sec_05_aspectos_administrativos.tex}
+
+% Referencias Bibliográficas
+\input{subcapitulos/sec_06_referencias.tex}
+
+% Anexos Oficiales
+\input{subcapitulos/sec_07_anexos.tex}
+
+\end{document}

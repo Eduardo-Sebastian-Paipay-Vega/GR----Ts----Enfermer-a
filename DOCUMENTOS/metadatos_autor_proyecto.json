@@ -1,0 +1,47 @@
+{
+  "dc_identifier": "PROY-01",
+  "dc_creator": "GRESLY LUCERO PARIONA PALOMINO",
+  "author_role": "Estudiante Tesista / Investigadora Principal",
+  "dc_title": "Acceso a los servicios de Salud y Calidad de Atención percibido por los usuarios",
+  "dc_contributor_advisor": "Dr. Manglio Aguirre Andrade",
+  "advisor_role": "Docente Titular / Asesor Metodológico",
+  "course_code": "EN 486",
+  "course_name": "Proyecto de Investigación en Salud",
+  "academic_year": "2026",
+  "dc_publisher": "Universidad Nacional de San Cristóbal de Huamanga (UNSCH)",
+  "faculty": "Facultad de Ciencias de la Salud",
+  "school": "Escuela Profesional de Enfermería",
+  "dc_language": "spa",
+  "dc_type": "info:eu-repo/semantics/bachelorThesis",
+  "dc_coverage_spatial": "Ayacucho, Perú",
+  "dc_coverage_temporal": "2026",
+  "dc_subject": [
+    "Accesibilidad a los Servicios de Salud",
+    "Calidad de la Atención de Salud",
+    "Percepción del Paciente",
+    "Satisfacción del Paciente",
+    "Servicios de Salud",
+    "Atención de Enfermería"
+  ],
+  "minsa_linea_investigacion_2030": {
+    "linea_numero": 10,
+    "linea_nombre": "Sistemas y servicios de salud, acceso y cobertura universal",
+    "norma": "Resolución Ministerial N° 424-2025/MINSA"
+  },
+  "diresa_prioridad_regional_ayacucho": {
+    "prioridad_numero": 10,
+    "prioridad_nombre": "Organización, gestión, calidad y accesibilidad de los servicios de salud",
+    "periodo": "2025-2030",
+    "eje": "B. Sistemas y servicios de salud"
+  },
+  "theoretical_framework": {
+    "access_model": "Penchansky & Thomas (1981) - 5 Dimensiones del Acceso (Disponibilidad, Accesibilidad física, Acomodación, Asequibilidad, Aceptabilidad)",
+    "quality_model": "Avedis Donabedian (1980) - Tríada Estructura, Proceso y Resultado",
+    "evaluation_model": "Parasuraman, Zeithaml & Berry (1988) - SERVQUAL modificado (RM N° 527-2011/MINSA)"
+  },
+  "associated_files": [
+    "C:/GRESLY/DOCUMENTOS/METADATOS_FUENTES_INFORMACION.md",
+    "C:/GRESLY/plantilla/AQUI/EDITA.docx",
+    "C:/GRESLY/DOCUMENTOS/Generación/templates/protocolo_cualitativo.tex"
+  ]
+}

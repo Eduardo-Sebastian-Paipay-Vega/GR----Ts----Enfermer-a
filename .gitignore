@@ -1,0 +1,42 @@
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# OS / Editor temporary files
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+~$*
+
+# Graphify temporary caches (keep reports and definitions)
+graphify-out/cache/
+graphify-out/converted/
+graphify-out/2026-*/
+
+# External third-party tools
+graphiti/
+
+# Never ignore PDFs and DOCXs in build and delivery folders
+!DOCUMENTOS/Generación/build/*.pdf
+!DOCUMENTOS/Generación/*.docx
+!plantilla/AQUI/*.docx
+!DOCUMENTOS/Generación/assets/*

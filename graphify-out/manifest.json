@@ -1,0 +1,2347 @@
+{
+  "C:\\GRESLY\\.agents\\skills\\docx-safe-editor\\scripts\\docx_editor.py": {
+    "mtime": 1790545556.7395973,
+    "ast_hash": "78dd318dc4d91d471e4acaf72575fc92",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\descargar_referencias.py": {
+    "mtime": 1790545799.2104583,
+    "ast_hash": "aae0bd0954bb7d734e7146054a57c8fa",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\descargas_referencias_metadatos.json": {
+    "mtime": 1790551462.7736812,
+    "ast_hash": "fc9baba108f6e8fc66e5cb5ca3655d92",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\metadatos_autor_proyecto.json": {
+    "mtime": 1790546348.137554,
+    "ast_hash": "642e3f158b1aa285e4a95f5240cac959",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\auditar_word.py": {
+    "mtime": 1790566069.8509178,
+    "ast_hash": "396efdac1393e91358b9e37eeb04eda5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\check_headers.py": {
+    "mtime": 1790566710.4144444,
+    "ast_hash": "58cb2c081aec19619755b62fd3c8dbff",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\compilar.ps1": {
+    "mtime": 1790543556.8696704,
+    "ast_hash": "be2adfc476c9e6d44ca9fc31b5c9cf04",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\generar_word.py": {
+    "mtime": 1791040532.8503847,
+    "ast_hash": "e0aaa69f2f3ba969eaa73c6f0eb7f8ee",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\limpiar.ps1": {
+    "mtime": 1790543573.9792857,
+    "ast_hash": "ea504611c7776bf30078069646036bdc",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\md_a_latex.ps1": {
+    "mtime": 1790543922.494968,
+    "ast_hash": "822c0edc37daf4ebd7d2fc3f95aa6181",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargar_repositorios.py": {
+    "mtime": 1790544600.5884845,
+    "ast_hash": "e28994cf1952428e5e371d728bddd3ab",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\repositorios_metadatos.json": {
+    "mtime": 1790544656.7724984,
+    "ast_hash": "d01dca140deb34eeed8bccdaeabe4a45",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\AGENTS.md": {
+    "mtime": 1791041171.9166884,
+    "ast_hash": "dd736bf28b4fad9dc407f353a6aaf8d5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\rules\\graphify.md": {
+    "mtime": 1790551141.48519,
+    "ast_hash": "a0e4d192b9e2e17256124dbfc8e24e6a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\rules\\guias-investigacion-salud.md": {
+    "mtime": 1790550429.5069122,
+    "ast_hash": "26416a54999a4e8181ed76e63e397360",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\docx-safe-editor\\SKILL.md": {
+    "mtime": 1790545572.100363,
+    "ast_hash": "c418ec6707d12853504231868f18ee2c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\investigacion-salud-unsch\\SKILL.md": {
+    "mtime": 1790544935.9529333,
+    "ast_hash": "2c632f249acda0ed76b15d8ed1d98317",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\metadatos-fuentes-investigacion\\SKILL.md": {
+    "mtime": 1790546358.0962634,
+    "ast_hash": "fa5730ddc281a02d68bfaf102ab9918a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\prioridades-lineas-salud\\SKILL.md": {
+    "mtime": 1790543647.7867439,
+    "ast_hash": "1c8560eed3a127105a609140dc120778",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\tesis-buenas-practicas-unsch\\SKILL.md": {
+    "mtime": 1790550409.9804173,
+    "ast_hash": "53012b283ffe8ece89c1e6cda0b214a0",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\vancouver-metrica-salud\\SKILL.md": {
+    "mtime": 1790548232.0106075,
+    "ast_hash": "b3a2812be484b4add2ee3c6f55f79e8d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\workflows\\graphify.md": {
+    "mtime": 1790551141.4885173,
+    "ast_hash": "a831cf3669f1e6ab85d8a80ebe655f99",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\GUIA_REPOSITORIOS_FUENTES_INFORMACION.md": {
+    "mtime": 1790546066.873891,
+    "ast_hash": "a47e9835e86fb55b9f6c83442d887fe7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\GUIA_TESIS_CUALITATIVA_UNSCH.md": {
+    "mtime": 1790544538.0447989,
+    "ast_hash": "b33fb12dc46340656fbb8195a76d2521",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\METADATOS_FUENTES_INFORMACION.md": {
+    "mtime": 1790546341.058135,
+    "ast_hash": "ad9f173ca27bcf6fe9eae6f012e86ed2",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\METRICA_NORMAS_VANCOUVER.md": {
+    "mtime": 1790548018.254714,
+    "ast_hash": "6664ae2bb14aa2a72cedbb5b3db63deb",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\ANTECEDENTES\\Ascama_Calderon_2022_Ficha_Tecnica.md": {
+    "mtime": 1790546037.3577788,
+    "ast_hash": "ff0575c00bfab095e789b2a82b653487",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\ANTECEDENTES\\Velarde_Quispedina_2023_Ficha_Tecnica.md": {
+    "mtime": 1790546030.135629,
+    "ast_hash": "1aeef2cb82ce7ac3eeecf60476eaa929",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\README.md": {
+    "mtime": 1790543619.9210043,
+    "ast_hash": "a6263e4783703c499428ee9920e35136",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\1. CIENCIA Y CONOCIMIENTO.md": {
+    "mtime": 1790543127.2041523,
+    "ast_hash": "a2bd469b88d7c6826845cf7d4c4dd20d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\1. LINEAS DE INVESTIGACI\u00d3N.md": {
+    "mtime": 1790543136.8070917,
+    "ast_hash": "7d4ab7345fc2f35b952cb06fe8244534",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\1. LINESAS DE INVESTIGACI\u00d3N.md": {
+    "mtime": 1790543136.8070917,
+    "ast_hash": "7d4ab7345fc2f35b952cb06fe8244534",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\2 INV. CIENTIFICA.md": {
+    "mtime": 1790543156.7922392,
+    "ast_hash": "40c362ec42cca415faa8932af1e252d7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\BOLETIN PRIORIDADES REGIONALES EN SALUD.md": {
+    "mtime": 1790543175.0945244,
+    "ast_hash": "4d7106955a15dc867742117449993431",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\PLAN_MAESTRO_TESIS_ENFERMERIA_UNSCH.md": {
+    "mtime": 1790547216.3764718,
+    "ast_hash": "5b03edd22e0027a7f997a06ce4274b1e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md": {
+    "mtime": 1790961125.459725,
+    "ast_hash": "6c81c3ff829521e449e0584a376db445",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\SELLO_METODOLOGICO_DR_MANGLIO_AGUIRRE.md": {
+    "mtime": 1790550390.0134554,
+    "ast_hash": "872453163b7c3017da67671e3eb4e250",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\Silabo_-_EN-486_-_Proyecto_de_investigacion_en_Salud (1).md": {
+    "mtime": 1790543202.2892742,
+    "ast_hash": "1ca9fc2e96a703f5a0643499c03cb3ec",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\TESIS\\ARTICULO_Factores_Reacciones_Adversas_Vacuna_COVID.md": {
+    "mtime": 1790544322.6721,
+    "ast_hash": "4fc6553dfb9a22a114f28b0878b187bc",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\TESIS\\ARTICULO_Habilidades_Sociales_Clima_Familiar.md": {
+    "mtime": 1790544333.0805564,
+    "ast_hash": "50128575834de4e67d8b5fec464d6e2f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\TESIS\\ARTICULO_Promocion_Salubridad_Cangallo.md": {
+    "mtime": 1790544316.1779137,
+    "ast_hash": "dc7c1236d1ce422bb08b83fd16037fc5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\TESIS\\TESIS_EN800_Ruiz_Liderazgo_Satisfaccion.md": {
+    "mtime": 1790544339.9023314,
+    "ast_hash": "346e9c1a7dd4d5b061051a0343f6b96a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REFERENCIAS_TEORICAS\\Donabedian_1980_Calidad_Salud.md": {
+    "mtime": 1790546000.2831848,
+    "ast_hash": "713e279ea1aeda9c07f502e1a4eab487",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REFERENCIAS_TEORICAS\\OMS_2018_Calidad_Atencion_Salud.md": {
+    "mtime": 1790546023.809499,
+    "ast_hash": "75f71120172ea07857df961a6b539d0b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REFERENCIAS_TEORICAS\\Parasuraman_1988_SERVQUAL.md": {
+    "mtime": 1790546008.799837,
+    "ast_hash": "e2879921b3f802be0926e6d99356fb81",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REFERENCIAS_TEORICAS\\Penchansky_Thomas_1981_Concept_of_Access.md": {
+    "mtime": 1790546017.609939,
+    "ast_hash": "f67c607bdc2719aab65051980db19bda",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\01_alicia_concytec.html": {
+    "mtime": 1790544605.1160235,
+    "ast_hash": "e994ba87f8ca77307d807615a8c730d0",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\02_renati_sunedu.html": {
+    "mtime": 1790544605.2842326,
+    "ast_hash": "172cf24799a4783b5aae0a690e4779c0",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\03_repositorio_minsa.html": {
+    "mtime": 1790544605.835112,
+    "ast_hash": "5f07b3e88d4960483254dcf647245849",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\04_repositorio_ins.html": {
+    "mtime": 1790544613.3285685,
+    "ast_hash": "504aa1fd71e761f93fa195ce46d6e23b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\05_cybertesis_unmsm.html": {
+    "mtime": 1790544613.4672878,
+    "ast_hash": "7aa9342f9aedd8eb9a46f7d9ed203b44",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\06_repositorio_upch.html": {
+    "mtime": 1790544615.5988345,
+    "ast_hash": "13cee2f0ed37f8338b1668ad61792050",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\07_repositorio_unsch.html": {
+    "mtime": 1790544620.3909056,
+    "ast_hash": "7271cb21f4af237a44674a65026d4b86",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\08_repositorio_ucv.html": {
+    "mtime": 1790544621.5440717,
+    "ast_hash": "ccc3f2c1337ef216440d24ef3f3b9868",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\09_repositorio_usmp.html": {
+    "mtime": 1790544621.9012997,
+    "ast_hash": "696b321ee0609cfe5f0e1cefe6565a1b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\10_tesis_pucp.html": {
+    "mtime": 1790544624.0598292,
+    "ast_hash": "b950460889214f9e542d12de8656bb32",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\11_scielo.html": {
+    "mtime": 1790544626.131838,
+    "ast_hash": "48e4d9999fe8890b659c0b9e63813594",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\12_bvs_salud.md": {
+    "mtime": 1790544665.9923089,
+    "ast_hash": "e9ee8384a96fdd4cb28928b213af9e2c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\13_lareferencia.html": {
+    "mtime": 1790544647.413954,
+    "ast_hash": "8d916a6d61b92c205b225686afc7e7d5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\14_iris_paho.html": {
+    "mtime": 1790544712.999262,
+    "ast_hash": "5290b8512262fffca20df1dbf2a674a4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\14_iris_paho.md": {
+    "mtime": 1790544670.2863028,
+    "ast_hash": "abf22c8769ac39ae83ee46a84cf5f19f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\15_pubmed_central.html": {
+    "mtime": 1790544649.07891,
+    "ast_hash": "1082911f8eb5cbd926ca172dd0739092",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\16_redalyc.html": {
+    "mtime": 1790544650.5283697,
+    "ast_hash": "ef7909ff005703942086bda5ecc41983",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\17_dialnet.html": {
+    "mtime": 1790544651.6836946,
+    "ast_hash": "a2a69f97da479efe0c653611e6b7a790",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\18_teseo.html": {
+    "mtime": 1790544654.2664185,
+    "ast_hash": "1fc6e4932f58d04edff76b0c6a39f6d3",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\19_who_iris.html": {
+    "mtime": 1790544656.080948,
+    "ast_hash": "01ab9fafece10d9a190af13c5047c679",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\20_openaire.html": {
+    "mtime": 1790544713.7681894,
+    "ast_hash": "95e3acfe40b1b7f57b3eac5646a281b0",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REPOSITORIOS\\descargas\\20_openaire.md": {
+    "mtime": 1790544676.5129392,
+    "ast_hash": "3af3405482426077950b0558fa29a919",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\1. CIENCIA Y CONOCIMIENTO.pdf": {
+    "mtime": 1790542606.906626,
+    "ast_hash": "fabe4c6c656c58f3c824dc723342eb98",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\1. LINESAS DE INVESTIGACI\u00d3N.pdf": {
+    "mtime": 1790542607.7241273,
+    "ast_hash": "2387b999e3ef7a181d9519a071042ff7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\2 INV. CIENTIFICA.pdf": {
+    "mtime": 1790542603.8025498,
+    "ast_hash": "ecfac09afff14ae78652e71bd81e377d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\BOLETIN PRIORIDADES REGIONALES EN SALUD.pdf": {
+    "mtime": 1790542600.9855874,
+    "ast_hash": "fd0f011480a4340f4c2894ed6b8ff432",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Silabo_-_EN-486_-_Proyecto_de_investigacion_en_Salud (1).pdf": {
+    "mtime": 1790542601.7094955,
+    "ast_hash": "bee0b2c72ce398799fa55b8a94c423f8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\ANTECEDENTES\\Ascama_Calderon_2022_Enfermeria_Emergencia.pdf": {
+    "mtime": 1790545806.9611616,
+    "ast_hash": "9e68430614ee92204a3f7b9800f42b9e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\ANTECEDENTES\\Gonzalez_2021_Tiempo_Espera_Calidad.pdf": {
+    "mtime": 1790545874.8502066,
+    "ast_hash": "feb6a156903fadff181f817e415910d0",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\ANTECEDENTES\\Toledo_2018_Calidad_Usuarios_Externos.pdf": {
+    "mtime": 1790545895.3649948,
+    "ast_hash": "f67c38eb7a11fc0ebf45e7144619a217",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\ANTECEDENTES\\Velarde_Quispedina_2023_Calidad_Satisfaccion.pdf": {
+    "mtime": 1790545806.637865,
+    "ast_hash": "dd89e79892d4c85f95359b9a675b37ce",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\templates\\protocolo_cualitativo.pdf": {
+    "mtime": 1790552302.2788463,
+    "ast_hash": "47e0837976f8cb0b5137658c9036fb54",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REFERENCIAS_TEORICAS\\MINSA_RM_527_2011_Guia_Tecnica_Satisfaccion_Servqual.pdf": {
+    "mtime": 1790545966.4530814,
+    "ast_hash": "d34e227b2ebf8e7ee7105e57bd466b60",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\REFERENCIAS_TEORICAS\\OMS_2018_Delivering_Quality_Health_Services.pdf": {
+    "mtime": 1790545925.2377524,
+    "ast_hash": "144123beb1e8e9216808c93848596fc9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\TESIS\\249-255+PROMOCI\u00d3N.pdf": {
+    "mtime": 1790543925.3047457,
+    "ast_hash": "06915a16e0ad8e8defaab5d4187e65c4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\TESIS\\30__Factores+asociados+a+las+reacciones+adversas+de+la+vacuna+c.pdf": {
+    "mtime": 1790543922.2856212,
+    "ast_hash": "9ed6daec840bc1bfedd3da25072e408d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\TESIS\\revistainvestigacion,+185+-+191.pdf": {
+    "mtime": 1790543918.2420716,
+    "ast_hash": "004eefff8195cbb45066b09030d7d833",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\TESIS\\TESIS EN800_Rui.pdf": {
+    "mtime": 1790544062.596071,
+    "ast_hash": "887ef6c03e511f6d04a4f41e4cefba83",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\Metracias\\Gu\u00eda Normas Vancouver 2026.pdf": {
+    "mtime": 1790547888.113366,
+    "ast_hash": "69899ee819593a53889038914684b2e6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\assets\\escudo_unsch.jpeg": {
+    "mtime": 315550800.0,
+    "ast_hash": "f0d5ee0f20f3f248343429af863fffd4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\conftest.py": {
+    "mtime": 1790954467.782475,
+    "ast_hash": "3fdf80044188703b40e1373cd4cdb913",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\depot.json": {
+    "mtime": 1790954467.782475,
+    "ast_hash": "b68b5f7da0d632493b9823afb508794d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\apply.py": {
+    "mtime": 1790954467.405606,
+    "ast_hash": "54a6fd5caebc2dd3843c8ea18624d6f8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\decide.py": {
+    "mtime": 1790954467.4080725,
+    "ast_hash": "111e58e3544fd499df86bc7f98e3fec9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\decision.schema.json": {
+    "mtime": 1790954467.4324558,
+    "ast_hash": "f2ca29070a1bac4accb5155bc27c04aa",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\scripts\\setup-triage-labels.sh": {
+    "mtime": 1790954467.5309334,
+    "ast_hash": "b0dec903170062e7efa597aa0fa626e9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\azure-openai\\azure_openai_neo4j.py": {
+    "mtime": 1790954467.8414643,
+    "ast_hash": "f39ac3a111eeaf1200bab99e601deb68",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\data\\manybirds_products.json": {
+    "mtime": 1790954467.849044,
+    "ast_hash": "2d402b645279e7d48267e5fa43a1ede6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\ecommerce\\runner.py": {
+    "mtime": 1790954467.9132297,
+    "ast_hash": "03260eda25fa925583dabed2908ecc42",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\gliner2\\gliner2_neo4j.py": {
+    "mtime": 1790954467.9495354,
+    "ast_hash": "705b98e27158954cd6ccea1e4e3e5622",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\opentelemetry\\otel_stdout_example.py": {
+    "mtime": 1790954468.086193,
+    "ast_hash": "064388b745e6b93eb4b0a9ac072025d9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\podcast\\podcast_runner.py": {
+    "mtime": 1790954468.1510024,
+    "ast_hash": "636f7a1998270bbac461e064766144a4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\podcast\\transcript_parser.py": {
+    "mtime": 1790954468.16794,
+    "ast_hash": "e62c3aa5e66634472982b894cfa00218",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\quickstart\\dense_vs_normal_ingestion.py": {
+    "mtime": 1790954468.1906362,
+    "ast_hash": "97eae15a2598cb4b047476f20329bce1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\quickstart\\quickstart_falkordb.py": {
+    "mtime": 1790954468.1906362,
+    "ast_hash": "64e4cb67ff6f482eca66c8bdfa13cb08",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\quickstart\\quickstart_neo4j.py": {
+    "mtime": 1790954468.2088432,
+    "ast_hash": "f393ea2968044e44a00c2495cd3284d4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\quickstart\\quickstart_neptune.py": {
+    "mtime": 1790954468.2088432,
+    "ast_hash": "d1bffa726d746e649b9fa350c179c0f8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\wizard_of_oz\\parser.py": {
+    "mtime": 1790954468.2241359,
+    "ast_hash": "8cde7cc2e93837f212cb5412eeaf9443",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\wizard_of_oz\\runner.py": {
+    "mtime": 1790954468.2295918,
+    "ast_hash": "8e8c24adbb268d3025a9182f060d2e45",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\decorators.py": {
+    "mtime": 1790954468.3369527,
+    "ast_hash": "890e946d391b5eb4ead8ec35cb2bb988",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\edges.py": {
+    "mtime": 1790954469.2658565,
+    "ast_hash": "6cebc95d5ff79d1a9e3e9750769683e5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\errors.py": {
+    "mtime": 1790954469.301919,
+    "ast_hash": "b8295aa35494dcc7c2cb65ea1ef05181",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\graphiti.py": {
+    "mtime": 1790954469.3142228,
+    "ast_hash": "987eaf572b1b9dae02cd2e3b799cc114",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\graphiti_types.py": {
+    "mtime": 1790954469.3142228,
+    "ast_hash": "2a7dfa26e7b8e23ddb4fc32dec0394ce",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\graph_queries.py": {
+    "mtime": 1790954469.301919,
+    "ast_hash": "0d4d017cf0059668a866f91122696f05",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\helpers.py": {
+    "mtime": 1790954469.3308418,
+    "ast_hash": "cee61473fdaf3b4806c8049afa07f984",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\nodes.py": {
+    "mtime": 1790954469.4732227,
+    "ast_hash": "2b01c532d4a0ad12011392d4a05d082e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\tracer.py": {
+    "mtime": 1790954469.595014,
+    "ast_hash": "1f908c238f229318af78a571e99d7887",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\__init__.py": {
+    "mtime": 1790954468.2710054,
+    "ast_hash": "45ef8bc144223403c9737f84d0731a03",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\cross_encoder\\bge_reranker_client.py": {
+    "mtime": 1790954468.2931097,
+    "ast_hash": "366d96ca7fdfcdaace48cced56c31dd3",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\cross_encoder\\client.py": {
+    "mtime": 1790954468.2931097,
+    "ast_hash": "73b1e17896aeaa9267d61581c6a2f7fa",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\cross_encoder\\gemini_reranker_client.py": {
+    "mtime": 1790954468.3103478,
+    "ast_hash": "bc204b978a814be667a66070238765b1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\cross_encoder\\openai_reranker_client.py": {
+    "mtime": 1790954468.3369527,
+    "ast_hash": "a8a5e1b87150f78111b8091522811de9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\cross_encoder\\__init__.py": {
+    "mtime": 1790954468.2710054,
+    "ast_hash": "393167c3e94d507a30c7f77c1f428295",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\driver.py": {
+    "mtime": 1790954468.362402,
+    "ast_hash": "e99c149012957a2462083674ed1bd5fe",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb_driver.py": {
+    "mtime": 1790954468.7087865,
+    "ast_hash": "0ed73b9c4e0b5378cf054997131562ca",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu_driver.py": {
+    "mtime": 1790954468.9490824,
+    "ast_hash": "47d5bdaa28ed313044098cb75f83d2cd",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j_driver.py": {
+    "mtime": 1790954469.0561898,
+    "ast_hash": "67af5d84a632b9ff396d5dc6bb97323b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune_driver.py": {
+    "mtime": 1790954469.1464176,
+    "ast_hash": "c23a884efae582c7bfe8281ccf1140ae",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\query_executor.py": {
+    "mtime": 1790954469.2458353,
+    "ast_hash": "cd670ba02942eb4c1fa1d8514b530c32",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\record_parsers.py": {
+    "mtime": 1790954469.2490275,
+    "ast_hash": "b9676eb1671911b875f0f0019a9e1b30",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\__init__.py": {
+    "mtime": 1790954468.3592007,
+    "ast_hash": "3b139f275fcbecc6f290f3f34f1af9ad",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\fulltext.py": {
+    "mtime": 1790954468.3781066,
+    "ast_hash": "bedc84dc8328c66c31348a2513346223",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\__init__.py": {
+    "mtime": 1790954468.3781066,
+    "ast_hash": "f993142a6e9c5e48ab44a0f987e032b2",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\community_edge_ops.py": {
+    "mtime": 1790954468.4022229,
+    "ast_hash": "00da07b8bf3b917e01e00dcb999a46a6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\community_node_ops.py": {
+    "mtime": 1790954468.430165,
+    "ast_hash": "dc067861d2a6329c812fdbd994ba760a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\entity_edge_ops.py": {
+    "mtime": 1790954468.4507394,
+    "ast_hash": "c7389eb89dfdf85df9f8ee057e3b852c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\entity_node_ops.py": {
+    "mtime": 1790954468.4570508,
+    "ast_hash": "04e029125e4705f98b5d47504d5f2e49",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\episode_node_ops.py": {
+    "mtime": 1790954468.4570508,
+    "ast_hash": "ad03028a2a04467adae9cf10b0251af1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\episodic_edge_ops.py": {
+    "mtime": 1790954468.4594915,
+    "ast_hash": "5c81f545009a98514ff4b93c2eb8e6b5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\graph_ops.py": {
+    "mtime": 1790954468.4986892,
+    "ast_hash": "f2f359a308e0dbe2ba7cb62a12a8b5af",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\has_episode_edge_ops.py": {
+    "mtime": 1790954468.5019228,
+    "ast_hash": "7e469af55628973df2c067463db8b517",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\next_episode_edge_ops.py": {
+    "mtime": 1790954468.5764415,
+    "ast_hash": "02508cb381fac3c785693b0e787d8ba7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\saga_node_ops.py": {
+    "mtime": 1790954468.608319,
+    "ast_hash": "c2c7abe134a2c5fd9aa9ffc4b1dfb17a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\search_ops.py": {
+    "mtime": 1790954468.6801076,
+    "ast_hash": "52e13150486d5d6aa49a9067ca4950df",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\falkordb\\operations\\__init__.py": {
+    "mtime": 1790954468.400042,
+    "ast_hash": "b03a7c7c86592bec49d77c22449be2ab",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\graph_operations\\graph_operations.py": {
+    "mtime": 1790954468.7356696,
+    "ast_hash": "dbb1aa34edc4393b838f07d1b721dcbe",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\__init__.py": {
+    "mtime": 1790954468.7516248,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\community_edge_ops.py": {
+    "mtime": 1790954468.7885773,
+    "ast_hash": "a9eb794e5606c9c091c36ab08178d248",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\community_node_ops.py": {
+    "mtime": 1790954468.826599,
+    "ast_hash": "cf439e88c73b639db4b8dfb048d11577",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\entity_edge_ops.py": {
+    "mtime": 1790954468.8347101,
+    "ast_hash": "3ab177329ec76a1f79a7f91b1d2a7acd",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\entity_node_ops.py": {
+    "mtime": 1790954468.8437014,
+    "ast_hash": "5f9225a3d7c8b4dd8658d9f3ea2b7c38",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\episode_node_ops.py": {
+    "mtime": 1790954468.8594637,
+    "ast_hash": "7640ee33b73f00b645c1dea442920e51",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\episodic_edge_ops.py": {
+    "mtime": 1790954468.8612716,
+    "ast_hash": "c39ed9948d23d1214e3c98e2ce496474",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\graph_ops.py": {
+    "mtime": 1790954468.8850718,
+    "ast_hash": "67ffd54cd45dd3424d7374ac135e66e1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\has_episode_edge_ops.py": {
+    "mtime": 1790954468.9234788,
+    "ast_hash": "184e334fd4289f0598276041a36d2083",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\next_episode_edge_ops.py": {
+    "mtime": 1790954468.9244967,
+    "ast_hash": "c3d0b4fa27ad911665aaf2d5ce88a328",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\record_parsers.py": {
+    "mtime": 1790954468.9244967,
+    "ast_hash": "c990e615c4fa60e7670d3f7a7be3098a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\saga_node_ops.py": {
+    "mtime": 1790954468.9244967,
+    "ast_hash": "21dec153e98d41d021e977807a5306ff",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\search_ops.py": {
+    "mtime": 1790954468.948577,
+    "ast_hash": "6d2b9c8f903a97786ccf23ae2722fc12",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\kuzu\\operations\\__init__.py": {
+    "mtime": 1790954468.7589798,
+    "ast_hash": "3b8d86c295af78777d7c93832248d056",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\__init__.py": {
+    "mtime": 1790954468.9490824,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\community_edge_ops.py": {
+    "mtime": 1790954469.0110967,
+    "ast_hash": "5490ab5c5cedee4a823209b6a1f9135e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\community_node_ops.py": {
+    "mtime": 1790954469.0201838,
+    "ast_hash": "54fb211b4bdcc574404fa7c605426df4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\entity_edge_ops.py": {
+    "mtime": 1790954469.0212586,
+    "ast_hash": "01ca8d6bf78c8b36dff8c0a70d0626e5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\entity_node_ops.py": {
+    "mtime": 1790954469.0212586,
+    "ast_hash": "0b052726357cb3fdc91b7eecf547f4f4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\episode_node_ops.py": {
+    "mtime": 1790954469.0330093,
+    "ast_hash": "27a313bfac765a06e5533cb49975a16a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\episodic_edge_ops.py": {
+    "mtime": 1790954469.034405,
+    "ast_hash": "075da0e6a3308bde85faa2781b5746c5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\graph_ops.py": {
+    "mtime": 1790954469.0351198,
+    "ast_hash": "3e2a77c8d7f805cd80519938bfedd321",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\has_episode_edge_ops.py": {
+    "mtime": 1790954469.0372658,
+    "ast_hash": "c76378665e77da8e2cfcdbec342c0275",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\next_episode_edge_ops.py": {
+    "mtime": 1790954469.0389009,
+    "ast_hash": "0a5b0a1b08381495a7491538e67d9796",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\saga_node_ops.py": {
+    "mtime": 1790954469.054752,
+    "ast_hash": "927537a1d5d5e4e49f8e679c58dad856",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\search_ops.py": {
+    "mtime": 1790954469.0556562,
+    "ast_hash": "9d3cad23ffec06f246c92ee972ba0011",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neo4j\\operations\\__init__.py": {
+    "mtime": 1790954468.999202,
+    "ast_hash": "d38e475ce73f3282d30b83784b9ccb9c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\__init__.py": {
+    "mtime": 1790954469.0577283,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\community_edge_ops.py": {
+    "mtime": 1790954469.073583,
+    "ast_hash": "1a155761a4bade0e59936821a4d29435",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\community_node_ops.py": {
+    "mtime": 1790954469.0898101,
+    "ast_hash": "02f8a0ba1f8da9788016eed4aa42dae7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\entity_edge_ops.py": {
+    "mtime": 1790954469.0912497,
+    "ast_hash": "d23ad72654061d59afb444ef34b5d807",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\entity_node_ops.py": {
+    "mtime": 1790954469.0918787,
+    "ast_hash": "1c2762ab902b9a8218999c5ec20d90d1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\episode_node_ops.py": {
+    "mtime": 1790954469.0980158,
+    "ast_hash": "9b288081246cc123c9786c0787d1c697",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\episodic_edge_ops.py": {
+    "mtime": 1790954469.0992498,
+    "ast_hash": "34181c7c2955108f551eb8dc33bd3893",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\graph_ops.py": {
+    "mtime": 1790954469.1180367,
+    "ast_hash": "95bd4a2e349aeea70968be3bec58851e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\has_episode_edge_ops.py": {
+    "mtime": 1790954469.1301405,
+    "ast_hash": "5feb1ddf9ac1edb2be7bb0614549696e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\next_episode_edge_ops.py": {
+    "mtime": 1790954469.1301405,
+    "ast_hash": "9e1708c3f09ad4f3e1d759c75d997788",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\saga_node_ops.py": {
+    "mtime": 1790954469.134668,
+    "ast_hash": "a3094df6ce4aec54f4715cbc2d8db08a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\search_ops.py": {
+    "mtime": 1790954469.1350362,
+    "ast_hash": "52828248eee442a059497541e4301e6d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\neptune\\operations\\__init__.py": {
+    "mtime": 1790954469.073583,
+    "ast_hash": "e6de30edcd4123bdf7286a12da25cdb6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\community_edge_ops.py": {
+    "mtime": 1790954469.1684787,
+    "ast_hash": "647de5afed13e3d3f356943d5ca47a9c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\community_node_ops.py": {
+    "mtime": 1790954469.1684787,
+    "ast_hash": "730ce70e3c8f1dc858db9e3e4f4c9d43",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\entity_edge_ops.py": {
+    "mtime": 1790954469.1819246,
+    "ast_hash": "9807d4df2370169a36532d72c04459c1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\entity_node_ops.py": {
+    "mtime": 1790954469.1898017,
+    "ast_hash": "95cee6cac15103692451bc25f8688892",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\episode_node_ops.py": {
+    "mtime": 1790954469.1898017,
+    "ast_hash": "b09d3526a7c291abbfe98d108d656e80",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\episodic_edge_ops.py": {
+    "mtime": 1790954469.2031896,
+    "ast_hash": "b6f9405959b2bd9ebe0e59d703bcbaa6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\graph_ops.py": {
+    "mtime": 1790954469.205587,
+    "ast_hash": "059a19df505a9492559e0977fde7b800",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\graph_utils.py": {
+    "mtime": 1790954469.218685,
+    "ast_hash": "e617a0283982b0ab1920fa93c1822e6f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\has_episode_edge_ops.py": {
+    "mtime": 1790954469.2255795,
+    "ast_hash": "e246709b457ac3f7255c6a74356e4c29",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\next_episode_edge_ops.py": {
+    "mtime": 1790954469.2286544,
+    "ast_hash": "7f035a2c44464c2fce040c7f3669f269",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\saga_node_ops.py": {
+    "mtime": 1790954469.2286544,
+    "ast_hash": "2ec5342bbe85c5923d60249b84e68aa7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\search_ops.py": {
+    "mtime": 1790954469.2410462,
+    "ast_hash": "a3be6026451efdcb2b14bf98f71d316d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\operations\\__init__.py": {
+    "mtime": 1790954469.1537626,
+    "ast_hash": "987d5a2f8dee03b22b4cd8ce0c1912e1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\driver\\search_interface\\search_interface.py": {
+    "mtime": 1790954469.257395,
+    "ast_hash": "f7cc8ee103dfa65538f2ee721b120e0c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\embedder\\azure_openai.py": {
+    "mtime": 1790954469.26783,
+    "ast_hash": "78be190adb9aff84a994e9a7f7a2d8de",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\embedder\\client.py": {
+    "mtime": 1790954469.2740543,
+    "ast_hash": "68b9832e5d36eddf2f1acb748496b7a0",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\embedder\\gemini.py": {
+    "mtime": 1790954469.276059,
+    "ast_hash": "ba3c2f87a23b6d04e47968f259a9cfc0",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\embedder\\openai.py": {
+    "mtime": 1790954469.2866578,
+    "ast_hash": "d975ff38cba52776de8c1b36e1f307ba",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\embedder\\voyage.py": {
+    "mtime": 1790954469.301919,
+    "ast_hash": "d5bd796d0699839079cebd9c6480d045",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\embedder\\__init__.py": {
+    "mtime": 1790954469.2658565,
+    "ast_hash": "524292c64369e38bf20e8cb99baa2f98",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\anthropic_client.py": {
+    "mtime": 1790954469.3471975,
+    "ast_hash": "e8b6d4e5b0aff2303318cd2878d18489",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\azure_openai_client.py": {
+    "mtime": 1790954469.3471975,
+    "ast_hash": "b96b0c457db35cab9070bab82cc7b73b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\cache.py": {
+    "mtime": 1790954469.3512003,
+    "ast_hash": "cd2921a776269a6ac05d97ef38cfe40a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\client.py": {
+    "mtime": 1790954469.355184,
+    "ast_hash": "a1dd6079f78584c1f34073ab933b3a91",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\config.py": {
+    "mtime": 1790954469.3630266,
+    "ast_hash": "54e85df19619ff30354874aeca58475d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\errors.py": {
+    "mtime": 1790954469.3630266,
+    "ast_hash": "e8b9e89cd749af37b3f1e38981cdba5d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\gemini_client.py": {
+    "mtime": 1790954469.380187,
+    "ast_hash": "024780e86fbd5f90fdd25713baa3fc8c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\gliner2_client.py": {
+    "mtime": 1790954469.3879175,
+    "ast_hash": "f15e4ec10d352f143904a8bfa590c4e2",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\groq_client.py": {
+    "mtime": 1790954469.3879175,
+    "ast_hash": "160ba52c587bae9b1771bb3d3385e43b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\openai_base_client.py": {
+    "mtime": 1790954469.3960297,
+    "ast_hash": "b06f11ac48c8af89a725d76633b67948",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\openai_client.py": {
+    "mtime": 1790954469.4061525,
+    "ast_hash": "70604add06d6148699d58bbe8c665933",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\openai_generic_client.py": {
+    "mtime": 1790954469.4079747,
+    "ast_hash": "9f45ec0a72fec8d945139177f5490a81",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\utils.py": {
+    "mtime": 1790954469.414174,
+    "ast_hash": "79050127f50e8e31c7785b267076b61f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\llm_client\\__init__.py": {
+    "mtime": 1790954469.3308418,
+    "ast_hash": "d80c7b08a0fcc5e33b682969ba6fddcf",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\migrations\\__init__.py": {
+    "mtime": 1790954469.4163945,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\models\\__init__.py": {
+    "mtime": 1790954469.4176836,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\models\\edges\\edge_db_queries.py": {
+    "mtime": 1790954469.4251647,
+    "ast_hash": "3b5e97fbf89b0731f7b96a4234c0196d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\models\\edges\\__init__.py": {
+    "mtime": 1790954469.4241505,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\models\\nodes\\node_db_queries.py": {
+    "mtime": 1790954469.4342642,
+    "ast_hash": "a8cb21d6e5928efcd2ec532604b42486",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\models\\nodes\\__init__.py": {
+    "mtime": 1790954469.4286714,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\namespaces\\edges.py": {
+    "mtime": 1790954469.4617686,
+    "ast_hash": "37cfae789d75ca97482766e4e4f62b2c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\namespaces\\nodes.py": {
+    "mtime": 1790954469.4628756,
+    "ast_hash": "eacb3fa66096ffc85d32afec8d20c35d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\namespaces\\__init__.py": {
+    "mtime": 1790954469.4468362,
+    "ast_hash": "d7740257b4ab8eaa1186e89325e350dc",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\dedupe_edges.py": {
+    "mtime": 1790954469.4795346,
+    "ast_hash": "58b1ac17f6f87c3bfea82777640f61f3",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\dedupe_nodes.py": {
+    "mtime": 1790954469.4865687,
+    "ast_hash": "197618d9415810d053bf76f4c4723d30",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\eval.py": {
+    "mtime": 1790954469.4912734,
+    "ast_hash": "ea8db9d6186066a3c6d37d4ca580d12c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\extract_edges.py": {
+    "mtime": 1790954469.4912734,
+    "ast_hash": "77068a6fb5ad1c794cf1f15183f22781",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\extract_nodes.py": {
+    "mtime": 1790954469.5069072,
+    "ast_hash": "bf836379f79e09896ceb493306f2a8f4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\extract_nodes_and_edges.py": {
+    "mtime": 1790954469.5143049,
+    "ast_hash": "e467b39ae70d4e46ea04ee299dc9cc2f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\lib.py": {
+    "mtime": 1790954469.5176451,
+    "ast_hash": "a51579d6df9a1fc79ca9cec49a0c83e6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\models.py": {
+    "mtime": 1790954469.5183892,
+    "ast_hash": "6c968842978be24ef022d1ee53851181",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\prompt_helpers.py": {
+    "mtime": 1790954469.52743,
+    "ast_hash": "0c067f67771de8001664c39b07638a39",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\snippets.py": {
+    "mtime": 1790954469.5282636,
+    "ast_hash": "8b19b611113e7efa30372cb208d020ee",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\summarize_nodes.py": {
+    "mtime": 1790954469.529838,
+    "ast_hash": "8de2004c405fb52472d43282fce10944",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\summarize_sagas.py": {
+    "mtime": 1790954469.5303774,
+    "ast_hash": "97920f8938bf7ffee0b663fc8e0002b4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\prompts\\__init__.py": {
+    "mtime": 1790954469.4795346,
+    "ast_hash": "64c4698f4152a953bf6d68c4d5e58430",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\search\\search.py": {
+    "mtime": 1790954469.545679,
+    "ast_hash": "715baa9a28744f8bfe1fbf33922458bd",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\search\\search_config.py": {
+    "mtime": 1790954469.5471718,
+    "ast_hash": "b8a22a441df050a2e5ac1002a931eb79",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\search\\search_config_recipes.py": {
+    "mtime": 1790954469.5579748,
+    "ast_hash": "31c8c746a32a954689e136254d5a8b41",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\search\\search_filters.py": {
+    "mtime": 1790954469.559003,
+    "ast_hash": "534bf2257ff3d617055071ee508a8e0c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\search\\search_helpers.py": {
+    "mtime": 1790954469.5686934,
+    "ast_hash": "40473d9a9e3887e00ab7243ff1ba4a72",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\search\\search_utils.py": {
+    "mtime": 1790954469.5777879,
+    "ast_hash": "ec03c8c228ada9ccfcf45c9b52dafd2a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\search\\__init__.py": {
+    "mtime": 1790954469.53161,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\telemetry\\telemetry.py": {
+    "mtime": 1790954469.595014,
+    "ast_hash": "bc9613b77b0fb7f3550679a753117670",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\telemetry\\__init__.py": {
+    "mtime": 1790954469.588106,
+    "ast_hash": "e434c319f5517cd24eacff9109707232",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\bulk_utils.py": {
+    "mtime": 1790954469.6045485,
+    "ast_hash": "d4cd8bdd90af7a56e824666de024cb56",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\content_chunking.py": {
+    "mtime": 1790954469.6045485,
+    "ast_hash": "520bf980bd55248d704570441928938b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\datetime_utils.py": {
+    "mtime": 1790954469.6045485,
+    "ast_hash": "a9f0d56155f5eb7747f86cd608b9e0c7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\text_utils.py": {
+    "mtime": 1790954469.6640656,
+    "ast_hash": "74752878c25497305a6460fbf3c118d9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\__init__.py": {
+    "mtime": 1790954469.6020803,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\attribute_utils.py": {
+    "mtime": 1790954469.6153672,
+    "ast_hash": "67f28fb9f43d29dc540d2599dcd072bc",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\combined_extraction.py": {
+    "mtime": 1790954469.631893,
+    "ast_hash": "988a588adceadd0fda4e7a5274f994ed",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\community_operations.py": {
+    "mtime": 1790954469.631893,
+    "ast_hash": "20372cc3d7668027078778b77f6e3a88",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\dedup_helpers.py": {
+    "mtime": 1790954469.6400356,
+    "ast_hash": "72a6358d38fe397a5f39b0cf42de89ce",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\edge_operations.py": {
+    "mtime": 1790954469.6400356,
+    "ast_hash": "2e5056967042d80a7990a612059de611",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\graph_data_operations.py": {
+    "mtime": 1790954469.6420445,
+    "ast_hash": "8d13215846605cab2165728e94de6086",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\node_operations.py": {
+    "mtime": 1790954469.6519997,
+    "ast_hash": "151588a555ebaff5854fffcf681dbb63",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\maintenance\\__init__.py": {
+    "mtime": 1790954469.6136246,
+    "ast_hash": "a73d8bab8ae752325025d14dffba5056",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\graphiti_core\\utils\\ontology_utils\\entity_types_utils.py": {
+    "mtime": 1790954469.6519997,
+    "ast_hash": "b66ef24dda367b574239197dc4f864c9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\main.py": {
+    "mtime": 1790954469.9016614,
+    "ast_hash": "c4dd3af4dd3a60abf0b1c1ec83507f35",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\config\\mcp_config_stdio_example.json": {
+    "mtime": 1790954469.8326035,
+    "ast_hash": "6995b1b1984dacc5240eed511a860426",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\build-standalone.sh": {
+    "mtime": 1790954469.8572066,
+    "ast_hash": "66874b393b43d2a60adc570a2dd644db",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\build-with-version.sh": {
+    "mtime": 1790954469.8572066,
+    "ast_hash": "b706c5785a075a3770528c6d52118309",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\graphiti_mcp_server.py": {
+    "mtime": 1790954469.935393,
+    "ast_hash": "104772730889ff94e01e98e6fde83c76",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\__init__.py": {
+    "mtime": 1790954469.912181,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\config\\schema.py": {
+    "mtime": 1790954469.9203167,
+    "ast_hash": "884da9a0914dbe9262f4f9c749ac709b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\config\\__init__.py": {
+    "mtime": 1790954469.9131675,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\models\\edge_types.py": {
+    "mtime": 1790954469.9542885,
+    "ast_hash": "abf05d892e0ed99598bce0fbfb968550",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\models\\entity_types.py": {
+    "mtime": 1790954469.9681914,
+    "ast_hash": "64c5335d1155140c35e9451433fb5bf4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\models\\response_types.py": {
+    "mtime": 1790954469.983645,
+    "ast_hash": "b089c0471f706227617635965f55eadd",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\models\\__init__.py": {
+    "mtime": 1790954469.9384341,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\services\\factories.py": {
+    "mtime": 1790954469.9921505,
+    "ast_hash": "311aa4fa5d636df464caa79af392c67d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\services\\queue_service.py": {
+    "mtime": 1790954470.0013232,
+    "ast_hash": "2d8b06b2beba88829467cd7e2c41cf37",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\services\\__init__.py": {
+    "mtime": 1790954469.9849112,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\utils\\formatting.py": {
+    "mtime": 1790954470.0084465,
+    "ast_hash": "91933350bdd7099817e9d24d568423cc",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\utils\\type_config.py": {
+    "mtime": 1790954470.022976,
+    "ast_hash": "c65938c0b80373cce6c09814e76655f7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\utils\\utils.py": {
+    "mtime": 1790954470.022976,
+    "ast_hash": "2cffa5ce74917855a5ece3df39262682",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\src\\utils\\__init__.py": {
+    "mtime": 1790954470.0084465,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\conftest.py": {
+    "mtime": 1790954470.042112,
+    "ast_hash": "49c9096c8955b033b75bdad1006cf794",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\run_tests.py": {
+    "mtime": 1790954470.0486994,
+    "ast_hash": "be762cd3b01ebde3c4603efd3589ed51",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_async_operations.py": {
+    "mtime": 1790954470.0501666,
+    "ast_hash": "21ce6033a95110b884800d39b2dd623c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_comprehensive_integration.py": {
+    "mtime": 1790954470.0560753,
+    "ast_hash": "c77cf68bfa38dd15ab5ed0261c435aa8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_configuration.py": {
+    "mtime": 1790954470.0592492,
+    "ast_hash": "0861bc9921e81ede5945a1704307750e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_core_parity.py": {
+    "mtime": 1790954470.0667076,
+    "ast_hash": "111af3557a3c9614a13edeccaf4d9b57",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_cross_encoder_factory.py": {
+    "mtime": 1790954470.0672185,
+    "ast_hash": "8e6e9bad6bb444b86fb62bc30bead225",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_factories.py": {
+    "mtime": 1790954470.0690022,
+    "ast_hash": "9f11af647c84a4d20c9cab9918149dff",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_falkordb_config.py": {
+    "mtime": 1790954470.0700245,
+    "ast_hash": "fb4bf8942bb7c4af2fff827889d63e7d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_falkordb_integration.py": {
+    "mtime": 1790954470.0747368,
+    "ast_hash": "b3e5f06bddc950b85d2880b3ea2602cb",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_fixtures.py": {
+    "mtime": 1790954470.0768502,
+    "ast_hash": "c111b4b74b110691d4644a998ac9a7f2",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_group_routing.py": {
+    "mtime": 1790954470.0786035,
+    "ast_hash": "501bee68bb421f9473c4e38a7c1f786f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_http_integration.py": {
+    "mtime": 1790954470.0800836,
+    "ast_hash": "a52677a008549c4dc4cd85b5a4088e7f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_integration.py": {
+    "mtime": 1790954470.0895624,
+    "ast_hash": "c70e49d4e108ebf7d35d286db1e3d96c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_live_falkordb_int.py": {
+    "mtime": 1790954470.0991874,
+    "ast_hash": "c6ad998af1ba17bbcad24f9d56078668",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_mcp_integration.py": {
+    "mtime": 1790954470.100372,
+    "ast_hash": "b26f36d3667900513ce05adf085b0733",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_mcp_transports.py": {
+    "mtime": 1790954470.102073,
+    "ast_hash": "eab78fdc45b28e0b7523a5a388eb1d15",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_stdio_simple.py": {
+    "mtime": 1790954470.1031227,
+    "ast_hash": "09ba74a15ce19bc27ecb8543344cee15",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\test_stress_load.py": {
+    "mtime": 1790954470.1149583,
+    "ast_hash": "7c91d2b8452ec72457f1ec69ccbcbab8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\__init__.py": {
+    "mtime": 1790954470.0363185,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\config.py": {
+    "mtime": 1790954470.1921985,
+    "ast_hash": "6fe12ee0bf8750a86222e0238836a22d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\main.py": {
+    "mtime": 1790954470.221474,
+    "ast_hash": "ba2d67dbe640ee9acefb24f952794aad",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\zep_graphiti.py": {
+    "mtime": 1790954470.228538,
+    "ast_hash": "39c8f77ce400eefa3fd67779cd8f9832",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\__init__.py": {
+    "mtime": 1790954470.1897168,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\dto\\common.py": {
+    "mtime": 1790954470.20853,
+    "ast_hash": "3a1d1ddcf1a94ab31dee4b73892c9e18",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\dto\\ingest.py": {
+    "mtime": 1790954470.2105358,
+    "ast_hash": "ab4b2a8df060c9d3af47f4336d69362e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\dto\\retrieve.py": {
+    "mtime": 1790954470.221474,
+    "ast_hash": "aff5dc90e524d034662f60f230ee66c6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\dto\\__init__.py": {
+    "mtime": 1790954470.20853,
+    "ast_hash": "3e461b6aad37ef3da1d6efd7c4939101",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\routers\\ingest.py": {
+    "mtime": 1790954470.2249014,
+    "ast_hash": "66ed548478e211d38de1c48194d41151",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\routers\\retrieve.py": {
+    "mtime": 1790954470.2274606,
+    "ast_hash": "cefa784e713b214dcb452598a43e46cd",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\graph_service\\routers\\__init__.py": {
+    "mtime": 1790954470.2249014,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\tests\\test_live_falkordb_int.py": {
+    "mtime": 1790954470.2478404,
+    "ast_hash": "e33c187ea1fda0032f7e37cc8a4a35d9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\signatures\\version1\\cla.json": {
+    "mtime": 1790954470.2861402,
+    "ast_hash": "caaa5fa083e171cf362e33fa53a82c6b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\helpers_test.py": {
+    "mtime": 1790954471.8329215,
+    "ast_hash": "a394dbf98ea7a906b1537a40a7662513",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_add_triplet.py": {
+    "mtime": 1790954471.9970758,
+    "ast_hash": "31b7124c1be8984c98a5706d850c42c6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_edge_db_queries.py": {
+    "mtime": 1790954471.9996529,
+    "ast_hash": "5c7ab18647d7ebaf20ad25125b92ef1b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_edge_int.py": {
+    "mtime": 1790954472.0068226,
+    "ast_hash": "5fbc559864c948fb04e90ac12bd231f6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_entity_exclusion_int.py": {
+    "mtime": 1790954472.0068226,
+    "ast_hash": "b941bb73a14e4487e02b652805c830ae",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_graphiti_int.py": {
+    "mtime": 1790954472.0068226,
+    "ast_hash": "2873aee891297e07fa27857e0d13332e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_graphiti_mock.py": {
+    "mtime": 1790954472.0177128,
+    "ast_hash": "af46b1870dd7b5a09a09c3ff899e45ed",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_handle_multiple_group_ids.py": {
+    "mtime": 1790954472.0194461,
+    "ast_hash": "793f4c98b85f722d81980cfc7f89a400",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_node_int.py": {
+    "mtime": 1790954472.0199547,
+    "ast_hash": "306388f13afedf3fc107354da4f5a6e7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_node_label_security.py": {
+    "mtime": 1790954472.0219693,
+    "ast_hash": "3415a696f618255e38b7acc228287801",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_request_scope_concurrency.py": {
+    "mtime": 1790954472.0219693,
+    "ast_hash": "5ed2b310fbdf3b220fbcbb0dbedbbb2b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_saga_refetch_episode_uuids.py": {
+    "mtime": 1790954472.0229754,
+    "ast_hash": "064380cc640992061fbb2ecbe0f44e2d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\test_text_utils.py": {
+    "mtime": 1790954472.0272944,
+    "ast_hash": "dfdcfaf8bc02abd06a876899693491da",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\cross_encoder\\test_bge_reranker_client_int.py": {
+    "mtime": 1790954470.2973413,
+    "ast_hash": "7864782643fc58c821ae338073fcabc3",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\cross_encoder\\test_gemini_reranker_client.py": {
+    "mtime": 1790954470.3054922,
+    "ast_hash": "c2fe6c65387f7c15dfd2cc826f8080f5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\driver\\test_falkordb_driver.py": {
+    "mtime": 1790954470.3296502,
+    "ast_hash": "d546215d231273f90e5ca2706bf0df30",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\driver\\test_falkordb_ops_routing.py": {
+    "mtime": 1790954470.333514,
+    "ast_hash": "9210bd6006530b21ff5f6b7aee40f605",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\driver\\test_neo4j_driver_routing.py": {
+    "mtime": 1790954470.3376794,
+    "ast_hash": "2916c6fe9c6513881299df592fabd426",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\driver\\__init__.py": {
+    "mtime": 1790954470.3224983,
+    "ast_hash": "75ceb0de6e711a59316641962e5689c8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\embedder\\embedder_fixtures.py": {
+    "mtime": 1790954470.354169,
+    "ast_hash": "2af1e86183e6227cfedb44d03f805458",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\embedder\\test_gemini.py": {
+    "mtime": 1790954470.3571124,
+    "ast_hash": "ea5c53264966c0da5dca6d462583c026",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\embedder\\test_openai.py": {
+    "mtime": 1790954470.3571124,
+    "ast_hash": "7fba2f535009cc62998f11313e6dc117",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\embedder\\test_voyage.py": {
+    "mtime": 1790954470.3768487,
+    "ast_hash": "86ce9ab8c6a76970c3ca21c3fadac702",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\evals\\eval_cli.py": {
+    "mtime": 1790954471.8057446,
+    "ast_hash": "9ec9d067a5979b7f30bb191007eaa73a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\evals\\eval_e2e_graph_building.py": {
+    "mtime": 1790954471.8287995,
+    "ast_hash": "66639d85597d55651c187d7320d583b5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\evals\\utils.py": {
+    "mtime": 1790954471.8329215,
+    "ast_hash": "04f66f6b6324ff849961dc6e78376c2d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\evals\\data\\longmemeval_data\\longmemeval_oracle.json": {
+    "mtime": 1790954471.8057446,
+    "ast_hash": "153d30c2183b537375d27e2c8ad50897",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\intake\\test_apply.py": {
+    "mtime": 1790954471.8854566,
+    "ast_hash": "2c17655ae5b1896fa2347c83e2e6973a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\intake\\test_decide.py": {
+    "mtime": 1790954471.888979,
+    "ast_hash": "337845a979f1390f8668039c13b60975",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\intake\\test_workflows.py": {
+    "mtime": 1790954471.888979,
+    "ast_hash": "113acba457eac229e773e92b9b5fe691",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_anthropic_client.py": {
+    "mtime": 1790954471.904467,
+    "ast_hash": "abfc90ef5f5696ef4f3c7d56c280fe88",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_anthropic_client_int.py": {
+    "mtime": 1790954471.9176972,
+    "ast_hash": "5bd7a854f433ebd9dcffa15b67888af4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_azure_openai_client.py": {
+    "mtime": 1790954471.9328475,
+    "ast_hash": "52666993a06e49a33cb208a174312b1b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_cache.py": {
+    "mtime": 1790954471.943551,
+    "ast_hash": "d337b41323447ce17d34fca772822198",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_client.py": {
+    "mtime": 1790954471.943551,
+    "ast_hash": "61feebd9107ec649c91b03b36c559d84",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_errors.py": {
+    "mtime": 1790954471.9454901,
+    "ast_hash": "0a353eec0de211f5ae3009f9323fad9d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_gemini_client.py": {
+    "mtime": 1790954471.9594643,
+    "ast_hash": "ebdbaa45ef1c124ce1751fb41541bc4a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_openai_client.py": {
+    "mtime": 1790954471.9594643,
+    "ast_hash": "48d4549ef9abd58c0a1a045edd17a416",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\llm_client\\test_openai_generic_client.py": {
+    "mtime": 1790954471.995659,
+    "ast_hash": "c94ad052e32bd7a62f24401db0a0d75c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\test_concatenate_episodes.py": {
+    "mtime": 1790954472.1247869,
+    "ast_hash": "e1260817501bd13b4ef17fae5ee96e26",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\test_content_chunking.py": {
+    "mtime": 1790954472.125303,
+    "ast_hash": "45ad2b690904ed1b323c628fed4721dc",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\maintenance\\test_attribute_utils.py": {
+    "mtime": 1790954472.0322125,
+    "ast_hash": "16340a2a034733aa3b8ca618fc751ca3",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\maintenance\\test_bulk_utils.py": {
+    "mtime": 1790954472.0487478,
+    "ast_hash": "ff37defd9263fa7e893b2fe16ef3faed",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\maintenance\\test_edge_operations.py": {
+    "mtime": 1790954472.0495245,
+    "ast_hash": "4115c1b870d799d988a63056b72e89d2",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\maintenance\\test_entity_extraction.py": {
+    "mtime": 1790954472.0710316,
+    "ast_hash": "7f66eea8da6564fd6fd4b55f240dd251",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\maintenance\\test_node_operations.py": {
+    "mtime": 1790954472.0710316,
+    "ast_hash": "f350ee7ec51f5603d85fcb9640354f27",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\maintenance\\test_remove_communities.py": {
+    "mtime": 1790954472.080684,
+    "ast_hash": "343bef5fd63f14211fd2ccb869ca285a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\search\\search_utils_test.py": {
+    "mtime": 1790954472.1021,
+    "ast_hash": "7c52d80228aa209158bb68d3072b4b57",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\search\\test_edge_bfs_query_shape.py": {
+    "mtime": 1790954472.104105,
+    "ast_hash": "a90709de4a1ef8b71f8c6be83b7d6850",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\search\\test_edge_cross_encoder_rrf_shortlist.py": {
+    "mtime": 1790954472.104105,
+    "ast_hash": "8940ce92a4f47c8fd89f7fbaa24dcf9c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\search\\test_episode_mentions_reranker.py": {
+    "mtime": 1790954472.1068497,
+    "ast_hash": "aad601f361d529df0144f8ab7977ecec",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\search\\test_search_security.py": {
+    "mtime": 1790954472.1073544,
+    "ast_hash": "4fec13f71fe456f520b77b127819cc1f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\utils\\search\\test_search_tracing.py": {
+    "mtime": 1790954472.1222513,
+    "ast_hash": "80ccfc6d931cc7cc538d3cc58f5f85e5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\skills\\modularizador-latex\\SKILL.md": {
+    "mtime": 1790954527.616635,
+    "ast_hash": "8b285fa3a37cd8fc81372e795e5bd04e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\AGENTS.md": {
+    "mtime": 1790954467.754808,
+    "ast_hash": "5d5419ad61ae3779df4a555f5d72161d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\CLAUDE.md": {
+    "mtime": 1790954467.754808,
+    "ast_hash": "cb40e2b76fced7dfddf3d94855f29282",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\CODE_OF_CONDUCT.md": {
+    "mtime": 1790954467.7564378,
+    "ast_hash": "e06fa1d4d18d6c422a8a07355d3056d8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\CONTRIBUTING.md": {
+    "mtime": 1790954467.762985,
+    "ast_hash": "8753512cfee35e5ce38a67fb985ed37b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\docker-compose.test.yml": {
+    "mtime": 1790954467.7937198,
+    "ast_hash": "13a6b54ad5daa02454e8fcb61e01c88b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\docker-compose.yml": {
+    "mtime": 1790954467.7953846,
+    "ast_hash": "dba21efa7964fe45e17635c492308aca",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\OTEL_TRACING.md": {
+    "mtime": 1790954467.7770674,
+    "ast_hash": "76fa02da97c21ce5619c043bb61fd93d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\README.md": {
+    "mtime": 1790954467.7778563,
+    "ast_hash": "7ba352b5d05e20c56b65e868089e7c92",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\SECURITY.md": {
+    "mtime": 1790954467.7778563,
+    "ast_hash": "051a3f7180b896e125e1e70cf53f0022",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\Zep-CLA.md": {
+    "mtime": 1790954467.7803645,
+    "ast_hash": "f5c1c85c1c5b115554590f0d18208717",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\copilot-instructions.md": {
+    "mtime": 1790954467.3090353,
+    "ast_hash": "d51a6947c54466db8eee98688b671d43",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\dependabot.yml": {
+    "mtime": 1790954467.3090353,
+    "ast_hash": "7465f7dc543b454598b34c42fcdad7b9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\pull_request_template.md": {
+    "mtime": 1790954467.5007877,
+    "ast_hash": "1101ce0c57fee99bc32b85db2eaf28c5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\actions\\setup-socket-firewall\\action.yml": {
+    "mtime": 1790954467.285627,
+    "ast_hash": "cf470b25e72b20178baee228346ed6d4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\actions\\setup-socket-firewall\\README.md": {
+    "mtime": 1790954467.2826035,
+    "ast_hash": "becf8353a84e61d5ce5f9ffd6f51453d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\README.md": {
+    "mtime": 1790954467.3702426,
+    "ast_hash": "cd6c2481796b802e0d8aa5fd70b37799",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\templates\\ask_info.md": {
+    "mtime": 1790954467.461099,
+    "ast_hash": "388e07b23e4260298cb80e743efae52c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\templates\\ask_repro.md": {
+    "mtime": 1790954467.461099,
+    "ast_hash": "bb6aaeada4867b441683c13bdc1728b1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\templates\\ask_rfc_fields.md": {
+    "mtime": 1790954467.4635112,
+    "ast_hash": "9b486947c9a51a57bd08d3baac462c27",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\templates\\pr_needs_rework.md": {
+    "mtime": 1790954467.470558,
+    "ast_hash": "7d150f79b18e931e692ed521ddf8b997",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\templates\\pr_needs_rfc.md": {
+    "mtime": 1790954467.4730637,
+    "ast_hash": "f47cb14c218e4cb6f003c5e8111f6b6b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\intake\\templates\\pr_needs_tests.md": {
+    "mtime": 1790954467.4987752,
+    "ast_hash": "1094f1d8fe2cb99525ce75385934739b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\ISSUE_TEMPLATE\\01-bug.yml": {
+    "mtime": 1790954467.2573445,
+    "ast_hash": "d5f688bb0b732ac93f314f6a814a624d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\ISSUE_TEMPLATE\\02-feature.yml": {
+    "mtime": 1790954467.2573445,
+    "ast_hash": "73dfedfbe60003087bd49449d7cd17a6",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\ISSUE_TEMPLATE\\03-docs.yml": {
+    "mtime": 1790954467.2573445,
+    "ast_hash": "530f2d1fbd89fea9eb519c14b0c9bc5a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\ISSUE_TEMPLATE\\04-question.yml": {
+    "mtime": 1790954467.2573445,
+    "ast_hash": "e22908d4b593da6f3dad0279cc122655",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\ISSUE_TEMPLATE\\config.yml": {
+    "mtime": 1790954467.2652016,
+    "ast_hash": "92fe3a343a028840f0ae85d59d256e52",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\ai-moderator.yml": {
+    "mtime": 1790954467.5414686,
+    "ast_hash": "ff3d5163b5426f0363bf2110f61cbd5c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\cla.yml": {
+    "mtime": 1790954467.562565,
+    "ast_hash": "e29e69a103dce838b553c3b54029ca0e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\codeql.yml": {
+    "mtime": 1790954467.562565,
+    "ast_hash": "89e791c37b259631a8d081d79a3b3d0e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\issue-intake.yml": {
+    "mtime": 1790954467.5651474,
+    "ast_hash": "458b4476a242630cd37a0545d83dcff9",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\lint.yml": {
+    "mtime": 1790954467.5671542,
+    "ast_hash": "5a5a078bfd253eb40eacc355eb9e4b37",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\mcp-server-tests.yml": {
+    "mtime": 1790954467.588515,
+    "ast_hash": "f496424d9a2c80fc8a487d2653466a16",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\pr-intake.yml": {
+    "mtime": 1790954467.588515,
+    "ast_hash": "4d49b1c71c57c5d71ca88fd185c7407c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\release-graphiti-core.yml": {
+    "mtime": 1790954467.6236026,
+    "ast_hash": "d1b3a11a2b8957104e6fb2ca13daa7e5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\release-mcp-server.yml": {
+    "mtime": 1790954467.6600595,
+    "ast_hash": "2fd062787efb76acc2a13ffcc1c9edbf",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\release-server-container.yml": {
+    "mtime": 1790954467.6600595,
+    "ast_hash": "a6f3c335f6b0f3fb7eecb439a5637caa",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\server-tests.yml": {
+    "mtime": 1790954467.6600595,
+    "ast_hash": "099718e3309e51a240878da14f74fac4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\socket-firewall-connectivity.yml": {
+    "mtime": 1790954467.7215137,
+    "ast_hash": "52ac4eefbf107c97a8dbaa8081cecaaa",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\stale.yml": {
+    "mtime": 1790954467.7235217,
+    "ast_hash": "76b485df25190ea98e9e200a13990587",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\typecheck.yml": {
+    "mtime": 1790954467.7439368,
+    "ast_hash": "ef39180c8d2e33a1394d6fc2fbc877c8",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\.github\\workflows\\unit_tests.yml": {
+    "mtime": 1790954467.752719,
+    "ast_hash": "7fd81b830c993338fb9078d07a9f662d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\azure-openai\\README.md": {
+    "mtime": 1790954467.825421,
+    "ast_hash": "27d45e44deb306349efb9394dc72ea4e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\gliner2\\README.md": {
+    "mtime": 1790954467.946313,
+    "ast_hash": "90cde1c68ebf3eb4a61d38a3967eee36",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\opentelemetry\\README.md": {
+    "mtime": 1790954468.0840538,
+    "ast_hash": "a73d1b956aa20403cd70f25588587dc7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\podcast\\podcast_transcript.txt": {
+    "mtime": 1790954468.155228,
+    "ast_hash": "b576c1f2a49dd0b0cb056a75aa54397c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\quickstart\\README.md": {
+    "mtime": 1790954468.1906362,
+    "ast_hash": "559b52cb94a6095852d2382bb8d24c85",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\quickstart\\requirements.txt": {
+    "mtime": 1790954468.2088432,
+    "ast_hash": "2648e7ecffbcc5004fd24b1144f8b7c5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\wizard_of_oz\\woo.txt": {
+    "mtime": 1790954468.265056,
+    "ast_hash": "2569f7b93d9eb74033269c333a93dce3",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\README.md": {
+    "mtime": 1790954469.803916,
+    "ast_hash": "c44bd7e42139a6c770231b08fd978ac5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\config\\config-docker-falkordb-combined.yaml": {
+    "mtime": 1790954469.805927,
+    "ast_hash": "6083ff9aee8068e4e47025cb569b772a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\config\\config-docker-falkordb.yaml": {
+    "mtime": 1790954469.8084018,
+    "ast_hash": "ee2329c45c261431a56acd6042494644",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\config\\config-docker-neo4j.yaml": {
+    "mtime": 1790954469.821194,
+    "ast_hash": "e64d8d573970eff23530c4976966cf55",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\config\\config.yaml": {
+    "mtime": 1790954469.8326035,
+    "ast_hash": "3d4c8ae93c31455bbb74fe30db769d8d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\docker-compose-falkordb.yml": {
+    "mtime": 1790954469.866855,
+    "ast_hash": "4c2ca6f3cdae0f8a757d9790eac94506",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\docker-compose-neo4j.yml": {
+    "mtime": 1790954469.8757913,
+    "ast_hash": "1ea86f7a4c79b059e509f1459d7d481e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\docker-compose.yml": {
+    "mtime": 1790954469.8757913,
+    "ast_hash": "816b045d6929fd5dd76b29720b333048",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\github-actions-example.yml": {
+    "mtime": 1790954469.885499,
+    "ast_hash": "1b4342144ceb1e2c24a2206362b9f255",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\README-falkordb-combined.md": {
+    "mtime": 1790954469.8468597,
+    "ast_hash": "7fd7ccfa93ae964b2d91a9e1678c51af",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docker\\README.md": {
+    "mtime": 1790954469.8468597,
+    "ast_hash": "0406e1dfd3bd171f6c51fffddb9dabd5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\docs\\cursor_rules.md": {
+    "mtime": 1790954469.8898108,
+    "ast_hash": "ece9ea4e75216e0e79a7587b9b9844fa",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\mcp_server\\tests\\README.md": {
+    "mtime": 1790954470.0339856,
+    "ast_hash": "870f88ebff691121ac2d5edf39c94498",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\server\\README.md": {
+    "mtime": 1790954470.1811833,
+    "ast_hash": "d079be9b37dc9b18bfed696ad610ac99",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\spec\\driver-operations-redesign.md": {
+    "mtime": 1790954470.2953322,
+    "ast_hash": "4ff56dad39d0deb9f13e42ed4a9c552a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\tests\\evals\\data\\longmemeval_data\\README.md": {
+    "mtime": 1790954470.4392374,
+    "ast_hash": "82d4db17050f3af8965217d5da7475c3",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\examples\\langgraph-agent\\tinybirds-jess.png": {
+    "mtime": 1790954468.044049,
+    "ast_hash": "64f39e0e9125c5403f94810600be1a17",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\images\\arxiv-screenshot.png": {
+    "mtime": 1790954469.714084,
+    "ast_hash": "4156da905c41ab054330a57801a50efb",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\images\\graphiti-graph-intro.gif": {
+    "mtime": 1790954469.72771,
+    "ast_hash": "09b06ac5abc14028f7fdc95efc527ef1",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\images\\graphiti-intro-slides-stock-2.gif": {
+    "mtime": 1790954469.780465,
+    "ast_hash": "f9beb263dbf33e50e1d922081671d61d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\images\\simple_graph.svg": {
+    "mtime": 1790954469.7984524,
+    "ast_hash": "0404ac256cf5f46497c63b5755b1be54",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\generar_grafo_documentos.py": {
+    "mtime": 1790955624.4200258,
+    "ast_hash": "bd2396ae9ab2accaeefbfcd34e224161",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\graphiti\\ejemplo_sin_gemini.py": {
+    "mtime": 1790954706.613314,
+    "ast_hash": "6a5bfc4016a6eb15de940063370d833b",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\NORMATIVA_PORTADA_UNSCH.md": {
+    "mtime": 1790955583.7085803,
+    "ast_hash": "39c8c12b37dcebb7bb401432d0cff6f5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\puntos_clase_metodologia_cualitativa.md": {
+    "mtime": 1790955769.494333,
+    "ast_hash": "ab83b5e3b0c039786e0b85cfbef19714",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\AUDITORIA_LATEX.md": {
+    "mtime": 1790958644.099782,
+    "ast_hash": "c0795cf883c21c44f6800e72a889c38c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\README.md": {
+    "mtime": 1791041194.7491212,
+    "ast_hash": "795fd69347ae25075f7db58325427dea",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\RUTA_COGNITIVA_IA.md": {
+    "mtime": 1791041129.839664,
+    "ast_hash": "ba0a7221e9bfe21f24aa9a643746844e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\.agents\\rules\\ruta-cognitiva-ia.md": {
+    "mtime": 1791041142.9683425,
+    "ast_hash": "59df96d63ecc25150118b4c54e3d769c",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\README.md": {
+    "mtime": 1791041107.3385017,
+    "ast_hash": "786d91d50b45bf177a0e39ac686cb5b2",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\1. CIENCIA Y CONOCIMIENTO.md": {
+    "mtime": 1790543127.2041523,
+    "ast_hash": "a2bd469b88d7c6826845cf7d4c4dd20d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\1. LINEAS DE INVESTIGACI\u00d3N.md": {
+    "mtime": 1790543136.8070917,
+    "ast_hash": "7d4ab7345fc2f35b952cb06fe8244534",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\2 INV. CIENTIFICA.md": {
+    "mtime": 1790543156.7922392,
+    "ast_hash": "40c362ec42cca415faa8932af1e252d7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\BOLETIN PRIORIDADES REGIONALES EN SALUD.md": {
+    "mtime": 1790543175.0945244,
+    "ast_hash": "4d7106955a15dc867742117449993431",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\NORMATIVA_PORTADA_UNSCH.md": {
+    "mtime": 1790955583.7085803,
+    "ast_hash": "39c8c12b37dcebb7bb401432d0cff6f5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\PUNTOS_CLASE_METODOLOGIA_CUALITATIVA.md": {
+    "mtime": 1790955769.494333,
+    "ast_hash": "ab83b5e3b0c039786e0b85cfbef19714",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\README.md": {
+    "mtime": 1791041018.9644213,
+    "ast_hash": "9d3be609cc12090580c8d7e9a1fb97b4",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\Silabo_-_EN-486_-_Proyecto_de_investigacion_en_Salud (1).md": {
+    "mtime": 1790543202.2892742,
+    "ast_hash": "1ca9fc2e96a703f5a0643499c03cb3ec",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\02_CANON_APOYO_DOCENTE_DR_MANGLIO\\ARTICULO_Factores_Reacciones_Adversas_Vacuna_COVID.md": {
+    "mtime": 1790544322.6721,
+    "ast_hash": "4fc6553dfb9a22a114f28b0878b187bc",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\02_CANON_APOYO_DOCENTE_DR_MANGLIO\\ARTICULO_Habilidades_Sociales_Clima_Familiar.md": {
+    "mtime": 1790544333.0805564,
+    "ast_hash": "50128575834de4e67d8b5fec464d6e2f",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\02_CANON_APOYO_DOCENTE_DR_MANGLIO\\ARTICULO_Promocion_Salubridad_Cangallo.md": {
+    "mtime": 1790544316.1779137,
+    "ast_hash": "dc7c1236d1ce422bb08b83fd16037fc5",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\02_CANON_APOYO_DOCENTE_DR_MANGLIO\\PLAN_MAESTRO_TESIS_ENFERMERIA_UNSCH.md": {
+    "mtime": 1790547216.3764718,
+    "ast_hash": "5b03edd22e0027a7f997a06ce4274b1e",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\02_CANON_APOYO_DOCENTE_DR_MANGLIO\\README.md": {
+    "mtime": 1791041041.7368894,
+    "ast_hash": "1e1fdc1169d400fe16126e2603119b9d",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\02_CANON_APOYO_DOCENTE_DR_MANGLIO\\SELLO_METODOLOGICO_DR_MANGLIO_AGUIRRE.md": {
+    "mtime": 1790550390.0134554,
+    "ast_hash": "872453163b7c3017da67671e3eb4e250",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\02_CANON_APOYO_DOCENTE_DR_MANGLIO\\TESIS_EN800_Ruiz_Liderazgo_Satisfaccion.md": {
+    "mtime": 1790544339.9023314,
+    "ast_hash": "346e9c1a7dd4d5b061051a0343f6b96a",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\03_PROYECTO_ACTIVO_CS_BELEN\\PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md": {
+    "mtime": 1790961125.459725,
+    "ast_hash": "6c81c3ff829521e449e0584a376db445",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\03_PROYECTO_ACTIVO_CS_BELEN\\README.md": {
+    "mtime": 1791041068.6868496,
+    "ast_hash": "02eb24a5df2920938bb78bd7c9580088",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\04_GUIAS_Y_METRICAS\\GUIA_REPOSITORIOS_FUENTES_INFORMACION.md": {
+    "mtime": 1790546066.873891,
+    "ast_hash": "a47e9835e86fb55b9f6c83442d887fe7",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\04_GUIAS_Y_METRICAS\\GUIA_TESIS_CUALITATIVA_UNSCH.md": {
+    "mtime": 1790544538.0447989,
+    "ast_hash": "b33fb12dc46340656fbb8195a76d2521",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\04_GUIAS_Y_METRICAS\\METADATOS_FUENTES_INFORMACION.md": {
+    "mtime": 1790546341.058135,
+    "ast_hash": "ad9f173ca27bcf6fe9eae6f012e86ed2",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\04_GUIAS_Y_METRICAS\\METRICA_NORMAS_VANCOUVER.md": {
+    "mtime": 1790548018.254714,
+    "ast_hash": "6664ae2bb14aa2a72cedbb5b3db63deb",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\MDs\\04_GUIAS_Y_METRICAS\\README.md": {
+    "mtime": 1791041087.303777,
+    "ast_hash": "16f12ef6678f751e7d3e9d1e5a50d6ab",
+    "semantic_hash": ""
+  }
+}

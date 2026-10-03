@@ -1,0 +1,110 @@
+% ==============================================================================
+% PREÁMBULO ESTANDARIZADO UNSCH - CIENCIAS DE LA SALUD (ENFERMERÍA)
+% Compatible tanto con pdflatex como con xelatex (Unicode)
+% ==============================================================================
+
+\usepackage{iftex}
+
+\ifPDFTeX
+  \usepackage[utf8]{inputenc}
+  \usepackage[T1]{fontenc}
+  \usepackage{mathptmx} % Fuente Times 12pt requerida por la normativa
+\else
+  \usepackage{fontspec}
+  \setmainfont{Times New Roman}
+\fi
+
+\usepackage[spanish,es-nodecimaldot,es-tabla]{babel}
+
+% Márgenes normativos UNSCH:
+% Superior: 3.0 cm | Izquierdo: 3.5 cm | Derecho: 2.5 cm | Inferior: 2.5 cm
+\usepackage[top=3.0cm, left=3.5cm, right=2.5cm, bottom=2.5cm, a4paper]{geometry}
+
+% Interlineado reglamentario (1.5 líneas)
+\usepackage{setspace}
+\onehalfspacing
+
+% Sangría reglamentaria de párrafo
+\setlength{\parindent}{1.27cm} % Sangría estilo APA (media pulgada)
+\setlength{\parskip}{6pt}      % Separación ligera entre párrafos
+
+% Paquetes matemáticos y símbolos
+\usepackage{amsmath,amssymb,amsfonts}
+
+% Tablas y matrices avanzadas
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{longtable}
+
+% Inclusión de imágenes y gráficos
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{caption}
+\captionsetup{font=small, labelfont=bf, justification=centering}
+
+% Encabezados y pie de página
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\small\thepage}
+\fancyhead[L]{\small\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\footrulewidth}{0pt}
+\setlength{\headheight}{15pt}
+
+% Estilo de páginas iniciales
+\fancypagestyle{plain}{
+    \fancyhf{}
+    \fancyfoot[C]{\small\thepage}
+    \renewcommand{\headrulewidth}{0pt}
+}
+
+% Formato de Títulos
+\usepackage{titlesec}
+\titleformat{\section}
+    {\normalfont\large\bfseries}{\thesection.}{1em}{}
+\titleformat{\subsection}
+    {\normalfont\normalsize\bfseries}{\thesubsection.}{1em}{}
+\titleformat{\subsubsection}
+    {\normalfont\normalsize\itshape}{\thesubsubsection.}{1em}{}
+
+% Control de listas numeradas y con viñetas
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=2pt, leftmargin=1.5cm}
+\setlist[enumerate]{noitemsep, topsep=2pt, leftmargin=1.5cm}
+
+% Compatibilidad con Pandoc
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Colores y Enlaces (Modo Tinta Negra Oficial para Tesis y Protocolos UNSCH)
+\usepackage{xcolor}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    citecolor=black,
+    urlcolor=black,
+    filecolor=black,
+    pdfauthor={Gresly Lucero Pariona Palomino},
+    pdftitle={Acceso a los servicios de Salud y Calidad de Atencion percibido por los usuarios},
+    pdfsubject={Proyecto de Investigacion en Salud (EN 486) - UNSCH},
+    pdfkeywords={Acceso a los servicios de salud, Calidad de atencion, Percepcion del usuario, Satisfaccion, Enfermeria, UNSCH, Ayacucho}
+}
+
+% Comillas en español
+\usepackage{csquotes}
+
+% Microtipografía
+\usepackage{microtype}
+
+% Compatibilidad con bloques de codigo de Pandoc
+\ifx\Shaded\undefined
+  \newenvironment{Shaded}{\begin{quote}\small\ttfamily}{\end{quote}}
+\fi
+\ifx\Highlighting\undefined
+  \newenvironment{Highlighting}{}{}
+\fi
