@@ -35,8 +35,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\generar_word.py": {
-    "mtime": 1791045213.9427857,
-    "ast_hash": "64d5ea02e2b6c2669a977bd456298a5c",
+    "mtime": 1791077252.2444296,
+    "ast_hash": "ece1971ee2846b485704dda412f5908b",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\limpiar.ps1": {
@@ -2412,6 +2412,11 @@
   "C:\\GRESLY\\00_CONTEXTO_SELLADO\\03_diccionario_datos_reales.md": {
     "mtime": 1791042658.037709,
     "ast_hash": "30b2016ea886ffba4491d02146072f38",
+    "semantic_hash": ""
+  },
+  "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\enrich_generar_word.py": {
+    "mtime": 1791077199.1306043,
+    "ast_hash": "03fd4e12da1713a7cae6a1993a49f57d",
     "semantic_hash": ""
   }
 }

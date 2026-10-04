@@ -499,6 +499,15 @@
       "norm_label": "compilar.ps1"
     },
     {
+      "label": "enrich_generar_word.py",
+      "file_type": "code",
+      "source_file": "DOCUMENTOS/Generaci\u00f3n/scripts/enrich_generar_word.py",
+      "source_location": "L1",
+      "id": "documentos_generaci\u00f3n_scripts_enrich_generar_word_py",
+      "community": 75,
+      "norm_label": "enrich_generar_word.py"
+    },
+    {
       "label": "generar_word.py",
       "file_type": "code",
       "source_file": "DOCUMENTOS/Generaci\u00f3n/scripts/generar_word.py",
@@ -31987,5 +31996,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "01cb32aca04dbfb8739aac1b1f13765a98db6062"
+  "built_at_commit": "91df7efe9f13aa92a0bc8990c100ff059735ced1"
 }

@@ -1,16 +1,16 @@
 # Graph Report - GRESLY  (2026-10-03)
 
 ## Corpus Check
-- 93 files · ~353,728 words
+- 94 files · ~358,306 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1746 nodes · 1620 edges · 198 communities (156 shown, 42 thin omitted)
+- 1747 nodes · 1620 edges · 199 communities (157 shown, 42 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `01cb32ac`
+- Built from commit: `91df7efe`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -208,7 +208,7 @@
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
 
-## Communities (198 total, 42 thin omitted)
+## Communities (199 total, 42 thin omitted)
 
 ### Community 0 - "Marcos Teóricos de Calidad en Salud"
 Cohesion: 0.05
