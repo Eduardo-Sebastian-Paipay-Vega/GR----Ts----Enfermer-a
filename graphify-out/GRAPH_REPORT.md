@@ -1,16 +1,16 @@
-# Graph Report - GRESLY  (2026-10-03)
+# Graph Report - GRESLY  (2026-10-06)
 
 ## Corpus Check
-- 94 files · ~358,306 words
+- 94 files · ~359,268 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 1747 nodes · 1620 edges · 199 communities (157 shown, 42 thin omitted)
+- 1757 nodes · 1655 edges · 199 communities (157 shown, 42 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `91df7efe`
+- Built from commit: `3a637c07`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -194,16 +194,16 @@
 - [[_COMMUNITY_Community 406|Community 406]]
 
 ## God Nodes (most connected - your core abstractions)
-1. `build_protocolo_word()` - 14 edges
+1. `build_protocolo_word()` - 15 edges
 2. `2. Matriz Comparativa: QUÉ SE DEBE HACER vs. QUÉ NO SE DEBE HACER` - 14 edges
 3. `Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026` - 14 edges
 4. `Graphiti MCP Server` - 14 edges
 5. `Graphiti MCP Server Integration Tests` - 14 edges
 6. `PLAN MAESTRO DE ELABORACIÓN Y EVALUACIÓN DE TESIS Y PROYECTOS DE INVESTIGACIÓN EN SALUD (UNSCH - EN 486)` - 13 edges
-7. `FalkorDB + Graphiti MCP Server Combined Image` - 13 edges
-8. `Driver Operations Redesign Spec` - 13 edges
-9. `CAPÍTULO IV: METODOLOGÍA CUALITATIVA` - 13 edges
-10. `CAPÍTULO II: MARCO CONTEXTUAL` - 12 edges
+7. `CAPÍTULO II: MARCO CONTEXTUAL` - 13 edges
+8. `CAPÍTULO IV: METODOLOGÍA: DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN` - 13 edges
+9. `CAPÍTULO I: EL PROBLEMA DE INVESTIGACIÓN` - 13 edges
+10. `FalkorDB + Graphiti MCP Server Combined Image` - 13 edges
 
 ## Surprising Connections (you probably didn't know these)
 - None detected - all connections are within the same source files.
@@ -215,8 +215,8 @@ Cohesion: 0.05
 Nodes (37): 01. ALICIA (CONCYTEC) — Acceso Libre a Información Científica, 02. RENATI (SUNEDU) — Registro Nacional de Trabajos de Investigación, 03. Repositorio Institucional MINSA — Ministerio de Salud del Perú, 04. Repositorio INS — Instituto Nacional de Salud, 05. Cybertesis UNMSM — Universidad Nacional Mayor de San Marcos, 06. Repositorio Institucional UPCH — Universidad Peruana Cayetano Heredia, 07. Repositorio Institucional UNSCH — Universidad Nacional de San Cristóbal de Huamanga, 08. Repositorio UCV — Universidad César Vallejo (+29 more)
 
 ### Community 1 - "Marcos Teóricos de Calidad en Salud"
-Cohesion: 0.29
-Nodes (6): INTRODUCCIÓN, Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026, REFERENCIAS BIBLIOGRÁFICAS (Normas Vancouver), RESUMEN METODOLÓGICO PARA SUSTENTACIÓN, UNIVERSIDAD NACIONAL DE SAN CRISTÓBAL DE HUAMANGA, ÍNDICE GENERAL
+Cohesion: 0.26
+Nodes (10): 1.1. Contextualización y delimitación del problema de investigación, Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026, CAPÍTULO I: EL PROBLEMA DE INVESTIGACIÓN, Delimitación rigurosa del estudio (Cátedra EN 486), INTRODUCCIÓN, Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026, REFERENCIAS BIBLIOGRÁFICAS (Normas Vancouver), RESUMEN METODOLÓGICO PARA SUSTENTACIÓN (+2 more)
 
 ### Community 2 - "Epistemología y Filosofía de la Ciencia (Mario Bunge)"
 Cohesion: 0.22
@@ -267,8 +267,8 @@ Cohesion: 0.17
 Nodes (10): 1. Definición Taxonómica del "Acceso", 1. Disponibilidad (*Availability*), 2. Accesibilidad Geográfica (*Accessibility*), 2. Las 5 Dimensiones del Acceso a los Servicios de Salud, 3. Acomodación / Organización (*Accommodation*), 3. Conexión Teórica entre Acceso y Calidad Percibida, 4. Asequibilidad Económica (*Affordability*), 5. Aceptabilidad Intercultural / Actitudinal (*Acceptability*) (+2 more)
 
 ### Community 15 - "Metodología Cualitativa y Trabajo de Campo (C.S. Belén)"
-Cohesion: 0.16
-Nodes (14): 1.1. Contextualización del problema de investigación, 1.1. Contextualización y delimitación del problema de investigación, 1.2. Formulación de las preguntas norteadoras, 1.3. Formulación de los objetivos de investigación, 1.4. Justificación de la investigación, 1.4. Viabilidad y consideraciones bioéticas, 1.5. Viabilidad y consideraciones bioéticas, CAPÍTULO I: EL PROBLEMA (+6 more)
+Cohesion: 0.18
+Nodes (11): 1.1. Contextualización del problema de investigación, 1.2. Formulación de las preguntas norteadoras, 1.3. Formulación de los objetivos de investigación, 1.4. Justificación de la investigación, 1.4. Viabilidad y consideraciones bioéticas, 1.5. Viabilidad y consideraciones bioéticas, CAPÍTULO I: EL PROBLEMA, Objetivo general (+3 more)
 
 ### Community 16 - "Marcos Teóricos de Calidad en Salud"
 Cohesion: 0.12
@@ -383,8 +383,8 @@ Cohesion: 0.40
 Nodes (4): 1. METADATOS ADMINISTRATIVOS Y DE FORMATO, 2. METADATOS EPISTEMOLÓGICOS Y METODOLÓGICOS, 3. METADATOS MUESTRALES Y UNIDAD DE INFORMACIÓN, FICHA TÉCNICA DE METADATOS INMUTABLES (ENTORNO SELLADO)
 
 ### Community 70 - "Community 70"
-Cohesion: 0.40
-Nodes (4): 🏛️ ACLARACIÓN EPISTEMOLÓGICA OBLIGATORIA, MATRIZ DE CATEGORIZACIÓN CUALITATIVA FENOMENOLÓGICA (ENTORNO SELLADO), MATRIZ DE CATEGORIZACIÓN Y GUÍA DE ENTREVISTA, 🔒 REGLA DE BLOQUEO PARA EL AGENTE EN CAPÍTULO II Y III
+Cohesion: 0.33
+Nodes (5): 🏛️ ACLARACIÓN EPISTEMOLÓGICA OBLIGATORIA, MATRIZ DE CATEGORIZACIÓN CUALITATIVA FENOMENOLÓGICA (ENTORNO SELLADO), MATRIZ DE CATEGORIZACIÓN Y GUÍA DE ENTREVISTA, 🔒 REGLA DE BLOQUEO PARA EL AGENTE EN CAPÍTULO II Y III, 🔒 REGLAS DE BLOQUEO Y RIGOR CIENTÍFICO
 
 ### Community 71 - "Community 71"
 Cohesion: 0.40
@@ -412,7 +412,7 @@ Nodes (33): Architecture Overview, CommunityEdgeOperations, CommunityNodeOperati
 
 ### Community 87 - "Community 87"
 Cohesion: 0.06
-Nodes (31): academic_year, advisor_role, associated_files, author_role, course_code, course_name, dc_contributor_advisor, dc_coverage_spatial (+23 more)
+Nodes (33): academic_year, advisor_role, associated_files, author_role, course_code, course_name, dc_contributor_advisor, dc_coverage_spatial (+25 more)
 
 ### Community 94 - "Community 94"
 Cohesion: 0.07
@@ -451,8 +451,8 @@ Cohesion: 0.10
 Nodes (20): 1.1 Elementos Preliminares e Introducción, 1.2 Componentes de la Introducción, 1. Estructura del Proyecto de Investigación Cualitativa, 2.1 Naturaleza Inductiva y Delimitación del Problema, 2.2 Contextualización del Problema de Investigación (1.1), 2.3 Formulación de Preguntas Norteadoras, 2.4 Formulación de Objetivos (1.2 / 1.3), 2. Capítulo I: El Problema de Investigación (+12 more)
 
 ### Community 142 - "Community 142"
-Cohesion: 0.27
-Nodes (15): add_body_p(), add_bullet_item(), add_header_border(), add_heading_1(), add_heading_2(), add_heading_3(), add_num_item(), add_page_number_field() (+7 more)
+Cohesion: 0.28
+Nodes (16): add_body_p(), add_bullet_item(), add_header_border(), add_heading_1(), add_heading_2(), add_heading_3(), add_hyperlink(), add_num_item() (+8 more)
 
 ### Community 144 - "Community 144"
 Cohesion: 0.10
@@ -655,8 +655,8 @@ Cohesion: 0.18
 Nodes (10): 1. [1. CIENCIA Y CONOCIMIENTO.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/1.%20CIENCIA%20Y%20CONOCIMIENTO.md), 2. [2 INV. CIENTIFICA.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/2%20INV.%20CIENTIFICA.md), 3. [PUNTOS_CLASE_METODOLOGIA_CUALITATIVA.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/PUNTOS_CLASE_METODOLOGIA_CUALITATIVA.md), 4. [1. LINEAS DE INVESTIGACIÓN.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/1.%20LINEAS%20DE%20INVESTIGACI%C3%93N.md), 5. [BOLETIN PRIORIDADES REGIONALES EN SALUD.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/BOLETIN%20PRIORIDADES%20REGIONALES%20EN%20SALUD.md), 6. [Silabo_-_EN-486_-_Proyecto_de_investigacion_en_Salud (1).md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/Silabo_-_EN-486_-_Proyecto_de_investigacion_en_Salud%20(1).md), 7. [NORMATIVA_PORTADA_UNSCH.md](file:///c:/GRESLY/DOCUMENTOS/MDs/01_EPISTEMOLOGIA_Y_NORMATIVA/NORMATIVA_PORTADA_UNSCH.md), 📂 Inventario de Documentos y su Utilidad Operativa (+2 more)
 
 ### Community 370 - "Community 370"
-Cohesion: 0.06
-Nodes (33): 1.1. Contextualización y delimitación del problema de investigación, 1.1. Descripción de la Realidad Problemática, 1.2. Formulación de las preguntas norteadoras, 1.2. Formulación del Problema, 1.3. Formulación de los Objetivos de Investigación, 1.4. Supuestos Fenomenológicos de la Investigación, 1.4. Viabilidad y consideraciones bioéticas, 1.5. Justificación e Importancia de la Investigación (+25 more)
+Cohesion: 0.05
+Nodes (37): 1.1. Contextualización del Problema de Investigación, 1.1. Contextualización y delimitación del problema de investigación, 1.1. Descripción de la Realidad Problemática, 1.2. Formulación de las preguntas norteadoras, 1.2. Formulación del Problema, 1.3. Formulación de los Objetivos de Investigación, 1.4. Supuestos Fenomenológicos de la Investigación, 1.4. Viabilidad y consideraciones bioéticas (+29 more)
 
 ### Community 371 - "Community 371"
 Cohesion: 0.20
@@ -675,8 +675,8 @@ Cohesion: 0.22
 Nodes (9): A. Población Diana ($N$), B. Muestra Cuantitativa Probabilística ($n$), C. Muestra Cualitativa por Saturación Teórica, Criterios de Exclusión:, Criterios de Inclusión:, 📌 FASE 5: Diseño Metodológico, Población y Muestra (Semanas 10 – 12), Paso 5.1: Tipificación Metodológica según Rebeca Landeau (2007), Paso 5.2: Población y Delimitación Muestral (+1 more)
 
 ### Community 376 - "Community 376"
-Cohesion: 0.22
-Nodes (8): 1. Compilar Documento PDF (LaTeX):, 2. Generar Documento Word Oficial (.docx):, 3. Actualizar Grafo de Conocimiento (`graphify`):, ⚡ Comandos Rápidos de Compilación y Generación, 🧭 ¿Cómo Razona y Crea la Inteligencia Artificial?, 📚 Enlaces Directos a los Documentos Clave, 🏛️ Filosofía del Repositorio: "PIENSA, APOYA, PLANIFICA, AUDITA Y EJECUTA", INVESTIGACIÓN EN SALUD: PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN Y ACCESO A SERVICIOS DE SALUD (UNSCH – EN 486)
+Cohesion: 0.29
+Nodes (9): 1. Compilar Documento PDF (LaTeX):, 2. Generar Documento Word Oficial (.docx):, 3. Actualizar Grafo de Conocimiento (`graphify`):, ⚡ Comandos Rápidos de Compilación y Generación, 🧭 ¿Cómo Razona y Crea la Inteligencia Artificial?, 📚 Enlaces Directos a los Documentos Clave, 🏛️ Filosofía del Repositorio: "PIENSA, APOYA, PLANIFICA, AUDITA Y EJECUTA", INVESTIGACIÓN EN SALUD: CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026 (UNSCH – EN 486) (+1 more)
 
 ### Community 377 - "Community 377"
 Cohesion: 0.25
@@ -723,8 +723,8 @@ Cohesion: 0.33
 Nodes (6): ANEXO 1: GUÍA DE ENTREVISTA A PROFUNDIDAD FENOMENOLÓGICA SEMIESTRUCTURADA, ANEXO 2: MATRIZ DE CONSISTENCIA FENOMENOLÓGICA CUALITATIVA, ANEXO 3: FORMATO DE JUICIO DE EXPERTOS, ANEXO 4: MODELO DE CONSENTIMIENTO INFORMADO, ANEXO 5: MODELO DE CARTA DE ASESORÍA, ANEXOS
 
 ### Community 391 - "Community 391"
-Cohesion: 0.33
-Nodes (5): DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN, ESCUELA PROFESIONAL DE ENFERMERÍA, FACULTAD DE CIENCIAS DE LA SALUD, PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO, UNIVERSIDAD NACIONAL DE SAN CRISTÓBAL DE HUAMANGA
+Cohesion: 0.50
+Nodes (4): DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN, ESCUELA PROFESIONAL DE ENFERMERÍA, FACULTAD DE CIENCIAS DE LA SALUD, PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO
 
 ### Community 392 - "Community 392"
 Cohesion: 0.33
@@ -735,8 +735,8 @@ Cohesion: 0.40
 Nodes (5): 📌 FASE 2: Planteamiento del Problema, Objetivos y Justificación (Semanas 03 – 04), Paso 2.1: Redacción del Título de la Tesis, Paso 2.2: Redacción del Problema con la Técnica del Embudo, Paso 2.3: Formulación de Objetivos con Taxonomía de Bloom, Paso 2.4: Justificación Multidimensional (Los 4 Cuadrantes)
 
 ### Community 395 - "Community 395"
-Cohesion: 0.40
-Nodes (5): INTRODUCCIÓN, Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026, REFERENCIAS BIBLIOGRÁFICAS (Normas Vancouver), RESUMEN METODOLÓGICO PARA SUSTENTACIÓN, ÍNDICE GENERAL
+Cohesion: 0.39
+Nodes (7): Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026, INTRODUCCIÓN, Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026, REFERENCIAS BIBLIOGRÁFICAS (Normas Vancouver), RESUMEN METODOLÓGICO PARA SUSTENTACIÓN, UNIVERSIDAD NACIONAL DE SAN CRISTÓBAL DE HUAMANGA, ÍNDICE GENERAL
 
 ### Community 396 - "Community 396"
 Cohesion: 0.50
@@ -751,21 +751,21 @@ Cohesion: 0.50
 Nodes (4): 📌 FASE 8: Estructuración del Informe Final / Tesis y Sustentación (Semana 16), Paso 8.1: Presentación Canónica de Resultados en Tablas de Contingencia, Paso 8.2: Discusión Triangulada de Resultados, Paso 8.3: Conclusiones y Recomendaciones con Destinatarios Precisos
 
 ## Knowledge Gaps
-- **1153 isolated node(s):** `str`, `titulo`, `autora`, `asesor`, `catedra` (+1148 more)
+- **1148 isolated node(s):** `str`, `titulo`, `autora`, `asesor`, `catedra` (+1143 more)
   These have ≤1 connection - possible missing edges or undocumented components.
 - **42 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `PLAN MAESTRO DE ELABORACIÓN Y EVALUACIÓN DE TESIS Y PROYECTOS DE INVESTIGACIÓN EN SALUD (UNSCH - EN 486)` connect `Community 378` to `Community 394`, `Community 396`, `Community 397`, `Community 398`, `Community 374`, `Community 375`, `Community 377`?**
-  _High betweenness centrality (0.001) - this node is a cross-community bridge._
-- **Why does `Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026` connect `Marcos Teóricos de Calidad en Salud` to `Community 227`, `Community 238`, `Metodología Cualitativa y Trabajo de Campo (C.S. Belén)`, `Marcos Teóricos de Calidad en Salud`, `Community 239`, `Community 211`, `Community 214`?**
+- **Why does `Graphiti MCP Server` connect `Community 205` to `Community 199`, `Community 200`, `Community 266`, `Community 281`, `Community 282`, `Community 283`?**
   _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **Why does `PLAN MAESTRO DE ELABORACIÓN Y EVALUACIÓN DE TESIS Y PROYECTOS DE INVESTIGACIÓN EN SALUD (UNSCH - EN 486)` connect `Community 203` to `Epistemología y Filosofía de la Ciencia (Mario Bunge)`, `Community 267`, `Marcos Teóricos de Calidad en Salud`, `Community 268`, `Community 269`, `Metodología Cualitativa y Trabajo de Campo (C.S. Belén)`, `Community 254`?**
   _High betweenness centrality (0.001) - this node is a cross-community bridge._
+- **Why does `PLAN MAESTRO DE ELABORACIÓN Y EVALUACIÓN DE TESIS Y PROYECTOS DE INVESTIGACIÓN EN SALUD (UNSCH - EN 486)` connect `Community 378` to `Community 394`, `Community 396`, `Community 397`, `Community 398`, `Community 374`, `Community 375`, `Community 377`?**
+  _High betweenness centrality (0.001) - this node is a cross-community bridge._
 - **What connects `str`, `Docx Safe Editor Utility Script Safely replaces text in Word (.docx) documents p`, `Safely replaces occurrences of old_text with new_text in paragraphs,     tables,` to the rest of the system?**
-  _1156 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _1151 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Marcos Teóricos de Calidad en Salud` be split into smaller, more focused modules?**
   _Cohesion score 0.05128205128205128 - nodes in this community are weakly interconnected._
 - **Should `Marcos Teóricos de Calidad en Salud` be split into smaller, more focused modules?**

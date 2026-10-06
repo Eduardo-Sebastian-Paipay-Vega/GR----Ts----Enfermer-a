@@ -97,13 +97,13 @@ new_cap1_block = '''    # ======================================================
     add_num_item(doc, 2, "Describir y comprender la experiencia de los usuarios respecto a la dimensión espacial (espacio vivido) en cuanto al confort, hacinamiento y privacidad de los ambientes asistenciales.")
     add_num_item(doc, 3, "Identificar y comprender las vivencias somáticas de la dimensión corporal (cuerpo vivido), analizando la resistencia al frío matutino, fatiga, hambre y dolor del paciente.")
     add_num_item(doc, 4, "Comprender y analizar la experiencia de la dimensión relacional (relación humana vivida) en el encuentro asistencial, focalizando la empatía, trato digno y diálogo en lengua quechua.")
-    add_num_item(doc, 5, "Sintetizar la estructura esencial y las divergencias fenomenológicas que configuran la percepción de una atención digna y de calidad en el Centro de Salud Belén.")
+    add_num_item(doc, 5, "Sintetizar la estructura esencial y las divergencias fenomenológicas que configuran una atención digna y de calidad en el Centro de Salud Belén.")
     
     add_heading_2(doc, "1.4. Supuestos fenomenológicos de la investigación")
     add_body_p(doc, "En el paradigma cualitativo fenomenológico, en concordancia con Hernández-Sampieri y Mendoza [5] y van Manen [8], la investigación no formula hipótesis cuantitativas para contrastación estadística paramétrica. En su lugar, se establecen supuestos fenomenológicos inductivos, los cuales constituyen proposiciones teóricas preliminares que orientan la mirada de la investigadora sin prejuzgar ni constreñir las vivencias que emergerán de los informantes durante la reducción fenomenológica (epojé):")
     
     add_heading_3(doc, "Supuesto General")
-    add_body_p(doc, "La percepción de la calidad de atención y el acceso constituye para el usuario del Centro de Salud Belén una vivencia intersubjetiva profunda donde la calidez humana, el reconocimiento de su dignidad andina, la comunicación empática en lengua originaria y la oportunidad resolutiva del padecimiento prevalecen sobre la mera dimensión instrumental o protocolar del acto asistencial.")
+    add_body_p(doc, "La calidad de atención de salud constituye para el usuario del Centro de Salud Belén una vivencia intersubjetiva profunda donde la calidez humana, el reconocimiento de su dignidad andina, la comunicación empática en lengua originaria y la oportunidad resolutiva del padecimiento prevalecen sobre la mera dimensión instrumental o protocolar del acto asistencial.")
     
     add_heading_3(doc, "Supuestos Específicos del Mundo de la Vida (Lebenswelt)")
     add_num_item(doc, 1, "La prolongada espera a la intemperie y la incertidumbre en la obtención de cupos genera en el usuario una vivencia de desvalorización de su tiempo vital y angustia existencial, transformando el acceso en una experiencia de sacrificio físico.", bold_prefix="Supuesto sobre la Temporalidad: ")

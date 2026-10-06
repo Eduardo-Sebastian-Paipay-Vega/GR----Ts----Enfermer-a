@@ -1,84 +1,42 @@
 \documentclass[12pt,a4paper]{article}
 
-% Inclusión de configuración y preámbulo oficial UNSCH
+% Inclusión de configuración, preámbulo oficial UNSCH y metadatos
 \input{../config/preambulo_unsch.tex}
 
 \begin{document}
 
 % ==============================================================================
-% CARÁTULA OFICIAL UNSCH
+% MÓDULOS PRE-CAPÍTULOS (Front Matter - Páginas Preliminares)
+% Ubicación: templates/pre_caps/
 % ==============================================================================
-\begin{titlepage}
-    \centering
-    \begin{spacing}{1.15}
-        {\fontsize{18}{22}\selectfont\bfseries UNIVERSIDAD NACIONAL DE SAN CRISTÓBAL DE HUAMANGA}\\[0.25cm]
-        {\fontsize{15}{18}\selectfont\bfseries FACULTAD DE CIENCIAS DE LA SALUD}\\[0.15cm]
-        {\fontsize{15}{18}\selectfont\bfseries ESCUELA PROFESIONAL DE ENFERMERÍA}\\[0.35cm]
-    \end{spacing}
 
-    % Escudo Institucional Oficial (Alto: 7 cm, Ancho: 5.25 cm)
-    \vspace{0.15cm}
-    \includegraphics[width=5.25cm,height=7cm,keepaspectratio]{../assets/escudo_unsch.jpeg}\\[0.35cm]
+% 1. Carátula Oficial Reglamentaria UNSCH
+\input{pre_caps/01_portada.tex}
 
-    \begin{spacing}{1.15}
-        {\fontsize{16}{20}\selectfont\bfseries PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO}\\[0.35cm]
-        {\fontsize{15}{19}\selectfont\bfseries Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026}\\[0.45cm]
-        {\fontsize{15}{18}\selectfont Para optar el título profesional de:}\\[0.15cm]
-        {\fontsize{15}{18}\selectfont\bfseries LICENCIADA EN ENFERMERÍA}\\[0.45cm]
-    \end{spacing}
-
-    \vfill
-
-    \begin{spacing}{1.15}
-        {\fontsize{14}{17}\selectfont\bfseries PRESENTADO POR:}\\[0.12cm]
-        {\fontsize{15}{18}\selectfont Bach. Gresly Lucero PARIONA PALOMINO}\\[0.06cm]
-        {\small ORCID: 0009-0008-5421-9872}\\[0.35cm]
-
-        {\fontsize{14}{17}\selectfont\bfseries ASESOR:}\\[0.12cm]
-        {\fontsize{15}{18}\selectfont Dr. Manglio AGUIRRE ANDRADE}\\[0.06cm]
-        {\small ORCID: 0000-0001-8234-567X}\\[0.35cm]
-    \end{spacing}
-
-    \vspace{0.25cm}
-    {\fontsize{14}{17}\selectfont\bfseries AYACUCHO -- PERÚ}\\[0.12cm]
-    {\fontsize{14}{17}\selectfont\bfseries 2026}
-\end{titlepage}
-
-% ==============================================================================
-% SECCIÓN PRELIMINAR (Numeración Romana)
-% ==============================================================================
+% Paginación Romana para preliminares (Índices)
 \pagenumbering{roman}
 \setcounter{page}{2}
 
-% Índice General
-\tableofcontents
-\newpage
-
-% Índice de Tablas
-\renewcommand{\listtablename}{ÍNDICE DE TABLAS}
-\addcontentsline{toc}{section}{ÍNDICE DE TABLAS}
-\listoftables
-\newpage
+% 2. Índices Generales (Contenido y Tablas)
+\input{pre_caps/08_indices.tex}
 
 % ==============================================================================
-% CUERPO DEL PROYECTO (Numeración Arábiga - Estructura Modular)
-% Activo y calibrado: Introducción, Capítulo I y Capítulo II
+% CUERPO DEL PROYECTO (Numeración Arábiga)
 % ==============================================================================
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
-% Introducción
-\input{subcapitulos/sec_00_introduccion.tex}
+% Introducción General
+\input{pre_caps/09_introduccion.tex}
 
-% Capítulo I: El Problema de Investigación
+% CAPÍTULO I: El Problema de Investigación
 \input{subcapitulos/sec_01_problema.tex}
 
-% Capítulo II: Marco Contextual
-\input{subcapitulos/sec_02_marco_contextual.tex}
+% CAPÍTULO II: Marco Contextual (Estructura Modular: cap_2/)
+\input{cap_2/cap_2_master.tex}
 
 % ==============================================================================
-% MÓDULOS EN ESPERA: Se activarán cuando el usuario indique:
-% "DEJA QUE LOS DEMÁS DESPUES DEL CAP 2 SEAN VISIBLES"
+% MÓDULOS EN ESPERA: Se activarán cuando el usuario indique avanzar:
 % ==============================================================================
 % \input{subcapitulos/sec_03_abordaje_teorico.tex}
 % \input{subcapitulos/sec_04_metodologia.tex}

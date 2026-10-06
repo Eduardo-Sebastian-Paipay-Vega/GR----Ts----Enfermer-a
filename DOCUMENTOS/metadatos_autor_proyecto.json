@@ -2,7 +2,7 @@
   "dc_identifier": "PROY-01",
   "dc_creator": "GRESLY LUCERO PARIONA PALOMINO",
   "author_role": "Estudiante Tesista / Investigadora Principal",
-  "dc_title": "Acceso a los servicios de Salud y Calidad de Atención percibido por los usuarios",
+  "dc_title": "Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026",
   "dc_contributor_advisor": "Dr. Manglio Aguirre Andrade",
   "advisor_role": "Docente Titular / Asesor Metodológico",
   "course_code": "EN 486",
@@ -16,12 +16,13 @@
   "dc_coverage_spatial": "Ayacucho, Perú",
   "dc_coverage_temporal": "2026",
   "dc_subject": [
-    "Accesibilidad a los Servicios de Salud",
     "Calidad de la Atención de Salud",
-    "Percepción del Paciente",
-    "Satisfacción del Paciente",
-    "Servicios de Salud",
-    "Atención de Enfermería"
+    "Experiencia del Paciente",
+    "Atención de Enfermería",
+    "Cuidado Humano",
+    "Relaciones Interpersonales",
+    "Investigación Cualitativa",
+    "Fenomenología"
   ],
   "minsa_linea_investigacion_2030": {
     "linea_numero": 10,
@@ -35,9 +36,9 @@
     "eje": "B. Sistemas y servicios de salud"
   },
   "theoretical_framework": {
-    "access_model": "Penchansky & Thomas (1981) - 5 Dimensiones del Acceso (Disponibilidad, Accesibilidad física, Acomodación, Asequibilidad, Aceptabilidad)",
-    "quality_model": "Avedis Donabedian (1980) - Tríada Estructura, Proceso y Resultado",
-    "evaluation_model": "Parasuraman, Zeithaml & Berry (1988) - SERVQUAL modificado (RM N° 527-2011/MINSA)"
+    "quality_model": "Avedis Donabedian (1980, 2005) - Dimensión del Proceso Interpersonal en la Calidad del Cuidado",
+    "caring_model": "Jean Watson (1979, 2008) - Teoría del Cuidado Humano y Factores Caritas",
+    "phenomenological_model": "Edmund Husserl (1949), Max van Manen (1990) y Roberto Hernández-Sampieri (2018) - 4 Existenciales del Lebenswelt"
   },
   "associated_files": [
     "C:/GRESLY/DOCUMENTOS/METADATOS_FUENTES_INFORMACION.md",

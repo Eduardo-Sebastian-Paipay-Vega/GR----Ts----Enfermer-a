@@ -55,30 +55,26 @@ print(f"Nodos base extraídos: {len(all_nodes)}, Aristas base: {len(all_edges)}"
 # 3. Enlaces conceptuales cruzados (Cross-references teóricas y metodológicas)
 # Conectamos las entidades clave transversales del proyecto
 cross_links = [
-    # Donabedian -> Calidad y dimensiones
-    ("Donabedian (1980)", "Calidad de Atención en Salud", "teoriza"),
-    ("Donabedian (1980)", "Estructura (Recursos y Organización)", "dimensión"),
-    ("Donabedian (1980)", "Proceso (Atención y Relación Usuario-Personal)", "dimensión"),
-    ("Donabedian (1980)", "Resultado (Satisfacción y Estado de Salud)", "dimensión"),
+    # Donabedian -> Calidad y proceso interpersonal
+    ("Donabedian (1980, 2005)", "Calidad de Atención en Salud", "teoriza"),
+    ("Donabedian (1980, 2005)", "Proceso Interpersonal (Relación Personal-Usuario)", "dimensión_central"),
+    ("Donabedian (1980, 2005)", "Trato Digno y Ética del Cuidado", "fundamento"),
     
-    # Penchansky & Thomas -> Acceso y dimensiones
-    ("Penchansky & Thomas (1981)", "Acceso a los Servicios de Salud", "teoriza"),
-    ("Penchansky & Thomas (1981)", "Disponibilidad (Volumen de Servicios)", "dimensión"),
-    ("Penchansky & Thomas (1981)", "Accesibilidad Geográfica (Ubicación y Transporte)", "dimensión"),
-    ("Penchansky & Thomas (1981)", "Acomodación (Organización de Citas y Espera)", "dimensión"),
-    ("Penchansky & Thomas (1981)", "Asequibilidad (Costos Directos e Indirectos)", "dimensión"),
-    ("Penchansky & Thomas (1981)", "Aceptabilidad (Percepción Cultural y Actitudes)", "dimensión"),
+    # Jean Watson -> Teoría del Cuidado Humano
+    ("Jean Watson (1979, 2008)", "Teoría del Cuidado Humano", "teoriza"),
+    ("Jean Watson (1979, 2008)", "Cuidado Transpersonal y Factores Caritas", "dimensión_central"),
+    ("Jean Watson (1979, 2008)", "Empatía y Autenticidad en el Encuentro Clínico", "fundamento"),
+    ("Teoría del Cuidado Humano", "Calidad de Atención en Salud", "fundamenta_cuidado"),
     
-    # Parasuraman (SERVQUAL) -> Calidad Percibida
-    ("Parasuraman, Zeithaml & Berry (1988)", "Calidad de Atención en Salud", "evalúa"),
-    ("Parasuraman, Zeithaml & Berry (1988)", "Elementos Tangibles", "dimensión_servqual"),
-    ("Parasuraman, Zeithaml & Berry (1988)", "Fiabilidad", "dimensión_servqual"),
-    ("Parasuraman, Zeithaml & Berry (1988)", "Capacidad de Respuesta", "dimensión_servqual"),
-    ("Parasuraman, Zeithaml & Berry (1988)", "Seguridad", "dimensión_servqual"),
-    ("Parasuraman, Zeithaml & Berry (1988)", "Empatía", "dimensión_servqual"),
+    # Fenomenología del Lebenswelt (van Manen, Husserl, Sampieri)
+    ("Max van Manen (1990)", "Cuatro Existenciales del Lebenswelt", "teoriza"),
+    ("Cuatro Existenciales del Lebenswelt", "Relacionalidad (Relación Vivida - Mitwelt)", "existencial_calidad"),
+    ("Cuatro Existenciales del Lebenswelt", "Temporalidad (Tiempo Vivido - Lebenszeit)", "existencial_calidad"),
+    ("Cuatro Existenciales del Lebenswelt", "Espacialidad (Espacio Vivido - Lebensraum)", "existencial_calidad"),
+    ("Cuatro Existenciales del Lebenswelt", "Corporalidad (Cuerpo Vivido - Leib)", "existencial_calidad"),
     
     # Alineación Sanitaria
-    ("Línea 10 MINSA (RM N° 424-2025)", "Acceso a los Servicios de Salud", "prioridad_nacional"),
+    ("Línea 10 MINSA (RM N° 424-2025)", "Calidad de Atención y Sistemas de Salud", "prioridad_nacional"),
     ("Prioridad 10 DIRESA Ayacucho (2025-2030)", "Calidad de Atención en Salud", "prioridad_regional"),
     ("Prioridad 10 DIRESA Ayacucho (2025-2030)", "Centro de Salud Belén (Ayacucho)", "ámbito_aplicación"),
     
@@ -92,7 +88,7 @@ cross_links = [
     ("Criterios de Rigor Científico", "Credibilidad", "criterio_rigor"),
     ("Criterios de Rigor Científico", "Transferibilidad", "criterio_rigor"),
     ("Criterios de Rigor Científico", "Consistencia (Dependencia)", "criterio_rigor"),
-    ("Criterios de Rigor Científico", "Confirmabilidad", "criterio_rigor"),
+    ("Criterios de Rigor Científico", "Confirmabilidad (Epojé)", "criterio_rigor"),
     
     # Protocolo UNSCH y Cátedra
     ("Dr. Manglio Aguirre Andrade", "Sello Metodológico UNSCH", "autor_catedrático"),
@@ -103,10 +99,10 @@ cross_links = [
     
     # Relación con Proyecto de Tesis
     ("Proyecto Tesis Cualitativo", "Centro de Salud Belén (Ayacucho)", "ámbito_estudio"),
-    ("Proyecto Tesis Cualitativo", "Acceso a los Servicios de Salud", "categoría_apriorística_1"),
-    ("Proyecto Tesis Cualitativo", "Calidad de Atención en Salud", "categoría_apriorística_2"),
+    ("Proyecto Tesis Cualitativo", "Calidad de Atención en Salud", "categoría_central"),
     ("Proyecto Tesis Cualitativo", "Muestreo por Saturación Teórica", "metodología_muestreo"),
     ("Proyecto Tesis Cualitativo", "Entrevista en Profundidad", "técnica_recolección"),
+    ("Proyecto Tesis Cualitativo", "Método de Colaizzi (ATLAS.ti v9)", "análisis_cualitativo"),
 ]
 
 for src, tgt, rel in cross_links:

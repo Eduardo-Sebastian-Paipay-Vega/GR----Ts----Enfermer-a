@@ -37,7 +37,7 @@ Esta guía técnica estipula los criterios tipográficos, dimensiones, márgenes
 | **3** | **Escuela Profesional** | **15 pt** | Mayúsculas sostenidas, Negrita | ESCUELA PROFESIONAL DE ENFERMERÍA |
 | **—** | **Escudo Oficial UNSCH** | *7 cm alto × 5.25 cm ancho* | Centrado | Escudo heráldico oficial de San Cristóbal (1677) |
 | **4** | **Denominación del Documento** | **16 pt** | Mayúsculas sostenidas, Negrita | PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO |
-| **5** | **Título del Trabajo** | **15 pt** | Mayúsculas y minúsculas (Title Case), Negrita, **SIN comillas** | Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026 |
+| **5** | **Título del Trabajo** | **15 pt** | Mayúsculas y minúsculas (Title Case), Negrita, **SIN comillas** | Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026 |
 | **6a** | **Mención de grado (Línea 1)** | **15 pt** | Tipo oración (minúsculas), Regular | Para optar el título profesional de: |
 | **6b** | **Mención de grado (Línea 2)** | **15 pt** | Mayúsculas sostenidas, Negrita | LICENCIADA EN ENFERMERÍA |
 | **7** | **Etiqueta de Autoría** | **14 pt** | Mayúsculas sostenidas, Negrita | PRESENTADO POR: |

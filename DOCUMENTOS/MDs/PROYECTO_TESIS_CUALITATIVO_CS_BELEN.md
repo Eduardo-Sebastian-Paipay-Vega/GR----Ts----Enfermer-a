@@ -7,7 +7,7 @@
 ### PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO
 ### DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN
 
-# Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026
+# Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026
 
 **Para optar el título profesional de:**  
 **LICENCIADA EN ENFERMERÍA**  
@@ -37,9 +37,9 @@
 | Elemento Metodológico | Definición para la Tesis |
 |---|---|
 | **Área Temática** | Salud pública, calidad de atención, humanización y cuidado fenomenológico de enfermería. |
-| **Objeto de Estudio** | La estructura, significado y esencia de la experiencia vivida (*vivencias*) por los usuarios en torno al acceso y calidad de atención en el Centro de Salud Belén, abordando los cuatro existenciales universales de van Manen y Sampieri: (1) Temporalidad (madrugadas y esperas), (2) Espacialidad (salas y consultorios), (3) Corporalidad (frío, cansancio somático y dolor), y (4) Relacionalidad (encuentro empático e intercultural en quechua chanka). |
+| **Objeto de Estudio** | La estructura, significado y esencia de la experiencia vivida (*vivencias*) por los usuarios en torno al calidad de atención y cuidado humano en el Centro de Salud Belén, abordando los cuatro existenciales universales de van Manen y Sampieri: (1) Temporalidad (madrugadas y esperas), (2) Espacialidad (salas y consultorios), (3) Corporalidad (frío, cansancio somático y dolor), y (4) Relacionalidad (encuentro empático e intercultural en quechua chanka). |
 | **Problema Principal** | La brecha entre el modelo asistencial tecnicista y la vivencia sentida del usuario andino en el primer nivel de atención. |
-| **Pregunta Norteadora Central** | ¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026? |
+| **Pregunta Norteadora Central** | ¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno de la calidad de atención y el cuidado humano en los servicios de salud del Centro de Salud Belén, Ayacucho 2026? |
 | **Enfoque y Diseño** | Enfoque Cualitativo con **Diseño Fenomenológico de Investigación** (Edmund Husserl, Max van Manen, Clark Moustakas, John Creswell, Roberto Hernández-Sampieri & Christian Mendoza). |
 | **Muestra e Informantes** | Muestreo cualitativo no probabilístico intencional regulado por **saturación teórica de categorías** (12 a 18 participantes informantes clave). |
 | **Software de Análisis** | ATLAS.ti v9 (Horizontalización, códigos, familias y redes semánticas categoriales esenciales vs. divergentes). |
@@ -106,7 +106,7 @@ El estudio aborda un problema crítico y sensible: la distancia existente entre 
 La investigación tiene una clara orientación transformadora: sus hallazgos permitirán a la jefatura del Centro de Salud Belén, a la Dirección de la Red de Salud Huamanga y al colectivo profesional de enfermería diseñar planes de mejora continua, protocolos de acogida y triaje humanizado con pertinencia lingüística intercultural (en quechua y español), y estrategias para desarticular los cuellos de botella en el otorgamiento de citas y entrega de medicamentos.
 
 **4. Valor teórico y tipología de la investigación:**  
-Conforme a la tipología metodológica de la investigación científica, el presente trabajo se clasifica como una **investigación básica o sustantiva**, con **nivel descriptivo-interpretativo** y un riguroso **diseño cualitativo fenomenológico** (Hernández-Sampieri & Mendoza, 2018; Creswell, 2013). Siguiendo las directrices metodológicas de Roberto Hernández-Sampieri y Christian Mendoza (2018), así como los fundamentos epistemológicos de Edmund Husserl (1949), Max van Manen (1990) y John Creswell (2013), el propósito central del estudio no es construir modelos teóricos abstractos desvinculados (como en la teoría fundamentada) ni narrar secuencias cronológicas biográficas (como en los diseños narrativos), sino explorar, describir y comprender la *esencia de las experiencias compartidas* (*vivencias*) de los usuarios frente al fenómeno del acceso y la calidad asistencial en el Centro de Salud Belén. Dicho abordaje aprehende la vivencia en sus cuatro dimensiones existenciales fundamentales: temporalidad (tiempo vivido en la espera y la madrugada), espacialidad (espacio vivido en salas y consultorios), corporalidad (cuerpo vivido, dolor, frío y fatiga física) y relacionalidad (encuentro intersubjetivo, empatía y comunicación en quechua chanka). Su valor teórico radica en articular dialógicamente los modelos de Calidad en Salud de Avedis Donabedian (1980, 2005), la Teoría del Acceso de Roy Penchansky (1981) y la Teoría del Cuidado Humano de Jean Watson (2008) con la cosmovisión andina de Huamanga.
+Conforme a la tipología metodológica de la investigación científica, el presente trabajo se clasifica como una **investigación básica o sustantiva**, con **nivel descriptivo-interpretativo** y un riguroso **diseño cualitativo fenomenológico** (Hernández-Sampieri & Mendoza, 2018; Creswell, 2013). Siguiendo las directrices metodológicas de Roberto Hernández-Sampieri y Christian Mendoza (2018), así como los fundamentos epistemológicos de Edmund Husserl (1949), Max van Manen (1990) y John Creswell (2013), el propósito central del estudio no es construir modelos teóricos abstractos desvinculados (como en la teoría fundamentada) ni narrar secuencias cronológicas biográficas (como en los diseños narrativos), sino explorar, describir y comprender la *esencia de las experiencias compartidas* (*vivencias*) de los usuarios frente al fenómeno del acceso y la calidad asistencial en el Centro de Salud Belén. Dicho abordaje aprehende la vivencia en sus cuatro dimensiones existenciales fundamentales: temporalidad (tiempo vivido en la espera y la madrugada), espacialidad (espacio vivido en salas y consultorios), corporalidad (cuerpo vivido, dolor, frío y fatiga física) y relacionalidad (encuentro intersubjetivo, empatía y comunicación en quechua chanka). Su valor teórico radica en articular dialógicamente los modelos de Calidad en Salud de Avedis Donabedian (1980, 2005), la Teoría del Cuidado Humano de Jean Watson (1981) y la Teoría del Cuidado Humano de Jean Watson (2008) con la cosmovisión andina de Huamanga.
 
 **5. Valor metodológico:**  
 En el ámbito metodológico, el proyecto aporta una guía de entrevista en profundidad y una matriz de categorización temática cualitativa validadas por juicio de expertos y ajustadas a los criterios de rigor científico de Guba y Lincoln (1985): credibilidad, transferibilidad, consistencia y confirmabilidad. Asimismo, aplica la técnica de triangulación metodológica y de actores (Okuda y Gómez-Restrepo, 2005), sentando un precedente técnico replicable para futuros estudios en la Facultad de Ciencias de la Salud de la UNSCH.
@@ -140,7 +140,7 @@ En estricta observancia del sello metodológico del Dr. Manglio Aguirre Andrade,
 En coherencia con el enfoque cualitativo fenomenológico de la cátedra de EN 486 y el canon formulado por Roberto Hernández-Sampieri y Christian Mendoza (2018, p. 493), se plantea una pregunta canónica central sobre la esencia del fenómeno vivido y preguntas norteadoras específicas articuladas a las cuatro dimensiones existenciales:
 
 #### Pregunta principal
-¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026?
+¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno de la calidad de atención y el cuidado humano en los servicios de salud del Centro de Salud Belén, Ayacucho 2026?
 
 #### Preguntas específicas
 1. ¿Cómo vivencian los usuarios la **dimensión temporal (temporalidad / tiempo vivido)** en las filas de madrugada (4:00 AM) y las horas transcurridas en sala de espera antes de ser atendidos?
@@ -155,7 +155,7 @@ En coherencia con el enfoque cualitativo fenomenológico de la cátedra de EN 48
 Guardando una simetría lógica estricta (1:1) con las preguntas norteadoras y empleando verbos comprensivos del paradigma fenomenológico-hermenéutico, se definen los siguientes objetivos:
 
 #### Objetivo general
-Comprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026.
+Comprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno de la calidad de atención y el cuidado humano en los servicios de salud del Centro de Salud Belén, Ayacucho 2026.
 
 #### Objetivos específicos
 1. Develar las vivencias de los usuarios en torno a la **dimensión temporal (tiempo vivido)** durante las filas de madrugada y los tiempos de espera transcurridos para la consulta.
@@ -180,7 +180,7 @@ El estudio se rige bajo los principios éticos de la Declaración de Helsinki (2
 
 ## CAPÍTULO II: MARCO CONTEXTUAL
 
-En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del *ambiente natural* donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado (Hernández-Sampieri & Mendoza, 2018; Creswell, 2013). Para comprender la esencia de la experiencia vivida (*Lebenswelt*) de los usuarios respecto al acceso y la calidad de atención en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas (van Manen, 1990; DIRESA Ayacucho, 2025).
+En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del *ambiente natural* donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado (Hernández-Sampieri & Mendoza, 2018; Creswell, 2013). Para comprender la esencia de la experiencia vivida (*Lebenswelt*) de los usuarios respecto a la calidad de atención y el cuidado humano en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas (van Manen, 1990; DIRESA Ayacucho, 2025).
 
 ### 2.1. Descripción geográfica, territorial y ambiental del área de estudio
 La investigación se sitúa en el Centro de Salud Belén, establecimiento sanitario cabecera perteneciente a la Microred Huamanga de la Red de Salud Huamanga, adscrito a la Dirección Regional de Salud (DIRESA) de Ayacucho. El establecimiento se localiza en el emblemático e histórico barrio de Belén, en el sector céntrico-sur del distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a una altitud oficial de 2,760 metros sobre el nivel del mar. Sus coordenadas geográficas de emplazamiento corresponden a los 13°09'47'' de Latitud Sur y 74°13'28'' de Longitud Oeste.
@@ -510,8 +510,8 @@ Asimismo, tal como enfatizó el docente en la cátedra de EN 486, la planificaci
 ## ANEXOS
 
 ### ANEXO 1: GUÍA DE ENTREVISTA A PROFUNDIDAD FENOMENOLÓGICA SEMIESTRUCTURADA
-**Título:** Percepción de la calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.  
-**Objetivo:** Explorar, describir y comprender la esencia de la experiencia vivida (*vivencias*) por el usuario respecto al acceso y la calidad de atención en el Centro de Salud Belén.
+**Título:** Calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.  
+**Objetivo:** Explorar, describir y comprender la esencia de la experiencia vivida (*vivencias*) por el usuario respecto a la calidad de atención y el cuidado humano en el Centro de Salud Belén.
 
 **I. Preguntas de Apertura y Clima de Confianza (*Rapport*):**
 1. ¿Podría relatarme qué le motivó a acudir el día de hoy al Centro de Salud Belén?
@@ -532,11 +532,11 @@ Asimismo, tal como enfatizó el docente en la cátedra de EN 486, la planificaci
 ---
 
 ### ANEXO 2: MATRIZ DE CONSISTENCIA FENOMENOLÓGICA CUALITATIVA
-**TÍTULO:** PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026.
+**TÍTULO:** CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026.
 
 | PROBLEMA FENOMENOLÓGICO | OBJETIVOS DE INVESTIGACIÓN | PREGUNTAS NORTEADORAS | CATEGORÍAS VIVENCIALES | METODOLOGÍA FENOMENOLÓGICA |
 |---|---|---|---|---|
-| **General:**<br>¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en el Centro de Salud Belén, Ayacucho 2026? | **General:**<br>Comprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en el Centro de Salud Belén, Ayacucho 2026. | 1. Temporalidad (tiempo vivido en madrugadas y esperas).<br><br>2. Espacialidad (espacio vivido en salas y consultorios).<br><br>3. Corporalidad (cuerpo vivido, frío, dolor y fatiga).<br><br>4. Relacionalidad (encuentro humano, empatía y quechua).<br><br>5. Esencia compartida y visiones divergentes de calidad. | **Categoría Central:**<br>Vivencia y significado de la calidad de atención asistencial.<br><br>**Dimensiones Existenciales:**<br>• Temporalidad (Tiempo vivido)<br>• Espacialidad (Espacio vivido)<br>• Corporalidad (Cuerpo vivido)<br>• Relacionalidad (Relación humana)<br>• Esencia del Cuidado Humano | **Paradigma:** Interpretativo-naturalista.<br><br>**Enfoque:** Cualitativo.<br><br>**Diseño:** Fenomenológico empírico y hermenéutico (Husserl, van Manen, Sampieri).<br><br>**Muestra:** 12 a 18 informantes clave regulados por saturación teórica (Esbensen et al., 2008).<br><br>**Técnicas:** Entrevista fenomenológica en profundidad y observación reflexiva.<br><br>**Análisis:** Flujo de 7 pasos (Colaizzi / Sampieri) con ATLAS.ti v9. |
+| **General:**<br>¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno de la calidad de atención y el cuidado humano en el Centro de Salud Belén, Ayacucho 2026? | **General:**<br>Comprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno de la calidad de atención y el cuidado humano en el Centro de Salud Belén, Ayacucho 2026. | 1. Temporalidad (tiempo vivido en madrugadas y esperas).<br><br>2. Espacialidad (espacio vivido en salas y consultorios).<br><br>3. Corporalidad (cuerpo vivido, frío, dolor y fatiga).<br><br>4. Relacionalidad (encuentro humano, empatía y quechua).<br><br>5. Esencia compartida y visiones divergentes de calidad. | **Categoría Central:**<br>Vivencia y significado de la calidad de atención asistencial.<br><br>**Dimensiones Existenciales:**<br>• Temporalidad (Tiempo vivido)<br>• Espacialidad (Espacio vivido)<br>• Corporalidad (Cuerpo vivido)<br>• Relacionalidad (Relación humana)<br>• Esencia del Cuidado Humano | **Paradigma:** Interpretativo-naturalista.<br><br>**Enfoque:** Cualitativo.<br><br>**Diseño:** Fenomenológico empírico y hermenéutico (Husserl, van Manen, Sampieri).<br><br>**Muestra:** 12 a 18 informantes clave regulados por saturación teórica (Esbensen et al., 2008).<br><br>**Técnicas:** Entrevista fenomenológica en profundidad y observación reflexiva.<br><br>**Análisis:** Flujo de 7 pasos (Colaizzi / Sampieri) con ATLAS.ti v9. |
 | **Específicos:**<br>1. ¿Cómo vivencian la dimensión temporal?<br>2. ¿Cómo experimentan la dimensión espacial?<br>3. ¿Cuáles son los sentires de la dimensión corporal?<br>4. ¿Cómo perciben la dimensión relacional y el quechua?<br>5. ¿Cuál es la esencia y divergencias vivenciales? | **Específicos:**<br>1. Develar las vivencias de la dimensión temporal.<br>2. Describir la experiencia de la dimensión espacial.<br>3. Identificar los sentires de la dimensión corporal.<br>4. Caracterizar las vivencias de la dimensión relacional.<br>5. Sintetizar la esencia compartida y divergencias. | | | |
 
 ---
@@ -551,7 +551,7 @@ Asimismo, tal como enfatizó el docente en la cátedra de EN 486, la planificaci
 * **1.5. Cargo que desempeña:** __________________________________________________
 * **1.6. Denominación del instrumento:** Guía de entrevista a profundidad fenomenológica semiestructurada.
 * **1.7. Autor del instrumento:** Gresly Lucero Pariona Palomino.
-* **1.8. Título de la tesis:** Percepción de la calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.
+* **1.8. Título de la tesis:** Calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.
 
 **II. CRITERIOS DE RIGOR Y VALIDACIÓN CUALITATIVA (SAMPIERI, 2014):**
 
@@ -581,7 +581,7 @@ ____________________________________________________<br>
 
 Yo, __________________________________________________, identificado con DNI N° _______________, domiciliado en _____________________________________, Distrito de Ayacucho, Región Ayacucho.
 
-He tomado conocimiento del estudio de investigación titulado: **“PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**.
+He tomado conocimiento del estudio de investigación titulado: **“CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**.
 
 Declaro participar en calidad de **Informante clave** y me comprometo a brindar información fidedigna. Se me ha informado que la entrevista será grabada únicamente en audio, que mi participación es totalmente voluntaria, anónima y confidencial, y que puedo retirarme del estudio en el momento que considere conveniente sin que esto afecte mi atención en el centro de salud.
 
@@ -607,7 +607,7 @@ Universidad Nacional de San Cristóbal de Huamanga
 
 **Asunto: Carta de Aceptación y Asesoría Formal de Proyecto de Tesis**
 
-Sirva la presente para saludarlo cordialmente y a la vez comunicarle la asesoría formal del Proyecto de Tesis cualitativo titulado: **“PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**, perteneciente a la estudiante **Gresly Lucero Pariona Palomino**, egresada de la Escuela Profesional de Enfermería.
+Sirva la presente para saludarlo cordialmente y a la vez comunicarle la asesoría formal del Proyecto de Tesis cualitativo titulado: **“CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**, perteneciente a la estudiante **Gresly Lucero Pariona Palomino**, egresada de la Escuela Profesional de Enfermería.
 
 En tal sentido, dicha asesoría comprenderá todas las etapas del proyecto y ejecución del trabajo de investigación con diseño fenomenológico, permitiendo la obtención del Título Profesional de Licenciada en Enfermería.
 

@@ -1,5 +1,5 @@
 # 🛠️ GUÍA DE INSTALACIÓN, CONFIGURACIÓN Y EJECUCIÓN DEL REPOSITORIO
-**Proyecto:** *Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026*  
+**Proyecto:** *Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026*  
 **Cátedra:** Proyecto de Investigación en Salud (EN 486) – Escuela Profesional de Enfermería (UNSCH)  
 **Autora:** Bach. Gresly Lucero Pariona Palomino  
 **Asesor:** Dr. Manglio Aguirre Andrade  

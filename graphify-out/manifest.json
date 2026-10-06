@@ -15,8 +15,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\metadatos_autor_proyecto.json": {
-    "mtime": 1790546348.137554,
-    "ast_hash": "642e3f158b1aa285e4a95f5240cac959",
+    "mtime": 1791264690.2100096,
+    "ast_hash": "9d4a247ffdb979b4fbb4d9bc718d4cec",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\auditar_word.py": {
@@ -35,8 +35,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\generar_word.py": {
-    "mtime": 1791077252.2444296,
-    "ast_hash": "ece1971ee2846b485704dda412f5908b",
+    "mtime": 1791283124.5479515,
+    "ast_hash": "429e9ac4e00ff7eb4b9000ac0ab9be9f",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\limpiar.ps1": {
@@ -60,8 +60,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\AGENTS.md": {
-    "mtime": 1791041171.9166884,
-    "ast_hash": "dd736bf28b4fad9dc407f353a6aaf8d5",
+    "mtime": 1791279741.7940836,
+    "ast_hash": "3c6132143c3972c980dbbb5ebd909867",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\.agents\\rules\\graphify.md": {
@@ -175,8 +175,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md": {
-    "mtime": 1790961125.459725,
-    "ast_hash": "6c81c3ff829521e449e0584a376db445",
+    "mtime": 1791264176.55795,
+    "ast_hash": "de1cade285631f0f49eb8fe0964dbf52",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\SELLO_METODOLOGICO_DR_MANGLIO_AGUIRRE.md": {
@@ -2190,8 +2190,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\generar_grafo_documentos.py": {
-    "mtime": 1790955624.4200258,
-    "ast_hash": "bd2396ae9ab2accaeefbfcd34e224161",
+    "mtime": 1791263779.9325697,
+    "ast_hash": "3c7cd67aa7b0e017fcb6e05cf20d150c",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\graphiti\\ejemplo_sin_gemini.py": {
@@ -2200,8 +2200,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\NORMATIVA_PORTADA_UNSCH.md": {
-    "mtime": 1790955583.7085803,
-    "ast_hash": "39c8c12b37dcebb7bb401432d0cff6f5",
+    "mtime": 1791264176.5615852,
+    "ast_hash": "2c0502fd2826f12e260fe1c2ff0a56f2",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\puntos_clase_metodologia_cualitativa.md": {
@@ -2215,8 +2215,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\README.md": {
-    "mtime": 1791041947.6022294,
-    "ast_hash": "d5f3aab1cecff5890235453383179b5f",
+    "mtime": 1791264589.5952632,
+    "ast_hash": "509b4a041d0b38a3d0001fdf4c48d521",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\RUTA_COGNITIVA_IA.md": {
@@ -2255,8 +2255,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\NORMATIVA_PORTADA_UNSCH.md": {
-    "mtime": 1790955583.7085803,
-    "ast_hash": "39c8c12b37dcebb7bb401432d0cff6f5",
+    "mtime": 1791264176.5621345,
+    "ast_hash": "2c0502fd2826f12e260fe1c2ff0a56f2",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\01_EPISTEMOLOGIA_Y_NORMATIVA\\PUNTOS_CLASE_METODOLOGIA_CUALITATIVA.md": {
@@ -2310,13 +2310,13 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\03_PROYECTO_ACTIVO_CS_BELEN\\PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md": {
-    "mtime": 1791045022.210484,
-    "ast_hash": "08851464ce8070b1313d91f948300b69",
+    "mtime": 1791281517.1867049,
+    "ast_hash": "764e41a4919d6b9a6fafe84ca93a9c8a",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\03_PROYECTO_ACTIVO_CS_BELEN\\README.md": {
-    "mtime": 1791041068.6868496,
-    "ast_hash": "02eb24a5df2920938bb78bd7c9580088",
+    "mtime": 1791264176.561016,
+    "ast_hash": "a227b1d1a67c395893f416bfbace3fcd",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\MDs\\04_GUIAS_Y_METRICAS\\GUIA_REPOSITORIOS_FUENTES_INFORMACION.md": {
@@ -2345,8 +2345,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\GUIA_INSTALACION.md": {
-    "mtime": 1791041923.053607,
-    "ast_hash": "12f0c9935f13ade446a5da8d136abeb9",
+    "mtime": 1791264176.5632644,
+    "ast_hash": "7cafc38df4ba6d3ce7a444531278a36a",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\requirements.txt": {
@@ -2395,18 +2395,18 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\00_CONTEXTO_SELLADO\\00_metadatos.md": {
-    "mtime": 1791042616.416062,
-    "ast_hash": "9086f54e2f170f17418978e7976f006e",
+    "mtime": 1791264040.3740115,
+    "ast_hash": "aa147877773fa53dc929d40f43ea018c",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\00_CONTEXTO_SELLADO\\01_matriz_consistencia.md": {
-    "mtime": 1791042627.9296432,
-    "ast_hash": "2eb3682813be266e6eb6746928855bb9",
+    "mtime": 1791264658.5957842,
+    "ast_hash": "f37828cfb9cf4f738f9dc93219192925",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\00_CONTEXTO_SELLADO\\02_operacionalizacion.md": {
-    "mtime": 1791042645.9306586,
-    "ast_hash": "6ad5899378bb7ee6f25eb6ec35928dbe",
+    "mtime": 1791264617.3447876,
+    "ast_hash": "fdd1e27b2cc30c0bd3c48d5a0e7595c0",
     "semantic_hash": ""
   },
   "C:\\GRESLY\\00_CONTEXTO_SELLADO\\03_diccionario_datos_reales.md": {
@@ -2415,8 +2415,8 @@
     "semantic_hash": ""
   },
   "C:\\GRESLY\\DOCUMENTOS\\Generaci\u00f3n\\scripts\\enrich_generar_word.py": {
-    "mtime": 1791077199.1306043,
-    "ast_hash": "03fd4e12da1713a7cae6a1993a49f57d",
+    "mtime": 1791264753.243434,
+    "ast_hash": "2718ffc23879afe38b40ee41b3a44fcd",
     "semantic_hash": ""
   }
 }

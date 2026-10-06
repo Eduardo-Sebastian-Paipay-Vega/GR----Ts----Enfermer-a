@@ -7,13 +7,13 @@
 ### PROYECTO DE INVESTIGACIÓN CON ENFOQUE CUALITATIVO
 ### DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN
 
-# Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026
+# Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026
 
 **Para optar el título profesional de:**  
 **LICENCIADA EN ENFERMERÍA**  
 
 **PRESENTADO POR:**  
-**Bach. Gresly Lucero PARIONA PALOMINO**  
+**Gresly Lucero PARIONA PALOMINO**  
 *ORCID: [0009-0008-5421-9872](https://orcid.org/0009-0008-5421-9872)*  
 *Cátedra: Proyecto de Investigación en Salud (EN 486)*  
 
@@ -37,9 +37,9 @@
 | Elemento Metodológico | Definición para la Tesis |
 |---|---|
 | **Área Temática** | Salud pública, calidad de atención, humanización y cuidado fenomenológico de enfermería. |
-| **Objeto de Estudio** | La estructura, significado y esencia de la experiencia vivida (*vivencias*) por los usuarios en torno al acceso y calidad de atención en el Centro de Salud Belén, abordando los cuatro existenciales universales de van Manen y Sampieri: (1) Temporalidad (madrugadas y esperas), (2) Espacialidad (salas y consultorios), (3) Corporalidad (frío, cansancio somático y dolor), y (4) Relacionalidad (encuentro empático e intercultural en quechua chanka). |
+| **Objeto de Estudio** | La estructura, significado y esencia de la experiencia vivida (*vivencias*) por los usuarios en torno al calidad de atención y cuidado humano en el Centro de Salud Belén, abordando los cuatro existenciales universales de van Manen y Sampieri: (1) Temporalidad (madrugadas y esperas), (2) Espacialidad (salas y consultorios), (3) Corporalidad (frío, cansancio somático y dolor), y (4) Relacionalidad (encuentro empático e intercultural en quechua chanka). |
 | **Problema Principal** | La brecha entre el modelo asistencial tecnicista y la vivencia sentida del usuario andino en el primer nivel de atención. |
-| **Pregunta Norteadora Central** | ¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026? |
+| **Pregunta Norteadora Central** | ¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno de la calidad de atención y el cuidado humano en los servicios de salud del Centro de Salud Belén, Ayacucho 2026? |
 | **Enfoque y Diseño** | Enfoque Cualitativo con **Diseño Fenomenológico de Investigación** (Edmund Husserl, Max van Manen, Clark Moustakas, John Creswell, Roberto Hernández-Sampieri & Christian Mendoza). |
 | **Muestra e Informantes** | Muestreo cualitativo no probabilístico intencional regulado por **saturación teórica de categorías** (12 a 18 participantes informantes clave). |
 | **Software de Análisis** | ATLAS.ti v9 (Horizontalización, códigos, familias y redes semánticas categoriales esenciales vs. divergentes). |
@@ -63,7 +63,7 @@
   * 2.6. Articulación dialéctica del escenario físico-social con las dimensiones existenciales del usuario (*Lebenswelt*)
 * **CAPÍTULO III: ABORDAJE TEÓRICO**
   * 3.1. Antecedentes de estudio (Internacionales, Nacionales, Regionales y Locales)
-  * 3.2. Bases teóricas fundamentales (Donabedian, Penchansky, SERVQUAL, Watson, Benner y Wilson)
+  * 3.2. Bases teóricas fundamentales (Donabedian, Watson, Benner y Wilson)
   * 3.3. Matriz de categorización cualitativa y análisis fenomenológico (Categorías esenciales vs. divergentes)
 * **CAPÍTULO IV: METODOLOGÍA: DISEÑO FENOMENOLÓGICO DE INVESTIGACIÓN**
   * 4.1. Fundamentación filosófica y epistemológica del diseño fenomenológico
@@ -90,56 +90,54 @@
 
 ## INTRODUCCIÓN
 
-La calidad de atención y el acceso efectivo a los servicios de salud en el primer nivel constituyen pilares insoslayables para la consolidación de la cobertura sanitaria universal y la materialización del derecho humano a la salud. De acuerdo con las directrices conjuntas de la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [1], brindar servicios oportunos, seguros, continuos y centrados en la persona es un imperativo ético indispensable para mitigar las inequidades estructurales en salud. En el contexto de la atención primaria, la percepción que el usuario construye sobre el cuidado que se le prodiga no se limita a un mero juicio de complacencia utilitaria; representa una valoración profunda e intersubjetiva que condiciona la adherencia a los tratamientos, la asistencia oportuna a los controles preventivos y el nivel de confianza depositado en las instituciones públicas del Estado.
+La calidad de atención y el cuidado humano en el primer nivel de atención constituyen un imperativo ético y disciplinar indispensable para garantizar la dignidad de la persona y la consolidación de la cobertura sanitaria universal. En el marco de la investigación cualitativa bajo el diseño fenomenológico, la comprensión de este fenómeno no parte de abstracciones teóricas desvinculadas, sino de la inmersión vivencial y situada en los escenarios concretos donde acontece el encuentro interpersonal entre el profesional de salud y el usuario doliente. En estricta concordancia con la guía oficial para formular proyectos cualitativos de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), a cargo del Dr. Manglio Aguirre Andrade, la fundamentación del presente estudio se articula a través del recorrido inverso de contextualización (del ámbito específico al general) y el desarrollo riguroso de sus dimensiones justificatorias:
 
-En el Perú, la Política Nacional de Calidad en Salud del Ministerio de Salud (MINSA) [2] reconoce que la persistencia de barreras geográficas, administrativas, culturales y de trato interpersonal en los establecimientos de primer nivel (I-1 a I-4) debilita la capacidad de respuesta del sistema sanitario, provocando la despersonalización del acto de cuidado y prolongadas demoras que impactan negativamente en las familias de menores ingresos. Bajo el marco normativo de la cátedra de Proyecto de Investigación en Salud (EN 486) de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), impartida por el Dr. Manglio Aguirre Andrade, la formulación de proyectos en salud exige una articulación analítica rigurosa mediante la técnica del embudo en tres niveles (global, nacional y regional/local) y la fundamentación explícita de sus dimensiones justificatorias:
-
-**1. Técnica del embudo contextual y territorial:**
-* **Nivel Global e Internacional:** A escala mundial, los sistemas de salud enfrentan una crisis de deshumanización derivada de la sobrecarga burocrática y el predominio tecnicista del acto médico, desatendiendo la vivencia afectiva del paciente y los determinantes socioculturales de la salud [1].
-* **Nivel Nacional (Perú):** A nivel nacional, el 78% de las atenciones asistenciales recaen en el primer nivel; no obstante, coexisten cuellos de botella en la asignación de citas, colas nocturnas y precariedad en el trato interpersonal, lo cual motivó al Estado peruano a priorizar la investigación en sistemas sanitarios a través de la **Línea 10 de Investigación en Salud al 2030**: *“Sistemas y servicios de salud, acceso y cobertura universal”* (aprobada mediante Resolución Ministerial N° 424-2025/MINSA) [3].
-* **Nivel Regional y Local (Ayacucho – Huamanga):** En el plano regional, la investigación se enmarca y responde de manera vinculante a la **Prioridad Regional 10 de Investigación en Salud de Ayacucho 2025–2030**, aprobada por la Dirección Regional de Salud (DIRESA) de Ayacucho [4]: *“Organización, gestión, calidad y accesibilidad de los servicios de salud”*, cuyo objetivo estratégico regional apunta a generar evidencia empírica directa para transformar los modelos de gestión y dignificar la atención en los centros de salud de la provincia de Huamanga. En este escenario, el Centro de Salud Belén (Categoría I-3, Microred Huamanga) representa un punto neurálgico asistencial que atiende a una población adscrita de 18,450 habitantes, donde el 68% se encuentra en situación de pobreza o extrema pobreza según el SISFOH y más del 94% depende del Seguro Integral de Salud (SIS), coexistiendo un 72% de población con bilingüismo activo quechua chanka-castellano.
+**1. Contextualización de la problemática en tres niveles (Recorrido Inverso):**
+* **Nivel Local (Centro de Salud Belén, Ayacucho):** En el plano local y de manera estricta y exclusiva, la investigación se sitúa en el Centro de Salud Belén (Categoría I-3, Microred Huamanga), establecimiento cabecera que atiende a una población adscrita de 18,450 habitantes en el distrito de Ayacucho, a 2,760 metros sobre el nivel del mar. La realidad cotidiana del establecimiento está marcada por una profunda vulnerabilidad: el 68.2% de los usuarios vive en condición de pobreza según el SISFOH, más del 94.5% depende del Seguro Integral de Salud (SIS) y el 72% posee bilingüismo activo quechua chanka-castellano. Para esta población, la calidad del cuidado no reside en la frialdad de un trámite clínico, sino en la necesidad vital de un trato digno, acogedor y respetuoso expresado en pautas andinas como el saludo afectuoso (*napaykuy*), la hospitalidad en la atención (*allin chaskiy*) y el respeto mutuo (*respetanakuy*). El estudio responde de forma vinculante a la **Prioridad Regional 10 de Investigación en Salud de Ayacucho 2025–2030**, aprobada por la Dirección Regional de Salud (DIRESA) de Ayacucho [1]: *“Organización, gestión, calidad y accesibilidad de los servicios de salud”*.
+* **Nivel Nacional (Perú):** En el contexto del país, la problemática local refleja las tensiones estructurales del sistema sanitario peruano, donde más del 78% de las consultas ambulatorias recaen en el primer nivel de atención (categorías I-1 a I-4). La Política Nacional de Calidad en Salud del Ministerio de Salud (MINSA) [2] reconoce que la persistencia de barreras de trato interpersonal, la prisa protocolar con consultas abreviadas de escasos minutos y la debilidad en la comunicación empática en lenguas originarias erosionan la confianza ciudadana y la adherencia a los tratamientos. Esta situación motivó al Estado peruano a priorizar la investigación en servicios sanitarios mediante la **Línea 10 de Investigación en Salud al 2030**: *“Sistemas y servicios de salud, acceso y cobertura universal”* (Resolución Ministerial N° 424-2025/MINSA) [3], con el fin de generar evidencia empírica directa para humanizar la atención asistencial.
+* **Nivel Mundial (Internacional o Global):** En el plano internacional, los organismos rectores como la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [4] advierten que los sistemas sanitarios del mundo atraviesan una severa crisis de deshumanización asistencial provocada por la sobrecarga burocrática y el predominio de un paradigma biomédico tecnicista. Este enfoque reduce el acto clínico a procedimientos mecánicos de producción asistencial, invisibilizando la dimensión afectiva, el respeto al pudor somático y los determinantes socioculturales de la salud, lo que demanda con urgencia reorientar los servicios hacia un cuidado centrado en la persona y culturalmente seguro.
 
 **2. Importancia y relevancia social del proyecto:**  
-El estudio aborda un problema crítico y sensible: la distancia existente entre la oferta de servicios programáticos y la vivencia sentida del usuario andino frente al sistema de salud. Al develar los significados, temores, expectativas y vivencias de los usuarios del Centro de Salud Belén, se genera conocimiento de primera fuente para corregir la desatención a la dignidad del paciente, visibilizando la carga emocional y física que soportan las madres de familia en CRED, las gestantes y los adultos mayores durante las horas de espera en las filas de la madrugada.
+El estudio aborda un problema crítico de alta sensibilidad humana: la brecha latente entre los lineamientos institucionales y la vivencia sentida del usuario andino frente al cuidado de salud. Al develar los significados, frustraciones, silencios y experiencias de sosiego de las madres de familia en CRED, gestantes y personas adultas mayores del Centro de Salud Belén, se genera conocimiento de primera fuente para visibilizar la urgencia de una atención digna. Los beneficiarios directos serán los usuarios de la zona de Belén, quienes contarán con una vía científica para expresar sus demandas de respeto y buen trato; asimismo, los hallazgos beneficiarán al equipo de gestión del establecimiento, a la Red de Salud Huamanga y al colectivo profesional de enfermería.
 
-**3. Finalidad e impacto práctico:**  
-La investigación tiene una clara orientación transformadora: sus hallazgos permitirán a la jefatura del Centro de Salud Belén, a la Dirección de la Red de Salud Huamanga y al colectivo profesional de enfermería diseñar planes de mejora continua, protocolos de acogida y triaje humanizado con pertinencia lingüística intercultural (en quechua y español), y estrategias para desarticular los cuellos de botella en el otorgamiento de citas y entrega de medicamentos.
+**3. Finalidad o valor práctico:**  
+A partir de sus objetivos, la investigación busca aportar evidencia empírica cualitativa para responder al problema de la despersonalización del acto de cuidado. Sus resultados permitirán proponer pautas concretas de mejora a las autoridades sanitarias competentes: el diseño de protocolos de acogida clínica humanizada con pertinencia lingüística en quechua chanka, la reorganización del tiempo de consulta para asegurar una escucha atenta y el fortalecimiento de la empatía en la relación enfermera-paciente en el Centro de Salud Belén.
 
 **4. Valor teórico y tipología de la investigación:**  
-Conforme a la tipología metodológica de la investigación científica, el presente trabajo se clasifica como una **investigación básica o sustantiva**, con **nivel descriptivo-interpretativo** y un riguroso **diseño cualitativo fenomenológico** [5, 6]. Siguiendo las directrices metodológicas de Roberto Hernández-Sampieri y Christian Mendoza [5], así como los fundamentos epistemológicos de Edmund Husserl [7], Max van Manen [8] y John Creswell [6], el propósito central del estudio no es construir modelos teóricos abstractos desvinculados (como en la teoría fundamentada) ni narrar secuencias cronológicas biográficas (como en los diseños narrativos), sino explorar, describir y comprender la *esencia de las experiencias compartidas* (*vivencias*) de los usuarios frente al fenómeno del acceso y la calidad asistencial en el Centro de Salud Belén. Dicho abordaje aprehende la vivencia en sus cuatro dimensiones existenciales fundamentales: temporalidad (tiempo vivido en la espera y la madrugada), espacialidad (espacio vivido en salas y consultorios), corporalidad (cuerpo vivido, dolor, frío y fatiga física) y relacionalidad (encuentro intersubjetivo, empatía y comunicación en quechua chanka). Su valor teórico radica en articular dialógicamente los modelos de Calidad en Salud de Avedis Donabedian [9, 10], la Teoría del Acceso de Roy Penchansky [11] y la Teoría del Cuidado Humano de Jean Watson [12] con la cosmovisión andina de Huamanga.
+Conforme a la tipología metodológica de la investigación científica, el estudio se clasifica como una **investigación básica o sustantiva**, con **nivel descriptivo-interpretativo** y un riguroso **diseño cualitativo fenomenológico** [5, 6]. Siguiendo las directrices epistemológicas de Edmund Husserl [7], Max van Manen [8] y Roberto Hernández-Sampieri [5], el proyecto llena un vacío crítico de conocimiento al contrastar la base teórica existente con la vivencia del poblador andino. Para ello, articula dialógicamente el modelo del **Proceso Interpersonal de Calidad en Salud de Avedis Donabedian** [9, 10] y la **Teoría del Cuidado Humano de Jean Watson** [11] con los cuatro existenciales universales del *Lebenswelt*: relacionalidad (el encuentro humano y diálogo en quechua), temporalidad (tiempo y calma de la consulta), espacialidad (privacidad del consultorio) y corporalidad (respeto al pudor físico y alivio del dolor *nanay*).
 
 **5. Valor metodológico:**  
-En el ámbito metodológico, el proyecto aporta una guía de entrevista en profundidad y una matriz de categorización temática cualitativa validadas por juicio de expertos y ajustadas a los criterios de rigor científico de Guba y Lincoln [13]: credibilidad, transferibilidad, consistencia y confirmabilidad. Asimismo, aplica la técnica de triangulación metodológica y de actores [14], sentando un precedente técnico replicable para futuros estudios en la Facultad de Ciencias de la Salud de la UNSCH.
+En el ámbito metodológico, el proyecto aporta una guía de entrevista fenomenológica en profundidad semiestructurada bilingüe y una matriz de categorización temática cualitativa, centradas exclusivamente en la calidad del cuidado. Estos instrumentos y procedimientos se ajustan a los cuatro criterios de rigor cualitativo establecidos por Guba y Lincoln [12]: credibilidad, transferibilidad, consistencia y confirmabilidad, complementados con la técnica de triangulación múltiple de métodos y fuentes de información [13].
 
 **6. Justificación institucional y bioética:**  
-El protocolo cumple con los estándares epistemológicos promovidos por la cátedra de EN 486 (fundamentados en la concepción científica y rigurosa de Mario Bunge [15]), respetando de forma irrestricta las normas bioéticas de la Declaración de Helsinki [16] y las pautas internacionales del CIOMS [17], garantizando la autonomía mediante el consentimiento informado y el estricto anonimato de los participantes.
+El protocolo cumple los estándares científicos de la cátedra de EN 486 (fundamentados en el rigor epistemológico de Mario Bunge [14]), respetando de forma irrestricta las normas bioéticas internacionales de la Declaración de Helsinki [15] y las pautas éticas del CIOMS [16], garantizando el consentimiento informado voluntario, la confidencialidad, el anonimato mediante códigos alfanuméricos y la no maleficencia para con los participantes.
 
 ---
 
 ## CAPÍTULO I: EL PROBLEMA DE INVESTIGACIÓN
 
-### 1.1. Descripción de la Realidad Problemática
-En el marco epistemológico de la investigación cualitativa, tal como sostienen Hernández-Sampieri y Mendoza [5], el planteamiento del problema adopta una **naturaleza puramente inductiva y fenomenológica**: no parte del aislamiento artificial de variables cuantitativas ni del contraste de hipótesis numéricas preconcebidas, sino de la inmersión vivencial directa en el ambiente natural donde acontecen los fenómenos humanos. Plantear y delimitar un problema cualitativo fenomenológico constituye un proceso reflexivo, dinámico y abierto orientado a capturar la esencia, las emociones, los sentires corpóreos y los significados intersubjetivos que las personas otorgan a sus vivencias en el momento del acto asistencial, siguiendo los fundamentos de Husserl [7] y van Manen [8].
+### 1.1. Contextualización del Problema de Investigación
+En el marco epistemológico de la investigación cualitativa y la guía oficial para formular proyectos con enfoque cualitativo de la Escuela Profesional de Enfermería (UNSCH), el planteamiento del problema adopta una **naturaleza puramente inductiva y fenomenológica**: no parte del aislamiento artificial de variables numéricas ni del contraste de hipótesis cerradas, sino del sentir, pensar y reflexionar sobre la trayectoria vivencial en el escenario natural donde acontece el encuentro del cuidado humano [5]. Como señalan Husserl [7] y van Manen [8], contextualizar un problema fenomenológico exige capturar la esencia, las emociones, los sentires corpóreos y los significados intersubjetivos que las personas otorgan a la calidad del cuidado recibido en el momento del acto asistencial.
 
-Para tal fin, la metodología demanda un **contacto directo y vivencial con la realidad estudiada en su escenario cotidiano**. En el presente estudio, el origen de la indagación se sustenta en la observación reflexiva y la experiencia acumulada por la investigadora durante sus prácticas preprofesionales de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) en los consultorios del Centro de Salud Belén.
+Para tal fin, la metodología demanda un **contacto directo y vivencial con la realidad estudiada en su escenario cotidiano**. En el presente estudio, el origen de la indagación se sustenta en la observación reflexiva y la experiencia acumulada por la investigadora durante sus prácticas preprofesionales de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) en los consultorios del Centro de Salud Belén, dialogando con los usuarios dolientes y presenciando sus incertidumbres y sentires.
 
-En estricta observancia del canon metodológico de la cátedra de EN 486 (Dr. Manglio Aguirre Andrade), la caracterización de la realidad problemática se articula mediante la técnica del embudo en tres niveles de profundidad:
+En estricta observancia del canon metodológico del Dr. Manglio Aguirre Andrade y el protocolo cualitativo de referencia, la contextualización del problema de calidad de atención se articula a través del **recorrido inverso**, partiendo del ámbito específico hacia el general:
 
-#### Contexto Internacional (Macro)
-A escala mundial, los sistemas de salud enfrentan una crisis estructural caracterizada por la fragmentación asistencial y la despersonalización del acto de cuidado, según lo advertido por la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [1]. El predominio de un paradigma biomédico tecnicista y la sobrecarga burocrática en el primer nivel de atención han reducido la evaluación de los servicios a meros indicadores de rendimiento cuantitativo, invisibilizando la vivencia afectiva del paciente, el sufrimiento somático de la espera y los determinantes socioculturales de la salud. De acuerdo con Donabedian [9, 10] y Watson [12], la calidad del cuidado no reside únicamente en la corrección instrumental del procedimiento terapéutico, sino medularmente en el proceso interpersonal: la calidez de la mirada, la capacidad de escucha, el respeto a la dignidad y la reciprocidad humanizada entre el profesional y el ser cuidado.
+#### 1. Ámbito Local (Centro de Salud Belén, Ayacucho)
+En el plano local, el estudio se centra de manera estricta y exclusiva en el Centro de Salud Belén (Categoría I-3, Microred Huamanga), establecimiento cabecera que atiende a una población adscrita de 18,450 habitantes en el distrito de Ayacucho, provincia de Huamanga, a 2,760 metros sobre el nivel del mar. La investigación se focaliza exclusivamente en la dinámica asistencial de Belén, en vinculación directa con la **Prioridad Regional 10 de Investigación en Salud de Ayacucho 2025–2030**, aprobada por la Dirección Regional de Salud (DIRESA) de Ayacucho [1]: *“Organización, gestión, calidad y accesibilidad de los servicios de salud”*.
 
-#### Contexto Nacional (Meso)
-En el Perú, la Política Nacional de Calidad en Salud del Ministerio de Salud [2] reconoce que la persistencia de barreras de acceso geográficas, organizacionales, económicas y culturales debilita gravemente la capacidad resolutiva del primer nivel asistencial (categorías I-1 a I-4), donde recae más del 78% de las atenciones asistenciales del país. A pesar de los esfuerzos normativos, persisten cuellos de botella crónicos: colas en la madrugada para conseguir un cupo, desabastecimiento de medicamentos esenciales del petitorio oficial y una marcada frialdad comunicativa en el trato al usuario. Esta brecha motivó al Estado peruano a priorizar la investigación en salud a través de la **Línea 10 de Investigación en Salud al 2030**: *“Sistemas y servicios de salud, acceso y cobertura universal”* (Resolución Ministerial N° 424-2025/MINSA) [3], orientada a generar evidencia empírica directa para dignificar la atención y garantizar la cobertura sanitaria universal.
+En este escenario aflora una profunda distancia entre las normas programáticas institucionales y la vivencia sentida del usuario andino frente a la calidad del cuidado:
+* **Vulnerabilidad socioeconómica y necesidad de contención afectiva:** El 68.2% de la población usuaria se encuentra en situación de pobreza según el SISFOH y más del 94.5% depende del Seguro Integral de Salud (SIS). Para estas familias, acudir a los consultorios de Belén representa un momento de vulnerabilidad extrema donde demandan no solo una prescripción médica o un procedimiento de enfermería, sino contención afectiva y comprensión empática frente a su precaria situación de vida.
+* **Identidad lingüística y códigos andinos de calidad:** El 72.0% de los usuarios presenta bilingüismo activo quechua chanka-castellano. Para esta población, la calidad de la atención no se concibe como un trámite administrativo frío, sino como un acto de reciprocidad y respeto que exige la acogida hospitalaria (*allin chaskiy*), el saludo cálido (*napaykuy*) y el respeto mutuo (*respetanakuy*), conforme a los hallazgos de Aguirre-Andrade y colaboradores [17].
+* **La vivencia de la desatención y la prisa protocolar:** Cuando el personal sanitario —condicionado por la sobrecarga laboral o la digitación continua en el computador— no establece contacto visual, interrumpe el relato del paciente o muestra indiferencia ante el dolor físico (*nanay*), el usuario experimenta una profunda insatisfacción afectiva y desamparo, replegándose en el silencio defensivo (*upallay*). Asimismo, las consultas abreviadas de escasos minutos dejan en las madres de familia en CRED y en las personas adultas mayores dudas e incertidumbres no resueltas.
 
-#### Contexto Regional y Local (Micro: Centro de Salud Belén)
-En el ámbito regional, el estudio se articula de forma vinculante con la **Prioridad 10 de Investigación en Salud de Ayacucho 2025–2030**, aprobada por la Dirección Regional de Salud de Ayacucho [4]: *“Organización, gestión, calidad y accesibilidad de los servicios de salud”*. En este marco, el Centro de Salud Belén (Categoría I-3, Microred Huamanga) representa un punto neurálgico asistencial que atiende a una población adscrita de 18,450 habitantes en el distrito de Ayacucho, a 2,760 metros sobre el nivel del mar.
+#### 2. Ámbito Nacional (Perú)
+En el ámbito nacional, la realidad observada en Belén refleja los nudos críticos del primer nivel de atención en el Perú (categorías I-1 a I-4), donde se concentra más del 78% de las atenciones asistenciales de todo el país. La Política Nacional de Calidad en Salud del Ministerio de Salud [2] reconoce que la persistencia de barreras de trato interpersonal, frialdad burocrática y falta de pertinencia cultural debilita gravemente la capacidad resolutiva del sistema público. Esta situación motivó al Estado peruano a priorizar la investigación en servicios sanitarios a través de la **Línea 10 de Investigación en Salud al 2030**: *“Sistemas y servicios de salud, acceso y cobertura universal”* (Resolución Ministerial N° 424-2025/MINSA) [3], buscando dignificar la atención sanitaria en todos los establecimientos de atención primaria de la nación.
 
-En este establecimiento aflora una dramática distancia entre la lógica asistencial programática y la vivencia sentida del usuario andino:
-* **Vulnerabilidad socioeconómica:** El 68.2% de la población usuaria se encuentra en situación de pobreza o extrema pobreza según el SISFOH, y más del 94.5% depende del Seguro Integral de Salud (SIS) en su modalidad subsidiada.
-* **Identidad lingüística y cultural:** El 72.0% de los usuarios presenta bilingüismo activo quechua chanka-castellano. Para esta población, la salud se vivencia a través de códigos ancestrales de afecto y reciprocidad comunitaria: la acogida hospitalaria (*allin chaskiy*), el saludo cálido y respetuoso (*napaykuy*) y el respeto mutuo (*respetanakuy*), conforme a los hallazgos de Aguirre-Andrade y colaboradores [18].
-* **La experiencia de la desatención:** Cuando los profesionales —condicionados por la prisa protocolar, la sobrecarga laboral o el monolingüismo hispanohablante— omiten el saludo, evitan el contacto visual o se muestran indiferentes ante el dolor (*nanay*), el usuario experimenta sensaciones de desamparo, intimidación y violencia simbólica, replegándose en el silencio defensivo (*upallay*). Asimismo, las madrugadas gélidas a la intemperie (5 °C a 8 °C) desde las 4:00 AM para obtener un cupo generan agotamiento somático y menoscabo de la dignidad de las madres gestantes y adultos mayores.
+#### 3. Ámbito Mundial (Internacional o Global)
+A escala mundial, los sistemas de salud enfrentan una severa crisis de deshumanización asistencial caracterizada por la tecnificación desmedida del acto clínico y la sobrecarga burocrática en el primer nivel de atención, según lo advertido por la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [4]. El predominio de un paradigma biomédico mecanicista ha reducido la evaluación de los servicios a meros indicadores cuantitativos de producción, invisibilizando la vivencia afectiva del paciente, el sufrimiento somático y los determinantes socioculturales de la salud. De acuerdo con Avedis Donabedian [9, 10] y Jean Watson [11], la calidad del cuidado no reside únicamente en la pericia instrumental de un procedimiento, sino medularmente en el proceso interpersonal: la calidez de la mirada, la capacidad de escucha compasiva, el respeto a la dignidad y la reciprocidad humanizada entre el profesional de salud y el ser cuidado.
 
-El problema medular de investigación radica, por consiguiente, en develar y comprender cómo los propios usuarios perciben, vivencian y significan la calidad de atención y el acceso asistencial en el Centro de Salud Belén desde la profundidad de su mundo de la vida.
+El problema medular y objeto de estudio de la investigación radica, por consiguiente, en develar y comprender cómo los usuarios significan, valoran y experimentan la calidad de atención y el cuidado de enfermería en los consultorios del Centro de Salud Belén desde la profundidad de su mundo de la vida (*Lebenswelt*).
 
 ---
 
@@ -147,7 +145,7 @@ El problema medular de investigación radica, por consiguiente, en develar y com
 En coherencia con los preceptos del diseño fenomenológico articulados por Hernández-Sampieri y Mendoza [5] y el principio de inmutabilidad del entorno sellado, se formulan las preguntas norteadoras de la investigación:
 
 #### Problema General (Pregunta Principal)
-¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026?
+¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno de la calidad de atención y el cuidado humano en los servicios de salud del Centro de Salud Belén, Ayacucho 2026?
 
 #### Problemas Específicos (Preguntas Específicas)
 1. ¿Cómo vivencian los usuarios la **dimensión temporal (tiempo vivido / *Lebenszeit*)** en las filas de madrugada (4:00 AM) y las horas transcurridas en sala de espera antes de ser atendidos?
@@ -162,14 +160,14 @@ En coherencia con los preceptos del diseño fenomenológico articulados por Hern
 Guardando estricta simetría lógica biunívoca (1:1) con las preguntas norteadoras y empleando verbos en infinitivo propios de la indagación cualitativa comprensiva, se establecen los siguientes objetivos:
 
 #### Objetivo General
-Explorar, comprender y describir el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al acceso y calidad de atención en el Centro de Salud Belén, Ayacucho 2026.
+Explorar, comprender y describir el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al calidad de atención y cuidado humano en el Centro de Salud Belén, Ayacucho 2026.
 
 #### Objetivos Específicos
 1. Explorar y comprender las vivencias de los usuarios respecto a la **dimensión temporal (tiempo vivido)** en las filas matutinas de madrugada y el tiempo de espera en el establecimiento.
 2. Describir y comprender la experiencia de los usuarios respecto a la **dimensión espacial (espacio vivido)** en cuanto al confort, hacinamiento y privacidad de los ambientes asistenciales.
 3. Identificar y comprender las vivencias somáticas de la **dimensión corporal (cuerpo vivido)**, analizando la resistencia al frío matutino, fatiga, hambre y dolor del paciente.
 4. Comprender y analizar la experiencia de la **dimensión relacional (relación humana vivida)** en el encuentro asistencial, focalizando la empatía, trato digno y diálogo en lengua quechua.
-5. Sintetizar la **estructura esencial y las divergencias fenomenológicas** que configuran la percepción de una atención digna y de calidad en el Centro de Salud Belén.
+5. Sintetizar la **estructura esencial y las divergencias fenomenológicas** que configuran una atención digna y de calidad en el Centro de Salud Belén.
 
 ---
 
@@ -177,7 +175,7 @@ Explorar, comprender y describir el significado, estructura y esencia de la expe
 En el paradigma cualitativo fenomenológico, en concordancia con Hernández-Sampieri y Mendoza [5] y van Manen [8], la investigación no formula hipótesis cuantitativas para contrastación estadística paramétrica. En su lugar, se establecen **supuestos fenomenológicos inductivos**, los cuales constituyen proposiciones teóricas preliminares que orientan la mirada de la investigadora sin prejuzgar ni constreñir las vivencias que emergerán de los informantes durante la reducción fenomenológica (*epojé*):
 
 #### Supuesto General
-La percepción de la calidad de atención y el acceso constituye para el usuario del Centro de Salud Belén una vivencia intersubjetiva profunda donde la calidez humana, el reconocimiento de su dignidad andina, la comunicación empática en lengua originaria y la oportunidad resolutiva del padecimiento prevalecen sobre la mera dimensión instrumental o protocolar del acto asistencial.
+La calidad de atención de salud constituye para el usuario del Centro de Salud Belén una vivencia intersubjetiva profunda donde la calidez humana, el reconocimiento de su dignidad andina, la comunicación empática en lengua originaria y la oportunidad resolutiva del padecimiento prevalecen sobre la mera dimensión instrumental o protocolar del acto asistencial.
 
 #### Supuestos Específicos del Mundo de la Vida (*Lebenswelt*)
 1. **Supuesto sobre la Temporalidad:** La prolongada espera a la intemperie y la incertidumbre en la obtención de cupos genera en el usuario una vivencia de desvalorización de su tiempo vital y angustia existencial, transformando el acceso en una experiencia de sacrificio físico.
@@ -192,7 +190,7 @@ La percepción de la calidad de atención y el acceso constituye para el usuario
 Conforme a las directrices epistemológicas de la cátedra de EN 486 (UNSCH), fundamentadas en la concepción científica y rigurosa de Mario Bunge [15], y los criterios de relevancia de Hernández-Sampieri y Mendoza [5], el proyecto se sustenta en cuatro dimensiones justificatorias:
 
 #### Justificación Teórica
-El estudio llena un vacío epistémico crítico en la literatura regional sobre calidad de atención en salud pública. Tradicionalmente, la evaluación de servicios se ha sustentado en modelos estandarizados cuantitativos (como SERVQUAL) [19, 20] que reducen la satisfacción a medias aritméticas, omitiendo las complejidades subjetivas y la cosmovisión del habitante andino. Esta investigación articula dialógicamente el Enfoque de Calidad en Salud de Donabedian [9, 10], la Teoría del Acceso de Penchansky [11] y la Teoría del Cuidado Humano de Watson [12] con las cuatro dimensiones existenciales de van Manen [8], construyendo un marco comprensivo pionero con pertinencia cultural andina en la UNSCH.
+El estudio llena un vacío epistémico crítico en la literatura regional sobre calidad de atención en salud pública. Tradicionalmente, la evaluación de servicios se ha sustentado en modelos estandarizados cuantitativos (como SERVQUAL) [19, 20] que reducen la satisfacción a medias aritméticas, omitiendo las complejidades subjetivas y la cosmovisión del habitante andino. Esta investigación articula dialógicamente el Enfoque de Calidad en Salud de Donabedian [9, 10], la Teoría del Cuidado Humano de Watson [11] y la Teoría del Cuidado Humano de Watson [12] con las cuatro dimensiones existenciales de van Manen [8], construyendo un marco comprensivo pionero con pertinencia cultural andina en la UNSCH.
 
 #### Justificación Práctica
 La investigación responde a una necesidad institucional urgente. Al desentrañar los nudos críticos del acceso y el trato humano desde el relato directo de los usuarios, los hallazgos aportarán insumos concretos para que la Jefatura del Centro de Salud Belén y la Dirección de la Red de Salud Huamanga rediseñen el flujo de admisión matutina, erradiquen las filas a la intemperie en la madrugada y elaboren protocolos de triaje y acogida intercultural con pertinencia lingüística en quechua chanka.
@@ -209,13 +207,13 @@ El proyecto encarna un imperativo ético de equidad en salud. Visibiliza el sufr
 Para preservar las fronteras del entorno de investigación y garantizar el aislamiento metodológico, se declaran formalmente las delimitaciones del alcance y las limitaciones del estudio:
 
 #### Delimitación Espacial y Territorial
-La investigación se circunscribe de forma estricta a los ambientes físicos del Centro de Salud Belén (Categoría I-3), abarcando la vereda exterior de espera matutina, las salas interiores de espera y los consultorios asistenciales de Medicina General, Enfermería (CRED, Inmunizaciones), Obstetricia y Odontología, ubicado en el distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a 2,760 msnm.
+La investigación se circunscribe de forma estricta a los ambientes del Centro de Salud Belén (Categoría I-3), abarcando las salas de espera y los consultorios asistenciales de Medicina General, Enfermería (CRED, Inmunizaciones), Obstetricia y Odontología, ubicado en el distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a 2,760 msnm.
 
 #### Delimitación Temporal
 El horizonte temporal de recolección y análisis vivencial corresponde al año fiscal y académico 2026.
 
 #### Delimitación Teórica y Epistemológica
-El marco teórico se limita de manera exclusiva a los modelos de Calidad Asistencial de Donabedian [9], la Teoría de Acceso de Penchansky [11], la Teoría del Cuidado Humano de Watson [12] y la fenomenología hermenéutica de Husserl [7] y van Manen [8]. Todo constructo positivista ajeno a estas fronteras queda excluido.
+El marco teórico se limita de manera exclusiva al modelo del Proceso Interpersonal de Calidad Asistencial de Donabedian [9, 10], la Teoría del Cuidado Humano de Watson [11] y la fenomenología hermenéutica de Husserl [7] y van Manen [8]. Todo constructo positivista ajeno a estas fronteras queda excluido.
 
 #### Delimitación Conceptual y Temática
 El fenómeno se investiga a través del prisma exclusivo de las cuatro dimensiones existenciales del mundo de la vida (*Lebenswelt*): Temporalidad (*Lebenszeit*), Espacialidad (*Lebensraum*), Corporalidad (*Leib*) y Relacionalidad (*Mitwelt*), más la síntesis estructural esencial.
@@ -245,7 +243,7 @@ El estudio se rige bajo los principios de la Declaración de Helsinki [16], las 
 
 ## CAPÍTULO II: MARCO CONTEXTUAL
 
-En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del *ambiente natural* donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado [5, 6]. Para comprender la esencia de la experiencia vivida (*Lebenswelt*) de los usuarios respecto al acceso y la calidad de atención en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas [8, 4].
+En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del *ambiente natural* donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado [5, 6]. Para comprender la esencia de la experiencia vivida (*Lebenswelt*) de los usuarios respecto a la calidad de atención y el cuidado humano en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas [8, 4].
 
 ### 2.1. Descripción geográfica, territorial y ambiental del área de estudio
 La investigación se sitúa en el Centro de Salud Belén, establecimiento sanitario cabecera perteneciente a la Microred Huamanga de la Red de Salud Huamanga, adscrito a la Dirección Regional de Salud (DIRESA) de Ayacucho. El establecimiento se localiza en el emblemático e histórico barrio de Belén, en el sector céntrico-sur del distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a una altitud oficial de 2,760 metros sobre el nivel del mar. Sus coordenadas geográficas de emplazamiento corresponden a los 13°09'47'' de Latitud Sur y 74°13'28'' de Longitud Oeste.
@@ -536,60 +534,64 @@ Asimismo, tal como enfatizó el docente en la cátedra de EN 486, la planificaci
 
 ## REFERENCIAS BIBLIOGRÁFICAS (Normas Vancouver)
 
-1. World Health Organization, OECD, The World Bank. Delivering quality health services: a global imperative for universal health coverage. Geneva: World Health Organization; 2018.
-2. Ministerio de Salud del Perú. Política Nacional de Calidad en Salud: Documento Técnico. Lima: MINSA; 2021.
-3. Ministerio de Salud del Perú. Líneas de Investigación en Salud al 2030: Resolución Ministerial N° 424-2025/MINSA. Lima: MINSA; 2025.
-4. Dirección Regional de Salud de Ayacucho. Prioridades Regionales de Investigación en Salud de Ayacucho 2025–2030. Ayacucho: DIRESA Ayacucho; 2025.
-5. Hernández-Sampieri R, Mendoza CP. Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. Ciudad de México: McGraw-Hill; 2018.
-6. Creswell JW. Qualitative inquiry and research design: Choosing among five approaches. 3rd ed. Thousand Oaks (CA): SAGE Publications; 2013.
-7. Husserl E. Ideas relativas a una fenomenología pura y una filosofía fenomenológica. Gaos J, traductor. México D.F.: Fondo de Cultura Económica; 1949.
-8. van Manen M. Researching lived experience: Human science for an action sensitive pedagogy. Albany (NY): State University of New York Press; 1990.
-9. Donabedian A. Explorations in Quality Assessment and Monitoring. Vol. 1: The Definition of Quality and Approaches to its Assessment. Ann Arbor (MI): Health Administration Press; 1980.
-10. Donabedian A. Evaluating the quality of medical care. 1966. Milbank Q. 2005;83(4):691-729.
-11. Penchansky R, Thomas JW. The concept of access: definition and relationship to consumer satisfaction. Med Care. 1981;19(2):127-40.
-12. Watson J. Nursing: The philosophy and science of caring. 2nd ed. Boulder: University Press of Colorado; 2008.
-13. Lincoln YS, Guba EG. Naturalistic Inquiry. Beverly Hills (CA): SAGE Publications; 1985.
-14. Okuda Benavides M, Gómez-Restrepo C. Métodos en investigación cualitativa: triangulación. Rev Colomb Psiquiatr. 2005;34(1):118-24.
-15. Bunge M. La ciencia, su método y su filosofía. Buenos Aires: Editorial Sudamericana; 2014.
-16. Asociación Médica Mundial. Declaración de Helsinki de la AMM: Principios éticos para las investigaciones médicas en seres humanos. Ferney-Voltaire: WMA; 2013.
-17. Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS). Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos. Ginebra: CIOMS; 2016.
-18. Aguirre-Andrade M, Tenorio-Acosta I, Rivas-Díaz L, Valenzuela-Oré F, Sánchez-Simbrón M, Quino-Huamaní F. Promoción de salud y nivel de salubridad de las familias, en comunidades del Distrito de Cangallo, Ayacucho 2020. Rev Investig Salud. 2020;14(2):45-58.
-19. Parasuraman A, Zeithaml VA, Berry LL. SERVQUAL: A multiple-item scale for measuring consumer perceptions of service quality. J Retailing. 1988;64(1):12-40.
-20. Ministerio de Salud del Perú. Guía técnica para la evaluación de la satisfacción del usuario externo en los establecimientos de salud y servicios médicos de apoyo: Resolución Ministerial N° 527-2011/MINSA. Lima: MINSA; 2011.
+1. Dirección Regional de Salud de Ayacucho. Prioridades Regionales de Investigación en Salud de Ayacucho 2025–2030. Ayacucho: DIRESA Ayacucho; 2025. [Disponible en: https://repositorio.ins.gob.pe/](https://repositorio.ins.gob.pe/)
+2. Ministerio de Salud del Perú. Sistema de Gestión de la Calidad en Salud: Documento Técnico. Resolución Ministerial N° 519-2006/MINSA. Lima: MINSA; 2006. [Disponible en: https://www.gob.pe/institucion/minsa/normas-legales/255018-519-2006-minsa](https://www.gob.pe/institucion/minsa/normas-legales/255018-519-2006-minsa)
+3. Ministerio de Salud del Perú. Líneas Nacionales de Investigación en Salud al 2030. Resolución Ministerial N° 424-2025/MINSA. Lima: MINSA / Instituto Nacional de Salud; 2025. [Disponible en: https://www.gob.pe/institucion/minsa/normas-legales](https://www.gob.pe/institucion/minsa/normas-legales)
+4. World Health Organization, OECD, The World Bank. Delivering quality health services: a global imperative for universal health coverage. Geneva: World Health Organization; 2018. [Disponible en: https://iris.who.int/handle/10665/272465](https://iris.who.int/handle/10665/272465)
+5. Hernández-Sampieri R, Mendoza CP. Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. Ciudad de México: McGraw-Hill Interamericana Editores; 2018. [Disponible en: https://isbnsearch.org/isbn/9781456260965](https://isbnsearch.org/isbn/9781456260965)
+6. Creswell JW. Qualitative inquiry and research design: Choosing among five approaches. 3rd ed. Thousand Oaks (CA): SAGE Publications; 2013. [Disponible en: https://isbnsearch.org/isbn/9781412995306](https://isbnsearch.org/isbn/9781412995306)
+7. Husserl E. Ideas relativas a una fenomenología pura y una filosofía fenomenológica. Gaos J, traductor. México D.F.: Fondo de Cultura Económica; 1949. [Disponible en: https://dialnet.unirioja.es/servlet/libro?codigo=224213](https://dialnet.unirioja.es/servlet/libro?codigo=224213)
+8. van Manen M. Researching lived experience: Human science for an action sensitive pedagogy. Albany (NY): State University of New York Press / Routledge; 1990. [doi: 10.4324/9781315421056](https://doi.org/10.4324/9781315421056)
+9. Donabedian A. Explorations in Quality Assessment and Monitoring. Vol. 1: The Definition of Quality and Approaches to its Assessment. Ann Arbor (MI): Health Administration Press; 1980. [Disponible en: https://pubmed.ncbi.nlm.nih.gov/7409848/](https://pubmed.ncbi.nlm.nih.gov/7409848/)
+10. Donabedian A. Evaluating the quality of medical care. 1966. Milbank Q. 2005;83(4):691-729. [doi: 10.1111/j.1468-0009.2005.00397.x](https://doi.org/10.1111/j.1468-0009.2005.00397.x) | [PMC: https://pmc.ncbi.nlm.nih.gov/articles/PMC1464018/](https://pmc.ncbi.nlm.nih.gov/articles/PMC1464018/)
+11. Watson J. Nursing: The philosophy and science of caring. Revised ed. Boulder (CO): University Press of Colorado; 2008. [Disponible en: https://archive.org/details/nursingphilosoph0000wats](https://archive.org/details/nursingphilosoph0000wats)
+12. Lincoln YS, Guba EG. Naturalistic Inquiry. Beverly Hills (CA): SAGE Publications; 1985. [Disponible en: https://www.sagepub.com/shop/buy-a-book/naturalistic-inquiry-1-842](https://www.sagepub.com/shop/buy-a-book/naturalistic-inquiry-1-842)
+13. Okuda Benavides M, Gómez-Restrepo C. Métodos en investigación cualitativa: triangulación. Rev Colomb Psiquiatr. 2005;34(1):118-24. [Disponible en: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0034-74502005000100008](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0034-74502005000100008)
+14. Bunge M. La ciencia, su método y su filosofía. Buenos Aires: Editorial Sudamericana / Penguin Random House; 2014. [Disponible en: https://books.google.com.pe/books/about/La_ciencia_su_m%C3%A9todo_y_su_filosof%C3%ADa.html?id=lq8rDwAAQBAJ](https://books.google.com.pe/books/about/La_ciencia_su_m%C3%A9todo_y_su_filosof%C3%ADa.html?id=lq8rDwAAQBAJ&redir_esc=y)
+15. Asociación Médica Mundial. Declaración de Helsinki de la AMM: Principios éticos para las investigaciones médicas en seres humanos. Fortaleza (Brasil): AMM; 2013. [Disponible en: https://www.wma.net/es/policies-post/declaracion-de-helsinki-de-la-amm-principios-eticos-para-las-investigaciones-medicas-en-seres-humanos/](https://www.wma.net/es/policies-post/declaracion-de-helsinki-de-la-amm-principios-eticos-para-las-investigaciones-medicas-en-seres-humanos/)
+16. Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS). Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos. 4ta ed. Ginebra: CIOMS / OPS; 2016. [Disponible en: https://cioms.ch/publications/product/pautas-eticas-internacionales-para-la-investigacion-relacionada-con-la-salud-con-seres-humanos/](https://cioms.ch/publications/product/pautas-eticas-internacionales-para-la-investigacion-relacionada-con-la-salud-con-seres-humanos/)
+17. Aguirre-Andrade M, Tenorio-Acosta I, Rivas-Díaz L, Valenzuela-Oré F, Sánchez-Simbrón M, Quino-Huamaní F. Promoción de salud y nivel de salubridad de las familias, en comunidades del Distrito de Cangallo, Ayacucho 2020. Rev Investig Salud. 2020;14(2):45-58. [Disponible en: http://repositorio.unsch.edu.pe/](http://repositorio.unsch.edu.pe/)
 
 ---
 
 ## ANEXOS
 
 ### ANEXO 1: GUÍA DE ENTREVISTA A PROFUNDIDAD FENOMENOLÓGICA SEMIESTRUCTURADA
-**Título:** Percepción de la calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.  
-**Objetivo:** Explorar, describir y comprender la esencia de la experiencia vivida (*vivencias*) por el usuario respecto al acceso y la calidad de atención en el Centro de Salud Belén.
+**Título:** Calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.  
+**Objetivo:** Explorar, describir y comprender la esencia de la experiencia vivida (*vivencias*) por el usuario respecto a la calidad de atención y el cuidado humano en el Centro de Salud Belén.
 
-**I. Preguntas de Apertura y Clima de Confianza (*Rapport*):**
-1. ¿Podría relatarme qué le motivó a acudir el día de hoy al Centro de Salud Belén?
-2. ¿Con qué frecuencia asiste a este establecimiento y qué servicios suele utilizar habitualmente?
+**I. Preguntas de Apertura y Clima de Confianza (*Rapport* y *Napaykuy*):**
+1. ¿Podría relatarme qué motivo de salud le motivó a acudir el día de hoy al Centro de Salud Belén y cómo se sentía anímicamente antes de ingresar al consultorio?  
+   *En quechua chanka:* ¿Imataq qamta sasachasunki mamay/taytay, imaynam sonqoyki kachkarqa doctorman manaraq yaykuchkaspayki?
+2. ¿Es la primera vez que se atiende en este establecimiento o suele venir frecuentemente a este servicio?  
+   *En quechua chanka:* ¿Qallariykutichu kay Centro de Saludpi atendichikunki, icha sapa kutichu hamunki?
 
 **II. Preguntas por Dimensiones Existenciales Fenomenológicas (van Manen y Sampieri):**
-* **Dimensión Existencial 1: Temporalidad (El tiempo vivido)**
-  3. ¿A qué hora tuvo que salir de su casa y a qué hora llegó al centro de salud para alcanzar su cupo? ¿Cómo vivió subjetivamente el transcurrir de las horas en la fila de la madrugada hasta salir del establecimiento?
-* **Dimensión Existencial 2: Espacialidad (El espacio vivido)**
-  4. ¿Cómo describe los espacios físicos por los que transitó (la acera en la madrugada, los pasillos, las bancas de espera y el consultorio)? ¿Sintió que el ambiente del consultorio le brindó intimidad y tranquilidad para dialogar?
-* **Dimensión Existencial 3: Corporalidad (El cuerpo vivido)**
-  5. Durante las horas de espera y en el momento de la consulta, ¿qué sensaciones físicas y somáticas experimentó su cuerpo (frío de la madrugada, cansancio por estar de pie, hambre, dolor de su dolencia o alivio al ser atendido)?
+* **Dimensión Existencial 1: Temporalidad (El tiempo vivido en la consulta)**
+  3. ¿Cómo experimentó usted el tiempo que el personal de salud (médico, enfermera) le dedicó en la consulta? ¿Sintió que la atención fue apresurada y con prisa, o que le brindaron el tiempo y la calma necesaria para escuchar sus dolencias y explicarle con claridad su tratamiento?  
+     *En quechua chanka:* ¿Imaynatam sientekurqanki doctor o enfermera atiendesunaykipaq tiempo qosusqaykiwan? ¿Utqayllachu qawasurqanki icha pacienciawanchu llapa tapukuyniykikunata uyarirqasunki hinaspa hampiytapas allinta willasurqanki?
+* **Dimensión Existencial 2: Espacialidad (El espacio vivido y privacidad en consultorio)**
+  4. ¿Cómo experimentó el ambiente del consultorio durante su atención? ¿Sintió que el espacio le brindó la debida privacidad, tranquilidad y reserva para conversar sobre sus problemas de salud y ser examinado(a) sin que personas ajenas observen o escuchen?  
+     *En quechua chanka:* ¿Imaynatam consultorio ukuta sienterqanki? ¿Chaypi hawka, chuya hinaspa secretollapichu sientekurqanki doctorwan onqoyniykimanta rimanaykipaq, mana pipas uyaripayasuspayki?
+* **Dimensión Existencial 3: Corporalidad (El cuerpo vivido durante el acto de cuidado)**
+  5. Al momento de ser examinado(a) físicamente o recibir una atención (curación, inyección, control de CRED o triaje), ¿cómo sintió que el personal de salud trató su cuerpo? ¿Sintió delicadeza, respeto a su pudor al descubrirse y comprensión compasiva ante su dolor o malestar físico (*nanay*)?  
+     *En quechua chanka:* ¿Doctorkuna o enfermerakuna cuerpoykita examinaptinku o hampiptinku, imaynam sientekurqanki? ¿Llampu makillawanchu, pinqakuyniykita respetaspachu hinaspa nanayniykita llakipayaspachu cuidarasunki?
 * **Dimensión Existencial 4: Relacionalidad (La relación humana vivida e intersubjetividad)**
-  6. ¿Cómo describe el encuentro humano con el médico, la enfermera o el personal de ventanilla? ¿Sintió calidez en la mirada, paciencia y escucha activa? ¿Le hablaron en quechua chanka cuando usted lo requirió?
-* **Dimensión 5: Síntesis y Esencia del Fenómeno (Significado holístico de la calidad)**
-  7. Al reflexionar sobre toda su vivencia, ¿qué significa para usted recibir una atención de auténtica calidad humana y qué recomendaría para dignificar la atención en el Centro de Salud Belén?
+  6. ¿Cómo fue el trato interpersonal y el encuentro humano con el personal de salud (médico, enfermera)? ¿Sintió un trato digno, acogedor y empático con contacto visual? ¿Le recibieron con un saludo cordial (*napaykuy*, *allin chaskiy*) y le hablaron con paciencia en su lengua originaria (quechua chanka)?  
+     *En quechua chanka:* ¿Imaynam runa kayninkuwan chaskisurqanki doctor o enfermera? ¿Allin napaykuywanchu, sumaq chaskiywanchu (*allin chaskiy*), kuyakuywanchu qawasurqanki? ¿Runasimipichu respetowan rimapayasurqanki?
+* **Dimensión 5: Síntesis de la Esencia de la Calidad y Cuidado Humano**
+  7. Al reflexionar sobre la atención recibida hoy, ¿qué significa para usted que un servicio de salud brinde auténtica calidad y calidez humana, y qué aspectos considera fundamentales para que el cuidado en el Centro de Salud Belén sea verdaderamente digno?  
+     *En quechua chanka:* ¿Tukuy kaykunata yuyarispa, imataq qampaq allin calidadwan kuyapayaywan hampikuyqa? ¿Imatataq doctorwan enfermera ruranman llapa runa sonqonpi allin atendisqa hinaspa respetasqa sientekunanpaq?
 
 ---
 
 ### ANEXO 2: MATRIZ DE CONSISTENCIA FENOMENOLÓGICA CUALITATIVA
-**TÍTULO:** PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026.
+**TÍTULO:** CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026.
 
 | PROBLEMA FENOMENOLÓGICO | OBJETIVOS DE INVESTIGACIÓN | PREGUNTAS NORTEADORAS | CATEGORÍAS VIVENCIALES | METODOLOGÍA FENOMENOLÓGICA |
 |---|---|---|---|---|
-| **General:**<br>¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en el Centro de Salud Belén, Ayacucho 2026? | **General:**<br>Comprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en el Centro de Salud Belén, Ayacucho 2026. | 1. Temporalidad (tiempo vivido en madrugadas y esperas).<br><br>2. Espacialidad (espacio vivido en salas y consultorios).<br><br>3. Corporalidad (cuerpo vivido, frío, dolor y fatiga).<br><br>4. Relacionalidad (encuentro humano, empatía y quechua).<br><br>5. Esencia compartida y visiones divergentes de calidad. | **Categoría Central:**<br>Vivencia y significado de la calidad de atención asistencial.<br><br>**Dimensiones Existenciales:**<br>• Temporalidad (Tiempo vivido)<br>• Espacialidad (Espacio vivido)<br>• Corporalidad (Cuerpo vivido)<br>• Relacionalidad (Relación humana)<br>• Esencia del Cuidado Humano | **Paradigma:** Interpretativo-naturalista.<br><br>**Enfoque:** Cualitativo.<br><br>**Diseño:** Fenomenológico empírico y hermenéutico (Husserl, van Manen, Sampieri).<br><br>**Muestra:** 12 a 18 informantes clave regulados por saturación teórica (Esbensen et al., 2008).<br><br>**Técnicas:** Entrevista fenomenológica en profundidad y observación reflexiva.<br><br>**Análisis:** Flujo de 7 pasos (Colaizzi / Sampieri) con ATLAS.ti v9. |
-| **Específicos:**<br>1. ¿Cómo vivencian la dimensión temporal?<br>2. ¿Cómo experimentan la dimensión espacial?<br>3. ¿Cuáles son los sentires de la dimensión corporal?<br>4. ¿Cómo perciben la dimensión relacional y el quechua?<br>5. ¿Cuál es la esencia y divergencias vivenciales? | **Específicos:**<br>1. Develar las vivencias de la dimensión temporal.<br>2. Describir la experiencia de la dimensión espacial.<br>3. Identificar los sentires de la dimensión corporal.<br>4. Caracterizar las vivencias de la dimensión relacional.<br>5. Sintetizar la esencia compartida y divergencias. | | | |
+| **General:**<br>¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto a la calidad de atención en el Centro de Salud Belén, Ayacucho 2026? | **General:**<br>Comprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto a la calidad de atención en el Centro de Salud Belén, Ayacucho 2026. | **Específicas:**<br>1. ¿Cómo experimentan el trato digno, empatía y quechua chanka?<br><br>2. ¿De qué manera vivencian la duración y calma en la consulta?<br><br>3. ¿Cómo vivencian la reserva y privacidad en el consultorio?<br><br>4. ¿Cómo vivencian el respeto a su pudor somático y dolor?<br><br>5. ¿Cuál es la esencia y visiones divergentes de la calidad? | **Categoría Central:**<br>Calidad de Atención de Salud (Donabedian y Watson).<br><br>**Existenciales del Lebenswelt:**<br>• D1: Relacionalidad (*Mitwelt*)<br>• D2: Temporalidad (*Lebenszeit*)<br>• D3: Espacialidad (*Lebensraum*)<br>• D4: Corporalidad (*Leib*)<br>• D5: Esencia y Divergencias | **Paradigma:** Interpretativo-naturalista.<br><br>**Enfoque:** Cualitativo.<br><br>**Diseño:** Fenomenológico empírico y hermenéutico (Husserl, van Manen, Sampieri).<br><br>**Muestra:** 12 a 18 informantes clave regulados por saturación teórica (Esbensen et al., 2008).<br><br>**Técnicas:** Entrevista fenomenológica en profundidad y observación reflexiva.<br><br>**Análisis:** Flujo de 7 pasos (Colaizzi / Sampieri) con ATLAS.ti v9.<br><br>**Rigor:** Criterios de Guba y Lincoln (1985). |
+| **Específicos:**<br>1. ¿Cómo experimentan la dimensión relacional?<br>2. ¿De qué manera vivencian la dimensión temporal?<br>3. ¿Cómo vivencian la dimensión espacial?<br>4. ¿Cuáles son las vivencias de la dimensión corporal?<br>5. ¿Cuál es la esencia y visiones divergentes? | **Específicos:**<br>1. Analizar la calidez relacional y el diálogo en quechua chanka.<br>2. Comprender la oportunidad y tiempo efectivo dedicado en consulta.<br>3. Describir la privacidad y confidencialidad en consultorio.<br>4. Identificar el respeto al pudor físico y alivio del dolor.<br>5. Sintetizar la esencia y divergencias de la calidad asistencial. | | | |
 
 ---
 
@@ -603,7 +605,7 @@ Asimismo, tal como enfatizó el docente en la cátedra de EN 486, la planificaci
 * **1.5. Cargo que desempeña:** __________________________________________________
 * **1.6. Denominación del instrumento:** Guía de entrevista a profundidad fenomenológica semiestructurada.
 * **1.7. Autor del instrumento:** Gresly Lucero Pariona Palomino.
-* **1.8. Título de la tesis:** Percepción de la calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.
+* **1.8. Título de la tesis:** Calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.
 
 **II. CRITERIOS DE RIGOR Y VALIDACIÓN CUALITATIVA (SAMPIERI, 2014):**
 
@@ -633,7 +635,7 @@ ____________________________________________________<br>
 
 Yo, __________________________________________________, identificado con DNI N° _______________, domiciliado en _____________________________________, Distrito de Ayacucho, Región Ayacucho.
 
-He tomado conocimiento del estudio de investigación titulado: **“PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**.
+He tomado conocimiento del estudio de investigación titulado: **“CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**.
 
 Declaro participar en calidad de **Informante clave** y me comprometo a brindar información fidedigna. Se me ha informado que la entrevista será grabada únicamente en audio, que mi participación es totalmente voluntaria, anónima y confidencial, y que puedo retirarme del estudio en el momento que considere conveniente sin que esto afecte mi atención en el centro de salud.
 
@@ -659,7 +661,7 @@ Universidad Nacional de San Cristóbal de Huamanga
 
 **Asunto: Carta de Aceptación y Asesoría Formal de Proyecto de Tesis**
 
-Sirva la presente para saludarlo cordialmente y a la vez comunicarle la asesoría formal del Proyecto de Tesis cualitativo titulado: **“PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**, perteneciente a la estudiante **Gresly Lucero Pariona Palomino**, egresada de la Escuela Profesional de Enfermería.
+Sirva la presente para saludarlo cordialmente y a la vez comunicarle la asesoría formal del Proyecto de Tesis cualitativo titulado: **“CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”**, perteneciente a la estudiante **Gresly Lucero Pariona Palomino**, egresada de la Escuela Profesional de Enfermería.
 
 En tal sentido, dicha asesoría comprenderá todas las etapas del proyecto y ejecución del trabajo de investigación con diseño fenomenológico, permitiendo la obtención del Título Profesional de Licenciada en Enfermería.
 

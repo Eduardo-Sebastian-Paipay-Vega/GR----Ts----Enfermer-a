@@ -11,7 +11,7 @@
 
 | Elemento | Definición en el Proyecto |
 |---|---|
-| **Título Oficial** | *Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026* |
+| **Título Oficial** | *Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026* |
 | **Grado Académico al que Postula** | Título Profesional de Licenciada en Enfermería |
 | **Ámbito Territorial de Estudio** | Centro de Salud Belén (Categoría I-3), Microred Huamanga, Red de Salud Huamanga, DIRESA Ayacucho |
 | **Línea Nacional MINSA al 2030** | **Línea 10:** *Sistemas y servicios de salud, acceso y cobertura universal* (RM N° 424-2025/MINSA) |

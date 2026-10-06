@@ -1,4 +1,4 @@
-# INVESTIGACIÓN EN SALUD: PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN Y ACCESO A SERVICIOS DE SALUD (UNSCH – EN 486)
+# INVESTIGACIÓN EN SALUD: CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026 (UNSCH – EN 486)
 
 ![UNSCH](https://img.shields.io/badge/UNSCH-Facultad%20de%20Ciencias%20de%20la%20Salud-blue.svg)
 ![Enfermería](https://img.shields.io/badge/Escuela-Profesional%20de%20Enfermer%C3%ADa-teal.svg)

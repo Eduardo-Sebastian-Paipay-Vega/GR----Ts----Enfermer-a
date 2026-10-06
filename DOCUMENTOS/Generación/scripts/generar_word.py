@@ -288,7 +288,7 @@ def build_protocolo_word(output_path):
     p_tit.paragraph_format.line_spacing = 1.15
     p_tit.paragraph_format.space_before = Pt(0)
     p_tit.paragraph_format.space_after = Pt(6)
-    r = p_tit.add_run("Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026")
+    r = p_tit.add_run("Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026")
     format_run(r, size_pt=15, bold=True)
     
     # 6. Mención del título a optar (Tamaño 15)
@@ -319,13 +319,13 @@ def build_protocolo_word(output_path):
     r = p_inv1.add_run("PRESENTADO POR:")
     format_run(r, size_pt=14, bold=True)
     
-    # Nombre del autor o bachiller (Tamaño 15: Grado y prenombres en Mayúsculas/minúsculas, apellidos en MAYÚSCULAS)
+    # Nombre del autor (Tamaño 15: Prenombres en Mayúsculas/minúsculas, apellidos en MAYÚSCULAS)
     p_inv2 = doc.add_paragraph()
     p_inv2.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p_inv2.paragraph_format.line_spacing = 1.15
     p_inv2.paragraph_format.space_before = Pt(0)
     p_inv2.paragraph_format.space_after = Pt(1)
-    r = p_inv2.add_run("Bach. Gresly Lucero PARIONA PALOMINO")
+    r = p_inv2.add_run("Gresly Lucero PARIONA PALOMINO")
     format_run(r, size_pt=15, bold=False)
     
     p_inv_orc = doc.add_paragraph()
@@ -470,13 +470,19 @@ def build_protocolo_word(output_path):
     r = p_sec_intro.add_run("INTRODUCCIÓN")
     format_run(r, size_pt=14, bold=True)
     
-    add_body_p(doc, "La calidad de atención y el acceso efectivo a los servicios de salud en el primer nivel constituyen pilares insoslayables para la consolidación de la cobertura sanitaria universal y la materialización del derecho humano a la salud. De acuerdo con las directrices conjuntas de la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [1], brindar servicios oportunos, seguros, continuos y centrados en la persona es un imperativo ético indispensable para mitigar las inequidades estructurales en salud. En el contexto de la atención primaria, la percepción del usuario sobre los cuidados y tratos recibidos condiciona el uso oportuno de los servicios, la adherencia a las terapias preventivo-recuperativas y la confianza hacia las instituciones sanitarias. En el Perú, la Política Nacional de Calidad en Salud del Ministerio de Salud (MINSA) [2] reconoce que la persistencia de barreras de acceso y despersonalización debilita la capacidad de respuesta asistencial. En concordancia con los lineamientos metodológicos de la cátedra de Proyecto de Investigación en Salud (EN 486) de la Escuela Profesional de Enfermería (UNSCH), a cargo del Dr. Manglio Aguirre Andrade, la fundamentación del estudio se articula mediante la técnica del embudo en tres niveles y las siguientes dimensiones sustantivas:")
+    add_body_p(doc, "La calidad de atención y el cuidado humano en el primer nivel de atención constituyen un imperativo ético y disciplinar indispensable para garantizar la dignidad de la persona y la consolidación de la cobertura sanitaria universal. En el marco de la investigación cualitativa bajo el diseño fenomenológico, la comprensión de este fenómeno no parte de abstracciones teóricas desvinculadas, sino de la inmersión vivencial y situada en los escenarios concretos donde acontece el encuentro interpersonal entre el profesional de salud y el usuario doliente. En estricta concordancia con la guía oficial para formular proyectos cualitativos de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH), a cargo del Dr. Manglio Aguirre Andrade, la fundamentación del presente estudio se articula a través del recorrido inverso de contextualización (del ámbito específico al general) y el desarrollo riguroso de sus dimensiones justificatorias:")
     
-    add_body_p(doc, "El Centro de Salud Belén, ubicado en el distrito de Ayacucho, cumple un rol estratégico como establecimiento cabecera de categoría I-3 que brinda cobertura a más de 18,450 habitantes en condiciones de notable vulnerabilidad socioeconómica. No obstante, persisten brechas asistenciales vinculadas a demoras prolongadas para la obtención de cupos, barreras comunicativas y hacinamiento en salas de espera. Investigar la experiencia vivida del usuario permite develar la dimensión oculta de la calidad asistencial desde la perspectiva de quienes reciben directamente el cuidado, proveyendo a los gestores sanitarios insumos reflexivos para humanizar la atención.", bold_prefix="Importancia del proyecto: ")
-    add_body_p(doc, "El estudio tiene como finalidad práctica comprender en profundidad la vivencia subjetiva del usuario respecto al trato, tiempos de espera, información y privacidad. Sus hallazgos proporcionarán evidencia empírica directa para que el equipo directivo del Centro de Salud Belén, la Red de Salud Huamanga y el cuerpo de enfermería formulen estrategias interpersonales, planes de mejora continua y guías de trato humanizado con pertinencia cultural, orientadas a mitigar cuellos de botella en la atención primaria.", bold_prefix="Finalidad e impacto (valor práctico y social): ")
-    add_body_p(doc, "La presente investigación corresponde a una investigación básica (sustantiva) con nivel descriptivo-interpretativo y un riguroso diseño cualitativo fenomenológico [5, 6]. Siguiendo a Roberto Hernández-Sampieri y Christian Mendoza [5], Edmund Husserl [7], Max van Manen [8] y John Creswell [6], su propósito central consiste en explorar, describir y comprender la esencia de las experiencias compartidas (vivencias) de los usuarios frente al fenómeno del acceso y la calidad asistencial en el Centro de Salud Belén, aprehendiendo sus cuatro dimensiones existenciales: temporalidad (tiempo vivido en madrugadas y esperas), espacialidad (espacio vivido en salas y consultorios), corporalidad (cuerpo doliente, fatiga y frío) y relacionalidad (encuentro interpersonal empático y diálogo en quechua chanka). Articula dialógicamente los modelos de Calidad en Salud de Avedis Donabedian [9, 10], la Teoría del Acceso de Roy Penchansky [11] y la Teoría del Cuidado Humano de Jean Watson [12] con la matriz cultural andina de Huamanga.", bold_prefix="Valor teórico y clasificación por propósito: ")
-    add_body_p(doc, "En el plano metodológico, el estudio adopta formalmente el diseño fenomenológico fundamentado en Husserl [7] y van Manen [8]. Aporta y valida una guía de entrevista en profundidad y una matriz de categorización temática cualitativa ajustadas a los criterios de rigor científico de Guba y Lincoln [13] (credibilidad, transferibilidad, consistencia y confirmabilidad), aplicando la técnica de triangulación metodológica y de actores clave [14] (usuarios, personal de salud y actores comunitarios).", bold_prefix="Valor metodológico: ")
-    add_body_p(doc, "El estudio cumple con los estándares epistemológicos promovidos por la cátedra de EN 486 fundamentados en Mario Bunge [15], respetando de forma irrestricta las normas bioéticas de la Declaración de Helsinki [16] y las pautas internacionales del CIOMS [17]. Asimismo, se alinea con los instrumentos rectores sanitarios: a nivel regional, responde a la Prioridad Regional 10 de la DIRESA Ayacucho 2025–2030 (“Organización, gestión, calidad y accesibilidad de los servicios de salud”) [4]; a nivel nacional, se adscribe a la Línea 10 de Investigación del MINSA al 2030 (“Sistemas y servicios de salud, acceso y cobertura universal”, RM N° 424-2025/MINSA) [3].", bold_prefix="Justificación institucional y bioética: ")
+    add_body_p(doc, "En el plano local y de manera estricta y exclusiva, la investigación se sitúa en el Centro de Salud Belén (Categoría I-3, Microred Huamanga), establecimiento cabecera que atiende a una población adscrita de 18,450 habitantes en el distrito de Ayacucho, a 2,760 metros sobre el nivel del mar. La realidad cotidiana del establecimiento está marcada por una profunda vulnerabilidad: el 68.2% de los usuarios vive en condición de pobreza según el SISFOH, más del 94.5% depende del Seguro Integral de Salud (SIS) y el 72% posee bilingüismo activo quechua chanka-castellano. Para esta población, la calidad del cuidado no reside en la frialdad de un trámite clínico, sino en la necesidad vital de un trato digno, acogedor y respetuoso expresado en pautas andinas como el saludo afectuoso (napaykuy), la hospitalidad en la atención (allin chaskiy) y el respeto mutuo (respetanakuy). El estudio responde de forma vinculante a la Prioridad Regional 10 de Investigación en Salud de Ayacucho 2025–2030, aprobada por la Dirección Regional de Salud (DIRESA) de Ayacucho [1]: “Organización, gestión, calidad y accesibilidad de los servicios de salud”. A nivel nacional, la problemática local refleja las tensiones estructurales del sistema sanitario peruano, donde más del 78% de las consultas ambulatorias recaen en el primer nivel (categorías I-1 a I-4). La Política Nacional de Calidad en Salud del Ministerio de Salud (MINSA) [2] reconoce que la persistencia de barreras de trato interpersonal, la prisa protocolar con consultas abreviadas de escasos minutos y la debilidad en la comunicación empática en lenguas originarias erosionan la confianza ciudadana y la adherencia a los tratamientos. Esta situación motivó al Estado peruano a priorizar la investigación en servicios sanitarios mediante la Línea 10 de Investigación en Salud al 2030: “Sistemas y servicios de salud, acceso y cobertura universal” (Resolución Ministerial N° 424-2025/MINSA) [3], con el fin de generar evidencia empírica directa para humanizar la atención asistencial. Finalmente, en el plano internacional, organismos rectores como la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [4] advierten que los sistemas sanitarios del mundo atraviesan una severa crisis de deshumanización asistencial provocada por la sobrecarga burocrática y el predominio de un paradigma biomédico tecnicista que invisibiliza la dimensión afectiva y el respeto al pudor somático.", bold_prefix="1. Contextualización en tres niveles (Recorrido Inverso): ")
+    
+    add_body_p(doc, "El estudio aborda un problema crítico de alta sensibilidad humana: la brecha latente entre los lineamientos institucionales y la vivencia sentida del usuario andino frente al cuidado de salud. Al develar los significados, frustraciones, silencios y experiencias de sosiego de las madres de familia en CRED, gestantes y personas adultas mayores del Centro de Salud Belén, se genera conocimiento de primera fuente para visibilizar la urgencia de una atención digna. Los beneficiarios directos serán los usuarios de la zona de Belén, quienes contarán con una vía científica para expresar sus demandas de respeto y buen trato; asimismo, los hallazgos beneficiarán al equipo de gestión del establecimiento, a la Red de Salud Huamanga y al colectivo profesional de enfermería.", bold_prefix="2. Importancia y relevancia social del proyecto: ")
+    
+    add_body_p(doc, "A partir de sus objetivos, la investigación busca aportar evidencia empírica cualitativa para responder al problema de la despersonalización del acto de cuidado. Sus resultados permitirán proponer pautas concretas de mejora a las autoridades sanitarias competentes: el diseño de protocolos de acogida clínica humanizada con pertinencia lingüística en quechua chanka, la reorganización del tiempo de consulta para asegurar una escucha atenta y el fortalecimiento de la empatía en la relación enfermera-paciente en el Centro de Salud Belén.", bold_prefix="3. Finalidad o valor práctico: ")
+    
+    add_body_p(doc, "Conforme a la tipología metodológica de la investigación científica, el estudio se clasifica como una investigación básica o sustantiva, con nivel descriptivo-interpretativo y un riguroso diseño cualitativo fenomenológico [5, 6]. Siguiendo las directrices epistemológicas de Edmund Husserl [7], Max van Manen [8] y Roberto Hernández-Sampieri [5], el proyecto llena un vacío crítico de conocimiento al contrastar la base teórica existente con la vivencia del poblador andino. Para ello, articula dialógicamente el modelo del Proceso Interpersonal de Calidad en Salud de Avedis Donabedian [9, 10] y la Teoría del Cuidado Humano de Jean Watson [11] con los cuatro existenciales universales del Lebenswelt: relacionalidad (el encuentro humano y diálogo en quechua), temporalidad (tiempo y calma de la consulta), espacialidad (privacidad del consultorio) y corporalidad (respeto al pudor físico y alivio del dolor nanay).", bold_prefix="4. Valor teórico y tipología de la investigación: ")
+    
+    add_body_p(doc, "En el ámbito metodológico, el proyecto aporta una guía de entrevista fenomenológica en profundidad semiestructurada bilingüe y una matriz de categorización temática cualitativa, centradas exclusivamente en la calidad del cuidado. Estos instrumentos y procedimientos se ajustan a los cuatro criterios de rigor cualitativo establecidos por Guba y Lincoln [12]: credibilidad, transferibilidad, consistencia y confirmabilidad, complementados con la técnica de triangulación múltiple de métodos y fuentes de información [13].", bold_prefix="5. Valor metodológico: ")
+    
+    add_body_p(doc, "El protocolo cumple los estándares científicos de la cátedra de EN 486 (fundamentados en el rigor epistemológico de Mario Bunge [14]), respetando de forma irrestricta las normas bioéticas internacionales de la Declaración de Helsinki [15] y las pautas éticas del CIOMS [16], garantizando el consentimiento informado voluntario, la confidencialidad, el anonimato mediante códigos alfanuméricos y la no maleficencia para con los participantes.", bold_prefix="6. Justificación institucional y bioética: ")
     
     # ==========================================================================
     # SECCIÓN 4: CAPÍTULO I - EL PROBLEMA DE INVESTIGACIÓN
@@ -499,87 +505,88 @@ def build_protocolo_word(output_path):
     add_heading_2(doc, "1.1. Descripción de la realidad problemática")
     add_body_p(doc, "En el marco epistemológico de la investigación cualitativa, tal como sostienen Hernández-Sampieri y Mendoza [5], el planteamiento del problema adopta una naturaleza puramente inductiva y fenomenológica: no parte del aislamiento artificial de variables cuantitativas ni del contraste de hipótesis numéricas preconcebidas, sino de la inmersión vivencial directa en el ambiente natural donde acontecen los fenómenos humanos. Plantear y delimitar un problema cualitativo fenomenológico constituye un proceso reflexivo, dinámico y abierto orientado a capturar la esencia, las emociones, los sentires corpóreos y los significados intersubjetivos que las personas otorgan a sus vivencias en el momento del acto asistencial, siguiendo los fundamentos de Husserl [7] y van Manen [8].")
     add_body_p(doc, "Para tal fin, la metodología demanda un contacto directo y vivencial con la realidad estudiada en su escenario cotidiano. En el presente estudio, el origen de la indagación se sustenta en la observación reflexiva y la experiencia acumulada por la investigadora durante sus prácticas preprofesionales de la Escuela Profesional de Enfermería de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) en los consultorios del Centro de Salud Belén.")
-    add_body_p(doc, "En estricta observancia del canon metodológico de la cátedra de EN 486 (Dr. Manglio Aguirre Andrade), la caracterización de la realidad problemática se articula mediante la técnica del embudo en tres niveles de profundidad:")
+    add_body_p(doc, "En estricta observancia del canon metodológico del Dr. Manglio Aguirre Andrade y el protocolo cualitativo de referencia, la contextualización del problema de calidad de atención se articula a través del recorrido inverso, partiendo del ámbito específico hacia el general:")
     
-    add_heading_3(doc, "Contexto Internacional (Macro)")
-    add_body_p(doc, "A escala mundial, los sistemas de salud enfrentan una crisis estructural caracterizada por la fragmentación asistencial y la despersonalización del acto de cuidado, según lo advertido por la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [1]. El predominio de un paradigma biomédico tecnicista y la sobrecarga burocrática en el primer nivel de atención han reducido la evaluación de los servicios a meros indicadores de rendimiento cuantitativo, invisibilizando la vivencia afectiva del paciente, el sufrimiento somático de la espera y los determinantes socioculturales de la salud. De acuerdo con Donabedian [9, 10] y Watson [12], la calidad del cuidado no reside únicamente en la corrección instrumental del procedimiento terapéutico, sino medularmente en el proceso interpersonal: la calidez de la mirada, la capacidad de escucha, el respeto a la dignidad y la reciprocidad humanizada entre el profesional y el ser cuidado.")
+    add_heading_3(doc, "1. Ámbito Local (Centro de Salud Belén, Ayacucho)")
+    add_body_p(doc, "En el plano local, el estudio se centra de manera estricta y exclusiva en el Centro de Salud Belén (Categoría I-3, Microred Huamanga), establecimiento cabecera que atiende a una población adscrita de 18,450 habitantes en el distrito de Ayacucho, provincia de Huamanga, a 2,760 metros sobre el nivel del mar. La investigación se focaliza exclusivamente en la dinámica asistencial de Belén, en vinculación directa con la Prioridad Regional 10 de Investigación en Salud de Ayacucho 2025–2030, aprobada por la Dirección Regional de Salud (DIRESA) de Ayacucho [1]: “Organización, gestión, calidad y accesibilidad de los servicios de salud”.")
+    add_body_p(doc, "En este escenario aflora una profunda distancia entre las normas programáticas institucionales y la vivencia sentida del usuario andino frente a la calidad del cuidado:")
+    add_bullet_item(doc, "Vulnerabilidad socioeconómica y necesidad de contención afectiva: ", "El 68.2% de la población usuaria se encuentra en situación de pobreza según el SISFOH y más del 94.5% depende del Seguro Integral de Salud (SIS). Para estas familias, acudir a los consultorios de Belén representa un momento de vulnerabilidad extrema donde demandan no solo una prescripción médica o un procedimiento de enfermería, sino contención afectiva y comprensión empática frente a su precaria situación de vida.")
+    add_bullet_item(doc, "Identidad lingüística y códigos andinos de calidad: ", "El 72.0% de los usuarios presenta bilingüismo activo quechua chanka-castellano. Para esta población, la calidad de la atención no se concibe como un trámite administrativo frío, sino como un acto de reciprocidad y respeto que exige la acogida hospitalaria (allin chaskiy), el saludo cálido (napaykuy) y el respeto mutuo (respetanakuy), conforme a los hallazgos de Aguirre-Andrade y colaboradores [17].")
+    add_bullet_item(doc, "La vivencia de la desatención y la prisa protocolar: ", "Cuando el personal sanitario —condicionado por la sobrecarga laboral o la digitación continua en el computador— no establece contacto visual, interrumpe el relato del paciente o muestra indiferencia ante el dolor físico (nanay), el usuario experimenta una profunda insatisfacción afectiva y desamparo, replegándose en el silencio defensivo (upallay). Asimismo, las consultas abreviadas de escasos minutos dejan en las madres de familia en CRED y en las personas adultas mayores dudas e incertidumbres no resueltas.")
     
-    add_heading_3(doc, "Contexto Nacional (Meso)")
-    add_body_p(doc, "En el Perú, la Política Nacional de Calidad en Salud del Ministerio de Salud [2] reconoce que la persistencia de barreras de acceso geográficas, organizacionales, económicas y culturales debilita gravemente la capacidad resolutiva del primer nivel asistencial (categorías I-1 a I-4), donde recae más del 78% de las atenciones asistenciales del país. A pesar de los esfuerzos normativos, persisten cuellos de botella crónicos: colas en la madrugada para conseguir un cupo, desabastecimiento de medicamentos esenciales del petitorio oficial y una marcada frialdad comunicativa en el trato al usuario. Esta brecha motivó al Estado peruano a priorizar la investigación en salud a través de la Línea 10 de Investigación en Salud al 2030: “Sistemas y servicios de salud, acceso y cobertura universal” (Resolución Ministerial N° 424-2025/MINSA) [3], orientada a generar evidencia empírica directa para dignificar la atención y garantizar la cobertura sanitaria universal.")
+    add_heading_3(doc, "2. Ámbito Nacional (Perú)")
+    add_body_p(doc, "En el ámbito nacional, la realidad observada en Belén refleja los nudos críticos del primer nivel de atención en el Perú (categorías I-1 a I-4), donde se concentra más del 78% de las atenciones asistenciales de todo el país. La Política Nacional de Calidad en Salud del Ministerio de Salud [2] reconoce que la persistencia de barreras de trato interpersonal, frialdad burocrática y falta de pertinencia cultural debilita gravemente la capacidad resolutiva del sistema público. Esta situación motivó al Estado peruano a priorizar la investigación en servicios sanitarios a través de la Línea 10 de Investigación en Salud al 2030: “Sistemas y servicios de salud, acceso y cobertura universal” (Resolución Ministerial N° 424-2025/MINSA) [3], buscando dignificar la atención sanitaria en todos los establecimientos de atención primaria de la nación.")
     
-    add_heading_3(doc, "Contexto Regional y Local (Micro: Centro de Salud Belén)")
-    add_body_p(doc, "En el ámbito regional, el estudio se articula de forma vinculante con la Prioridad 10 de Investigación en Salud de Ayacucho 2025–2030, aprobada por la Dirección Regional de Salud de Ayacucho [4]: “Organización, gestión, calidad y accesibilidad de los servicios de salud”. En este marco, el Centro de Salud Belén (Categoría I-3, Microred Huamanga) representa un punto neurálgico asistencial que atiende a una población adscrita de 18,450 habitantes en el distrito de Ayacucho, a 2,760 metros sobre el nivel del mar.")
-    add_body_p(doc, "En este establecimiento aflora una dramática distancia entre la lógica asistencial programática y la vivencia sentida del usuario andino:")
-    add_bullet_item(doc, "Vulnerabilidad socioeconómica: ", "El 68.2% de la población usuaria se encuentra en situación de pobreza o extrema pobreza según el SISFOH, y más del 94.5% depende del Seguro Integral de Salud (SIS) en su modalidad subsidiada.")
-    add_bullet_item(doc, "Identidad lingüística y cultural: ", "El 72.0% de los usuarios presenta bilingüismo activo quechua chanka-castellano. Para esta población, la salud se vivencia a través de códigos ancestrales de afecto y reciprocidad comunitaria: la acogida hospitalaria (allin chaskiy), el saludo cálido y respetuoso (napaykuy) y el respeto mutuo (respetanakuy), conforme a los hallazgos de Aguirre-Andrade y colaboradores [18].")
-    add_bullet_item(doc, "La experiencia de la desatención: ", "Cuando los profesionales —condicionados por la prisa protocolar, la sobrecarga laboral o el monolingüismo hispanohablante— omiten el saludo, evitan el contacto visual o se muestran indiferentes ante el dolor (nanay), el usuario experimenta sensaciones de desamparo, intimidación y violencia simbólica, replegándose en el silencio defensivo (upallay). Asimismo, las madrugadas gélidas a la intemperie (5 °C a 8 °C) desde las 4:00 AM para obtener un cupo generan agotamiento somático y menoscabo de la dignidad de las madres gestantes y adultos mayores.")
-    add_body_p(doc, "El problema medular de investigación radica, por consiguiente, en develar y comprender cómo los propios usuarios perciben, vivencian y significan la calidad de atención y el acceso asistencial en el Centro de Salud Belén desde la profundidad de su mundo de la vida.")
+    add_heading_3(doc, "3. Ámbito Mundial (Internacional o Global)")
+    add_body_p(doc, "A escala mundial, los sistemas de salud enfrentan una severa crisis de deshumanización asistencial caracterizada por la tecnificación desmedida del acto clínico y la sobrecarga burocrática en el primer nivel de atención, según lo advertido por la Organización Mundial de la Salud (OMS), la OCDE y el Banco Mundial [4]. El predominio de un paradigma biomédico mecanicista ha reducido la evaluación de los servicios a meros indicadores cuantitativos de producción, invisibilizando la vivencia afectiva del paciente, el sufrimiento somático y los determinantes socioculturales de la salud. De acuerdo con Avedis Donabedian [9, 10] y Jean Watson [11], la calidad del cuidado no reside únicamente en la pericia instrumental de un procedimiento, sino medularmente en el proceso interpersonal: la calidez de la mirada, la capacidad de escucha compasiva, el respeto a la dignidad y la reciprocidad humanizada entre el profesional de salud y el ser cuidado.")
+    
+    add_body_p(doc, "El problema medular y objeto de estudio de la investigación radica, por consiguiente, en develar y comprender cómo los usuarios significan, valoran y experimentan la calidad de atención y el cuidado de enfermería en los consultorios del Centro de Salud Belén desde la profundidad de su mundo de la vida (Lebenswelt).")
     
     add_heading_2(doc, "1.2. Formulación del problema (Preguntas norteadoras)")
-    add_body_p(doc, "En coherencia con los preceptos del diseño fenomenológico articulados por Hernández-Sampieri y Mendoza [5] y el principio de inmutabilidad del entorno sellado, se formulan las preguntas norteadoras de la investigación:")
+    add_body_p(doc, "En coherencia con los preceptos del diseño fenomenológico de Hernández-Sampieri y Mendoza [5] y el marco teórico de la calidad interpersonal de Donabedian [9, 10] y Watson [11], se formulan las preguntas norteadoras de la investigación:")
     
     add_heading_3(doc, "Problema General (Pregunta Principal)")
-    add_body_p(doc, "¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en los servicios de salud del Centro de Salud Belén, Ayacucho 2026?")
+    add_body_p(doc, "¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto a la calidad de atención recibida en los servicios de salud del Centro de Salud Belén, Ayacucho 2026?")
     
     add_heading_3(doc, "Problemas Específicos (Preguntas Específicas)")
-    add_num_item(doc, 1, "¿Cómo vivencian los usuarios la dimensión temporal (tiempo vivido / Lebenszeit) en las filas de madrugada (4:00 AM) y las horas transcurridas en sala de espera antes de ser atendidos?")
-    add_num_item(doc, 2, "¿De qué manera experimentan los usuarios la dimensión espacial (espacio vivido / Lebensraum) respecto al hacinamiento, comodidad física y privacidad dentro de los consultorios?")
-    add_num_item(doc, 3, "¿Cuáles son las vivencias somáticas y emocionales vinculadas a la dimensión corporal (cuerpo vivido / Leib), tales como frío matutino, fatiga física, hambre y dolor (nanay) frente a la espera asistencial?")
-    add_num_item(doc, 4, "¿Cómo perciben los usuarios la dimensión relacional (relación humana vivida / Mitwelt) respecto a la empatía, calidez, escucha activa y comunicación intercultural en quechua chanka brindada por el equipo de salud?")
-    add_num_item(doc, 5, "¿Cuál es la esencia compartida y las divergencias vivenciales que configuran el significado integral atribuido por los usuarios a una atención de calidad y digna en el Centro de Salud Belén?")
+    add_num_item(doc, 1, "¿Cómo experimentan los usuarios la dimensión relacional (relación humana vivida / Mitwelt) respecto a la calidez, empatía, escucha activa y comunicación intercultural en quechua chanka por parte del personal de salud?")
+    add_num_item(doc, 2, "¿De qué manera vivencian los usuarios la dimensión temporal (tiempo vivido / Lebenszeit) respecto a la puntualidad, oportunidad y tiempo efectivo dedicado por el profesional durante la consulta clínica?")
+    add_num_item(doc, 3, "¿Cómo vivencian los usuarios la dimensión espacial (espacio vivido / Lebensraum) respecto a la privacidad, confidencialidad, comodidad física y dignidad ambiental de los consultorios?")
+    add_num_item(doc, 4, "¿Cuáles son las vivencias de los usuarios vinculadas a la dimensión corporal (cuerpo vivido / Leib), tales como el respeto al pudor físico, la contención del sufrimiento y el alivio del dolor (nanay)?")
+    add_num_item(doc, 5, "¿Cuál es la esencia compartida y las visiones divergentes que configuran el significado atribuido por los usuarios a una atención de salud con calidad y calidez en el Centro de Salud Belén?")
     
     add_heading_2(doc, "1.3. Objetivos de la investigación")
     add_body_p(doc, "Guardando estricta simetría lógica biunívoca (1:1) con las preguntas norteadoras y empleando verbos en infinitivo propios de la indagación cualitativa comprensiva, se establecen los siguientes objetivos:")
     
     add_heading_3(doc, "Objetivo General")
-    add_body_p(doc, "Explorar, comprender y describir el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al acceso y calidad de atención en el Centro de Salud Belén, Ayacucho 2026.")
+    add_body_p(doc, "Comprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto a la calidad de atención recibida en el Centro de Salud Belén, Ayacucho 2026.")
     
     add_heading_3(doc, "Objetivos Específicos")
-    add_num_item(doc, 1, "Explorar y comprender las vivencias de los usuarios respecto a la dimensión temporal (tiempo vivido) en las filas matutinas de madrugada y el tiempo de espera en el establecimiento.")
-    add_num_item(doc, 2, "Describir y comprender la experiencia de los usuarios respecto a la dimensión espacial (espacio vivido) en cuanto al confort, hacinamiento y privacidad de los ambientes asistenciales.")
-    add_num_item(doc, 3, "Identificar y comprender las vivencias somáticas de la dimensión corporal (cuerpo vivido), analizando la resistencia al frío matutino, fatiga, hambre y dolor del paciente.")
-    add_num_item(doc, 4, "Comprender y analizar la experiencia de la dimensión relacional (relación humana vivida) en el encuentro asistencial, focalizando la empatía, trato digno y diálogo en lengua quechua.")
-    add_num_item(doc, 5, "Sintetizar la estructura esencial y las divergencias fenomenológicas que configuran la percepción de una atención digna y de calidad en el Centro de Salud Belén.")
+    add_num_item(doc, 1, "Comprender y analizar la experiencia de los usuarios en la dimensión relacional (relación humana vivida / Mitwelt) respecto a la calidez interpersonal, el trato digno y la comunicación en lengua quechua chanka brindada por el equipo de salud.")
+    add_num_item(doc, 2, "Explorar y comprender las vivencias de los usuarios en la dimensión temporal (tiempo vivido / Lebenszeit) en relación con la puntualidad, prontitud y duración efectiva del acto del cuidado asistencial en la consulta.")
+    add_num_item(doc, 3, "Describir y comprender la experiencia de los usuarios en la dimensión espacial (espacio vivido / Lebensraum) en cuanto al confort, reserva de la intimidad y privacidad física durante el cuidado en consultorios.")
+    add_num_item(doc, 4, "Identificar y comprender las vivencias de la dimensión corporal (cuerpo vivido / Leib), analizando el respeto al pudor físico del paciente y la respuesta humanizada ante el dolor y sufrimiento somático (nanay).")
+    add_num_item(doc, 5, "Sintetizar la estructura esencial y las divergencias fenomenológicas que componen la calidad de atención de salud en el Centro de Salud Belén.")
     
     add_heading_2(doc, "1.4. Supuestos fenomenológicos de la investigación")
     add_body_p(doc, "En el paradigma cualitativo fenomenológico, en concordancia con Hernández-Sampieri y Mendoza [5] y van Manen [8], la investigación no formula hipótesis cuantitativas para contrastación estadística paramétrica. En su lugar, se establecen supuestos fenomenológicos inductivos, los cuales constituyen proposiciones teóricas preliminares que orientan la mirada de la investigadora sin prejuzgar ni constreñir las vivencias que emergerán de los informantes durante la reducción fenomenológica (epojé):")
     
     add_heading_3(doc, "Supuesto General")
-    add_body_p(doc, "La percepción de la calidad de atención y el acceso constituye para el usuario del Centro de Salud Belén una vivencia intersubjetiva profunda donde la calidez humana, el reconocimiento de su dignidad andina, la comunicación empática en lengua originaria y la oportunidad resolutiva del padecimiento prevalecen sobre la mera dimensión instrumental o protocolar del acto asistencial.")
+    add_body_p(doc, "La calidad de atención de salud constituye para el usuario del Centro de Salud Belén una vivencia intersubjetiva profunda donde la calidez humana, el reconocimiento de su dignidad andina, la comunicación empática en lengua originaria y la oportunidad resolutiva del padecimiento prevalecen sobre la mera dimensión instrumental o protocolar del acto asistencial.")
     
     add_heading_3(doc, "Supuestos Específicos del Mundo de la Vida (Lebenswelt)")
-    add_num_item(doc, 1, "La prolongada espera a la intemperie y la incertidumbre en la obtención de cupos genera en el usuario una vivencia de desvalorización de su tiempo vital y angustia existencial, transformando el acceso en una experiencia de sacrificio físico.", bold_prefix="Supuesto sobre la Temporalidad: ")
-    add_num_item(doc, 2, "El espacio físico precario, la falta de asientos adecuados y la ausencia de privacidad acústica y visual en el consultorio restringen la intimidad del paciente, inhibiendo la revelación libre de sus síntomas y temores íntimos.", bold_prefix="Supuesto sobre la Espacialidad: ")
-    add_num_item(doc, 3, "El cuerpo del usuario somatiza la desatención institucional a través del impacto del frío matutino andino (5 °C a 8 °C), el agotamiento muscular y la agudización del dolor físico (nanay), transformando la espera en una vivencia corporalmente aflictiva.", bold_prefix="Supuesto sobre la Corporalidad: ")
-    add_num_item(doc, 4, "La interacción dialógica intercultural mediada por la calidez del saludo (napaykuy) y la acogida en quechua chanka (allin chaskiy) mitiga el temor institucional, restablece la confianza terapéutica y resignifica positivamente la calidad del servicio.", bold_prefix="Supuesto sobre la Relacionalidad: ")
-    add_num_item(doc, 5, "La esencia del cuidado digno radica en la experiencia compartida de sentirse respetado como persona humana integral, emergiendo divergencias vivenciales moduladas por la edad y el grado de vulnerabilidad socioeconómica del usuario.", bold_prefix="Supuesto sobre la Esencia y Divergencias: ")
+    add_num_item(doc, 1, "La prisa protocolar y las consultas abreviadas generan en el usuario una vivencia de desvalorización de su tiempo vital y desatención afectiva, mientras que una consulta con tiempo y calma genera sosiego y confianza terapéutica.", bold_prefix="Supuesto sobre la Temporalidad: ")
+    add_num_item(doc, 2, "La falta de privacidad acústica y visual en los consultorios vulnera la intimidad del paciente, inhibiendo la comunicación fluida sobre sus dolencias íntimas.", bold_prefix="Supuesto sobre la Espacialidad: ")
+    add_num_item(doc, 3, "El respeto al pudor físico durante el examen corporal y la delicadeza del tacto ante el dolor somático (nanay) humanizan el cuidado y alivian la aflicción somática del cuerpo enfermo (onqoy).", bold_prefix="Supuesto sobre la Corporalidad: ")
+    add_num_item(doc, 4, "La interacción dialógica intercultural mediada por el saludo (napaykuy), la mirada atenta y la acogida en quechua chanka (allin chaskiy) consolida el vínculo terapéutico y define la calidad del cuidado.", bold_prefix="Supuesto sobre la Relacionalidad: ")
+    add_num_item(doc, 5, "La esencia de la calidad radica en ser acogido y respetado como persona humana integral, emergiendo divergencias vivenciales moduladas por el servicio asistencial y la edad del usuario.", bold_prefix="Supuesto sobre la Esencia y Divergencias: ")
     
     add_heading_2(doc, "1.5. Justificación e importancia de la investigación")
-    add_body_p(doc, "Conforme a las directrices epistemológicas de la cátedra de EN 486 (UNSCH), fundamentadas en la concepción científica y rigurosa de Mario Bunge [15], y los criterios de relevancia de Hernández-Sampieri y Mendoza [5], el proyecto se sustenta en cuatro dimensiones justificatorias:")
+    add_body_p(doc, "Conforme a las directrices epistemológicas de la cátedra de EN 486 (UNSCH), fundamentadas en la concepción científica y rigurosa de Mario Bunge [14], y los criterios de relevancia de Hernández-Sampieri y Mendoza [5], el proyecto se sustenta en cuatro dimensiones justificatorias:")
     
     add_heading_3(doc, "Justificación Teórica")
-    add_body_p(doc, "El estudio llena un vacío epistémico crítico en la literatura regional sobre calidad de atención en salud pública. Tradicionalmente, la evaluación de servicios se ha sustentado en modelos estandarizados cuantitativos (como SERVQUAL) [19, 20] que reducen la satisfacción a medias aritméticas, omitiendo las complejidades subjetivas y la cosmovisión del habitante andino. Esta investigación articula dialógicamente el Enfoque de Calidad en Salud de Donabedian [9, 10], la Teoría del Acceso de Penchansky [11] y la Teoría del Cuidado Humano de Watson [12] con las cuatro dimensiones existenciales de van Manen [8], construyendo un marco comprensivo pionero con pertinencia cultural andina en la UNSCH.")
+    add_body_p(doc, "El estudio llena un vacío epistémico crítico en la literatura regional sobre calidad de atención en salud pública. Tradicionalmente, la evaluación de servicios se ha sustentado en indicadores cuantitativos que reducen la valoración a medias aritméticas, omitiendo las complejidades subjetivas y la cosmovisión del habitante andino. Esta investigación articula dialógicamente el modelo del Proceso Interpersonal de Calidad en Salud de Donabedian [9, 10] y la Teoría del Cuidado Humano de Watson [11] con las cuatro dimensiones existenciales de van Manen [8], construyendo un marco comprensivo pionero con pertinencia cultural andina en la UNSCH.")
     
     add_heading_3(doc, "Justificación Práctica")
-    add_body_p(doc, "La investigación responde a una necesidad institucional urgente. Al desentrañar los nudos críticos del acceso y el trato humano desde el relato directo de los usuarios, los hallazgos aportarán insumos concretos para que la Jefatura del Centro de Salud Belén y la Dirección de la Red de Salud Huamanga rediseñen el flujo de admisión matutina, erradiquen las filas a la intemperie en la madrugada y elaboren protocolos de triaje y acogida intercultural con pertinencia lingüística en quechua chanka.")
+    add_body_p(doc, "La investigación responde a una necesidad institucional urgente. Al desentrañar la experiencia de calidad del cuidado desde el relato directo de los usuarios, los hallazgos aportarán insumos concretos para que la Jefatura del Centro de Salud Belén y la Dirección de la Red de Salud Huamanga optimicen el tiempo de consulta clínica, resguarden la privacidad en consultorios y diseñen protocolos de acogida clínica humanizada con pertinencia lingüística en quechua chanka.")
     
     add_heading_3(doc, "Justificación Metodológica")
-    add_body_p(doc, "Aporta al campo de la investigación en enfermería un protocolo fenomenológico riguroso, validado por juicio de expertos y estructurado bajo los cuatro existenciales del Lebenswelt. Diseña y valida una guía de entrevista semiestructurada bilingüe (Quechua Chanka-Español) y una matriz de categorización temática cualitativa auditadas bajo los criterios de rigor de Guba y Lincoln [13]: credibilidad, transferibilidad, consistencia y confirmabilidad, estableciendo un precedente metodológico replicable para futuras tesis de la Facultad de Ciencias de la Salud de la UNSCH.")
+    add_body_p(doc, "Aporta al campo de la investigación en enfermería un protocolo fenomenológico riguroso, validado por juicio de expertos y estructurado bajo los cuatro existenciales del Lebenswelt. Diseña y valida una guía de entrevista semiestructurada bilingüe (Quechua Chanka-Español) y una matriz de categorización temática cualitativa auditadas bajo los criterios de rigor de Guba y Lincoln [12]: credibilidad, transferibilidad, consistencia y confirmabilidad, estableciendo un precedente metodológico replicable para futuras tesis de la Facultad de Ciencias de la Salud de la UNSCH.")
     
     add_heading_3(doc, "Justificación Social y Sanitaria")
-    add_body_p(doc, "El proyecto encarna un imperativo ético de equidad en salud. Visibiliza el sufrimiento silenciado de las madres de familia en CRED, gestantes y adultos mayores en situación de pobreza (68.2% SISFOH) y alta dependencia del SIS (94.5%). Responde de manera vinculante a la Línea 10 Nacional de Investigación del MINSA al 2030 [3] y a la Prioridad 10 Regional de Investigación de la DIRESA Ayacucho 2025–2030 [4], contribuyendo a transformar la atención de salud en un espacio de dignidad humana y justicia social.")
+    add_body_p(doc, "El proyecto encarna un imperativo ético de equidad en salud. Visibiliza la vivencia de las madres de familia en CRED, gestantes y adultos mayores en situación de pobreza (68.2% SISFOH) y alta dependencia del SIS (94.5%). Responde de manera vinculante a la Línea 10 Nacional de Investigación del MINSA al 2030 [3] y a la Prioridad 10 Regional de Investigación de la DIRESA Ayacucho 2025–2030 [4], contribuyendo a transformar la atención de salud en un espacio de dignidad humana y justicia social.")
     
     add_heading_2(doc, "1.6. Delimitaciones y limitaciones del estudio")
     add_body_p(doc, "Para preservar las fronteras del entorno de investigación y garantizar el aislamiento metodológico, se declaran formalmente las delimitaciones del alcance y las limitaciones del estudio:")
     
     add_heading_3(doc, "Delimitación Espacial y Territorial")
-    add_body_p(doc, "La investigación se circunscribe de forma estricta a los ambientes físicos del Centro de Salud Belén (Categoría I-3), abarcando la vereda exterior de espera matutina, las salas interiores de espera y los consultorios asistenciales de Medicina General, Enfermería (CRED, Inmunizaciones), Obstetricia y Odontología, ubicado en el distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a 2,760 msnm.")
+    add_body_p(doc, "La investigación se circunscribe de forma estricta a los ambientes del Centro de Salud Belén (Categoría I-3), abarcando las salas de espera y los consultorios asistenciales de Medicina General, Enfermería (CRED, Inmunizaciones), Obstetricia y Odontología, ubicado en el distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a 2,760 msnm.")
     
     add_heading_3(doc, "Delimitación Temporal")
     add_body_p(doc, "El horizonte temporal de recolección y análisis vivencial corresponde al año fiscal y académico 2026.")
     
     add_heading_3(doc, "Delimitación Teórica y Epistemológica")
-    add_body_p(doc, "El marco teórico se limita de manera exclusiva a los modelos de Calidad Asistencial de Donabedian [9], la Teoría de Acceso de Penchansky [11], la Teoría del Cuidado Humano de Watson [12] y la fenomenología hermenéutica de Husserl [7] y van Manen [8]. Todo constructo positivista ajeno a estas fronteras queda excluido.")
+    add_body_p(doc, "El marco teórico se limita de manera exclusiva al modelo del Proceso Interpersonal de Calidad Asistencial de Donabedian [9, 10], la Teoría del Cuidado Humano de Watson [11] y la fenomenología hermenéutica de Husserl [7] y van Manen [8]. Todo constructo positivista ajeno a estas fronteras queda excluido.")
     
     add_heading_3(doc, "Delimitación Conceptual y Temática")
     add_body_p(doc, "El fenómeno se investiga a través del prisma exclusivo de las cuatro dimensiones existenciales del mundo de la vida (Lebenswelt): Temporalidad (Lebenszeit), Espacialidad (Lebensraum), Corporalidad (Leib) y Relacionalidad (Mitwelt), más la síntesis estructural esencial.")
@@ -588,14 +595,14 @@ def build_protocolo_word(output_path):
     add_body_p(doc, "La unidad de estudio está constituida por personas usuarias mayores de 18 años, hispanohablantes o quechuahablantes, que acuden como usuarios externos a los servicios asistenciales del establecimiento. Se excluye al personal administrativo y asistencial, cuya vivencia laboral constituye un objeto de estudio independiente.")
     
     add_heading_3(doc, "Limitaciones Metodológicas del Estudio")
-    add_bullet_item(doc, "Naturaleza no probabilística del diseño: ", "Los hallazgos fenomenológicos no persiguen la generalización estadística numérica de frecuencias poblacionales, sino la transferibilidad conceptual contextualizada según los criterios de rigor de Guba y Lincoln [13].")
+    add_bullet_item(doc, "Naturaleza no probabilística del diseño: ", "Los hallazgos fenomenológicos no persiguen la generalización estadística numérica de frecuencias poblacionales, sino la transferibilidad conceptual contextualizada según los criterios de rigor de Guba y Lincoln [12].")
     add_bullet_item(doc, "Efecto de reactividad y pudor: ", "La presencia de la investigadora y el uso de grabadoras de audio podrían generar reticencia inicial en ciertos informantes quechuahablantes. Dicha limitación se mitiga mediante una inmersión prolongada en el campo, el establecimiento de rapport empático y el diálogo en su lengua materna.")
     add_bullet_item(doc, "Condicionamiento biometeorológico: ", "Las variaciones estacionales de frío y lluvia pueden modular la vivencia somática, lo que demanda registrar notas de campo reflexivas precisas en cada sesión de entrevista.")
     
     add_heading_2(doc, "1.7. Viabilidad y consideraciones bioéticas")
     add_body_p(doc, "La presente investigación es plenamente viable puesto que cuenta con acceso institucional favorable a las instalaciones del Centro de Salud Belén, disponibilidad de recursos humanos calificados, respaldo académico tutorial de la cátedra de EN 486 (Dr. Manglio Aguirre Andrade) y financiamiento asegurado en su totalidad con recursos propios de la investigadora principal.")
     add_body_p(doc, "En estricta observancia del rigor bioético, el protocolo será sometido al Comité Institucional de Ética en Investigación (CIEI) de la Universidad Nacional de San Cristóbal de Huamanga (UNSCH) y coordinado formalmente con la Dirección Regional de Salud (DIRESA) de Ayacucho y la Red de Salud Huamanga antes de cualquier abordaje de campo.")
-    add_body_p(doc, "El estudio se rige bajo los principios de la Declaración de Helsinki [16], las pautas internacionales del CIOMS [17] y el Informe Belmont:")
+    add_body_p(doc, "El estudio se rige bajo los principios de la Declaración de Helsinki [15], las pautas internacionales del CIOMS [16] y el Informe Belmont:")
     add_bullet_item(doc, "Principio de Autonomía: ", "Se garantizará la voluntariedad absoluta a través de la suscripción formal del Consentimiento Informado (Anexo 4), explicándose de forma detallada y comprensible la naturaleza de la investigación en quechua chanka o castellano.")
     add_bullet_item(doc, "Principio de Beneficencia y No Maleficencia: ", "Se asegurará un ambiente de escucha digno y contenedor, evitando cualquier revictimización o angustia emocional durante el relato vivencial. Las entrevistas podrán suspenderse si el informante lo solicita.")
     add_bullet_item(doc, "Principio de Justicia y Confidencialidad: ", "Se mantendrá el anonimato absoluto mediante el uso de códigos alfanuméricos despersonalizados (ejemplo: Informante 01 -- [INF-01-MED]) en todas las etapas de transcripción, categorización en ATLAS.ti v9 y redacción del informe final.")
@@ -617,13 +624,13 @@ def build_protocolo_word(output_path):
     setup_header(sec_cap2, "CAPÍTULO II: MARCO CONTEXTUAL")
     
     add_heading_1(doc, "CAPÍTULO II: MARCO CONTEXTUAL")
-    add_body_p(doc, "En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del ambiente natural donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado [5, 6]. Para comprender la esencia de la experiencia vivida (Lebenswelt) de los usuarios respecto al acceso y la calidad de atención en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas [8, 4].")
+    add_body_p(doc, "En la investigación cualitativa bajo el diseño fenomenológico, el marco contextual no se reduce a una enumeración estática de datos cuantitativos ni a un inventario geográfico desvinculado; constituye la reconstrucción densa, profunda y holística del ambiente natural donde transcurre la vida cotidiana de las personas y donde se gesta el fenómeno estudiado [5, 6]. Para comprender la esencia de la experiencia vivida (Lebenswelt) de los usuarios respecto a la calidad de atención en el Centro de Salud Belén, es indispensable caracterizar la atmósfera física, cultural, social y sanitaria que envuelve, condiciona y dota de sentido a sus sentires, expectativas, frustraciones y valoraciones intersubjetivas [8, 4].")
     
     add_heading_2(doc, "2.1. Descripción geográfica, territorial y ambiental del área de estudio")
     add_body_p(doc, "La investigación se sitúa en el Centro de Salud Belén, establecimiento sanitario cabecera perteneciente a la Microred Huamanga de la Red de Salud Huamanga, adscrito a la Dirección Regional de Salud (DIRESA) de Ayacucho. El establecimiento se localiza en el emblemático e histórico barrio de Belén, en el sector céntrico-sur del distrito de Ayacucho, provincia de Huamanga, departamento de Ayacucho, a una altitud oficial de 2,760 metros sobre el nivel del mar. Sus coordenadas geográficas de emplazamiento corresponden a los 13°09'47'' de Latitud Sur y 74°13'28'' de Longitud Oeste.")
     add_body_p(doc, "El territorio bajo su responsabilidad sanitaria se asienta en la subcuenca del río Alameda, dentro de la cuenca principal del valle de Huamanga. Limita por el norte con el casco monumental y urbano central de la ciudad de Huamanga; por el sur con las urbanizaciones periurbanas del distrito de San Juan Bautista; por el este con las faldas del cerro Acuchimay y el distrito de Carmen Alto; y por el oeste con la prolongación de la avenida Mariscal Cáceres y el jirón Bellido. Su orografía presenta una topografía moderadamente accidentada, con calles estrechas, empinadas y trazados coloniales que imponen un esfuerzo físico considerable a los usuarios con movilidad reducida, gestantes y personas de la tercera edad que acuden a pie.")
-    add_body_p(doc, "El clima del área es templado y seco durante las horas diurnas soleadas, con temperaturas promedio anuales que oscilan entre los 15 °C y 22 °C. No obstante, una característica meteorológica decisiva para la experiencia del usuario radica en la marcada oscilación térmica interdiurna: durante las madrugadas andinas (entre las 4:00 a.m. y las 6:30 a.m.), el termómetro desciende habitualmente a valores de entre 5 °C y 8 °C, llegando a extremos menores en la temporada seca y de heladas (junio a agosto). Asimismo, se presenta una temporada de precipitaciones pluviales intensas entre los meses de noviembre y marzo. Esta condición ambiental no constituye un dato accesorio, sino un determinante corpóreo directo: los usuarios que pugnan por conseguir una cita deben pernoctar a la intemperie en la vereda exterior del establecimiento expuestos al frío penetrante y a la lluvia, lo cual predispone a la fatiga somática y agrava sus dolencias de base.")
-    add_body_p(doc, "En cuanto a la conectividad y accesibilidad vial, el establecimiento cuenta con acceso terrestre directo a través de arterias vehiculares pavimentadas (Jr. Bellido, Jr. Arequipa y Av. Mariscal Cáceres). El transporte urbano está garantizado mediante diversas líneas de transporte público (microbuses de las rutas 1, 3, 7 y 12), así como por una densa flota de mototaxis y taxis colectivos. A pesar de esta conectividad formal, el costo del pasaje y las barreras físicas del relieve obligan a un amplio porcentaje de familias vulnerables de sectores altos a realizar traslados peatonales de 20 a 40 minutos cargando niños en mantas tradicionales (llicllas) antes de la salida del sol.")
+    add_body_p(doc, "El clima del área es templado y seco durante las horas diurnas soleadas, con temperaturas promedio anuales que oscilan entre los 15 °C y 22 °C. No obstante, una característica meteorológica decisiva para la experiencia del usuario radica en la marcada oscilación térmica interdiurna: durante las madrugadas andinas (entre las 4:00 a.m. y las 6:30 a.m.), el termómetro desciende habitualmente a valores de entre 5 °C y 8 °C, llegando a extremos menores en la temporada seca y de heladas (junio a agosto). Asimismo, se presenta una temporada de precipitaciones pluviales intensas entre los meses de noviembre y marzo. Esta condición ambiental no constituye un dato accesorio, sino un determinante corpóreo directo que condiciona la expectativa del cuidado: el usuario que arriba al establecimiento con frío penetrante, fatiga somática y dolor acumulado demanda una acogida asistencial empática y cálida que alivie su vulnerabilidad.")
+    add_body_p(doc, "En cuanto a la conectividad y movilidad urbana, el establecimiento cuenta con acceso a través de vías pavimentadas (Jr. Bellido, Jr. Arequipa y Av. Mariscal Cáceres) y rutas de transporte público (líneas 1, 3, 7 y 12, además de mototaxis). A pesar de ello, las limitaciones económicas obligan a numerosas familias de sectores altos a realizar traslados peatonales de 20 a 40 minutos cargando niños en mantas tradicionales (llicllas). Esta exigencia física y ambiental predispone un estado de agotamiento al momento de ingresar a los consultorios, transformando la calidez del trato, la prontitud del saludo y la dignidad del espacio de espera en elementos determinantes de la calidad del cuidado.")
     
     add_heading_2(doc, "2.2. Características demográficas y estructura poblacional")
     add_body_p(doc, "La jurisdicción sanitaria asignada al Centro de Salud Belén abarca una población diana proyectada de 18,450 habitantes según el Padrón Poblacional Oficial de la Red de Salud Huamanga (2025–2026). La pirámide poblacional se caracteriza por una base ensanchada en los primeros decenios de vida y una proporción creciente de personas adultas mayores, configurando un doble desafío asistencial de perfil materno-infantil y crónico-degenerativo. La distribución por etapas de vida es la siguiente:")
@@ -645,7 +652,7 @@ def build_protocolo_word(output_path):
     add_body_p(doc, "Esta dependencia casi total del aseguramiento público estatal confiere una trascendencia vital a la gratuidad del servicio. Los usuarios acuden al centro asistencial bajo la certeza legítima de que el Estado proveerá tanto el acto médico como los medicamentos necesarios para su recuperación. Cuando la farmacia del establecimiento incurre en roturas de stock o desabastecimiento de medicamentos esenciales (como antibióticos de primera línea, antipiréticos, micronutrientes para la anemia o fármacos antihipertensivos), se suscita una crisis devastadora en la economía doméstica: el usuario se ve conminado a realizar un gasto de bolsillo imprevisto en las boticas y farmacias comerciales privadas que proliferan en los alrededores del centro de salud. Para una madre que vive de las ganancias del día a día en el mercado, destinar 20 o 30 soles a la compra de fármacos implica desfinanciar la alimentación diaria del hogar, vivencia que es experimentada con honda amargura, desesperanza e impotencia frente a la precariedad del sistema público.")
     
     add_heading_2(doc, "2.5. Características sanitarias, cartera de servicios y capacidad resolutiva institucional")
-    add_body_p(doc, "El Centro de Salud Belén se encuentra formalmente categorizado como un establecimiento de salud del primer nivel de atención de nivel I-3 (sin internamiento hospitalario), desempeñando un papel neurálgico como cabecera de microred asistencial. Su misión operativa consiste en brindar atención integral ambulatoria, promocional, preventiva y de recuperación básica para descongestionar el Hospital Regional de Ayacucho “Miguel Ángel Mariscal Llerena” (Nivel III-1).")
+    add_body_p(doc, "El Centro de Salud Belén se encuentra formalmente categorizado como un establecimiento de salud del primer nivel de atención de nivel I-3 (sin internamiento hospitalario), desempeñando un papel neurálgico como cabecera de microred asistencial. Su misión operativa consiste en brindar atención integral ambulatoria, promocional, preventiva y de recuperación básica a la población vulnerable de su ámbito territorial y jurisdiccional.")
     add_body_p(doc, "A continuación se detalla la oferta prestacional y la distribución del talento humano asistencial disponible en el establecimiento:")
     
     # Tabla de Cartera de Servicios
@@ -699,12 +706,12 @@ def build_protocolo_word(output_path):
     
     add_body_p(doc, "El perfil epidemiológico de la demanda ambulatoria está hegemonizado por las Infecciones Respiratorias Agudas (IRA), Enfermedades Diarreicas Agudas (EDA), parasitosis intestinal, anemia por deficiencia de hierro en niños menores de 36 meses, infecciones del tracto urinario (ITU) en mujeres en edad fértil y gestantes, lumbalgias mecánicas derivadas del trabajo físico, y patologías crónicas no transmisibles (hipertensión arterial y diabetes mellitus tipo 2) en adultos mayores.")
     add_body_p(doc, "No obstante su relevancia estratégica, el establecimiento enfrenta una serie de nudos críticos institucionales y barreras operativas que inciden directamente en la subjetividad del usuario:")
-    add_num_item(doc, 1, "El establecimiento oferta un número restringido de atenciones médicas por turno (generalmente entre 12 y 16 cupos por consultorio médico), limitadas estrictamente a la jornada asistencial de 6 horas. Esta restricción cuantitativa obliga a los usuarios a disputarse los turnos desde tempranas horas de la madrugada, generando un clima de zozobra e incertidumbre donde muchas personas, tras aguardar horas en la fila exterior, reciben la notificación de que los cupos se han agotado.", bold_prefix="Mecanismo de asignación de cupos matutinos (tickets): ")
+    add_num_item(doc, 1, "El elevado número de usuarios asignados por turno y la exigencia de metas de producción asistencial reducen drásticamente los minutos dedicados a cada consulta clínica ambulatoria (frecuentemente de 10 a 15 minutos). Esta premura temporal condiciona un ritmo de atención apresurado que limita la profundización en el diálogo clínico, restringe el espacio para la consejería de enfermería y dificulta la acogida empática de las dudas y temores del paciente.", bold_prefix="Sobrecarga asistencial y presión por rendimiento horario (tiempo de consulta abreviado): ")
     add_num_item(doc, 2, "El centro de salud funciona en un inmueble cuya infraestructura original ha sido sucesivamente adaptada, presentando pasillos estrechos, salas de espera techadas pero con escaso aislamiento térmico y bancas metálicas insuficientes. La tabiquería provisional entre consultorios adolece de aislamiento acústico, lo que provoca la filtración de conversaciones clínicas y quebranta el derecho a la privacidad e intimidad corporal y emocional de los pacientes.", bold_prefix="Limitaciones arquitectónicas y hacinamiento espacial: ")
     add_num_item(doc, 3, "Una fracción considerable del personal profesional y técnico se encuentra bajo regímenes de contratación temporal transitoria (CAS), lo que origina una continua rotación de profesionales que interrumpe la continuidad del vínculo afectivo con los pacientes de la comunidad. A ello se suma la sobrecarga de digitación en los sistemas informáticos (HIS-MINSA y formato FUA-SIS), la cual absorbe gran parte del tiempo de consulta, obligando al profesional a interactuar con la pantalla del computador en detrimento del contacto visual con el usuario.", bold_prefix="Inestabilidad laboral y sobrecarga burocrática: ")
     
     add_heading_2(doc, "2.6. Articulación dialéctica del escenario físico-social con las dimensiones existenciales del usuario (Lebenswelt)")
-    add_body_p(doc, "En concordancia con los postulados epistemológicos de van Manen [8], Creswell [6] y Hernández-Sampieri y Mendoza [5], el mundo de la vida (Lebenswelt) de los seres humanos se articula indisolublemente a través de cuatro existenciales universales: la temporalidad, la espacialidad, la corporalidad y la relacionalidad. El marco contextual del Centro de Salud Belén no actúa como un mero telón de fondo pasivo, sino que opera como un escenario dialéctico que condiciona y da forma a cada una de estas dimensiones existenciales, tal como se sintetiza a continuación:")
+    add_body_p(doc, "En concordancia con los postulados epistemológicos de van Manen [8], Creswell [6] y Hernández-Sampieri y Mendoza [5], articulados con el modelo del Proceso Interpersonal de Donabedian [9, 10] y la Teoría del Cuidado Humano de Watson [11], el mundo de la vida (Lebenswelt) de los usuarios se manifiesta a través de cuatro existenciales universales donde se construye el significado de la calidad de atención:")
     
     # Tabla de Existenciales
     tbl_ex = doc.add_table(rows=1, cols=3)
@@ -726,18 +733,18 @@ def build_protocolo_word(output_path):
         format_run(r, size_pt=9.5, bold=True)
     
     data_ex = [
-        ("Temporalidad (Tiempo vivido)", 
-         "Despertar forzado a las 4:00 a.m.; horas de vigilia en la vereda a la espera de la apertura del portón (7:00 a.m.); lapsos prolongados de espera en salas (2 a 3 horas) frente a una consulta médica de apenas 10 a 15 minutos.", 
-         "Vivencia del tiempo suspendido, angustia e impotencia ante la posibilidad de perder el cupo. Disparidad percibida entre el enorme sacrificio temporal realizado y la brevedad del contacto clínico."),
-        ("Espacialidad (Espacio vivido)", 
-         "La vereda exterior pública; el portón de rejas de metal; los pasadizos estrechos abarrotados de pacientes; consultorios con paredes divisorias delgadas que dejan filtrar voces e intimidades; ventanilla de admisión con rejas o vidrio.", 
-         "Sensación de hacinamiento, exposición pública y pérdida de intimidad. La ventanilla y el portón operan como fronteras físicas y simbólicas que separan al usuario del poder biomédico institucional."),
-        ("Corporalidad (Cuerpo vivido)", 
-         "Frío lacerante de la madrugada andina (5 °C a 8 °C); fatiga física muscular por permanecer de pie durante horas; hambre y sed por asistir en ayunas; llanto de los infantes acatarrados en mantas; dolores articulares intensificados por la intemperie.", 
-         "El cuerpo enfermo no es un objeto abstracto: es el asiento directo de la vulnerabilidad física, el dolor y la incomodidad somática. El acto asistencial es ansiado como un alivio palpable a la opresión del cuerpo."),
         ("Relacionalidad (Relación vivida con los otros)", 
          "Encuentro intersubjetivo entre el usuario quechua-mestizo vulnerable y el personal sanitario; presencia del saludo cordial (napaykuy) o su omisión; mirada a los ojos frente a la mirada fija en el monitor; paciencia explicativa o respuestas cortantes.", 
-         "La calidad se define en la dignidad del trato interpersonal: el usuario busca acogida humana (allin chaskiy), respeto mutuo (respetanakuy) y comprensión en su propia lengua. La calidez del cuidado de enfermería transforma el desamparo en alivio y gratitud.")
+         "La calidad se define en la dignidad del trato interpersonal: el usuario busca acogida humana (allin chaskiy), respeto mutuo (respetanakuy) y comprensión en su propia lengua originaria. La calidez del cuidado de enfermería transforma la vulnerabilidad en alivio, confianza y gratitud."),
+        ("Temporalidad (Tiempo vivido)", 
+         "Puntualidad en el inicio de la atención; duración efectiva del contacto clínico en consultorio; lapsos de espera frente a una consulta médica de apenas 10 a 15 minutos; ritmo pausado para escuchar dudas.", 
+         "Vivencia de la desvalorización del tiempo del paciente frente a la prisa protocolar. Una atención de calidad se experimenta cuando el profesional no muestra apuro, escucha sin interrumpir y dedica tiempo suficiente para clarificar el tratamiento."),
+        ("Espacialidad (Espacio vivido)", 
+         "Consultorios con tabiquería delgada que deja filtrar conversaciones clínicas; pasadizos congestionados; puertas entreabiertas durante la exploración médica; comodidad y limpieza del consultorio.", 
+         "Sensación de exposición pública o resguardo de la intimidad. La calidad espacial exige consultorios cerrados, confortables y seguros donde el usuario sienta absoluta reserva y confidencialidad respecto a sus padecimientos íntimos."),
+        ("Corporalidad (Cuerpo vivido)", 
+         "Delicadeza y respeto al pudor corporal al desvestirse o ser examinado; tacto suave en inyecciones y curaciones de enfermería; respuesta afectuosa ante el llanto del niño o los dolores articulares del anciano.", 
+         "El cuerpo doliente (nanay) no es un objeto mecánico de intervención, sino el asiento directo de la vulnerabilidad ontológica. La calidad del cuidado reside en la delicadeza física, la calidez manual y la empatía somática que reconforta el cuerpo enfermo (onqoy).")
     ]
     for row_idx, (dim, man, sig) in enumerate(data_ex):
         row = tbl_ex.add_row()
@@ -835,31 +842,31 @@ def build_protocolo_word(output_path):
                     format_run(r, size_pt=9.5, bold=True)
 
         cat_rows_data = [
-            ("Calidad de Atención y Cuidado Humano",
+            ("CALIDAD DE ATENCIÓN Y CUIDADO HUMANO\n\n(Encuentro intersubjetivo y vivencia del usuario en el C.S. Belén)",
              "1. Temporalidad (Tiempo vivido)",
-             "Experiencia subjetiva del transcurso del tiempo: madrugar a oscuras, incertidumbre en la fila exterior y horas en sala de espera.",
-             "• Esencia compartida: Madrugar a las 4:00 AM; angustia por alcanzar cupo; tiempo detenido en sala.\n• Variaciones individuales: Percepción de mayor agilidad en CRED que en Medicina; jóvenes valoran citas digitales, adultos mayores la fila presencial.",
-             "¿Cómo vivió subjetivamente el transcurrir de las horas desde su llegada en la madrugada hasta su ingreso al consultorio?"),
+             "Duración efectiva del contacto clínico en consultorio, ritmo pausado vs. prisa protocolar y dedicación de tiempo para escuchar y explicar con calma.",
+             "• Esencia compartida: Desazón ante consultas apresuradas de escasos minutos; bienestar profundo cuando el profesional dialoga con paciencia y sin apuro.\n• Variaciones individuales: Madres en CRED priorizan el tiempo dedicado a la consejería; adultos mayores demandan calma en la explicación de sus recetas.",
+             "¿Cómo experimentó el tiempo que el personal de salud le dedicó en la consulta? ¿Sintió que la atención fue apresurada o con la calma necesaria?"),
             ("",
              "2. Espacialidad (Espacio vivido)",
-             "Vivencia del entorno físico, ambiental y simbólico: acera exterior, hacinamiento en pasillos, rigidez de asientos y privacidad clínica.",
-             "• Esencia compartida: Frío de la acera matutina; estrechez de pasillos; alivio al entrar a un ambiente reservado.\n• Variaciones individuales: Consultorios de Obstetricia con mayor reserva que Triaje; disonancia sobre la ventilación en lluvias.",
-             "¿Cómo describe el espacio físico por donde transitó? ¿Sintió que el consultorio le brindó la intimidad y tranquilidad necesaria?"),
+             "Vivencia de la privacidad acústica y visual dentro del consultorio, confort físico de las salas y resguardo estricto de la confidencialidad clínica.",
+             "• Esencia compartida: Incomodidad e inhibición ante tabiquerías delgadas que filtran voces; tranquilidad y confianza en ambientes cerrados y dignos.\n• Variaciones individuales: Consultorios de Obstetricia y CRED demandan mayor privacidad física que salas de triaje general.",
+             "¿Sintió que el consultorio le brindó la intimidad, reserva y confidencialidad necesaria para dialogar y ser examinado(a)?"),
             ("",
              "3. Corporalidad (Cuerpo vivido)",
-             "Sentires somáticos y físicos de la persona doliente: fatiga física, hambre en ayunas, frío penetrante, dolor de la afección y alivio corporal.",
-             "• Esencia compartida: Cansancio lumbar por estar de pie; frío matutino; distensión corporal al ser atendido y recibir medicinas.\n• Variaciones individuales: Madres reportan llanto y cansancio de los niños; adultos mayores expresan dolor articular y entumecimiento.",
-             "¿Qué sensaciones experimentó en su cuerpo (dolor, fatiga, frío, alivio) a lo largo de toda su espera y atención clínica?"),
+             "Sentires somáticos durante el acto de cuidado: respeto al pudor físico al desvestirse, delicadeza en procedimientos y contención del dolor somático (nanay).",
+             "• Esencia compartida: Confianza y alivio ante el tacto suave y delicado en curaciones e inyecciones; consuelo humano frente al cuerpo adolorido (onqoy).\n• Variaciones individuales: Madres sensibles al trato corporal hacia sus hijos; adultos mayores valoran la gentileza física ante sus limitaciones motrices.",
+             "Al ser examinado(a) físicamente o recibir curaciones, ¿cómo sintió que el personal trató su cuerpo y su dolor somático?"),
             ("",
              "4. Relacionalidad (Relación humana)",
-             "Vínculo intersubjetivo entre el equipo asistencial y el usuario: saludo afectuoso (napaykuy), empatía, escucha activa y lengua quechua.",
-             "• Esencia compartida: Necesidad vital de calidez y mirada atenta; consuelo al ser escuchado; dignidad al comunicarse en quechua chanka.\n• Variaciones individuales: Trato cercano en Enfermería frente a mayor prisa en Medicina; quejas de indiferencia en Admisión.",
-             "¿Cómo fue el encuentro humano con el médico o enfermera? ¿Sintió calidez, paciencia y escucha atenta? ¿Le hablaron en quechua?"),
+             "Encuentro intersubjetivo entre el usuario y el equipo asistencial: calidez de la mirada, acogida cordial (allin chaskiy), respeto mutuo (respetanakuy) y lengua quechua.",
+             "• Esencia compartida: Primacía del contacto visual sobre la pantalla del computador; consuelo al ser escuchado con ternura y en quechua chanka.\n• Variaciones individuales: Reconocimiento de alta calidez en Enfermería frente a mayor prisa en turnos médicos de alta demanda.",
+             "¿Cómo fue el trato interpersonal y el encuentro humano con el equipo de salud? ¿Sintió calidez, mirada atenta y escucha en su lengua originaria?"),
             ("",
-             "5. Esencia Holística del Cuidado",
-             "Significado integral y valorativo que el usuario otorga a la atención digna, humanizada y resolutiva en el primer nivel de salud.",
-             "• Esencia compartida: Calidad significa respeto irrestricto, comprensión del dolor y entrega oportuna de fármacos.\n• Variaciones individuales: Pacientes crónicos priorizan abastecimiento de insumos; madres primerizas priorizan paciencia y pedagogía.",
-             "Al reflexionar sobre toda su vivencia, ¿qué significa para usted recibir una atención de auténtica calidad humana?")
+             "5. Esencia Holística de la Calidad",
+             "Significado integral y valorativo que el usuario otorga al cuidado humanizado, digno y resolutivo en el primer nivel asistencial.",
+             "• Esencia compartida: Calidad es ser reconocido como persona humana integral, conjugando destreza técnica con calidez afectiva incondicional.\n• Variaciones individuales: Adultos mayores priorizan comprensión y paciencia; personas jóvenes valoran la claridad diagnóstica y la empatía en el trato.",
+             "Al reflexionar sobre la atención recibida, ¿qué significa para usted recibir un cuidado de salud con auténtica calidad humana?")
         ]
 
         for row_data in cat_rows_data:
@@ -1225,29 +1232,26 @@ def build_protocolo_word(output_path):
     format_run(r, size_pt=14, bold=True)
     
     referencias = [
-        (1, "World Health Organization, OECD, The World Bank. Delivering quality health services: a global imperative for universal health coverage. Geneva: World Health Organization; 2018."),
-        (2, "Ministerio de Salud del Perú. Política Nacional de Calidad en Salud: Documento Técnico. Lima: MINSA; 2021."),
-        (3, "Ministerio de Salud del Perú. Líneas de Investigación en Salud al 2030: Resolución Ministerial N° 424-2025/MINSA. Lima: MINSA; 2025."),
-        (4, "Dirección Regional de Salud de Ayacucho. Prioridades Regionales de Investigación en Salud de Ayacucho 2025–2030. Ayacucho: DIRESA Ayacucho; 2025."),
-        (5, "Hernández-Sampieri R, Mendoza CP. Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. Ciudad de México: McGraw-Hill; 2018."),
-        (6, "Creswell JW. Qualitative inquiry and research design: Choosing among five approaches. 3rd ed. Thousand Oaks (CA): SAGE Publications; 2013."),
-        (7, "Husserl E. Ideas relativas a una fenomenología pura y una filosofía fenomenológica. Gaos J, traductor. México D.F.: Fondo de Cultura Económica; 1949."),
-        (8, "van Manen M. Researching lived experience: Human science for an action sensitive pedagogy. Albany (NY): State University of New York Press; 1990."),
-        (9, "Donabedian A. Explorations in Quality Assessment and Monitoring. Vol. 1: The Definition of Quality and Approaches to its Assessment. Ann Arbor (MI): Health Administration Press; 1980."),
-        (10, "Donabedian A. Evaluating the quality of medical care. 1966. Milbank Q. 2005;83(4):691-729."),
-        (11, "Penchansky R, Thomas JW. The concept of access: definition and relationship to consumer satisfaction. Med Care. 1981;19(2):127-40."),
-        (12, "Watson J. Nursing: The philosophy and science of caring. 2nd ed. Boulder: University Press of Colorado; 2008."),
-        (13, "Lincoln YS, Guba EG. Naturalistic Inquiry. Beverly Hills (CA): SAGE Publications; 1985."),
-        (14, "Okuda Benavides M, Gómez-Restrepo C. Métodos en investigación cualitativa: triangulación. Rev Colomb Psiquiatr. 2005;34(1):118-24."),
-        (15, "Bunge M. La ciencia, su método y su filosofía. Buenos Aires: Editorial Sudamericana; 2014."),
-        (16, "Asociación Médica Mundial. Declaración de Helsinki de la AMM: Principios éticos para las investigaciones médicas en seres humanos. Ferney-Voltaire: WMA; 2013."),
-        (17, "Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS). Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos. Ginebra: CIOMS; 2016."),
-        (18, "Aguirre-Andrade M, Tenorio-Acosta I, Rivas-Díaz L, Valenzuela-Oré F, Sánchez-Simbrón M, Quino-Huamaní F. Promoción de salud y nivel de salubridad de las familias, en comunidades del Distrito de Cangallo, Ayacucho 2020. Rev Investig Salud. 2020;14(2):45-58."),
-        (19, "Parasuraman A, Zeithaml VA, Berry LL. SERVQUAL: A multiple-item scale for measuring consumer perceptions of service quality. J Retailing. 1988;64(1):12-40."),
-        (20, "Ministerio de Salud del Perú. Guía técnica para la evaluación de la satisfacción del usuario externo en los establecimientos de salud y servicios médicos de apoyo: Resolución Ministerial N° 527-2011/MINSA. Lima: MINSA; 2011.")
+        (1, "Dirección Regional de Salud de Ayacucho. Prioridades Regionales de Investigación en Salud de Ayacucho 2025–2030. Ayacucho: DIRESA Ayacucho; 2025. Disponible en: ", "https://repositorio.ins.gob.pe/", "https://repositorio.ins.gob.pe/"),
+        (2, "Ministerio de Salud del Perú. Sistema de Gestión de la Calidad en Salud: Documento Técnico. Resolución Ministerial N° 519-2006/MINSA. Lima: MINSA; 2006. Disponible en: ", "https://www.gob.pe/institucion/minsa/normas-legales/255018-519-2006-minsa", "https://www.gob.pe/institucion/minsa/normas-legales/255018-519-2006-minsa"),
+        (3, "Ministerio de Salud del Perú. Líneas Nacionales de Investigación en Salud al 2030. Resolución Ministerial N° 424-2025/MINSA. Lima: MINSA / Instituto Nacional de Salud; 2025. Disponible en: ", "https://www.gob.pe/institucion/minsa/normas-legales", "https://www.gob.pe/institucion/minsa/normas-legales"),
+        (4, "World Health Organization, OECD, The World Bank. Delivering quality health services: a global imperative for universal health coverage. Geneva: World Health Organization; 2018. Disponible en: ", "https://iris.who.int/handle/10665/272465", "https://iris.who.int/handle/10665/272465"),
+        (5, "Hernández-Sampieri R, Mendoza CP. Metodología de la investigación: las rutas cuantitativa, cualitativa y mixta. Ciudad de México: McGraw-Hill Interamericana Editores; 2018. Disponible en: ", "https://isbnsearch.org/isbn/9781456260965", "https://isbnsearch.org/isbn/9781456260965"),
+        (6, "Creswell JW. Qualitative inquiry and research design: Choosing among five approaches. 3rd ed. Thousand Oaks (CA): SAGE Publications; 2013. Disponible en: ", "https://isbnsearch.org/isbn/9781412995306", "https://isbnsearch.org/isbn/9781412995306"),
+        (7, "Husserl E. Ideas relativas a una fenomenología pura y una filosofía fenomenológica. Gaos J, traductor. México D.F.: Fondo de Cultura Económica; 1949. Disponible en: ", "https://dialnet.unirioja.es/servlet/libro?codigo=224213", "https://dialnet.unirioja.es/servlet/libro?codigo=224213"),
+        (8, "van Manen M. Researching lived experience: Human science for an action sensitive pedagogy. Albany (NY): State University of New York Press / Routledge; 1990. doi: ", "https://doi.org/10.4324/9781315421056", "https://doi.org/10.4324/9781315421056"),
+        (9, "Donabedian A. Explorations in Quality Assessment and Monitoring. Vol. 1: The Definition of Quality and Approaches to its Assessment. Ann Arbor (MI): Health Administration Press; 1980. Disponible en: ", "https://pubmed.ncbi.nlm.nih.gov/7409848/", "https://pubmed.ncbi.nlm.nih.gov/7409848/"),
+        (10, "Donabedian A. Evaluating the quality of medical care. 1966. Milbank Q. 2005;83(4):691-729. doi: https://doi.org/10.1111/j.1468-0009.2005.00397.x. Disponible en: ", "https://pmc.ncbi.nlm.nih.gov/articles/PMC1464018/", "https://pmc.ncbi.nlm.nih.gov/articles/PMC1464018/"),
+        (11, "Watson J. Nursing: The philosophy and science of caring. Revised ed. Boulder (CO): University Press of Colorado; 2008. Disponible en: ", "https://archive.org/details/nursingphilosoph0000wats", "https://archive.org/details/nursingphilosoph0000wats"),
+        (12, "Lincoln YS, Guba EG. Naturalistic Inquiry. Beverly Hills (CA): SAGE Publications; 1985. Disponible en: ", "https://www.sagepub.com/shop/buy-a-book/naturalistic-inquiry-1-842", "https://www.sagepub.com/shop/buy-a-book/naturalistic-inquiry-1-842"),
+        (13, "Okuda Benavides M, Gómez-Restrepo C. Métodos en investigación cualitativa: triangulación. Rev Colomb Psiquiatr. 2005;34(1):118-24. Disponible en: ", "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0034-74502005000100008", "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0034-74502005000100008"),
+        (14, "Bunge M. La ciencia, su método y su filosofía. Buenos Aires: Editorial Sudamericana / Penguin Random House; 2014. Disponible en: ", "https://books.google.com.pe/books/about/La_ciencia_su_m%C3%A9todo_y_su_filosof%C3%ADa.html?id=lq8rDwAAQBAJ", "https://books.google.com.pe/books/about/La_ciencia_su_m%C3%A9todo_y_su_filosof%C3%ADa.html?id=lq8rDwAAQBAJ&redir_esc=y"),
+        (15, "Asociación Médica Mundial. Declaración de Helsinki de la AMM: Principios éticos para las investigaciones médicas en seres humanos. Fortaleza (Brasil): AMM; 2013. Disponible en: ", "https://www.wma.net/es/policies-post/declaracion-de-helsinki-de-la-amm-principios-eticos-para-las-investigaciones-medicas-en-seres-humanos/", "https://www.wma.net/es/policies-post/declaracion-de-helsinki-de-la-amm-principios-eticos-para-las-investigaciones-medicas-en-seres-humanos/"),
+        (16, "Consejo de Organizaciones Internacionales de las Ciencias Médicas (CIOMS). Pautas éticas internacionales para la investigación relacionada con la salud con seres humanos. 4ta ed. Ginebra: CIOMS / OPS; 2016. Disponible en: ", "https://cioms.ch/publications/product/pautas-eticas-internacionales-para-la-investigacion-relacionada-con-la-salud-con-seres-humanos/", "https://cioms.ch/publications/product/pautas-eticas-internacionales-para-la-investigacion-relacionada-con-la-salud-con-seres-humanos/"),
+        (17, "Aguirre-Andrade M, Tenorio-Acosta I, Rivas-Díaz L, Valenzuela-Oré F, Sánchez-Simbrón M, Quino-Huamaní F. Promoción de salud y nivel de salubridad de las familias, en comunidades del Distrito de Cangallo, Ayacucho 2020. Rev Investig Salud. 2020;14(2):45-58. Disponible en: ", "http://repositorio.unsch.edu.pe/", "http://repositorio.unsch.edu.pe/")
     ]
     
-    for num, texto in referencias:
+    for num, texto_base, texto_url, url_link in referencias:
         p_ref = doc.add_paragraph()
         p_ref.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
         p_ref.paragraph_format.line_spacing = 1.3
@@ -1258,8 +1262,9 @@ def build_protocolo_word(output_path):
         
         r_num = p_ref.add_run(f"[{num}]  ")
         format_run(r_num, size_pt=12, bold=False)
-        r_txt = p_ref.add_run(texto)
+        r_txt = p_ref.add_run(texto_base)
         format_run(r_txt, size_pt=12, bold=False)
+        add_hyperlink(p_ref, url_link, texto_url, color="0000EE", underline=True, font_size=12)
 
     # ==========================================================================
     # SECCIÓN 10: ANEXOS
@@ -1289,43 +1294,39 @@ def build_protocolo_word(output_path):
     # ANEXO 1
     # --------------------------------------------------------------------------
     add_heading_2(doc, "ANEXO 1: GUÍA DE ENTREVISTA A PROFUNDIDAD SEMIESTRUCTURADA")
-    add_body_p(doc, "Percepción de la calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.", bold_prefix="Título: ", indent_cm=0)
-    add_body_p(doc, "Recoger la experiencia vivencial del usuario sobre la atención recibida en el Centro de Salud Belén.", bold_prefix="Objetivo: ", indent_cm=0)
+    add_body_p(doc, "Calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.", bold_prefix="Título: ", indent_cm=0)
+    add_body_p(doc, "Comprender la vivencia intersubjetiva y el significado que los usuarios otorgan a la calidad del cuidado de salud recibido en el Centro de Salud Belén.", bold_prefix="Objetivo: ", indent_cm=0)
     
-    add_heading_3(doc, "I. Preguntas de Apertura y Clima de Confianza:")
-    add_num_item(doc, 1, "¿Podría relatarme qué le motivó a acudir el día de hoy al Centro de Salud Belén?")
-    add_num_item(doc, 2, "¿Con qué frecuencia asiste a este establecimiento y qué servicios o áreas suele visitar habitualmente?")
+    add_heading_3(doc, "I. Preguntas de Apertura y Clima de Confianza (Rapport y Napaykuy):")
+    add_num_item(doc, 1, "¿Podría relatarme qué motivo de salud le motivó a acudir hoy al Centro de Salud Belén y cómo se sentía anímicamente antes de ingresar al consultorio?\n(En quechua chanka: ¿Imataq qamta sasachasunki mamay/taytay, imaynam sonqoyki kachkarqa doctorman manaraq yaykuchkaspayki?)")
+    add_num_item(doc, 2, "¿Es la primera vez que se atiende en este establecimiento o suele venir frecuentemente a este servicio?\n(En quechua chanka: ¿Qallariykutichu kay Centro de Saludpi atendichikunki, icha sapa kutichu hamunki?)")
     
-    add_heading_3(doc, "II. Preguntas por Dimensiones y Categorías Temáticas:")
-    add_heading_3(doc, "II. Preguntas por Dimensiones y Categorías Temáticas:")
-    add_body_p(doc, "Dimensión 1: Acceso, disponibilidad de cupos y madrugadas (Existencial: Temporalidad)", bold_prefix="• ")
-    add_num_item(doc, 3, "¿A qué hora tuvo que salir de su casa y hacer fila para conseguir un cupo o turno de atención? ¿Qué vivencias, frío y dificultades atravesó mientras esperaba de madrugada?")
+    add_heading_3(doc, "II. Preguntas por Dimensiones Existenciales Fenomenológicas (van Manen y Sampieri):")
+    add_body_p(doc, "Dimensión Existencial 1: Temporalidad (El tiempo vivido en la consulta)", bold_prefix="• ")
+    add_num_item(doc, 3, "¿Cómo experimentó usted el tiempo que el personal de salud (médico, enfermera) le dedicó en la consulta? ¿Sintió que la atención fue apresurada y con prisa, o que le brindaron el tiempo y la calma necesaria para escuchar sus dolencias y explicarle con claridad su tratamiento?\n(En quechua chanka: ¿Imaynatam sientekurqanki doctor o enfermera atiendesunaykipaq tiempo qosusqaykiwan? ¿Utqayllachu qawasurqanki icha pacienciawanchu llapa tapukuyniykikunata uyarirqasunki hinaspa hampiytapas allinta willasurqanki?)")
     
-    add_body_p(doc, "Dimensión 2: Emociones, cansancio y sentires afectivos (Existencial: Corporalidad y Afecto)", bold_prefix="• ")
-    add_num_item(doc, 4, "¿Cuáles son los sentimientos o emociones (tranquilidad, alivio, tristeza, enojo, impotencia, cansancio físico o dolor) que experimentó su cuerpo a lo largo de las horas de espera hasta ingresar a la consulta?")
+    add_body_p(doc, "Dimensión Existencial 2: Espacialidad (El espacio vivido y privacidad en consultorio)", bold_prefix="• ")
+    add_num_item(doc, 4, "¿Cómo experimentó el ambiente del consultorio durante su atención? ¿Sintió que el espacio le brindó la debida privacidad, tranquilidad y reserva para conversar sobre sus problemas de salud y ser examinado(a) sin que personas ajenas observen o escuchen?\n(En quechua chanka: ¿Imaynatam consultorio ukuta sienterqanki? ¿Chaypi hawka, chuya hinaspa secretollapichu sientekurqanki doctorwan onqoyniykimanta rimanaykipaq, mana pipas uyaripayasuspayki?)")
     
-    add_body_p(doc, "Dimensión 3: Afrontamiento y respuesta vivencial ante trabas o desabastecimiento", bold_prefix="• ")
-    add_num_item(doc, 5, "Si en farmacia no tuvieron todas las medicinas que le recetaron o si el médico demoró en atenderle, ¿cómo reaccionó usted? ¿Tuvo que gastar su propio dinero en boticas particulares?")
+    add_body_p(doc, "Dimensión Existencial 3: Corporalidad (El cuerpo vivido durante el acto de cuidado)", bold_prefix="• ")
+    add_num_item(doc, 5, "Al momento de ser examinado(a) físicamente o recibir una atención (curación, inyección, control de CRED o triaje), ¿cómo sintió que el personal de salud trató su cuerpo? ¿Sintió delicadeza, respeto a su pudor al descubrirse y comprensión compasiva ante su dolor o malestar físico (nanay)?\n(En quechua chanka: ¿Doctorkuna o enfermerakuna cuerpoykita examinaptinku o hampiptinku, imaynam sientekurqanki? ¿Llampu makillawanchu, pinqakuyniykita respetaspachu hinaspa nanayniykita llakipayaspachu cuidarasunki?)")
     
-    add_body_p(doc, "Dimensión 4: Formas de interacción, trato humano y empatía (Existencial: Relacionalidad / Encuentro Interpersonal)", bold_prefix="• ")
-    add_num_item(doc, 6, "¿Cómo describe el trato que recibió por parte del médico, de la enfermera y de admisión? ¿Le miraron a los ojos, le escucharon con paciencia? ¿Le hablaron en quechua cuando lo necesitó?")
+    add_body_p(doc, "Dimensión Existencial 4: Relacionalidad (La relación humana vivida e intersubjetividad)", bold_prefix="• ")
+    add_num_item(doc, 6, "¿Cómo fue el trato interpersonal y el encuentro humano con el personal de salud (médico, enfermera)? ¿Sintió un trato digno, acogedor y empático con contacto visual? ¿Le recibieron con un saludo cordial (napaykuy, allin chaskiy) y le hablaron con paciencia en su lengua originaria (quechua chanka)?\n(En quechua chanka: ¿Imaynam runa kayninkuwan chaskisurqanki doctor o enfermera? ¿Allin napaykuywanchu, sumaq chaskiywanchu (allin chaskiy), kuyakuywanchu qawasurqanki? ¿Runasimipichu respetowan rimapayasurqanki?)")
     
-    add_body_p(doc, "Dimensión 5: Claridad comunicativa, entorno físico y privacidad (Existencial: Espacialidad)", bold_prefix="• ")
-    add_num_item(doc, 7, "¿Le explicaron con calma cómo debe tomar sus medicamentos y entendió claramente las indicaciones? ¿Se sintió cómodo en la sala y respetaron su intimidad dentro del consultorio?")
-    
-    add_body_p(doc, "Dimensión 6: Significado holístico de la calidad y esencia de la experiencia (Esencia del Fenómeno)", bold_prefix="• ")
-    add_num_item(doc, 8, "Al reflexionar sobre toda su vivencia de hoy, ¿qué significa para usted que le brinden una atención de verdadera calidad y qué propondría para humanizar el Centro de Salud Belén?")
+    add_body_p(doc, "Dimensión 5: Síntesis de la Esencia de la Calidad y Cuidado Humano", bold_prefix="• ")
+    add_num_item(doc, 7, "Al reflexionar sobre la atención recibida hoy, ¿qué significa para usted que un servicio de salud brinde auténtica calidad y calidez humana, y qué aspectos considera fundamentales para que el cuidado en el Centro de Salud Belén sea verdaderamente digno?\n(En quechua chanka: ¿Tukuy kaykunata yuyarispa, imataq qampaq allin calidadwan kuyapayaywan hampikuyqa? ¿Imatataq doctorwan enfermera ruranman llapa runa sonqonpi allin atendisqa hinaspa respetasqa sientekunanpaq?)")
     
     # --------------------------------------------------------------------------
     # ANEXO 2: MATRIZ DE CONSISTENCIA CUALITATIVA
     # --------------------------------------------------------------------------
     add_heading_2(doc, "ANEXO 2: MATRIZ DE CONSISTENCIA FENOMENOLÓGICA CUALITATIVA")
-    add_body_p(doc, "PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN Y ACCESO A LOS SERVICIOS DE SALUD EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026.", bold_prefix="TÍTULO: ", indent_cm=0)
+    add_body_p(doc, "CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026.", bold_prefix="TÍTULO: ", indent_cm=0)
     
     tbl_mat = doc.add_table(rows=1, cols=5)
     tbl_mat.alignment = WD_ALIGN_PARAGRAPH.CENTER
     set_table_borders(tbl_mat, color="808080", sz="4", val="single")
-    hdr_mat = ["PROBLEMA FENOMENOLÓGICO", "OBJETIVOS", "PREGUNTAS NORTEADORAS", "CATEGORÍAS DE ESTUDIO", "METODOLOGÍA FENOMENOLÓGICA"]
+    hdr_mat = ["PROBLEMA FENOMENOLÓGICO", "OBJETIVOS CUALITATIVOS", "PREGUNTAS NORTEADORAS", "DIMENSIONES EXISTENCIALES", "METODOLOGÍA CUALITATIVA"]
     w_mat = [Cm(3.0), Cm(3.0), Cm(3.2), Cm(3.0), Cm(3.4)]
     for i, t in enumerate(hdr_mat):
         cell = tbl_mat.rows[0].cells[i]
@@ -1340,40 +1341,37 @@ def build_protocolo_word(output_path):
                 
     row_mat = tbl_mat.add_row()
     mat_cols_content = [
-        ("General:\n¿Cuál es el significado, estructura y esencia de la experiencia vivida por los usuarios respecto al fenómeno del acceso y la calidad de atención en el C.S. Belén, Ayacucho 2026?\n\n"
+        ("General:\n¿Cuál es el significado, la estructura y la esencia de la experiencia vivida por los usuarios respecto a la calidad de atención en el Centro de Salud Belén, Ayacucho 2026?\n\n"
          "Específicos:\n"
-         "1. Develar emociones y vivencias corporales.\n"
-         "2. Describir la temporalidad en la madrugada y espera.\n"
-         "3. Identificar la espacialidad y afrontamiento.\n"
-         "4. Caracterizar la relacionalidad e interculturalidad.\n"
-         "5. Interpretar la esencia de la calidad asistencial."),
-        ("General:\nComprender la estructura y esencia de la experiencia vivida por los usuarios respecto al acceso y la calidad de atención en el C.S. Belén, Ayacucho 2026.\n\n"
+         "1. Analizar la calidez relacional y el diálogo en quechua chanka.\n"
+         "2. Comprender la oportunidad y tiempo efectivo dedicado en consulta.\n"
+         "3. Describir la privacidad y confidencialidad en consultorio.\n"
+         "4. Identificar el respeto al pudor físico y alivio del dolor.\n"
+         "5. Sintetizar la esencia y divergencias de la calidad asistencial."),
+        ("General:\nComprender el significado, estructura y esencia de la experiencia vivida por los usuarios respecto a la calidad de atención en el Centro de Salud Belén, Ayacucho 2026.\n\n"
          "Específicos:\n"
-         "1. Develar las emociones, sentimientos y vivencias corporales.\n"
-         "2. Describir la temporalidad vivida en la trayectoria asistencial.\n"
-         "3. Identificar la espacialidad del centro y afrontamiento.\n"
-         "4. Caracterizar la relacionalidad y trato en quechua/español.\n"
-         "5. Interpretar la esencia compartida y categorías divergentes."),
-        ("1. Corporalidad y emociones en la atención.\n\n"
-         "2. Temporalidad en la madrugada y espera.\n\n"
-         "3. Espacialidad y mecanismos de afrontamiento.\n\n"
-         "4. Relacionalidad y trato intercultural quechua.\n\n"
-         "5. Esencia compartida de calidad asistencial."),
-        ("Categoría 1: Acceso a Servicios de Salud\n"
-         "• Disponibilidad de cupos\n"
-         "• Acomodación (Temporalidad)\n"
-         "• Asequibilidad y gasto SIS\n"
-         "• Aceptabilidad quechua (Relacionalidad)\n\n"
-         "Categoría 2: Calidad Percibida\n"
-         "• Trato empático (Relacionalidad)\n"
-         "• Claridad pedagógica\n"
-         "• Confort y privacidad (Espacialidad)\n"
-         "• Esencia y confianza institucional"),
-        ("Enfoque y Diseño:\nCualitativo con diseño fenomenológico empírico y hermenéutico (Husserl, van Manen, Creswell, Sampieri).\n\n"
-         "Existenciales:\nTemporalidad, espacialidad, corporalidad y relacionalidad.\n\n"
-         "Población/Muestra:\nUsuarios de consulta externa del C.S. Belén. Muestreo intencional regulado por saturación teórica (12-18 participantes).\n\n"
+         "1. Comprender la dimensión relacional y comunicación en quechua chanka.\n"
+         "2. Explorar la dimensión temporal en la duración de la consulta.\n"
+         "3. Describir la dimensión espacial y confidencialidad en consultorio.\n"
+         "4. Identificar la dimensión corporal, pudor físico y dolor (nanay).\n"
+         "5. Sintetizar la esencia compartida y visiones divergentes."),
+        ("1. ¿Cómo experimentan el trato digno, empatía y quechua chanka?\n\n"
+         "2. ¿De qué manera vivencian la duración y calma en la consulta?\n\n"
+         "3. ¿Cómo vivencian la reserva y privacidad en el consultorio?\n\n"
+         "4. ¿Cómo vivencian el respeto a su pudor somático y dolor?\n\n"
+         "5. ¿Cuál es la esencia y visiones divergentes de la calidad?"),
+        ("Categoría Central:\nCalidad de Atención de Salud (Donabedian y Watson)\n\n"
+         "Dimensiones Existenciales (Lebenswelt):\n"
+         "• D1: Relacionalidad (Mitwelt)\n"
+         "• D2: Temporalidad (Lebenszeit)\n"
+         "• D3: Espacialidad (Lebensraum)\n"
+         "• D4: Corporalidad (Leib)\n"
+         "• D5: Esencia y Divergencias"),
+        ("Enfoque y Diseño:\nInterpretativo-fenomenológico, naturalista (Husserl, van Manen, Sampieri).\n\n"
+         "Muestra e Informantes:\nCasos tipo no probabilístico. Criterio de saturación teórica (12 a 18 informantes clave).\n\n"
          "Técnicas:\nEntrevista fenomenológica en profundidad y observación reflexiva.\n\n"
-         "Instrumentos:\nGuía semiestructurada bilingüe y diario de campo reflexivo.")
+         "Rigor Científico:\nCriterios de Guba y Lincoln (1985): credibilidad, transferibilidad, consistencia y confirmabilidad.\n\n"
+         "Software:\nATLAS.ti v9.")
     ]
     for idx, text in enumerate(mat_cols_content):
         c = row_mat.cells[idx]
@@ -1400,7 +1398,7 @@ def build_protocolo_word(output_path):
     add_body_p(doc, "__________________________________________________________________", bold_prefix="1.5. Cargo que desempeña: ", indent_cm=0)
     add_body_p(doc, "Guía de entrevista a profundidad semiestructurada.", bold_prefix="1.6. Denominación del instrumento: ", indent_cm=0)
     add_body_p(doc, "Gresly Lucero Pariona Palomino.", bold_prefix="1.7. Autor del instrumento: ", indent_cm=0)
-    add_body_p(doc, "Percepción de la calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.", bold_prefix="1.8. Título de la tesis: ", indent_cm=0)
+    add_body_p(doc, "Calidad de atención en usuarios del Centro de Salud Belén, Ayacucho 2026.", bold_prefix="1.8. Título de la tesis: ", indent_cm=0)
     
     add_heading_3(doc, "II. CRITERIOS DE VALIDACIÓN")
     tbl_exp = doc.add_table(rows=1, cols=5)
@@ -1461,7 +1459,7 @@ def build_protocolo_word(output_path):
     # --------------------------------------------------------------------------
     add_heading_2(doc, "ANEXO 4: MODELO DE CONSENTIMIENTO INFORMADO")
     add_body_p(doc, "Yo, __________________________________________________________________, identificado con DNI N° _____________________, domiciliado en ________________________________________________________, Distrito de Ayacucho, Región Ayacucho.", indent_cm=0)
-    add_body_p(doc, "He tomado conocimiento del estudio de investigación titulado: “PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”.", indent_cm=0)
+    add_body_p(doc, "He tomado conocimiento del estudio de investigación titulado: “CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”.", indent_cm=0)
     add_body_p(doc, "Declaro participar en calidad de Informante clave y me comprometo a brindar información fidedigna. Se me ha informado que la entrevista será grabada únicamente en audio, que mi participación es totalmente voluntaria, anónima y confidencial, y que puedo retirarme del estudio en el momento que considere conveniente sin que esto afecte mi atención en el centro de salud.", indent_cm=0)
     add_body_p(doc, "Para dar conformidad a este acto, firmo e imprimo mi huella digital al pie del documento.", indent_cm=0)
     add_body_p(doc, "Lugar y fecha: Ayacucho, _____ de __________________________ de 2026.", indent_cm=0)
@@ -1487,7 +1485,7 @@ def build_protocolo_word(output_path):
     add_body_p(doc, "Ayacucho, _____ de enero del 2026.", indent_cm=0)
     add_body_p(doc, "Dr. Alejandro Yarlequé Mujica\nDecano de la Facultad de Ciencias de la Salud\nUniversidad Nacional de San Cristóbal de Huamanga", indent_cm=0)
     add_body_p(doc, "Asunto: Carta de Aceptación y Asesoría Formal de Proyecto de Tesis", bold_prefix="ASUNTO: ", indent_cm=0)
-    add_body_p(doc, "Sirva la presente para saludarlo cordialmente y a la vez comunicarle la asesoría formal del Proyecto de Tesis cualitativo titulado: “PERCEPCIÓN DE LA CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”, perteneciente a la estudiante Gresly Lucero Pariona Palomino, egresada de la Escuela Profesional de Enfermería.", indent_cm=0)
+    add_body_p(doc, "Sirva la presente para saludarlo cordialmente y a la vez comunicarle la asesoría formal del Proyecto de Tesis cualitativo titulado: “CALIDAD DE ATENCIÓN EN USUARIOS DEL CENTRO DE SALUD BELÉN, AYACUCHO 2026”, perteneciente a la estudiante Gresly Lucero Pariona Palomino, egresada de la Escuela Profesional de Enfermería.", indent_cm=0)
     add_body_p(doc, "En tal sentido, dicha asesoría comprenderá todas las etapas del proyecto y ejecución del trabajo de investigación, permitiendo la obtención del Título Profesional de Licenciada en Enfermería.", indent_cm=0)
     add_body_p(doc, "Atentamente,", indent_cm=0)
     

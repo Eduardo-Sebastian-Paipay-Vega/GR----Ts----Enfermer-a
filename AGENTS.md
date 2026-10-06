@@ -2,8 +2,8 @@
 
 Este repositorio corresponde a la cátedra de **Proyecto de Investigación en Salud (EN 486)** de la Escuela Profesional de Enfermería - Facultad de Ciencias de la Salud de la **Universidad Nacional de San Cristóbal de Huamanga (UNSCH)**, a cargo del **Dr. Manglio Aguirre Andrade**.
 
-* **Investigadora Principal / Autora:** **Bach. Gresly Lucero Pariona Palomino** *(ORCID: 0009-0008-5421-9872)*
-* **Tema de Investigación:** **Percepción de la Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026**
+* **Investigadora Principal / Autora:** **Gresly Lucero Pariona Palomino** *(ORCID: 0009-0008-5421-9872)*
+* **Tema de Investigación:** **Calidad de Atención en Usuarios del Centro de Salud Belén, Ayacucho 2026**
 * **Línea MINSA al 2030:** **Línea 10:** *Sistemas y servicios de salud, acceso y cobertura universal* (RM N° 424-2025/MINSA)
 * **Prioridad Regional DIRESA Ayacucho 2025–2030:** **Prioridad 10:** *Organización, gestión, calidad y accesibilidad de los servicios de salud*
 * **Enfoque y Diseño:** Cualitativo – **Diseño Fenomenológico de Investigación** (Hernández-Sampieri 6ta ed., van Manen, Guba y Lincoln)

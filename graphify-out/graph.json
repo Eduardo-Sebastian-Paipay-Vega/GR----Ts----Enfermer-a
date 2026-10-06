@@ -349,7 +349,7 @@
       "label": "minsa_linea_investigacion_2030",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L26",
+      "source_location": "L27",
       "id": "documentos_metadatos_autor_proyecto_minsa_linea_investigacion_2030",
       "community": 87,
       "norm_label": "minsa_linea_investigacion_2030"
@@ -358,7 +358,7 @@
       "label": "linea_numero",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L27",
+      "source_location": "L28",
       "id": "documentos_metadatos_autor_proyecto_minsa_linea_investigacion_2030_linea_numero",
       "community": 87,
       "norm_label": "linea_numero"
@@ -367,7 +367,7 @@
       "label": "linea_nombre",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L28",
+      "source_location": "L29",
       "id": "documentos_metadatos_autor_proyecto_minsa_linea_investigacion_2030_linea_nombre",
       "community": 87,
       "norm_label": "linea_nombre"
@@ -376,7 +376,7 @@
       "label": "norma",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L29",
+      "source_location": "L30",
       "id": "documentos_metadatos_autor_proyecto_minsa_linea_investigacion_2030_norma",
       "community": 87,
       "norm_label": "norma"
@@ -385,7 +385,7 @@
       "label": "diresa_prioridad_regional_ayacucho",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L31",
+      "source_location": "L32",
       "id": "documentos_metadatos_autor_proyecto_diresa_prioridad_regional_ayacucho",
       "community": 87,
       "norm_label": "diresa_prioridad_regional_ayacucho"
@@ -394,7 +394,7 @@
       "label": "prioridad_numero",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L32",
+      "source_location": "L33",
       "id": "documentos_metadatos_autor_proyecto_diresa_prioridad_regional_ayacucho_prioridad_numero",
       "community": 87,
       "norm_label": "prioridad_numero"
@@ -403,7 +403,7 @@
       "label": "prioridad_nombre",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L33",
+      "source_location": "L34",
       "id": "documentos_metadatos_autor_proyecto_diresa_prioridad_regional_ayacucho_prioridad_nombre",
       "community": 87,
       "norm_label": "prioridad_nombre"
@@ -412,7 +412,7 @@
       "label": "periodo",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L34",
+      "source_location": "L35",
       "id": "documentos_metadatos_autor_proyecto_diresa_prioridad_regional_ayacucho_periodo",
       "community": 87,
       "norm_label": "periodo"
@@ -421,7 +421,7 @@
       "label": "eje",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L35",
+      "source_location": "L36",
       "id": "documentos_metadatos_autor_proyecto_diresa_prioridad_regional_ayacucho_eje",
       "community": 87,
       "norm_label": "eje"
@@ -430,19 +430,10 @@
       "label": "theoretical_framework",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L37",
+      "source_location": "L38",
       "id": "documentos_metadatos_autor_proyecto_theoretical_framework",
       "community": 87,
       "norm_label": "theoretical_framework"
-    },
-    {
-      "label": "access_model",
-      "file_type": "code",
-      "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L38",
-      "id": "documentos_metadatos_autor_proyecto_theoretical_framework_access_model",
-      "community": 87,
-      "norm_label": "access_model"
     },
     {
       "label": "quality_model",
@@ -454,19 +445,28 @@
       "norm_label": "quality_model"
     },
     {
-      "label": "evaluation_model",
+      "label": "caring_model",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
       "source_location": "L40",
-      "id": "documentos_metadatos_autor_proyecto_theoretical_framework_evaluation_model",
+      "id": "documentos_metadatos_autor_proyecto_theoretical_framework_caring_model",
       "community": 87,
-      "norm_label": "evaluation_model"
+      "norm_label": "caring_model"
+    },
+    {
+      "label": "phenomenological_model",
+      "file_type": "code",
+      "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
+      "source_location": "L41",
+      "id": "documentos_metadatos_autor_proyecto_theoretical_framework_phenomenological_model",
+      "community": 87,
+      "norm_label": "phenomenological_model"
     },
     {
       "label": "associated_files",
       "file_type": "code",
       "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
-      "source_location": "L42",
+      "source_location": "L43",
       "id": "documentos_metadatos_autor_proyecto_associated_files",
       "community": 87,
       "norm_label": "associated_files"
@@ -1174,13 +1174,13 @@
       "norm_label": "readme.md"
     },
     {
-      "label": "INVESTIGACI\u00d3N EN SALUD: PERCEPCI\u00d3N DE LA CALIDAD DE ATENCI\u00d3N Y ACCESO A SERVICIOS DE SALUD (UNSCH \u2013 EN 486)",
+      "label": "INVESTIGACI\u00d3N EN SALUD: CALIDAD DE ATENCI\u00d3N EN USUARIOS DEL CENTRO DE SALUD BEL\u00c9N, AYACUCHO 2026 (UNSCH \u2013 EN 486)",
       "file_type": "document",
       "source_file": "README.md",
       "source_location": "L1",
-      "id": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
+      "id": "gresly_readme_investigaci\u00f3n_en_salud_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026_unsch_en_486",
       "community": 376,
-      "norm_label": "investigacion en salud: percepcion de la calidad de atencion y acceso a servicios de salud (unsch \u2013 en 486)"
+      "norm_label": "investigacion en salud: calidad de atencion en usuarios del centro de salud belen, ayacucho 2026 (unsch \u2013 en 486)"
     },
     {
       "label": "\ud83c\udfdb\ufe0f Filosof\u00eda del Repositorio: \"PIENSA, APOYA, PLANIFICA, AUDITA Y EJECUTA\"",
@@ -2779,7 +2779,7 @@
       "label": "3. METADATOS MUESTRALES Y UNIDAD DE INFORMACI\u00d3N",
       "file_type": "document",
       "source_file": "00_CONTEXTO_SELLADO/00_metadatos.md",
-      "source_location": "L55",
+      "source_location": "L58",
       "id": "00_contexto_sellado_00_metadatos_3_metadatos_muestrales_y_unidad_de_informaci\u00f3n",
       "community": 69,
       "norm_label": "3. metadatos muestrales y unidad de informacion"
@@ -2806,7 +2806,7 @@
       "label": "TABLA MAESTRA DE CORRESPONDENCIA BIUN\u00cdVOCA (1 : 1)",
       "file_type": "document",
       "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
-      "source_location": "L9",
+      "source_location": "L10",
       "id": "00_contexto_sellado_01_matriz_consistencia_tabla_maestra_de_correspondencia_biun\u00edvoca_1_1",
       "community": 73,
       "norm_label": "tabla maestra de correspondencia biunivoca (1 : 1)"
@@ -2815,7 +2815,7 @@
       "label": "\ud83d\udd12 CL\u00c1USULA DE BLOQUEO Y TRAZABILIDAD",
       "file_type": "document",
       "source_file": "00_CONTEXTO_SELLADO/01_matriz_consistencia.md",
-      "source_location": "L22",
+      "source_location": "L23",
       "id": "00_contexto_sellado_01_matriz_consistencia_cl\u00e1usula_de_bloqueo_y_trazabilidad",
       "community": 73,
       "norm_label": "\ud83d\udd12 clausula de bloqueo y trazabilidad"
@@ -2857,13 +2857,13 @@
       "norm_label": "matriz de categorizacion y guia de entrevista"
     },
     {
-      "label": "\ud83d\udd12 REGLA DE BLOQUEO PARA EL AGENTE EN CAP\u00cdTULO II Y III",
+      "label": "\ud83d\udd12 REGLAS DE BLOQUEO Y RIGOR CIENT\u00cdFICO",
       "file_type": "document",
       "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
       "source_location": "L26",
-      "id": "00_contexto_sellado_02_operacionalizacion_regla_de_bloqueo_para_el_agente_en_cap\u00edtulo_ii_y_iii",
+      "id": "00_contexto_sellado_02_operacionalizacion_reglas_de_bloqueo_y_rigor_cient\u00edfico",
       "community": 70,
-      "norm_label": "\ud83d\udd12 regla de bloqueo para el agente en capitulo ii y iii"
+      "norm_label": "\ud83d\udd12 reglas de bloqueo y rigor cientifico"
     },
     {
       "label": "03_diccionario_datos_reales.md",
@@ -5656,13 +5656,13 @@
       "norm_label": "diseno fenomenologico de investigacion"
     },
     {
-      "label": "Percepci\u00f3n de la Calidad de Atenci\u00f3n en Usuarios del Centro de Salud Bel\u00e9n, Ayacucho 2026",
+      "label": "Calidad de Atenci\u00f3n en Usuarios del Centro de Salud Bel\u00e9n, Ayacucho 2026",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L10",
-      "id": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "id": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "community": 1,
-      "norm_label": "percepcion de la calidad de atencion en usuarios del centro de salud belen, ayacucho 2026"
+      "norm_label": "calidad de atencion en usuarios del centro de salud belen, ayacucho 2026"
     },
     {
       "label": "RESUMEN METODOL\u00d3GICO PARA SUSTENTACI\u00d3N",
@@ -5697,7 +5697,7 @@
       "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L119",
       "id": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
-      "community": 15,
+      "community": 1,
       "norm_label": "capitulo i: el problema de investigacion"
     },
     {
@@ -5706,7 +5706,7 @@
       "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L121",
       "id": "mds_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_y_delimitaci\u00f3n_del_problema_de_investigaci\u00f3n",
-      "community": 15,
+      "community": 1,
       "norm_label": "1.1. contextualizacion y delimitacion del problema de investigacion"
     },
     {
@@ -5715,7 +5715,7 @@
       "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L130",
       "id": "mds_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_rigurosa_del_estudio_c\u00e1tedra_en_486",
-      "community": 15,
+      "community": 1,
       "norm_label": "delimitacion rigurosa del estudio (catedra en 486)"
     },
     {
@@ -8883,7 +8883,7 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L1",
       "id": "documentos_mds_03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_md",
-      "community": 391,
+      "community": 395,
       "norm_label": "proyecto_tesis_cualitativo_cs_belen.md"
     },
     {
@@ -8892,7 +8892,7 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L1",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_universidad_nacional_de_san_crist\u00f3bal_de_huamanga",
-      "community": 391,
+      "community": 395,
       "norm_label": "universidad nacional de san cristobal de huamanga"
     },
     {
@@ -8932,13 +8932,13 @@
       "norm_label": "diseno fenomenologico de investigacion"
     },
     {
-      "label": "Percepci\u00f3n de la Calidad de Atenci\u00f3n en Usuarios del Centro de Salud Bel\u00e9n, Ayacucho 2026",
+      "label": "Calidad de Atenci\u00f3n en Usuarios del Centro de Salud Bel\u00e9n, Ayacucho 2026",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L10",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "community": 395,
-      "norm_label": "percepcion de la calidad de atencion en usuarios del centro de salud belen, ayacucho 2026"
+      "norm_label": "calidad de atencion en usuarios del centro de salud belen, ayacucho 2026"
     },
     {
       "label": "RESUMEN METODOL\u00d3GICO PARA SUSTENTACI\u00d3N",
@@ -8971,52 +8971,52 @@
       "label": "CAP\u00cdTULO I: EL PROBLEMA DE INVESTIGACI\u00d3N",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L119",
+      "source_location": "L117",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
       "community": 370,
       "norm_label": "capitulo i: el problema de investigacion"
     },
     {
-      "label": "1.1. Descripci\u00f3n de la Realidad Problem\u00e1tica",
+      "label": "1.1. Contextualizaci\u00f3n del Problema de Investigaci\u00f3n",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L121",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "source_location": "L119",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_del_problema_de_investigaci\u00f3n",
       "community": 370,
-      "norm_label": "1.1. descripcion de la realidad problematica"
+      "norm_label": "1.1. contextualizacion del problema de investigacion"
     },
     {
-      "label": "Contexto Internacional (Macro)",
+      "label": "1. \u00c1mbito Local (Centro de Salud Bel\u00e9n, Ayacucho)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L128",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro",
+      "source_location": "L126",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_\u00e1mbito_local_centro_de_salud_bel\u00e9n_ayacucho",
       "community": 370,
-      "norm_label": "contexto internacional (macro)"
+      "norm_label": "1. ambito local (centro de salud belen, ayacucho)"
     },
     {
-      "label": "Contexto Nacional (Meso)",
-      "file_type": "document",
-      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L131",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso",
-      "community": 370,
-      "norm_label": "contexto nacional (meso)"
-    },
-    {
-      "label": "Contexto Regional y Local (Micro: Centro de Salud Bel\u00e9n)",
+      "label": "2. \u00c1mbito Nacional (Per\u00fa)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L134",
-      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_\u00e1mbito_nacional_per\u00fa",
       "community": 370,
-      "norm_label": "contexto regional y local (micro: centro de salud belen)"
+      "norm_label": "2. ambito nacional (peru)"
+    },
+    {
+      "label": "3. \u00c1mbito Mundial (Internacional o Global)",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L137",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_\u00e1mbito_mundial_internacional_o_global",
+      "community": 370,
+      "norm_label": "3. ambito mundial (internacional o global)"
     },
     {
       "label": "1.2. Formulaci\u00f3n del Problema",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L146",
+      "source_location": "L144",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_2_formulaci\u00f3n_del_problema",
       "community": 370,
       "norm_label": "1.2. formulacion del problema"
@@ -9025,7 +9025,7 @@
       "label": "Problema General (Pregunta Principal)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L149",
+      "source_location": "L147",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problema_general_pregunta_principal",
       "community": 370,
       "norm_label": "problema general (pregunta principal)"
@@ -9034,7 +9034,7 @@
       "label": "Problemas Espec\u00edficos (Preguntas Espec\u00edficas)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L152",
+      "source_location": "L150",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_problemas_espec\u00edficos_preguntas_espec\u00edficas",
       "community": 370,
       "norm_label": "problemas especificos (preguntas especificas)"
@@ -9043,7 +9043,7 @@
       "label": "1.3. Formulaci\u00f3n de los Objetivos de Investigaci\u00f3n",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L161",
+      "source_location": "L159",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_3_formulaci\u00f3n_de_los_objetivos_de_investigaci\u00f3n",
       "community": 370,
       "norm_label": "1.3. formulacion de los objetivos de investigacion"
@@ -9052,7 +9052,7 @@
       "label": "Objetivo General",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L164",
+      "source_location": "L162",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_objetivo_general",
       "community": 370,
       "norm_label": "objetivo general"
@@ -9061,7 +9061,7 @@
       "label": "Objetivos Espec\u00edficos",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L167",
+      "source_location": "L165",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_objetivos_espec\u00edficos",
       "community": 370,
       "norm_label": "objetivos especificos"
@@ -9070,7 +9070,7 @@
       "label": "1.4. Supuestos Fenomenol\u00f3gicos de la Investigaci\u00f3n",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L176",
+      "source_location": "L174",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_4_supuestos_fenomenol\u00f3gicos_de_la_investigaci\u00f3n",
       "community": 370,
       "norm_label": "1.4. supuestos fenomenologicos de la investigacion"
@@ -9079,7 +9079,7 @@
       "label": "Supuesto General",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L179",
+      "source_location": "L177",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuesto_general",
       "community": 370,
       "norm_label": "supuesto general"
@@ -9088,7 +9088,7 @@
       "label": "Supuestos Espec\u00edficos del Mundo de la Vida (*Lebenswelt*)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L182",
+      "source_location": "L180",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_supuestos_espec\u00edficos_del_mundo_de_la_vida_lebenswelt",
       "community": 370,
       "norm_label": "supuestos especificos del mundo de la vida (*lebenswelt*)"
@@ -9097,7 +9097,7 @@
       "label": "1.5. Justificaci\u00f3n e Importancia de la Investigaci\u00f3n",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L191",
+      "source_location": "L189",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_5_justificaci\u00f3n_e_importancia_de_la_investigaci\u00f3n",
       "community": 370,
       "norm_label": "1.5. justificacion e importancia de la investigacion"
@@ -9106,7 +9106,7 @@
       "label": "Justificaci\u00f3n Te\u00f3rica",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L194",
+      "source_location": "L192",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_te\u00f3rica",
       "community": 370,
       "norm_label": "justificacion teorica"
@@ -9115,7 +9115,7 @@
       "label": "Justificaci\u00f3n Pr\u00e1ctica",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L197",
+      "source_location": "L195",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_pr\u00e1ctica",
       "community": 370,
       "norm_label": "justificacion practica"
@@ -9124,7 +9124,7 @@
       "label": "Justificaci\u00f3n Metodol\u00f3gica",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L200",
+      "source_location": "L198",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_metodol\u00f3gica",
       "community": 370,
       "norm_label": "justificacion metodologica"
@@ -9133,7 +9133,7 @@
       "label": "Justificaci\u00f3n Social y Sanitaria",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L203",
+      "source_location": "L201",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_justificaci\u00f3n_social_y_sanitaria",
       "community": 370,
       "norm_label": "justificacion social y sanitaria"
@@ -9142,7 +9142,7 @@
       "label": "1.6. Delimitaciones y Limitaciones del Estudio",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L208",
+      "source_location": "L206",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_6_delimitaciones_y_limitaciones_del_estudio",
       "community": 370,
       "norm_label": "1.6. delimitaciones y limitaciones del estudio"
@@ -9151,7 +9151,7 @@
       "label": "Delimitaci\u00f3n Espacial y Territorial",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L211",
+      "source_location": "L209",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_espacial_y_territorial",
       "community": 370,
       "norm_label": "delimitacion espacial y territorial"
@@ -9160,7 +9160,7 @@
       "label": "Delimitaci\u00f3n Temporal",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L214",
+      "source_location": "L212",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_temporal",
       "community": 370,
       "norm_label": "delimitacion temporal"
@@ -9169,7 +9169,7 @@
       "label": "Delimitaci\u00f3n Te\u00f3rica y Epistemol\u00f3gica",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L217",
+      "source_location": "L215",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_te\u00f3rica_y_epistemol\u00f3gica",
       "community": 370,
       "norm_label": "delimitacion teorica y epistemologica"
@@ -9178,7 +9178,7 @@
       "label": "Delimitaci\u00f3n Conceptual y Tem\u00e1tica",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L220",
+      "source_location": "L218",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_conceptual_y_tem\u00e1tica",
       "community": 370,
       "norm_label": "delimitacion conceptual y tematica"
@@ -9187,7 +9187,7 @@
       "label": "Delimitaci\u00f3n Social y Poblacional",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L223",
+      "source_location": "L221",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_delimitaci\u00f3n_social_y_poblacional",
       "community": 370,
       "norm_label": "delimitacion social y poblacional"
@@ -9196,7 +9196,7 @@
       "label": "Limitaciones Metodol\u00f3gicas del Estudio",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L226",
+      "source_location": "L224",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_limitaciones_metodol\u00f3gicas_del_estudio",
       "community": 370,
       "norm_label": "limitaciones metodologicas del estudio"
@@ -9205,7 +9205,7 @@
       "label": "1.7. Viabilidad y Consideraciones Bio\u00e9ticas",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L233",
+      "source_location": "L231",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_7_viabilidad_y_consideraciones_bio\u00e9ticas",
       "community": 370,
       "norm_label": "1.7. viabilidad y consideraciones bioeticas"
@@ -9214,7 +9214,7 @@
       "label": "CAP\u00cdTULO II: MARCO CONTEXTUAL",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L246",
+      "source_location": "L244",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_ii_marco_contextual",
       "community": 387,
       "norm_label": "capitulo ii: marco contextual"
@@ -9223,7 +9223,7 @@
       "label": "2.1. Descripci\u00f3n geogr\u00e1fica, territorial y ambiental del \u00e1rea de estudio",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L250",
+      "source_location": "L248",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_1_descripci\u00f3n_geogr\u00e1fica_territorial_y_ambiental_del_\u00e1rea_de_estudio",
       "community": 387,
       "norm_label": "2.1. descripcion geografica, territorial y ambiental del area de estudio"
@@ -9232,7 +9232,7 @@
       "label": "2.2. Caracter\u00edsticas demogr\u00e1ficas y estructura poblacional",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L259",
+      "source_location": "L257",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_2_caracter\u00edsticas_demogr\u00e1ficas_y_estructura_poblacional",
       "community": 387,
       "norm_label": "2.2. caracteristicas demograficas y estructura poblacional"
@@ -9241,7 +9241,7 @@
       "label": "2.3. Caracter\u00edsticas socioculturales, ling\u00fc\u00edsticas y cosmovisi\u00f3n andina",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L268",
+      "source_location": "L266",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_3_caracter\u00edsticas_socioculturales_ling\u00fc\u00edsticas_y_cosmovisi\u00f3n_andina",
       "community": 387,
       "norm_label": "2.3. caracteristicas socioculturales, linguisticas y cosmovision andina"
@@ -9250,7 +9250,7 @@
       "label": "2.4. Din\u00e1mica socioecon\u00f3mica, vulnerabilidad y nivel de aseguramiento p\u00fablico",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L277",
+      "source_location": "L275",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_4_din\u00e1mica_socioecon\u00f3mica_vulnerabilidad_y_nivel_de_aseguramiento_p\u00fablico",
       "community": 387,
       "norm_label": "2.4. dinamica socioeconomica, vulnerabilidad y nivel de aseguramiento publico"
@@ -9259,7 +9259,7 @@
       "label": "2.5. Caracter\u00edsticas sanitarias, cartera de servicios y capacidad resolutiva institucional",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L284",
+      "source_location": "L282",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_5_caracter\u00edsticas_sanitarias_cartera_de_servicios_y_capacidad_resolutiva_institucional",
       "community": 387,
       "norm_label": "2.5. caracteristicas sanitarias, cartera de servicios y capacidad resolutiva institucional"
@@ -9268,7 +9268,7 @@
       "label": "2.6. Articulaci\u00f3n dial\u00e9ctica del escenario f\u00edsico-social con las dimensiones existenciales del usuario (*Lebenswelt*)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L308",
+      "source_location": "L306",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_6_articulaci\u00f3n_dial\u00e9ctica_del_escenario_f\u00edsico_social_con_las_dimensiones_existenciales_del_usuario_lebenswelt",
       "community": 387,
       "norm_label": "2.6. articulacion dialectica del escenario fisico-social con las dimensiones existenciales del usuario (*lebenswelt*)"
@@ -9277,7 +9277,7 @@
       "label": "CAP\u00cdTULO III: ABORDAJE TE\u00d3RICO",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L322",
+      "source_location": "L320",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico",
       "community": 371,
       "norm_label": "capitulo iii: abordaje teorico"
@@ -9286,7 +9286,7 @@
       "label": "3.1. Antecedentes de estudio",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L324",
+      "source_location": "L322",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_antecedentes_de_estudio",
       "community": 371,
       "norm_label": "3.1. antecedentes de estudio"
@@ -9295,7 +9295,7 @@
       "label": "3.1.1. Antecedentes internacionales",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L326",
+      "source_location": "L324",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_1_antecedentes_internacionales",
       "community": 371,
       "norm_label": "3.1.1. antecedentes internacionales"
@@ -9304,7 +9304,7 @@
       "label": "3.1.2. Antecedentes nacionales",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L331",
+      "source_location": "L329",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_2_antecedentes_nacionales",
       "community": 371,
       "norm_label": "3.1.2. antecedentes nacionales"
@@ -9313,7 +9313,7 @@
       "label": "3.1.3. Antecedentes regionales y locales (UNSCH \u2013 Ayacucho)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L335",
+      "source_location": "L333",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_1_3_antecedentes_regionales_y_locales_unsch_ayacucho",
       "community": 371,
       "norm_label": "3.1.3. antecedentes regionales y locales (unsch \u2013 ayacucho)"
@@ -9322,7 +9322,7 @@
       "label": "3.2. Bases te\u00f3ricas fundamentales",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L342",
+      "source_location": "L340",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_2_bases_te\u00f3ricas_fundamentales",
       "community": 371,
       "norm_label": "3.2. bases teoricas fundamentales"
@@ -9331,7 +9331,7 @@
       "label": "Dimensi\u00f3n del Proceso Interpersonal en la Teor\u00eda de Avedis Donabedian",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L344",
+      "source_location": "L342",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_dimensi\u00f3n_del_proceso_interpersonal_en_la_teor\u00eda_de_avedis_donabedian",
       "community": 371,
       "norm_label": "dimension del proceso interpersonal en la teoria de avedis donabedian"
@@ -9340,7 +9340,7 @@
       "label": "Teor\u00eda del Cuidado Humano y Factores Caritas de Jean Watson",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L350",
+      "source_location": "L348",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_teor\u00eda_del_cuidado_humano_y_factores_caritas_de_jean_watson",
       "community": 371,
       "norm_label": "teoria del cuidado humano y factores caritas de jean watson"
@@ -9349,7 +9349,7 @@
       "label": "Fundamentos del Cuidado Fenomenol\u00f3gico en Enfermer\u00eda: Patricia Benner y Holly Wilson",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L357",
+      "source_location": "L355",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_fundamentos_del_cuidado_fenomenol\u00f3gico_en_enfermer\u00eda_patricia_benner_y_holly_wilson",
       "community": 371,
       "norm_label": "fundamentos del cuidado fenomenologico en enfermeria: patricia benner y holly wilson"
@@ -9358,7 +9358,7 @@
       "label": "3.3. Matriz de categorizaci\u00f3n cualitativa y an\u00e1lisis fenomenol\u00f3gico",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L364",
+      "source_location": "L362",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_3_matriz_de_categorizaci\u00f3n_cualitativa_y_an\u00e1lisis_fenomenol\u00f3gico",
       "community": 371,
       "norm_label": "3.3. matriz de categorizacion cualitativa y analisis fenomenologico"
@@ -9367,7 +9367,7 @@
       "label": "CAP\u00cdTULO IV: METODOLOG\u00cdA: DISE\u00d1O FENOMENOL\u00d3GICO DE INVESTIGACI\u00d3N",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L377",
+      "source_location": "L375",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_dise\u00f1o_fenomenol\u00f3gico_de_investigaci\u00f3n",
       "community": 379,
       "norm_label": "capitulo iv: metodologia: diseno fenomenologico de investigacion"
@@ -9376,7 +9376,7 @@
       "label": "4.1. Fundamentaci\u00f3n filos\u00f3fica y epistemol\u00f3gica del dise\u00f1o fenomenol\u00f3gico",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L379",
+      "source_location": "L377",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_1_fundamentaci\u00f3n_filos\u00f3fica_y_epistemol\u00f3gica_del_dise\u00f1o_fenomenol\u00f3gico",
       "community": 379,
       "norm_label": "4.1. fundamentacion filosofica y epistemologica del diseno fenomenologico"
@@ -9385,7 +9385,7 @@
       "label": "4.2. Los cuatro existenciales de la experiencia humana vivida (van Manen y Sampieri)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L393",
+      "source_location": "L391",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_2_los_cuatro_existenciales_de_la_experiencia_humana_vivida_van_manen_y_sampieri",
       "community": 379,
       "norm_label": "4.2. los cuatro existenciales de la experiencia humana vivida (van manen y sampieri)"
@@ -9394,7 +9394,7 @@
       "label": "4.3. Postura epistemol\u00f3gica, reflexividad y reducci\u00f3n fenomenol\u00f3gica (*Epoj\u00e9*)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L403",
+      "source_location": "L401",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_3_postura_epistemol\u00f3gica_reflexividad_y_reducci\u00f3n_fenomenol\u00f3gica_epoj\u00e9",
       "community": 379,
       "norm_label": "4.3. postura epistemologica, reflexividad y reduccion fenomenologica (*epoje*)"
@@ -9403,7 +9403,7 @@
       "label": "4.4. Muestreo cualitativo: Muestra de casos tipo, homog\u00e9nea y saturaci\u00f3n te\u00f3rica (Sampieri, Cap. 13)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L412",
+      "source_location": "L410",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_4_muestreo_cualitativo_muestra_de_casos_tipo_homog\u00e9nea_y_saturaci\u00f3n_te\u00f3rica_sampieri_cap_13",
       "community": 379,
       "norm_label": "4.4. muestreo cualitativo: muestra de casos tipo, homogenea y saturacion teorica (sampieri, cap. 13)"
@@ -9412,7 +9412,7 @@
       "label": "4.5. T\u00e9cnicas e instrumentos de recolecci\u00f3n de vivencias (Sampieri, Cap. 14)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L430",
+      "source_location": "L428",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_5_t\u00e9cnicas_e_instrumentos_de_recolecci\u00f3n_de_vivencias_sampieri_cap_14",
       "community": 379,
       "norm_label": "4.5. tecnicas e instrumentos de recoleccion de vivencias (sampieri, cap. 14)"
@@ -9421,7 +9421,7 @@
       "label": "4.6. Criterios de rigor cient\u00edfico cualitativo (Hern\u00e1ndez-Sampieri, Cap. 14)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L444",
+      "source_location": "L442",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_6_criterios_de_rigor_cient\u00edfico_cualitativo_hern\u00e1ndez_sampieri_cap_14",
       "community": 379,
       "norm_label": "4.6. criterios de rigor cientifico cualitativo (hernandez-sampieri, cap. 14)"
@@ -9430,7 +9430,7 @@
       "label": "4.7. Procedimiento sistem\u00e1tico de an\u00e1lisis cualitativo fenomenol\u00f3gico (Sampieri, Cap. 14 y 15)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L456",
+      "source_location": "L454",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_4_7_procedimiento_sistem\u00e1tico_de_an\u00e1lisis_cualitativo_fenomenol\u00f3gico_sampieri_cap_14_y_15",
       "community": 379,
       "norm_label": "4.7. procedimiento sistematico de analisis cualitativo fenomenologico (sampieri, cap. 14 y 15)"
@@ -9439,7 +9439,7 @@
       "label": "CAP\u00cdTULO V: ASPECTOS ADMINISTRATIVOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L471",
+      "source_location": "L469",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_v_aspectos_administrativos",
       "community": 380,
       "norm_label": "capitulo v: aspectos administrativos"
@@ -9448,7 +9448,7 @@
       "label": "5.1. Asignaci\u00f3n de recursos humanos",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L473",
+      "source_location": "L471",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_1_asignaci\u00f3n_de_recursos_humanos",
       "community": 380,
       "norm_label": "5.1. asignacion de recursos humanos"
@@ -9457,7 +9457,7 @@
       "label": "5.2. Presupuesto",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L478",
+      "source_location": "L476",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_2_presupuesto",
       "community": 380,
       "norm_label": "5.2. presupuesto"
@@ -9466,7 +9466,7 @@
       "label": "Tabla 1: Pago de Servicios de Personal",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L480",
+      "source_location": "L478",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_tabla_1_pago_de_servicios_de_personal",
       "community": 380,
       "norm_label": "tabla 1: pago de servicios de personal"
@@ -9475,7 +9475,7 @@
       "label": "Tabla 2: Programaci\u00f3n de Otros Servicios",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L487",
+      "source_location": "L485",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_tabla_2_programaci\u00f3n_de_otros_servicios",
       "community": 380,
       "norm_label": "tabla 2: programacion de otros servicios"
@@ -9484,7 +9484,7 @@
       "label": "Tabla 3: Adquisici\u00f3n de Materiales y Otros",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L497",
+      "source_location": "L495",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_tabla_3_adquisici\u00f3n_de_materiales_y_otros",
       "community": 380,
       "norm_label": "tabla 3: adquisicion de materiales y otros"
@@ -9493,7 +9493,7 @@
       "label": "5.3. Financiamiento",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L512",
+      "source_location": "L510",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_3_financiamiento",
       "community": 380,
       "norm_label": "5.3. financiamiento"
@@ -9502,7 +9502,7 @@
       "label": "5.4. Cronograma de actividades",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L515",
+      "source_location": "L513",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_4_cronograma_de_actividades",
       "community": 380,
       "norm_label": "5.4. cronograma de actividades"
@@ -9511,7 +9511,7 @@
       "label": "REFERENCIAS BIBLIOGR\u00c1FICAS (Normas Vancouver)",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L537",
+      "source_location": "L535",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_referencias_bibliogr\u00e1ficas_normas_vancouver",
       "community": 395,
       "norm_label": "referencias bibliograficas (normas vancouver)"
@@ -9520,7 +9520,7 @@
       "label": "ANEXOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L562",
+      "source_location": "L557",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexos",
       "community": 390,
       "norm_label": "anexos"
@@ -9529,7 +9529,7 @@
       "label": "ANEXO 1: GU\u00cdA DE ENTREVISTA A PROFUNDIDAD FENOMENOL\u00d3GICA SEMIESTRUCTURADA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L564",
+      "source_location": "L559",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_1_gu\u00eda_de_entrevista_a_profundidad_fenomenol\u00f3gica_semiestructurada",
       "community": 390,
       "norm_label": "anexo 1: guia de entrevista a profundidad fenomenologica semiestructurada"
@@ -9538,7 +9538,7 @@
       "label": "ANEXO 2: MATRIZ DE CONSISTENCIA FENOMENOL\u00d3GICA CUALITATIVA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L586",
+      "source_location": "L588",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_2_matriz_de_consistencia_fenomenol\u00f3gica_cualitativa",
       "community": 390,
       "norm_label": "anexo 2: matriz de consistencia fenomenologica cualitativa"
@@ -9547,7 +9547,7 @@
       "label": "ANEXO 3: FORMATO DE JUICIO DE EXPERTOS",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L596",
+      "source_location": "L598",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_3_formato_de_juicio_de_expertos",
       "community": 390,
       "norm_label": "anexo 3: formato de juicio de expertos"
@@ -9556,7 +9556,7 @@
       "label": "ANEXO 4: MODELO DE CONSENTIMIENTO INFORMADO",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L632",
+      "source_location": "L634",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_4_modelo_de_consentimiento_informado",
       "community": 390,
       "norm_label": "anexo 4: modelo de consentimiento informado"
@@ -9565,7 +9565,7 @@
       "label": "ANEXO 5: MODELO DE CARTA DE ASESOR\u00cdA",
       "file_type": "document",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L652",
+      "source_location": "L654",
       "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_5_modelo_de_carta_de_asesor\u00eda",
       "community": 390,
       "norm_label": "anexo 5: modelo de carta de asesoria"
@@ -10982,6 +10982,96 @@
       "id": "documentos_repositorios_descargas_20_openaire_md",
       "community": 340,
       "norm_label": "20_openaire.md"
+    },
+    {
+      "label": "1.1. Descripci\u00f3n de la Realidad Problem\u00e1tica",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L121",
+      "community": 370,
+      "norm_label": "1.1. descripcion de la realidad problematica",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica"
+    },
+    {
+      "label": "Contexto Internacional (Macro)",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L128",
+      "community": 370,
+      "norm_label": "contexto internacional (macro)",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro"
+    },
+    {
+      "label": "Contexto Nacional (Meso)",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L131",
+      "community": 370,
+      "norm_label": "contexto nacional (meso)",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso"
+    },
+    {
+      "label": "Contexto Regional y Local (Micro: Centro de Salud Bel\u00e9n)",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L134",
+      "community": 370,
+      "norm_label": "contexto regional y local (micro: centro de salud belen)",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n"
+    },
+    {
+      "label": "INVESTIGACI\u00d3N EN SALUD: PERCEPCI\u00d3N DE LA CALIDAD DE ATENCI\u00d3N Y ACCESO A SERVICIOS DE SALUD (UNSCH \u2013 EN 486)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "community": 376,
+      "norm_label": "investigacion en salud: percepcion de la calidad de atencion y acceso a servicios de salud (unsch \u2013 en 486)",
+      "id": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486"
+    },
+    {
+      "label": "Percepci\u00f3n de la Calidad de Atenci\u00f3n en Usuarios del Centro de Salud Bel\u00e9n, Ayacucho 2026",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L10",
+      "community": 1,
+      "norm_label": "percepcion de la calidad de atencion en usuarios del centro de salud belen, ayacucho 2026",
+      "id": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026"
+    },
+    {
+      "label": "Percepci\u00f3n de la Calidad de Atenci\u00f3n en Usuarios del Centro de Salud Bel\u00e9n, Ayacucho 2026",
+      "file_type": "document",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L10",
+      "community": 395,
+      "norm_label": "percepcion de la calidad de atencion en usuarios del centro de salud belen, ayacucho 2026",
+      "id": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026"
+    },
+    {
+      "label": "access_model",
+      "file_type": "code",
+      "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
+      "source_location": "L38",
+      "community": 87,
+      "norm_label": "access_model",
+      "id": "documentos_metadatos_autor_proyecto_theoretical_framework_access_model"
+    },
+    {
+      "label": "evaluation_model",
+      "file_type": "code",
+      "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
+      "source_location": "L40",
+      "community": 87,
+      "norm_label": "evaluation_model",
+      "id": "documentos_metadatos_autor_proyecto_theoretical_framework_evaluation_model"
+    },
+    {
+      "label": "\ud83d\udd12 REGLA DE BLOQUEO PARA EL AGENTE EN CAP\u00cdTULO II Y III",
+      "file_type": "document",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L26",
+      "community": 70,
+      "norm_label": "\ud83d\udd12 regla de bloqueo para el agente en capitulo ii y iii",
+      "id": "00_contexto_sellado_02_operacionalizacion_regla_de_bloqueo_para_el_agente_en_cap\u00edtulo_ii_y_iii"
     },
     {
       "label": "1.1. Contextualizaci\u00f3n y delimitaci\u00f3n del problema de investigaci\u00f3n",
@@ -16278,7 +16368,27 @@
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "documentos_metadatos_autor_proyecto_theoretical_framework",
+      "target": "documentos_metadatos_autor_proyecto_theoretical_framework_caring_model"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "documentos_metadatos_autor_proyecto_theoretical_framework",
       "target": "documentos_metadatos_autor_proyecto_theoretical_framework_evaluation_model"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/metadatos_autor_proyecto.json",
+      "source_location": "L41",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "documentos_metadatos_autor_proyecto_theoretical_framework",
+      "target": "documentos_metadatos_autor_proyecto_theoretical_framework_phenomenological_model"
     },
     {
       "relation": "contains",
@@ -16504,6 +16614,17 @@
       "confidence_score": 1.0,
       "source": "scripts_generar_word_build_protocolo_word",
       "target": "scripts_generar_word_set_section_pgnum"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/Generaci\u00f3n/scripts/generar_word.py",
+      "source_location": "L1267",
+      "weight": 1.0,
+      "source": "scripts_generar_word_build_protocolo_word",
+      "target": "scripts_generar_word_add_hyperlink",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -17199,6 +17320,16 @@
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "readme_md",
+      "target": "gresly_readme_investigaci\u00f3n_en_salud_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026_unsch_en_486"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "readme_md",
       "target": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486"
     },
     {
@@ -17208,7 +17339,7 @@
       "source_location": "L76",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
+      "source": "gresly_readme_investigaci\u00f3n_en_salud_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026_unsch_en_486",
       "target": "gresly_readme_comandos_r\u00e1pidos_de_compilaci\u00f3n_y_generaci\u00f3n"
     },
     {
@@ -17218,7 +17349,7 @@
       "source_location": "L54",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
+      "source": "gresly_readme_investigaci\u00f3n_en_salud_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026_unsch_en_486",
       "target": "gresly_readme_c\u00f3mo_razona_y_crea_la_inteligencia_artificial"
     },
     {
@@ -17228,8 +17359,18 @@
       "source_location": "L97",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
+      "source": "gresly_readme_investigaci\u00f3n_en_salud_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026_unsch_en_486",
       "target": "gresly_readme_enlaces_directos_a_los_documentos_clave"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "gresly_readme_investigaci\u00f3n_en_salud_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026_unsch_en_486",
+      "target": "gresly_readme_filosof\u00eda_del_repositorio_piensa_apoya_planifica_audita_y_ejecuta"
     },
     {
       "relation": "contains",
@@ -17240,6 +17381,16 @@
       "confidence_score": 1.0,
       "source": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
       "target": "gresly_readme_filosof\u00eda_del_repositorio_piensa_apoya_planifica_audita_y_ejecuta"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L54",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
+      "target": "gresly_readme_c\u00f3mo_razona_y_crea_la_inteligencia_artificial"
     },
     {
       "relation": "contains",
@@ -17270,6 +17421,26 @@
       "confidence_score": 1.0,
       "source": "gresly_readme_comandos_r\u00e1pidos_de_compilaci\u00f3n_y_generaci\u00f3n",
       "target": "gresly_readme_3_actualizar_grafo_de_conocimiento_graphify"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
+      "target": "gresly_readme_comandos_r\u00e1pidos_de_compilaci\u00f3n_y_generaci\u00f3n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L97",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "gresly_readme_investigaci\u00f3n_en_salud_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_y_acceso_a_servicios_de_salud_unsch_en_486",
+      "target": "gresly_readme_enlaces_directos_a_los_documentos_clave"
     },
     {
       "relation": "contains",
@@ -18840,6 +19011,16 @@
       "confidence_score": 1.0,
       "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
       "target": "00_contexto_sellado_02_operacionalizacion_regla_de_bloqueo_para_el_agente_en_cap\u00edtulo_ii_y_iii"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "00_CONTEXTO_SELLADO/02_operacionalizacion.md",
+      "source_location": "L26",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "00_contexto_sellado_02_operacionalizacion_matriz_de_categorizaci\u00f3n_cualitativa_fenomenol\u00f3gica_entorno_sellado",
+      "target": "00_contexto_sellado_02_operacionalizacion_reglas_de_bloqueo_y_rigor_cient\u00edfico"
     },
     {
       "relation": "contains",
@@ -21955,6 +22136,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "documentos_mds_proyecto_tesis_cualitativo_cs_belen_md",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L9",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -22024,112 +22215,102 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L9",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L510",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "c_gresly_documentos_mds_proyecto_tesis_cualitativo_cs_belen_md",
-      "target": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L353",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_anexos"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L105",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
-      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L118",
+      "source_location": "L119",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L166",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L181",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_ii_marco_contextual"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L185",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L257",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L229",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
-      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_cualitativa"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L254",
+      "source_location": "L312",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_dise\u00f1o_fenomenol\u00f3gico_de_investigaci\u00f3n"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L270",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L406",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_v_aspectos_administrativos"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L89",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L91",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_introducci\u00f3n"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
-      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L333",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L472",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_referencias_bibliogr\u00e1ficas_normas_vancouver"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_resumen_metodol\u00f3gico_para_sustentaci\u00f3n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_\u00edndice_general"
     },
     {
       "relation": "contains",
@@ -22150,6 +22331,16 @@
       "confidence_score": 1.0,
       "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_\u00edndice_general"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L89",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_introducci\u00f3n"
     },
     {
       "relation": "contains",
@@ -22190,6 +22381,16 @@
       "confidence_score": 1.0,
       "source": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_1_4_viabilidad_y_consideraciones_bio\u00e9ticas"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L118",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n"
     },
     {
       "relation": "contains",
@@ -22385,6 +22586,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L166",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_ii_marco_contextual"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L187",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -22430,6 +22641,16 @@
       "confidence_score": 1.0,
       "source": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_3_3_matriz_de_categorizaci\u00f3n_cualitativa_y_an\u00e1lisis_fenomenol\u00f3gico"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L185",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico"
     },
     {
       "relation": "contains",
@@ -22614,6 +22835,16 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L254",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_dise\u00f1o_fenomenol\u00f3gico_de_investigaci\u00f3n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L272",
       "weight": 1.0,
@@ -22655,6 +22886,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L270",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_v_aspectos_administrativos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L279",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -22680,6 +22921,16 @@
       "confidence_score": 1.0,
       "source": "mds_proyecto_tesis_cualitativo_cs_belen_5_2_presupuesto",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_tabla_3_adquisici\u00f3n_de_materiales_y_otros"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L333",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_referencias_bibliogr\u00e1ficas_normas_vancouver"
     },
     {
       "relation": "contains",
@@ -22750,6 +23001,16 @@
       "confidence_score": 1.0,
       "source": "mds_proyecto_tesis_cualitativo_cs_belen_anexos",
       "target": "mds_proyecto_tesis_cualitativo_cs_belen_anexo_5_modelo_de_carta_de_asesor\u00eda"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L353",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_anexos"
     },
     {
       "relation": "contains",
@@ -25639,6 +25900,16 @@
       "weight": 1.0,
       "confidence_score": 1.0,
       "source": "documentos_mds_03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_md",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "documentos_mds_03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_md",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026"
     },
     {
@@ -25695,10 +25966,10 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L510",
+      "source_location": "L562",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexos"
     },
     {
@@ -25708,47 +25979,47 @@
       "source_location": "L119",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L181",
+      "source_location": "L246",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_ii_marco_contextual"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L257",
+      "source_location": "L322",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L312",
+      "source_location": "L377",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_dise\u00f1o_fenomenol\u00f3gico_de_investigaci\u00f3n"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L406",
+      "source_location": "L471",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_v_aspectos_administrativos"
     },
     {
@@ -25758,18 +26029,38 @@
       "source_location": "L91",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_introducci\u00f3n"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L472",
+      "source_location": "L537",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_referencias_bibliogr\u00e1ficas_normas_vancouver"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_resumen_metodol\u00f3gico_para_sustentaci\u00f3n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L49",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_\u00edndice_general"
     },
     {
       "relation": "contains",
@@ -25790,6 +26081,26 @@
       "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_\u00edndice_general"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L91",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_introducci\u00f3n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L119",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_del_problema_de_investigaci\u00f3n",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -25895,21 +26206,21 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L128",
+      "source_location": "L119",
       "weight": 1.0,
       "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro"
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema_de_investigaci\u00f3n"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
-      "source_location": "L131",
+      "source_location": "L126",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso"
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_del_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_\u00e1mbito_local_centro_de_salud_bel\u00e9n_ayacucho",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -25917,9 +26228,19 @@
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L134",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
-      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n"
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_del_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_2_\u00e1mbito_nacional_per\u00fa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_contextualizaci\u00f3n_del_problema_de_investigaci\u00f3n",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_\u00e1mbito_mundial_internacional_o_global",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -26145,6 +26466,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L181",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_ii_marco_contextual"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L259",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -26170,6 +26501,16 @@
       "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_3_3_matriz_de_categorizaci\u00f3n_cualitativa_y_an\u00e1lisis_fenomenol\u00f3gico"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L257",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iii_abordaje_te\u00f3rico"
     },
     {
       "relation": "contains",
@@ -26305,6 +26646,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L312",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_dise\u00f1o_fenomenol\u00f3gico_de_investigaci\u00f3n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L408",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -26345,6 +26696,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L406",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_v_aspectos_administrativos"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
       "source_location": "L415",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -26370,6 +26731,16 @@
       "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_5_2_presupuesto",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_tabla_3_adquisici\u00f3n_de_materiales_y_otros"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L472",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_referencias_bibliogr\u00e1ficas_normas_vancouver"
     },
     {
       "relation": "contains",
@@ -26420,6 +26791,16 @@
       "confidence_score": 1.0,
       "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexos",
       "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexo_5_modelo_de_carta_de_asesor\u00eda"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L510",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_anexos"
     },
     {
       "relation": "contains",
@@ -27900,6 +28281,66 @@
       "confidence_score": 1.0,
       "source": "referencias_teoricas_penchansky_thomas_1981_concept_of_access_2_las_5_dimensiones_del_acceso_a_los_servicios_de_salud",
       "target": "referencias_teoricas_penchansky_thomas_1981_concept_of_access_5_aceptabilidad_intercultural_actitudinal_acceptability"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L128",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_internacional_macro"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L131",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_nacional_meso"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "DOCUMENTOS/MDs/03_PROYECTO_ACTIVO_CS_BELEN/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_1_1_descripci\u00f3n_de_la_realidad_problem\u00e1tica",
+      "target": "03_proyecto_activo_cs_belen_proyecto_tesis_cualitativo_cs_belen_contexto_regional_y_local_micro_centro_de_salud_bel\u00e9n"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "c_gresly_documentos_mds_proyecto_tesis_cualitativo_cs_belen_md",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L105",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_i_el_problema"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "MDs/PROYECTO_TESIS_CUALITATIVO_CS_BELEN.md",
+      "source_location": "L229",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "mds_proyecto_tesis_cualitativo_cs_belen_percepci\u00f3n_de_la_calidad_de_atenci\u00f3n_en_usuarios_del_centro_de_salud_bel\u00e9n_ayacucho_2026",
+      "target": "mds_proyecto_tesis_cualitativo_cs_belen_cap\u00edtulo_iv_metodolog\u00eda_cualitativa"
     },
     {
       "relation": "contains",
@@ -31996,5 +32437,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "91df7efe9f13aa92a0bc8990c100ff059735ced1"
+  "built_at_commit": "3a637c071ff60a995a971f2424a0265dee9335f7"
 }
